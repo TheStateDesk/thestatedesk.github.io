@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T14:50:57.546934Z",
+  "generated_at": "2026-11-07T19:21:04.204180Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,15 +15,15 @@
   ],
   "priority": [
     {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-06T23:46:08Z",
+      "title": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
+      "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T18:22:14Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/"
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
         }
       ],
       "priority_score": 5,
@@ -31,6 +31,120 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T19:07:10Z"
+    },
+    {
+      "title": "Trump says he offered White House press secretary job to Dana White",
+      "url": "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T18:55:25Z"
+    },
+    {
+      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+      "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-07T18:34:30Z"
+    },
+    {
+      "title": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
+      "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T18:22:14Z"
+    },
+    {
+      "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T18:01:39Z"
+    },
+    {
+      "title": "President Trump: Forget the midterms and finish the job in Iran",
+      "url": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T18:00:00Z"
+    },
+    {
+      "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
+      "url": "https://www.pbs.org/newshour/politics/scott-colom-and-black-mississippians-stand-on-the-cusp-of-senate-history-as-vote-count-stretches-on",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-07T17:54:01Z"
+    },
+    {
+      "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+      "url": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-07T17:39:49Z"
+    },
+    {
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "source": "NPR",
+      "published_at": "2026-11-07T17:14:36Z"
+    },
+    {
+      "title": "Trump’s glide path to judicial confirmations comes to an end",
+      "url": "https://thehill.com/regulation/court-battles/6205209-trump-judicial-confirmations-democrats-senate/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T17:00:00Z"
+    },
+    {
+      "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T16:57:15Z"
+    },
+    {
+      "title": "Justice Department drops bid to force California to set aside disputed ballots",
+      "url": "https://www.pbs.org/newshour/politics/justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-07T16:50:42Z"
+    },
+    {
+      "title": "Syria denies plans to send troops to Yemen as Saudi military ties deepen - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T16:35:43Z"
+    },
+    {
+      "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXpPV24wYmo0V1FlNXdBMEdMZTdlSmwwQVcyZFNxSGVBX1VBVFVFSEVVUlk4SEphTXU0UDFYbk5fN0ZlSXliR3lMeGEyT005WWE1UmMxTDA0ZlF6bzJlUC1BQXZmYjk1RjEzaVNfdkUtQ08zay1Sd0N3Ri15RlhrZU1ma0Q5bXV0MU9JTXUxS3F0TnVLRmNvLU1US3g0YzRfV25sYV9sSFRLd2FfU2FYV2VwamlaZEFRcW9BYk1MN18?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T15:59:25Z"
+    },
+    {
+      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-07T15:15:11Z"
+    },
+    {
+      "title": "After midterm rout, Vance tries to build his own 2028 brand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T15:05:38Z"
+    },
+    {
+      "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T15:02:21Z"
+    },
+    {
+      "title": "A ‘reverse-Ginsberg’ scenario could flip the Supreme Court without packing",
+      "url": "https://thehill.com/opinion/judiciary/6205148-a-reverse-ginsberg-scenario-could-flip-the-supreme-court-without-packing/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T15:00:00Z"
+    },
+    {
+      "title": "Stephen Miller, Paraguay's new president and Apple's hidden word list - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUFlYmwtd3FSdzJKQTlBWktzZENuODVXNHJRWDNNbWpFRE42cUtleFV1VFlpWGlJRTNJajdINWNNY0pDanZWWjRFRUstMXZ3Nno0QnFXbUVtOW1RVW84MjJKaHR3d2hPWnpsQk5HeW44bE41RHU5ZGZPR3E1NDc2WlhoVWxXZDE2RG9N?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T14:56:00Z"
+    },
     {
       "title": "US military targets Iranian defense system in latest round of limited strikes",
       "url": "https://thehill.com/policy/defense/6205977-trump-launches-iran-limited-strikes/",
@@ -50,130 +164,16 @@
       "published_at": "2026-11-07T13:03:05Z"
     },
     {
+      "title": "Who is Paraguay's new president Pedro Alliana? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHBvWlRRd01wR0toUFJoUS1LcHFTbEZkT0doUlpzZlFvYWwxZ2k5QVJSOVluYkZHOFZ2eVpRbXBfWTc4QncyV0cyS2hVNUViQ1ZvaEZzcUtudlFhNTNjb3lKVkRVMk5jaWZTQ3VWSlhlZGVRd2pHSHJOQ3pqeGtMVUFZeWg4WFp3NmRfcHRMN09yOUY2WkZr?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T13:02:03Z"
+    },
+    {
       "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-07T13:00:12Z"
-    },
-    {
-      "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T13:00:12Z"
-    },
-    {
-      "title": "How the new Senate majority shifts control over the federal judiciary",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032757/how-the-new-senate-majority-shifts-control-over-the-federal-judiciary",
-      "source": "NPR",
-      "published_at": "2026-11-07T12:41:11Z"
-    },
-    {
-      "title": "GOP's lame-duck clock is ticking",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6032594/gops-lame-duck-clock-is-ticking",
-      "source": "NPR",
-      "published_at": "2026-11-07T12:41:10Z"
-    },
-    {
-      "title": "Border shift: Hispanic voters drive Texas' historic flip to blue",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6030994/border-shift-hispanic-voters-drive-texas-historic-flip-to-blue",
-      "source": "NPR",
-      "published_at": "2026-11-07T12:41:08Z"
-    },
-    {
-      "title": "Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
-      "source": "NPR",
-      "published_at": "2026-11-07T12:41:07Z"
-    },
-    {
-      "title": "Defiance Mayor Mike McCann on how Republicans can regroup after midterm losses",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6029755/defiance-mayor-mike-mccann-on-how-republicans-can-regroup-after-midterm-losses",
-      "source": "NPR",
-      "published_at": "2026-11-07T12:41:01Z"
-    },
-    {
-      "title": "Four things we learned this week about 2028 White House race",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-07T12:23:28Z"
-    },
-    {
-      "title": "Italy foreign minister says he has been targeted by pro-Russian hackers over Ukraine backing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWZNYXdzeHF4Ymh3blFVa2M3MlNpVWRUN0FjRXlkcWtVTjdwd0ZWZF9FSXpISWczYURGdmxzWVh1RE9SQ0NvaUhkTFV5dXg2dExMU1lGOVNJYnAyRUFGMUF2U1RMR0dlbFRiT3JmNV92Q3E0LUh6ZHU2Vm1WN2RvMk1hQWZyVTNlbGNCWFEyd3RtSkZaTHlEanRmOWJ3Qk1BQ3BSSDFwamdUb3pGWmVrQ1BWMnQwMW9rTFE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T12:21:46Z"
-    },
-    {
-      "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T12:00:12Z"
-    },
-    {
-      "title": "Israel took a beating in the US midterms | Judith Levine",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/midterms-israel-criticism",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T12:00:11Z"
-    },
-    {
-      "title": "‘Wait, what?’: the underdog Democrats who won their midterm races against all odds",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/surprising-wins-democrats-midterm-elections",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T12:00:10Z"
-    },
-    {
-      "title": "US midterm results in maps and charts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T12:00:05Z"
-    },
-    {
-      "title": "How Democrats won their blowout midterm victory - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV01ET2lGRzZiTlVXb0VSajdkWXJ5ZmlGMlEzdFdSTWo0QnRUcFhaS3F6ZUxDcWhXVUpZcmRZTUlVUVdHd3UyaEF3d2ZVY3VpSTNzVXV0VHdiT0xQUzFnYkQ4bnBIc1dmdjJIdXRHd1pFWHZJalZJLUxWdFFROUgzMUFpeFNMTzNZeXhpNVdlSXRpcTlld1VjbjFKOFppUjQyVmc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T11:08:05Z"
-    },
-    {
-      "title": "After midterm rout, Vance tries to build his own 2028 brand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVFPc2NPajA0TVFQNEtVb2lEU19xSE93aFFXSWtYckVwU3JsVDR2MXd5azd4X2M3eG13bHlBLWRGUWR3NHNzeFdWdi12VVJZTDQ2THlCSHhkLVNXWHNsRUwxQ1V2RTFjSDd6bEdSYjB0Y1V5cVdYNjRaVWZ4T2R4UnN1NWoxNDZYUlo5dFVFaVJFUV8tQkt2WGdrNDBRSlV5Tmc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T11:04:38Z"
-    },
-    {
-      "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T11:00:10Z"
-    },
-    {
-      "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T11:00:08Z"
-    },
-    {
-      "title": "Trump sends ‘clear message’ to Democrats with Miller promotion",
-      "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/",
-      "source": "THE HILL",
-      "published_at": "2026-11-07T11:00:00Z"
-    },
-    {
-      "title": "Russian diplomats and military officials to join talks with US and Ukraine, Kremlin says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckRkTENydGpmMGpDbWpfYVhKemxXQnRLcWVIU05MdHZMS2Nma2Z3UlRONVpMWkg0bFh2N2J5STdSRVRPVUZNdWQ3eTRGWVZoTm90LW9acDZaOUNLYU0xQ2FubkxtbGVDc3NidWtNbkFMM0VOQ1BPS2Nfa2ptLXBGN1NKQXlIZ0F6RE5lSWtjb0dQZHFva3N5SzM2WWZnNWIwOXZlZDhTekpIMy1pQnBpZFpQbFk4VkxOc05IWU40NFR6RS0z?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T08:14:35Z"
-    },
-    {
-      "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnBiR0l0NVE4d1Rpd2xSTmFvVGtGSTU2SDJmZXRndk9yS2Z0TlhsUW1ZNldhRnZtOGs0UUhJZWt0VFYzNEtrV1FJMW9QU05BMl94azJLZkZNNTNDWm9TbDFualhlV0VBbHJyQzdnZEJOVnd5Z0pMNzJUZkQ1dF82TU83MkNJbkxsRlhkRVVCYWxxbXF0SlhGaGdvcEhYdVFRQm05bVM4b1BHZzlhcEEta21QQzZRZUl6NUtQZ0o4ajVTTzJxV3lEdVhB?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T04:23:00Z"
-    },
-    {
-      "title": "Former GOP governor: ‘Wisconsin is a blue state’",
-      "url": "https://thehill.com/homenews/campaign/6205785-tommy-thompson-declares-wisconsin-blue-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-07T03:13:21Z"
     }
   ]
 }
