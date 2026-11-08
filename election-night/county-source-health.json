@@ -1,7 +1,7 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-08T15:20:22.839203+00:00",
+  "checkedAt": "2026-11-08T20:33:16.206667+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
@@ -390,8 +390,8 @@
         "26031": {
           "county": "Cheboygan",
           "sourceUrl": "https://www.cheboygancounty.net",
-          "connectivity": "reachable",
-          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
+          "connectivity": "indeterminate",
+          "note": "Connection timeout or automated access blocked",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -813,8 +813,8 @@
         "26125": {
           "county": "Oakland",
           "sourceUrl": "https://elections.oaklandcountymi.gov/government/clerk-register-of-deeds/elections-voting",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
