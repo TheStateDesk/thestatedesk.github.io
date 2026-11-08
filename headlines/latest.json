@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T22:56:46.227606Z",
+  "generated_at": "2026-11-08T02:18:31.694803Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,6 +15,44 @@
   ],
   "priority": [
     {
+      "title": "US military fires at cargo ship in Gulf of Oman",
+      "url": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T01:45:13Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-08T00:31:53Z",
+      "source_count": 5,
+      "other_sources": [
+        {
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+        },
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
       "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
@@ -28,58 +66,68 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
+    }
+  ],
+  "headlines": [
+    {
+      "title": "US military fires at cargo ship in Gulf of Oman",
+      "url": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T01:45:13Z"
+    },
+    {
+      "title": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGgxdHhOeWFyaXMxUGlZYkJXV1pLcXY0VmtIcGM5MXlUMnZWSnJ5YXdSaklLbjBoclNxQ0hLUl9xb0pvaG1FR3JfNHltc1VFa0tHYUhWSUh4Vjk0UERoX0FtSEZuX2toWjhPeC1Gc3hZY21FRDduOWJ6R3I5OHI2YzhPaVdrWmpoNU1XRU1vMVBaMDJ1MHl5aXFPSXU1NE13VnNOZGhhWUNxMmJzV2FQc2NSNWFfVlRaZnBoeHU3WFhOUzZyS3Vn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T01:24:00Z"
+    },
+    {
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-08T00:52:39Z"
     },
     {
       "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
       "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-07T22:29:37Z",
-      "source_count": 5,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5"
-        },
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary"
-        },
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
+      "published_at": "2026-11-08T00:31:53Z"
     },
     {
-      "title": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
-      "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
+      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-08T00:28:33Z"
+    },
+    {
+      "title": "Trump says ‘a few’ cabinet changes are in store after GOP midterm blowout",
+      "url": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/",
       "source": "THE HILL",
-      "published_at": "2026-11-07T18:22:14Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    }
-  ],
-  "headlines": [
+      "published_at": "2026-11-07T23:51:14Z"
+    },
+    {
+      "title": "Explainer: What happens next after New Zealand's vote? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T23:47:20Z"
+    },
+    {
+      "title": "Judge orders Paraguay's ex-president Peña held before trial - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-07T23:34:21Z"
+    },
+    {
+      "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-07T23:27:18Z"
+    },
     {
       "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-07T22:49:13Z"
-    },
-    {
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-07T22:29:37Z"
     },
     {
       "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
@@ -94,16 +142,10 @@
       "published_at": "2026-11-07T22:00:00Z"
     },
     {
-      "title": "Trump says he wants UFC chief Dana White for White House press secretary - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlGRlZPRzhRc1dTV0p6YVhZdFFnR0hjYWZ3NUN1N0FQdkp3RllrU0NoNWtnSkd0eXBWLU9uSjBHR1drSUdyZ3VXUDV2MEpyMGMyOUxVdkRDdE1Ja3gyNkR3QXdlRHd1b3BOQ1NiQkxET0cwRFdRUG5fNzZreV9pU2FRM2FsUlFYNERPdzVxWTFaMnZGMGJCcl9NMU8tZ1hWbGJWQkNFbnVwSjFBcnBfT2FZSHJfQQ?oc=5",
+      "title": "Explosions heard in areas in southern Iran, Iranian media report - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T21:40:13Z"
-    },
-    {
-      "title": "Paraguay prosecutors charge ex-President Peña, seek pretrial detention - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T21:26:18Z"
+      "published_at": "2026-11-07T21:57:14Z"
     },
     {
       "title": "US military says it disabled cargo vessel in Gulf of Oman - Reuters",
@@ -124,28 +166,10 @@
       "published_at": "2026-11-07T21:09:43Z"
     },
     {
-      "title": "New Zealand preliminary vote leaves unclear who will govern - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T21:07:55Z"
-    },
-    {
-      "title": "US midterm results in maps and charts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T21:00:05Z"
-    },
-    {
       "title": "Trump says he's asked UFC's Dana White to be his press secretary",
       "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-07T20:55:40Z"
-    },
-    {
-      "title": "Explosions heard in Iran's Qeshm Island, Iranian media reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVlZDVLRWxGVlQ1a2V1cTY5NXBjcjlJVzVqbjBKRGpRLUpnWndzNlM5bFpUYjJaUU5UeG1OS2E3c205RVVNMDJaUWxoWFN2ODc1bVhnc096VFlpOFo1N1YwR2JGS2JQYURyQ3NHZEVZaFhvQU5IaWZ1VFZHRjZNTkstbVhiOTUyTDJKTjAySmE0N3FiUzZLUGJKdDdrcGllOTNmMEdHUC1DanlqZ3V5MA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T20:20:19Z"
     },
     {
       "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC’s Dana White offered press secretary role",
@@ -184,34 +208,10 @@
       "published_at": "2026-11-07T20:00:00Z"
     },
     {
-      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-07T19:51:32Z"
-    },
-    {
       "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
       "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-07T19:47:10Z"
-    },
-    {
-      "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
-      "url": "https://www.pbs.org/newshour/politics/melania-trump-and-lsu-announce-a-scholarship-program-for-students-who-were-in-foster-care",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-07T19:35:15Z"
-    },
-    {
-      "title": "Trump says he offered White House press secretary job to Dana White",
-      "url": "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/",
-      "source": "THE HILL",
-      "published_at": "2026-11-07T18:55:25Z"
-    },
-    {
-      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-      "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-07T18:34:30Z"
     }
   ]
 }
