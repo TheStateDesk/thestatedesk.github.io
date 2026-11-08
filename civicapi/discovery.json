@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-08T21:12:41.217120Z",
+  "checkedAt": "2026-11-08T23:58:13.168308Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -148,8 +148,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T21:11:26.619Z",
-      "responseMs": 68
+      "providerTimestamp": "2026-11-08T23:43:50.831Z",
+      "responseMs": 29
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -180,8 +180,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T20:56:50.392Z",
-      "responseMs": 125
+      "providerTimestamp": "2026-11-08T23:45:18.507Z",
+      "responseMs": 32
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -190,7 +190,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 70
+      "responseMs": 29
     }
   },
   "publishedRaces": 499,
@@ -1748,11 +1748,11 @@
       "validatedVoteTotal": 300434
     },
     "MD-06": {
-      "lastSuccessfulRetrievalAt": "2026-11-08T09:25:31.612812Z",
-      "lastValidatedResultAt": "2026-11-08T08:59:37.608000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:48:47.404000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 262219
+      "validatedVoteTotal": 262996
     },
     "MD-07": {
       "lastSuccessfulRetrievalAt": "2026-11-07T22:48:04.507493Z",
@@ -1769,11 +1769,11 @@
       "validatedVoteTotal": 259936
     },
     "MD-GOVERNOR": {
-      "lastSuccessfulRetrievalAt": "2026-11-08T09:25:31.612812Z",
-      "lastValidatedResultAt": "2026-11-08T08:59:37.971000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:48:47.808000Z",
       "office": "governor",
       "status": "reporting",
-      "validatedVoteTotal": 2045846
+      "validatedVoteTotal": 2046629
     },
     "ME-01": {
       "lastSuccessfulRetrievalAt": "2026-11-05T21:12:12.333250Z",
@@ -3519,11 +3519,11 @@
       "validatedVoteTotal": 337779
     },
     "VA-03": {
-      "lastSuccessfulRetrievalAt": "2026-11-07T18:49:54.521088Z",
-      "lastValidatedResultAt": "2026-11-07T18:39:50.463000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:27:54.601000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 248152
+      "validatedVoteTotal": 248155
     },
     "VA-04": {
       "lastSuccessfulRetrievalAt": "2026-11-07T00:16:47.045965Z",
@@ -3548,11 +3548,11 @@
       "validatedVoteTotal": 317222
     },
     "VA-07": {
-      "lastSuccessfulRetrievalAt": "2026-11-07T00:16:47.045965Z",
-      "lastValidatedResultAt": "2026-11-06T23:56:16.965000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:58:14.123000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 321979
+      "validatedVoteTotal": 322030
     },
     "VA-08": {
       "lastSuccessfulRetrievalAt": "2026-11-08T17:05:55.260111Z",
@@ -3562,11 +3562,11 @@
       "validatedVoteTotal": 319399
     },
     "VA-09": {
-      "lastSuccessfulRetrievalAt": "2026-11-07T00:57:29.663280Z",
-      "lastValidatedResultAt": "2026-11-07T00:56:58.106000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:27:56.832000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 294543
+      "validatedVoteTotal": 294560
     },
     "VA-10": {
       "lastSuccessfulRetrievalAt": "2026-11-08T17:05:55.260111Z",
@@ -3583,11 +3583,11 @@
       "validatedVoteTotal": 339447
     },
     "VA-SENATE": {
-      "lastSuccessfulRetrievalAt": "2026-11-08T21:12:41.217120Z",
-      "lastValidatedResultAt": "2026-11-08T20:56:24.695000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T23:58:13.168308Z",
+      "lastValidatedResultAt": "2026-11-08T23:27:57.231000Z",
       "office": "senate",
       "status": "reporting",
-      "validatedVoteTotal": 3592545
+      "validatedVoteTotal": 3592618
     },
     "VT-01": {
       "office": "house",
@@ -3781,6 +3781,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 3,
+  "updatedRaces": 6,
   "version": 2
 }

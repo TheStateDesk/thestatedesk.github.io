@@ -6512,38 +6512,38 @@
       "verified": true
     },
     "MD-06": {
-      "asOf": "2026-11-08T08:59:37.608000Z",
+      "asOf": "2026-11-08T23:48:47.404000Z",
       "candidates": [
         {
           "name": "April McClain Delaney",
           "party": "D",
-          "votes": 152559
+          "votes": 153176
         },
         {
           "name": "Robin Ficker",
           "party": "R",
-          "votes": 101883
+          "votes": 102003
         },
         {
           "name": "Moshe Y. Landman",
           "party": "O",
-          "votes": 7137
+          "votes": 7172
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 640
+          "votes": 645
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 82.8,
+      "precinctsReporting": 83.1,
       "raceId": "87195",
-      "retrievedAt": "2026-11-08T09:25:31.612812Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87195",
       "timestampBasis": "provider_last_updated",
-      "total": 262219,
+      "total": 262996,
       "verified": true
     },
     "MD-07": {
@@ -6612,43 +6612,43 @@
       "verified": true
     },
     "MD-GOVERNOR": {
-      "asOf": "2026-11-08T08:59:37.971000Z",
+      "asOf": "2026-11-08T23:48:47.808000Z",
       "candidates": [
         {
           "name": "Wes Moore",
           "party": "D",
-          "votes": 1306941
+          "votes": 1307547
         },
         {
           "name": "Dan Cox",
           "party": "R",
-          "votes": 651406
+          "votes": 651540
         },
         {
           "name": "Andy Ellis",
           "party": "O",
-          "votes": 42642
+          "votes": 42677
         },
         {
           "name": "Cathy White",
           "party": "O",
-          "votes": 39538
+          "votes": 39544
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 5319
+          "votes": 5321
         }
       ],
       "election": "2026-11-03",
       "office": "governor",
       "precinctsReporting": 81.7,
       "raceId": "87198",
-      "retrievedAt": "2026-11-08T09:25:31.612812Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87198",
       "timestampBasis": "provider_last_updated",
-      "total": 2045846,
+      "total": 2046629,
       "verified": true
     },
     "ME-01": {
@@ -14722,12 +14722,12 @@
       "verified": true
     },
     "VA-03": {
-      "asOf": "2026-11-07T18:39:50.463000Z",
+      "asOf": "2026-11-08T23:27:54.601000Z",
       "candidates": [
         {
           "name": "Bobby Scott",
           "party": "D",
-          "votes": 180110
+          "votes": 180113
         },
         {
           "name": "Edwin Rivera",
@@ -14754,11 +14754,11 @@
       "office": "house",
       "precinctsReporting": 86.1,
       "raceId": "87463",
-      "retrievedAt": "2026-11-07T18:49:54.521088Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87463",
       "timestampBasis": "provider_last_updated",
-      "total": 248152,
+      "total": 248155,
       "verified": true
     },
     "VA-04": {
@@ -14862,27 +14862,27 @@
       "verified": true
     },
     "VA-07": {
-      "asOf": "2026-11-06T23:56:16.965000Z",
+      "asOf": "2026-11-08T23:58:14.123000Z",
       "candidates": [
         {
           "name": "Eugene Vindman",
           "party": "D",
-          "votes": 192456
+          "votes": 192494
         },
         {
           "name": "Doug Ollivant",
           "party": "R",
-          "votes": 121285
+          "votes": 121295
         },
         {
           "name": "Alaha Ahrar",
           "party": "O",
-          "votes": 3057
+          "votes": 3058
         },
         {
           "name": "Taner E. Demirci Lopez",
           "party": "O",
-          "votes": 2647
+          "votes": 2649
         },
         {
           "name": "Randall A. Terry",
@@ -14902,13 +14902,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 95.5,
+      "precinctsReporting": 99.0,
       "raceId": "87467",
-      "retrievedAt": "2026-11-07T00:16:47.045965Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87467",
       "timestampBasis": "provider_last_updated",
-      "total": 321979,
+      "total": 322030,
       "verified": true
     },
     "VA-08": {
@@ -14952,17 +14952,17 @@
       "verified": true
     },
     "VA-09": {
-      "asOf": "2026-11-07T00:56:58.106000Z",
+      "asOf": "2026-11-08T23:27:56.832000Z",
       "candidates": [
         {
           "name": "Morgan Griffith",
           "party": "R",
-          "votes": 194107
+          "votes": 194110
         },
         {
           "name": "Joy Powers",
           "party": "D",
-          "votes": 99837
+          "votes": 99851
         },
         {
           "name": "Write-in",
@@ -14972,13 +14972,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 86.3,
+      "precinctsReporting": 87.0,
       "raceId": "87469",
-      "retrievedAt": "2026-11-07T00:57:29.663280Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87469",
       "timestampBasis": "provider_last_updated",
-      "total": 294543,
+      "total": 294560,
       "verified": true
     },
     "VA-10": {
@@ -15052,17 +15052,17 @@
       "verified": true
     },
     "VA-SENATE": {
-      "asOf": "2026-11-08T20:56:24.695000Z",
+      "asOf": "2026-11-08T23:27:57.231000Z",
       "candidates": [
         {
           "name": "Mark Warner",
           "party": "D",
-          "votes": 2202189
+          "votes": 2202248
         },
         {
           "name": "Bert Mizusawa",
           "party": "R",
-          "votes": 1380817
+          "votes": 1380831
         },
         {
           "name": "Write-in",
@@ -15074,11 +15074,11 @@
       "office": "senate",
       "precinctsReporting": 96.8,
       "raceId": "87472",
-      "retrievedAt": "2026-11-08T21:12:41.217120Z",
+      "retrievedAt": "2026-11-08T23:58:13.168308Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87472",
       "timestampBasis": "provider_last_updated",
-      "total": 3592545,
+      "total": 3592618,
       "verified": true
     },
     "VT-GOVERNOR": {
