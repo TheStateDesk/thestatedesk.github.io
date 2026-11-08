@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-08T17:05:55.260111Z",
+  "checkedAt": "2026-11-08T19:03:15.657144Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -72,7 +72,6 @@
     "VA-05": "vote_total_decreased_held",
     "WI-02": "no_valid_reported_votes",
     "WI-05": "vote_total_decreased_held",
-    "WI-GOVERNOR": "vote_total_decreased_held",
     "WV-02": "vote_total_decreased_held",
     "WV-SENATE": "vote_total_decreased_held",
     "WY-01": "vote_total_decreased_held"
@@ -151,8 +150,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T16:52:28.445Z",
-      "responseMs": 119
+      "providerTimestamp": "2026-11-08T18:53:53.154Z",
+      "responseMs": 86
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -183,8 +182,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T16:47:23.512Z",
-      "responseMs": 126
+      "providerTimestamp": "2026-11-08T18:38:26.893Z",
+      "responseMs": 96
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -193,7 +192,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 92
+      "responseMs": 87
     }
   },
   "publishedRaces": 499,
@@ -3731,12 +3730,11 @@
       "validatedVoteTotal": 328729
     },
     "WI-GOVERNOR": {
-      "collectionIssue": "vote_total_decreased_held",
-      "lastSuccessfulRetrievalAt": "2026-11-07T00:16:47.045965Z",
-      "lastValidatedResultAt": "2026-11-06T23:56:33.822000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T19:03:15.657144Z",
+      "lastValidatedResultAt": "2026-11-08T18:56:32.014000Z",
       "office": "governor",
       "status": "reporting",
-      "validatedVoteTotal": 2668809
+      "validatedVoteTotal": 2668811
     },
     "WV-01": {
       "lastSuccessfulRetrievalAt": "2026-11-04T05:31:25.430470Z",
@@ -3787,6 +3785,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 3,
+  "updatedRaces": 1,
   "version": 2
 }
