@@ -1,47 +1,33 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T09:24:54.572927Z",
+  "generated_at": "2026-11-08T16:14:52.922173Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
-    "PBS NEWSHOUR",
     "BBC NEWS",
     "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [],
+  "source_warnings": [
+    "PBS NEWSHOUR: no recent politics items"
+  ],
   "priority": [
     {
-      "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
-      "url": "https://apnews.com/article/paraguay-president-pena-ueno-bank-0a3cddd03f9fb36c870fa3117aeeb4ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-07T22:52:48Z",
-      "source_count": 2,
+      "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
+      "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T13:12:36Z",
+      "source_count": 4,
       "other_sources": [
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkRMT1ZXUFVZV3AtMGJSelF5YzhUSUtnZUwyN2ZZODd6SVRXekxJcUxsMHd0NXZPMm12enk5b2FmeDFURmtIeXRaeUR3RlVnREpzcy1HZ1pKc1hWbnlZeS1pQjRjeTdTMm5JU2pxbDdXVzhROUdDbVZsVUtoUkJNUzl2NVFCNWR6T3VIbmVPVmY3V0ExcWc?oc=5"
-        }
-      ],
-      "priority_score": 9,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "source": "NPR",
-      "published_at": "2026-11-08T07:35:29Z",
-      "source_count": 7,
-      "other_sources": [
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+        },
         {
           "source": "BBC NEWS",
           "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
         },
         {
           "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
@@ -52,210 +38,160 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students",
-      "url": "https://apnews.com/article/melania-trump-foster-care-football-louisiana-alabama-3ee1c75b28d30644375d14df1b01f9b8?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-08T03:58:55Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/melania-trump-and-lsu-announce-a-scholarship-program-for-students-who-were-in-foster-care"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "US military fires at cargo ship in Gulf of Oman",
-      "url": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T01:45:13Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T22:49:13Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-      "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-07T18:34:30Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-golf-course-special-master-federal-lawsuit-9c0de85e33cf69d8c22a72f550e67604?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
+      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-08T12:00:40Z",
+      "source_count": 1,
+      "other_sources": [],
+      "priority_score": 6,
       "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "South Africa's ANC battered by local election losses ahead of coalition talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5",
+      "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T08:53:37Z"
+      "published_at": "2026-11-08T16:04:42Z"
+    },
+    {
+      "title": "Russia says hit power substations in Ukraine and three ships in Black Sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3I3aVRlN2tQellIUkRxQVR6VFhUWkRfZlJQUWsyR3g0S0w2Wlg1cUt6SW9fc081c1hfcTdPSTJwZzJIWUVtQXN1SVJiRm9zTWJKYjM2RTV3TWVBa001Y1RmeVhEOHVnb3pCSUt5T3BxU19VeDhXNGdmNkg0SlNHUWszcHI3X1hsbjJiWFN5MXlEcHdVM21wNTJrRHlVeTFQZl9CYlRwMmY?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T16:02:52Z"
+    },
+    {
+      "title": "'Sorely needed': Israelis hope for change as Eisenkot to form government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTZQamJuNGFxb015dTdvczZXb3ljanpfZllZZ3lPT3Nwb29OZ3NCUkoxdTZaUGk0X0d4OGJhQkFDU0p3VW9WOXJCcUJHbTM5MU1MNTZ5WDhGTzlCSk9XVmJGWHRuWEJTTThONjllWWExcHVSV0xEblNqVzFRTU5xcGlJLVhyLUYyaV9BVlFwdXZPRVlaZE93?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T15:52:05Z"
+    },
+    {
+      "title": "North Carolina rep requests ‘nonpartisan election observers’ in close race",
+      "url": "https://thehill.com/homenews/house/6206602-foxx-requests-election-observers/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T15:48:51Z"
+    },
+    {
+      "title": "China reveals how it intends to beat NASA back to the moon",
+      "url": "https://thehill.com/opinion/technology/6204829-space-race-nasa-vs-china/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T15:00:00Z"
+    },
+    {
+      "title": "Iran suggests blasts are not US attacks as both sides report ships hit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T14:21:43Z"
+    },
+    {
+      "title": "‘The light of dawn is on the horizon’: the best moments from US midterm victory speeches | Ted Widmer",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/best-midterm-victory-speeches",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-08T14:00:41Z"
+    },
+    {
+      "title": "Three ways the new Congress can stop Trump’s war",
+      "url": "https://thehill.com/opinion/congress-blog/6205683-congress-tools-end-iran-war/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T14:00:00Z"
+    },
+    {
+      "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWEyY01QZXphanRHT21PZUR2UVdNcEQzUVdRSW44Z2oxb1hfanV3TE00ZXhkMDJnZVdXYnF6OTdsZ3Jwd0lqamgxYlpTS2h3NjBjaTVaNC1nQXM0RXFNX2phMWItS1Q4UldFdzN3WFlocExfUElZZEJwQ2hVX1YzRmlDQnpDMEhrTC1oNk5VYmVCQ2pLc090LUlfbFY5VXk3YTFhTlg4NUJSTXk1WDVVTXdNYkp1RmF3TW02bDZR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T13:35:48Z"
+    },
+    {
+      "title": "Live updates: Trump sits for post-midterms interview; Congress gears up for lame-duck session",
+      "url": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T13:35:47Z"
+    },
+    {
+      "title": "Republican consultant discusses what went wrong and what's next for the GOP",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033375/republican-consultant-discusses-what-went-wrong-and-whats-next-for-the-gop",
+      "source": "NPR",
+      "published_at": "2026-11-08T13:22:23Z"
+    },
+    {
+      "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
+      "source": "NPR",
+      "published_at": "2026-11-08T13:16:05Z"
     },
     {
       "title": "Gulf markets retreat as traders await Trump's next move on Iran - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNEhqejQxdWF5MFpVWjduZHVuY1l1VmxKYm9CN3F4aC1qWkFIWFJqZDJEZ1VoWmthUW1NaWdWQUY4UUprUGsyWFA2a0trUE5HUjEtUHpPNFV1UnBpMHRrR2RlQWo1c2xvY1J2QnprNnNkbHNpY3ZtUWxMQkRzTVpKcktuZjhJdW5zSHdsZUhxYmxBVy00UWVnbndnOEc2WWplMEEwREVib0VyZ3BzZWlR?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T08:21:43Z"
+      "published_at": "2026-11-08T13:14:08Z"
     },
     {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "source": "NPR",
-      "published_at": "2026-11-08T07:35:29Z"
+      "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
+      "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T13:12:36Z"
     },
     {
-      "title": "State Street SPDR Bloomberg 1-3 Year Euro Government Bond UCITS ETF (SYB3.DE) | Stock Price & Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GT2NydWdiY3diOG5XVjdnN25HZ2pwSmUtYkFWcjM2WlNiRzdqNHhlUG9MbWp0OTdWakRQSEdFZVdWcE5DSWNrWDA4SnFBTDE1UTk1azVlYkdoZw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T07:08:08Z"
-    },
-    {
-      "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+      "title": "How CrossFit helped shape the macho fitness culture of Trump’s America",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-08T07:00:34Z"
+      "published_at": "2026-11-08T13:00:40Z"
     },
     {
-      "title": "Iran executes three men over armed unrest during January protests - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3AtenozM05Va3RPQ1JUYWZ2T2ZYSHVLeDVpN0pKd2lObzVlTjFmSTAyazZoUzNFbHNEc3F5NVBsclI5Rkt3MlpQaVpISy1HdEtOTmNWQVFPQ0IyOGVMOUp0aURUQWJNWENqTklhSUlNQkRqTnFSWm9QR2o3R201b0FVRk00WjV2dG5XaEwzRjIwWVoxQUtkRExIVWdUV1FqdFdPNUQxRjBIdXdfUVJ5RWJ3RkFEX0p5dUZtSzFVLVpsQlI2OTdRQ0pJeDl5djg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T04:41:00Z"
-    },
-    {
-      "title": "Melania Trump and LSU announce $7.2 million to endow scholarships for former foster care students",
-      "url": "https://apnews.com/article/melania-trump-foster-care-football-louisiana-alabama-3ee1c75b28d30644375d14df1b01f9b8?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+      "url": "https://apnews.com/article/trump-economy-midterm-elections-democrats-ab332d745571d36c5512e7e3beab6d59?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-08T03:58:55Z"
+      "published_at": "2026-11-08T12:44:36Z"
     },
     {
-      "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
-      "url": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T03:49:29Z"
-    },
-    {
-      "title": "Astellas employee imprisoned in China to be released in December, Japanese media report - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOODFjR25tcklTWnhjRDdJX0J4YjdUVTF3QU9hWUEwemp6cEd1c1NEb003Qm5kUE5WblVNN0c1SlBxZU4yM3lGdHRUZzR1cXpyNEs5VE9nTEF1b3d3NzlabkdLRDJWV3Nuc2tJQ3FaTU1MV1E5T0tUOUlKR2ZZSHp1TS10aWxrRzdiVi1ldlZlYXpJQldFMHFrUkRDd0hLc2NkUkp5NEpCTUlDSnJFTkYyUkE1SVJUcGw1cVI3dEdveEg3ckE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T03:49:00Z"
-    },
-    {
-      "title": "'Special master' named for ethics probe in lawsuit over Trump's DC golf project - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUl9xbS1Ham54cFVBNTM2WU5CYnhUYlN4UlhOc2puRGg4cDZqc04wS0w5UFVEVVdPVGlZV2lhTnJQdExlRTIzWjJMc3BqY1IzV3pwUmxSOEs3RFhleXlxRGtjVWtQWWl6WDlfWjJFUDZLbktxOW5YTW9hQ1VrLVhJb1pXUUxvak5BT1FFckctVXQwQXkwU2o1OTNhSjZ4VFo3RXVkX0Y3MG5rVzFJek1OY1pfZExHY2V6S3BmaXREQzRsY2gyeHQ4?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T03:18:00Z"
-    },
-    {
-      "title": "US military fires at cargo ship in Gulf of Oman",
-      "url": "https://thehill.com/policy/defense/6206359-us-military-disables-oman-vessel/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T01:45:13Z"
-    },
-    {
-      "title": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGgxdHhOeWFyaXMxUGlZYkJXV1pLcXY0VmtIcGM5MXlUMnZWSnJ5YXdSaklLbjBoclNxQ0hLUl9xb0pvaG1FR3JfNHltc1VFa0tHYUhWSUh4Vjk0UERoX0FtSEZuX2toWjhPeC1Gc3hZY21FRDduOWJ6R3I5OHI2YzhPaVdrWmpoNU1XRU1vMVBaMDJ1MHl5aXFPSXU1NE13VnNOZGhhWUNxMmJzV2FQc2NSNWFfVlRaZnBoeHU3WFhOUzZyS3Vn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T01:24:00Z"
-    },
-    {
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-08T00:52:39Z"
-    },
-    {
-      "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-talks-abu-dhabi-b042adf1f95848f5d233da866a72e312?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "title": "California's fifth consecutive Catholic governor exemplifies the faith's deep roots",
+      "url": "https://apnews.com/article/california-governors-catholic-jerry-brown-gavin-newsom-a94aa38da11442962bfee59553a4abda?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-08T00:37:09Z"
+      "published_at": "2026-11-08T12:16:37Z"
     },
     {
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-08T00:31:53Z"
+      "title": "Native American women made history in tribal, state and federal elections",
+      "url": "https://apnews.com/article/first-native-woman-senator-governor-navajo-president-c8f6993546e32ef9ae243c9bd8af3fc0?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-08T12:15:01Z"
     },
     {
-      "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T12:07:25Z"
+    },
+    {
+      "title": "Centrism did not win the Democratic party the election",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/democratic-party-midterm-election-centrism",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-08T00:28:33Z"
+      "published_at": "2026-11-08T12:00:41Z"
     },
     {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "url": "https://apnews.com/article/trump-dana-white-press-secretary-ufc-3fdad45c3822423209af40c04246707e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-08T00:16:31Z"
+      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-08T12:00:40Z"
     },
     {
-      "title": "Trump says ‘a few’ cabinet changes are in store after GOP midterm blowout",
-      "url": "https://thehill.com/homenews/administration/6206322-trump-cabinet-midterm-changes/",
+      "title": "Alaska governor gives vote count update in ‘very close’ Senate race",
+      "url": "https://thehill.com/homenews/campaign/6206385-alaska-dunleavy-vote-update/",
       "source": "THE HILL",
-      "published_at": "2026-11-07T23:51:14Z"
+      "published_at": "2026-11-08T12:00:00Z"
     },
     {
-      "title": "Explainer: What happens next after New Zealand's vote? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBnajlhbkZ6bEs3X2tsanJQZFhLTWpTOVYwcUpDajdySE1qTWtId1RYa1pJMF9PR2cyOGdHTlYxT3JVdFJJc0FZcDNPbU5waVJaNHRzU2lJY1RacHc0cExSRVBiN2M0N0xGbVB1eHc5NXh4WWdxazIwazBfOFRhQ1RHc0JpQ3FOU1hEX2ZNQXFkMUNpZTZOWUs0UWY?oc=5",
+      "title": "'Trump has cost us': After midterm losses, MAGA asks if it's over - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T23:47:20Z"
+      "published_at": "2026-11-08T11:50:51Z"
     },
     {
-      "title": "Judge orders Paraguay's ex-president Peña held before trial - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGw3MmJzOEt0S1ozTzJoUDVsWDYya0FocXVpaGU0cG1EYWdILUp1UWc4SjMzaEg2ZnZWR0ZKRG5uaGhXVW0wbkFlMTFuVVp0WmFlZWQ3cnJuYy1WanFqSVlZYkdOQXBNRTJtcExjajYyZnU4ZXpTRmVpOGNGTnJfaERjTHVLUm9USjdpS1J2VGV1Z09zZ1ZxaGpVUVVjRHpON3ctb0JFUzRBX3VQUEVsZXIzWXR6eFJObk05SGlDelpVM0F5NF84?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T23:34:21Z"
-    },
-    {
-      "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-07T23:27:18Z"
-    },
-    {
-      "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
-      "url": "https://apnews.com/article/paraguay-president-pena-ueno-bank-0a3cddd03f9fb36c870fa3117aeeb4ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+      "url": "https://apnews.com/article/russia-ukraine-war-strike-bomb-humanitarian-aid-e64dd583955f11e4cf08ef5af6eaf35b?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-07T22:52:48Z"
-    },
-    {
-      "title": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-07T22:49:13Z"
-    },
-    {
-      "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
-      "source": "NPR",
-      "published_at": "2026-11-07T22:12:03Z"
+      "published_at": "2026-11-08T11:49:02Z"
     }
   ]
 }
