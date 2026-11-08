@@ -14912,43 +14912,43 @@
       "verified": true
     },
     "VA-08": {
-      "asOf": "2026-11-07T07:03:27.195000Z",
+      "asOf": "2026-11-08T16:53:50.959000Z",
       "candidates": [
         {
           "name": "Don Beyer",
           "party": "D",
-          "votes": 251863
+          "votes": 253780
         },
         {
           "name": "Tony Sabio",
           "party": "R",
-          "votes": 56758
+          "votes": 56963
         },
         {
           "name": "Tim S. Sharman",
           "party": "O",
-          "votes": 3969
+          "votes": 4032
         },
         {
           "name": "Shelly M. Arnoldi",
           "party": "O",
-          "votes": 3709
+          "votes": 3746
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 872
+          "votes": 878
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 95.1,
+      "precinctsReporting": 98.0,
       "raceId": "87468",
-      "retrievedAt": "2026-11-07T07:15:00.094484Z",
+      "retrievedAt": "2026-11-08T17:05:55.260111Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87468",
       "timestampBasis": "provider_last_updated",
-      "total": 317171,
+      "total": 319399,
       "verified": true
     },
     "VA-09": {
@@ -14982,17 +14982,17 @@
       "verified": true
     },
     "VA-10": {
-      "asOf": "2026-11-07T14:07:34.405000Z",
+      "asOf": "2026-11-08T16:53:51.135000Z",
       "candidates": [
         {
           "name": "Suhas Subramanyam",
           "party": "D",
-          "votes": 204213
+          "votes": 204236
         },
         {
           "name": "Dave Beckwith",
           "party": "R",
-          "votes": 121110
+          "votes": 121113
         },
         {
           "name": "Ahsen Mujeeb Malik",
@@ -15007,13 +15007,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 98.5,
+      "precinctsReporting": 99.0,
       "raceId": "87470",
-      "retrievedAt": "2026-11-07T14:09:37.593529Z",
+      "retrievedAt": "2026-11-08T17:05:55.260111Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87470",
       "timestampBasis": "provider_last_updated",
-      "total": 331965,
+      "total": 331991,
       "verified": true
     },
     "VA-11": {
@@ -15052,33 +15052,33 @@
       "verified": true
     },
     "VA-SENATE": {
-      "asOf": "2026-11-07T18:39:54.541000Z",
+      "asOf": "2026-11-08T16:53:51.872000Z",
       "candidates": [
         {
           "name": "Mark Warner",
           "party": "D",
-          "votes": 2200151
+          "votes": 2202163
         },
         {
           "name": "Bert Mizusawa",
           "party": "R",
-          "votes": 1380564
+          "votes": 1380792
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 9531
+          "votes": 9538
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
       "precinctsReporting": 96.8,
       "raceId": "87472",
-      "retrievedAt": "2026-11-07T18:49:54.521088Z",
+      "retrievedAt": "2026-11-08T17:05:55.260111Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87472",
       "timestampBasis": "provider_last_updated",
-      "total": 3590246,
+      "total": 3592493,
       "verified": true
     },
     "VT-GOVERNOR": {
