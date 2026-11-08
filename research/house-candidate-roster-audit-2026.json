@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T14:52:26.826370+00:00",
+  "generatedAt": "2026-11-08T15:07:31.544078+00:00",
   "summary": {
     "districts": 435,
     "districtsWithAtLeastOneCandidate": 435,
@@ -540,7 +540,7 @@
     "sourceRows": {
       "elections_in_usa_source_rows": 2236,
       "deepsyte_source_rows": 1294,
-      "electionsinusa_nominees": 860,
+      "electionsinusa_nominees": 862,
       "deepsyte_on_ballot": 1156
     },
     "sourceFailures": {},
