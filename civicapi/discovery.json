@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-08T19:03:15.657144Z",
+  "checkedAt": "2026-11-08T21:12:41.217120Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -12,9 +12,7 @@
   "election": "2026-11-03",
   "eligibleRaces": 505,
   "errors": {
-    "CT-03": "vote_total_decreased_held",
     "CT-05": "vote_total_decreased_held",
-    "CT-GOVERNOR": "vote_total_decreased_held",
     "FL-10": "no_valid_reported_votes",
     "FL-26": "vote_total_decreased_held",
     "IA-SENATE": "vote_total_decreased_held",
@@ -150,8 +148,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T18:53:53.154Z",
-      "responseMs": 86
+      "providerTimestamp": "2026-11-08T21:11:26.619Z",
+      "responseMs": 68
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -182,8 +180,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-08T18:38:26.893Z",
-      "responseMs": 96
+      "providerTimestamp": "2026-11-08T20:56:50.392Z",
+      "responseMs": 125
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -192,7 +190,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 87
+      "responseMs": 70
     }
   },
   "publishedRaces": 499,
@@ -849,12 +847,11 @@
       "validatedVoteTotal": 291938
     },
     "CT-03": {
-      "collectionIssue": "vote_total_decreased_held",
-      "lastSuccessfulRetrievalAt": "2026-11-06T06:54:44.901475Z",
-      "lastValidatedResultAt": "2026-11-06T06:45:14.118000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T21:12:41.217120Z",
+      "lastValidatedResultAt": "2026-11-08T20:51:02.109000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 246863
+      "validatedVoteTotal": 247091
     },
     "CT-04": {
       "lastSuccessfulRetrievalAt": "2026-11-06T20:32:11.837016Z",
@@ -872,12 +869,11 @@
       "validatedVoteTotal": 251826
     },
     "CT-GOVERNOR": {
-      "collectionIssue": "vote_total_decreased_held",
-      "lastSuccessfulRetrievalAt": "2026-11-07T00:16:47.045965Z",
-      "lastValidatedResultAt": "2026-11-06T23:51:04.080000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T21:12:41.217120Z",
+      "lastValidatedResultAt": "2026-11-08T20:51:00.978000Z",
       "office": "governor",
       "status": "reporting",
-      "validatedVoteTotal": 1295906
+      "validatedVoteTotal": 1296020
     },
     "DE-01": {
       "lastSuccessfulRetrievalAt": "2026-11-04T15:56:04.997819Z",
@@ -3587,11 +3583,11 @@
       "validatedVoteTotal": 339447
     },
     "VA-SENATE": {
-      "lastSuccessfulRetrievalAt": "2026-11-08T17:05:55.260111Z",
-      "lastValidatedResultAt": "2026-11-08T16:53:51.872000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-08T21:12:41.217120Z",
+      "lastValidatedResultAt": "2026-11-08T20:56:24.695000Z",
       "office": "senate",
       "status": "reporting",
-      "validatedVoteTotal": 3592493
+      "validatedVoteTotal": 3592545
     },
     "VT-01": {
       "office": "house",
@@ -3785,6 +3781,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 1,
+  "updatedRaces": 3,
   "version": 2
 }

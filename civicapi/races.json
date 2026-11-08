@@ -2697,38 +2697,38 @@
       "verified": true
     },
     "CT-03": {
-      "asOf": "2026-11-06T06:45:14.118000Z",
+      "asOf": "2026-11-08T20:51:02.109000Z",
       "candidates": [
         {
           "name": "Rosa DeLauro",
           "party": "D",
-          "votes": 151204
+          "votes": 151261
         },
         {
           "name": "Christopher Lancia",
           "party": "R",
-          "votes": 87756
+          "votes": 87885
         },
         {
           "name": "Thomas Egan",
           "party": "O",
-          "votes": 7315
+          "votes": 7322
         },
         {
           "name": "Andrew Rice",
           "party": "O",
-          "votes": 588
+          "votes": 623
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 100.0,
+      "precinctsReporting": 93.6,
       "raceId": "87028",
-      "retrievedAt": "2026-11-06T06:54:44.901475Z",
+      "retrievedAt": "2026-11-08T21:12:41.217120Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87028",
       "timestampBasis": "provider_last_updated",
-      "total": 246863,
+      "total": 247091,
       "verified": true
     },
     "CT-04": {
@@ -2792,22 +2792,22 @@
       "verified": true
     },
     "CT-GOVERNOR": {
-      "asOf": "2026-11-06T23:51:04.080000Z",
+      "asOf": "2026-11-08T20:51:00.978000Z",
       "candidates": [
         {
           "name": "Ned Lamont",
           "party": "D",
-          "votes": 771936
+          "votes": 771934
         },
         {
           "name": "Ryan Fazio",
           "party": "R",
-          "votes": 523917
+          "votes": 524023
         },
         {
           "name": "Zenobia Adgers",
           "party": "O",
-          "votes": 23
+          "votes": 28
         },
         {
           "name": "L. Lee Whitnum",
@@ -2817,18 +2817,18 @@
         {
           "name": "Christian Noe",
           "party": "O",
-          "votes": 12
+          "votes": 17
         }
       ],
       "election": "2026-11-03",
       "office": "governor",
       "precinctsReporting": 90.3,
       "raceId": "87026",
-      "retrievedAt": "2026-11-07T00:16:47.045965Z",
+      "retrievedAt": "2026-11-08T21:12:41.217120Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87026",
       "timestampBasis": "provider_last_updated",
-      "total": 1295906,
+      "total": 1296020,
       "verified": true
     },
     "DE-01": {
@@ -15052,33 +15052,33 @@
       "verified": true
     },
     "VA-SENATE": {
-      "asOf": "2026-11-08T16:53:51.872000Z",
+      "asOf": "2026-11-08T20:56:24.695000Z",
       "candidates": [
         {
           "name": "Mark Warner",
           "party": "D",
-          "votes": 2202163
+          "votes": 2202189
         },
         {
           "name": "Bert Mizusawa",
           "party": "R",
-          "votes": 1380792
+          "votes": 1380817
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 9538
+          "votes": 9539
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
       "precinctsReporting": 96.8,
       "raceId": "87472",
-      "retrievedAt": "2026-11-08T17:05:55.260111Z",
+      "retrievedAt": "2026-11-08T21:12:41.217120Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87472",
       "timestampBasis": "provider_last_updated",
-      "total": 3592493,
+      "total": 3592545,
       "verified": true
     },
     "VT-GOVERNOR": {
