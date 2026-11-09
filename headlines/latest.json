@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T00:44:04.317810Z",
+  "generated_at": "2026-11-09T07:51:47.519388Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,51 +8,41 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [],
+  "source_warnings": [
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+  ],
   "priority": [
     {
-      "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:34:13Z",
-      "source_count": 2,
+      "title": "Trump says he was ‘kidding’ about Dana White for press secretary",
+      "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T02:20:19Z",
+      "source_count": 3,
       "other_sources": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-08T21:59:15Z",
+      "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-09T01:51:44Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-economy-midterm-elections-democrats-ab332d745571d36c5512e7e3beab6d59?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Native American women made history in tribal, state and federal elections",
-      "url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-08T21:15:34Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/first-native-woman-senator-governor-navajo-president-c8f6993546e32ef9ae243c9bd8af3fc0?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
         }
       ],
       "priority_score": 5,
@@ -67,7 +57,7 @@
       "other_sources": [
         {
           "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5"
         }
       ],
       "priority_score": 5,
@@ -75,6 +65,126 @@
     }
   ],
   "headlines": [
+    {
+      "title": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T07:01:00Z"
+    },
+    {
+      "title": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-09T06:00:01Z"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Nvidia crisis may hurt China more than it helps - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjJ2UFV3M0lpbXZwNmF1VXR3azhjN2xyTURyVzl3QkJrMC1tbmxVYnVwbjJSR0pNMTl3cl9iMzNDcExMYnd2bVFFeDRoaXVwSEJJano5QTBxNmxrSGh1MXZZZy1WZjlqWExrWUVnY1dfYU11REV6amhieGxiVDdPa05ielpKd3hTa3JkQklQLWZUNmtNand5OFZ6UU1OOTRUQlplY3htcHZYLWd0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T05:06:00Z"
+    },
+    {
+      "title": "Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFkyaVpFU2VKQUVYc0xKQ1NmMFhuUmhEZXpCRFF5Ym5HaVpwSENiYk9QaWJhd1BtcU9sSEVyeGVoZ1RxUS1UamJHbEJOTUJwQjhzWUhrYko5RmZCMXJZQ04wZ2tyeFJZTGNFdUotNURHOXpDQTdGdXlMMEpaU3pWT0lvVzNPVkV1aHRIdjVYTE5yM2dwdVpDM0pQdV9TTDhTLXRQTlgxRkVlVFZtU0haT29fdEpyZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T04:23:00Z"
+    },
+    {
+      "title": "China extends suspension of port fees on US-linked ships - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjhrNnVSaVplT0J4bjRpMmxvSmlOVHYyb1F2eTV0UFlBbEs5cGhpdUlRVFRZZjhXSGRkTzJ1Q1h2R3ZrOWNaeWFwSWdTc3Z0MnpFNlFKRTlJalcxLUVKQURGRGU1dGFfczJPUEV4UFI5Wl9najhtZ29qYkViRlJTcXZ5VTdLQU9fUHhOMjNlVmtZbUdVM1lrQ2NnRUlIOHc0WjEySUNhRGg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T04:15:00Z"
+    },
+    {
+      "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-09T03:59:31Z"
+    },
+    {
+      "title": "Trump says Nvidia's Huang is 'fine person' amid foreign spy probe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rMXZEczBQbU9VdDltSVVKOEo5LW1jMXM4WFNpek1wb2NFRkFLcExZSmhjbFcyRkFJTGtLdnJiYlh6R3RoQUQxWDVXcHllUXlXZ2s1aVZzcEFWbkpXQjhlOXR1QzJuVmxpSEZScElVM2o1c3RXYXo3anRja0JiZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T03:57:33Z"
+    },
+    {
+      "title": "North China building fire kills at least 14 people - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTVrbGRoRzEzTE1mN0o3Ni05R3BCWGNXR29DcHpEbjFhaVdwQVBLMHEyeTZYVXptOGRpODByM0FSZkp5Rm8yWkhwSWpOaVJSdkRIS04tMER5NGg5NWxCd3FLb1JNb3I2M3RCYzdHYUxuZjBiZXNaZGt5N0Z1YlJobTZ3TFd6SzlNTG9Ydkt2Q2tmeHR0bkl6WkRVcw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T03:18:00Z"
+    },
+    {
+      "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdk5RVDVNYXJVZ2ZJQW8zbnNOdXMtaE9aR1ZFVmN6MkdQS1V6ZmVHMzhxWV83R3gxSVA0MDlYNVVUSHNSTGxDQ0dDRGFtMzRvZm5neHY5NkF2V2lXSnpxbnFvN3AyTHVGWVpZbVJyeVFOa0hRRVRJSjBVaUJrZ09neTJfZWtmU2d6dUVZdndublV3ZDVFbkJFNUp1WXJhZmRNd1NaOTdSeE9LZVlSSEE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T03:02:00Z"
+    },
+    {
+      "title": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T02:48:00Z"
+    },
+    {
+      "title": "Trump says ‘hatred’ between Zelensky, Putin is main obstacle to ending war",
+      "url": "https://thehill.com/homenews/6207193-trump-blames-zelensky-putin-hatred/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T02:41:43Z"
+    },
+    {
+      "title": "Trump says he was ‘kidding’ about Dana White for press secretary",
+      "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T02:20:19Z"
+    },
+    {
+      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-09T01:53:48Z"
+    },
+    {
+      "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-09T01:51:44Z"
+    },
+    {
+      "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdS16MHhHTm9BaFNxQWlxTTl4Mm1YbHktbTZ3Yi0yY1MtdkJSQ0Q0RWI0eko3cVhDVHlybTBMTU05cDhwdG5oQzhVSS1ndXhfOWV6eEQ1M2J0cFI0SzFXenhSMWF1YzcyNkVzQ3lDVVRVVWhGbVA2cHdPV3BHc3B2UG82eUxHcHFCbHJ5c2xCU05nU01uYlJjU1pMZU5XWUFHdFFlaV9ma0RPOGFwYmVsY3dtTTcxQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T01:42:00Z"
+    },
+    {
+      "title": "Central American migrants cheer Trump's midterm losses - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTVlQWt6OGNITGsxa3NJLXNzTmMyOHR3em1NOUl4YUR3Vlo2UUdGWTF3WVRmdmJydzAwYUZfMW50amo4aWhIcGhUdEFyeVV2RktoQTB6VVdkeEpicE9GN0RjVWo4SjN6UzBFUzdvQ0VDdGM2WG9hNjNFQTBEc1hYU1hxV2Y3bDgzTlY5Sm5Ib2dfb3ZF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T01:39:50Z"
+    },
+    {
+      "title": "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T01:39:00Z"
+    },
+    {
+      "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
+      "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T01:23:22Z"
+    },
+    {
+      "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-09T01:10:55Z"
+    },
+    {
+      "title": "Trump thinks he will meet Xi and Putin at China APEC summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0h5RWRYOHBsak5MVm5FQy1UV09NSk1odWFia1BUV1VJeVE5Z01CU0NqLVc1ckZ0V1FGSndBMUVMSlRyOVpnNktxVmNoZm13Y1FwTUw3QWxGYk5YR0VHX0k5VFlFZDJXWTJBYi03dWJ6c1MxLXZQdDVCWVBDOUJDOW5rLUdFYkZjaVZzRkNzTVd1YnpvV0tHV0p1YlNQbTRzVUE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T00:50:00Z"
+    },
     {
       "title": "Trump says he expects Rubio to remain as secretary of state - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEdsdmt5ZWJnSWxVZGNfeVV1dFVUT1c4RW83R2hRbTlPS2dFdWlrTlU1OVJxcUloOWxnQjBySGVQeXNXLUVseUU1S19iazVvbHAzbkRvSHZ3V0lNZzk0MWJMQUFXM29lVWxuclNvbGZ0d2ZaLU16NExRYkd5NTFzemtxZ1VNRUN4bEdRd25rNllod21zS2NvbW43bw?oc=5",
@@ -98,126 +208,6 @@
       "url": "https://thehill.com/homenews/house/6207130-ojeda-urges-trump-cooperation/",
       "source": "THE HILL",
       "published_at": "2026-11-09T00:16:15Z"
-    },
-    {
-      "title": "Japan Tobacco says all JT Group entities in Russia under temporary administration - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU9Cem45RWNaM3U2NXluS2xqZGxKbzZPX2dDdlFmY1lXYWlJb3NBcUt3eE02Mm5qRkJlNHZqMjBLZ0ptZElWM1B0ZmUzXzVCVDVBODVmNTdKM3ZrY2hxeGdQTHZqWklWSTUwZzl3RVdZQUZnMG10UElJaGVzQVY2TklROW94UURSc2ZlaVZweVNxdWFDV2VzazZYYVU0VEdORkdVY2RHRkxNWXZVSEEycFNzeTJyUWxjNDBQQ2NMdm43UnYxaXhVZzZ5dmlfQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:57:45Z"
-    },
-    {
-      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2QzRFRsZW5sUmJrR1o5RDl2eDRqdjM0TUczSmpsVVZzVWN5TkVTOWVEdmFqN2RHelRydTVBcTZKb3h6VzQzaktGTVdDdHZsSDZ5TnFkZnp3S2xnR1hJU18xcTVxTkFWMGpTMi1mX0VwZGs0RGhVVFJzc1lIblh5ak5QV2ZYTnNwU1lnMDhUZGY2aWRULVcxVlFBSzBtU3NBd3NzYXl4a2g2bkNGMnB4YzZUN3p1RUhFNEp2RVZZbDdOOFRH?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:55:43Z"
-    },
-    {
-      "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:51:43Z"
-    },
-    {
-      "title": "Katie Miller pauses podcast after husband named White House chief of staff",
-      "url": "https://thehill.com/blogs/in-the-know/6207095-katie-miller-pauses-podcast-after-husband-named-white-house-chief-of-staff/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T23:34:54Z"
-    },
-    {
-      "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:34:13Z"
-    },
-    {
-      "title": "UK government expected to cut 2030 EV sales target to 60%, Guardian reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSU0xRXJZRWh6d2o2dzY2eUFaVE5XQmFoXzAzSTVCMk5xQnB2MXVNOEYzUURKNlcwelVoUnhvc0xUdVF1QW5IVDFVNWRCSXFzbGRqeXBXRWVOUDZfaDMyR0ZTYWpzU3FfRXJ5c2d6R2RrSXA4RlktWHBsX0VGLWdUVlFkaVZ1NWZ2N3VuMUIybmhwd3hDVGFGQUEtdUVpLWZiczlOcDIwNUkxUHZzZVVvakVB?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T23:25:43Z"
-    },
-    {
-      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T22:50:16Z"
-    },
-    {
-      "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-08T22:49:53Z"
-    },
-    {
-      "title": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T22:20:49Z"
-    },
-    {
-      "title": "New Zealand's new lawmakers start to arrive at parliament as government remains in limbo - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVpEajBrQzJrUnlJeDZSMWFUaF9zcWloWW1nQXV5aTdCM0M1bGRkUndVenpZUUo0U1J3NlhhbFU4R3Zydl9QUUZESXFzMWRRV0dmUWhqZzdOMzBIMy15c2ZMbTJPcXNjaGNydXRQMGJPTDhsSUxSZExMdm9YdWhfYjZ3QXdkdzduaTFUbTdGOGYyaFZCcmhWQnhwRHNGTmxZdFJ1eHpudTZ6QUlGVXNMS2VuVlg2dFJaSXBWU0pITWVMaUhPWldIbGZR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T22:13:43Z"
-    },
-    {
-      "title": "Trump staffing changes post-midterms signal he's battle ready",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
-      "source": "NPR",
-      "published_at": "2026-11-08T22:04:17Z"
-    },
-    {
-      "title": "How will Democrats approach foreign policy after their midterm win?",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
-      "source": "NPR",
-      "published_at": "2026-11-08T22:04:14Z"
-    },
-    {
-      "title": "This week on the Hill: Congress returns to leadership fights, shutdown deadline after GOP losses",
-      "url": "https://thehill.com/homenews/house/6205706-gop-leadership-elections-new-congress/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T22:00:00Z"
-    },
-    {
-      "title": "Democrats see new path to expand Senate majority in 2028",
-      "url": "https://thehill.com/homenews/senate/6204697-democrats-expand-2028-senate-map/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T22:00:00Z"
-    },
-    {
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-08T21:59:15Z"
-    },
-    {
-      "title": "White House deputy chief of staff departs under Miller shakeup",
-      "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T21:53:07Z"
-    },
-    {
-      "title": "How a digital bank’s collapse toppled Paraguay’s president - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWlVMmg2TlFMXzFudjZfRUlFWlVkYldzRzcwY2U0NVM2VUc4YXpYWDhnbHpJTHAzd25KUG9DUmJreXlEazZsZmlkWXJJal9KYUdpYmZCVkZDaUVsY3dvLUxKUWFPZW42V21FT1NhbC1vX2owY1lyQVJUdXI4b0hwTkQ1S0ptajZjNnp4LXlxVnVKN2pOZVRpbVNEYnVGcmE3THotZGh3Mll4X1k?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T21:38:14Z"
-    },
-    {
-      "title": "Native American women made history in tribal, state and federal elections",
-      "url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-08T21:15:34Z"
-    },
-    {
-      "title": "Iran gives US two-day diplomacy ultimatum",
-      "url": "https://thehill.com/policy/international/6206904-iran-gives-us-two-day-diplomacy-ultimatum/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T21:06:28Z"
-    },
-    {
-      "title": "Trump says he’s ‘unlikely’ to renew attacks on Iran if talks show progress",
-      "url": "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T21:02:25Z"
     }
   ]
 }
