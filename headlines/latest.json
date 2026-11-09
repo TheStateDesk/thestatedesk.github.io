@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T20:44:05.601838Z",
+  "generated_at": "2026-11-09T00:44:04.317810Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,10 +14,10 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "Trump shares cartoon of Dana White as press secretary",
-      "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T17:09:16Z",
+      "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:34:13Z",
       "source_count": 2,
       "other_sources": [
         {
@@ -27,152 +27,197 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-08T21:59:15Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-economy-midterm-elections-democrats-ab332d745571d36c5512e7e3beab6d59?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Native American women made history in tribal, state and federal elections",
+      "url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-08T21:15:34Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/first-native-woman-senator-governor-navajo-president-c8f6993546e32ef9ae243c9bd8af3fc0?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump says he’s ‘unlikely’ to renew attacks on Iran if talks show progress",
+      "url": "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T21:02:25Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "Donalds says GOP must campaign on new healthcare policy in 2028",
-      "url": "https://thehill.com/homenews/campaign/6206612-byron-donalds-gop-healthcare-policy/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T20:28:13Z"
+      "title": "Trump says he expects Rubio to remain as secretary of state - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEdsdmt5ZWJnSWxVZGNfeVV1dFVUT1c4RW83R2hRbTlPS2dFdWlrTlU1OVJxcUloOWxnQjBySGVQeXNXLUVseUU1S19iazVvbHAzbkRvSHZ3V0lNZzk0MWJMQUFXM29lVWxuclNvbGZ0d2ZaLU16NExRYkd5NTFzemtxZ1VNRUN4bEdRd25rNllod21zS2NvbW43bw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T00:34:00Z"
     },
     {
-      "title": "White House vows to keep up immigration crackdown after midterms defeat",
-      "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-08T20:23:58Z"
+      "title": "Trump says AI risks can be managed, signals openness to guardrails - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T00:29:00Z"
     },
     {
-      "title": "El-Sayed open to working with Trump on affordable healthcare",
-      "url": "https://thehill.com/homenews/senate/6206856-el-sayed-trump-healthcare-deal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T20:08:22Z"
+      "title": "Brazil's Lula, worried about high interest rates, pledges budget discipline - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTmRxVlVzb3VXRTFVRFRoNi12OFZQMDRRNGpoQWJNckR5R0p0SFU3VHRwVDZCTkdGZnRra3lueG5maDl0bVRMQkxKVGg2dU1uMjhFMV81bTVSc01HYW1USWo5bGRXZXRES1I1MkhNckRTMThqLTV0M0UwSVkyVHhJZEQ2c0JNekZXcDZPTWg1dktPcXdYZThtWk56ZTNJbW5ORGl6NGlVeDFDcVZWem1EeTZDX0Ywam1jbEJTZUZMR1I?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T00:26:00Z"
     },
     {
-      "title": "El-Sayed on Miller: ‘Most broken man’ to run ‘the most dysfunctional White House’",
-      "url": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/",
+      "title": "Rep.-elect says Democratic majority is an ‘opportunity’ for Trump",
+      "url": "https://thehill.com/homenews/house/6207130-ojeda-urges-trump-cooperation/",
       "source": "THE HILL",
-      "published_at": "2026-11-08T19:41:38Z"
+      "published_at": "2026-11-09T00:16:15Z"
+    },
+    {
+      "title": "Japan Tobacco says all JT Group entities in Russia under temporary administration - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU9Cem45RWNaM3U2NXluS2xqZGxKbzZPX2dDdlFmY1lXYWlJb3NBcUt3eE02Mm5qRkJlNHZqMjBLZ0ptZElWM1B0ZmUzXzVCVDVBODVmNTdKM3ZrY2hxeGdQTHZqWklWSTUwZzl3RVdZQUZnMG10UElJaGVzQVY2TklROW94UURSc2ZlaVZweVNxdWFDV2VzazZYYVU0VEdORkdVY2RHRkxNWXZVSEEycFNzeTJyUWxjNDBQQ2NMdm43UnYxaXhVZzZ5dmlfQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:57:45Z"
+    },
+    {
+      "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2QzRFRsZW5sUmJrR1o5RDl2eDRqdjM0TUczSmpsVVZzVWN5TkVTOWVEdmFqN2RHelRydTVBcTZKb3h6VzQzaktGTVdDdHZsSDZ5TnFkZnp3S2xnR1hJU18xcTVxTkFWMGpTMi1mX0VwZGs0RGhVVFJzc1lIblh5ak5QV2ZYTnNwU1lnMDhUZGY2aWRULVcxVlFBSzBtU3NBd3NzYXl4a2g2bkNGMnB4YzZUN3p1RUhFNEp2RVZZbDdOOFRH?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:55:43Z"
+    },
+    {
+      "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:51:43Z"
+    },
+    {
+      "title": "Katie Miller pauses podcast after husband named White House chief of staff",
+      "url": "https://thehill.com/blogs/in-the-know/6207095-katie-miller-pauses-podcast-after-husband-named-white-house-chief-of-staff/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T23:34:54Z"
+    },
+    {
+      "title": "Trump says 'only kidding' about naming UFC CEO as White House press secretary - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHBjVXFsTFJMVmJ1dU5zSUlnVktsU3cwcnc1R29xd0dWYVhuSkxhQmt1NENoZHNUeEE3T2VGLV9oZnVScVpScnNIRlNMemJPSUxnaUhWTFFFSjFzLVY4NnZCSXRGUjBWWFFQQmZaQ1Y1Y0F6V2cxdDR5czdfcE9XWnY5UzF5NW02di10N2Iwa0RqdFBDLVJOeHhPcVZQTG1fbUNpNElwVndVZ1c3alJIVC1WLXRSdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:34:13Z"
+    },
+    {
+      "title": "UK government expected to cut 2030 EV sales target to 60%, Guardian reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSU0xRXJZRWh6d2o2dzY2eUFaVE5XQmFoXzAzSTVCMk5xQnB2MXVNOEYzUURKNlcwelVoUnhvc0xUdVF1QW5IVDFVNWRCSXFzbGRqeXBXRWVOUDZfaDMyR0ZTYWpzU3FfRXJ5c2d6R2RrSXA4RlktWHBsX0VGLWdUVlFkaVZ1NWZ2N3VuMUIybmhwd3hDVGFGQUEtdUVpLWZiczlOcDIwNUkxUHZzZVVvakVB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T23:25:43Z"
+    },
+    {
+      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T22:50:16Z"
     },
     {
       "title": "Top House Democrat 'a hard yes' on impeaching Hegseth",
       "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-08T19:36:41Z"
+      "published_at": "2026-11-08T22:49:53Z"
     },
     {
-      "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
+      "title": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T19:22:54Z"
+      "published_at": "2026-11-08T22:20:49Z"
     },
     {
-      "title": "US asks Iraq to shut most Iran border crossings, Iraqi foreign minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVxWlAwOFI0ZGd4TUdTNFozbzE5TXN5UGx3R0NnX0JRdExfcVhSb21iYklFOXJ2QUpncXdoSFB3eE1NS0FFeHljZXQxeWlEVTNKVWd1eFVLWTZmbVpsSUs5Q3NqNUk2b1JYQVNxSFIyTTMxZERFdDBWVUFfUFZ2MkFtOUlIYm5VbE9kQ2kzVmdUTV9pZHFxNWNvUVFhYkI1WHc5LTZSS0JMR1Nka3gwSjgzWWFZZXN6OFFTRHB5Rzk1THIz?oc=5",
+      "title": "New Zealand's new lawmakers start to arrive at parliament as government remains in limbo - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSVpEajBrQzJrUnlJeDZSMWFUaF9zcWloWW1nQXV5aTdCM0M1bGRkUndVenpZUUo0U1J3NlhhbFU4R3Zydl9QUUZESXFzMWRRV0dmUWhqZzdOMzBIMy15c2ZMbTJPcXNjaGNydXRQMGJPTDhsSUxSZExMdm9YdWhfYjZ3QXdkdzduaTFUbTdGOGYyaFZCcmhWQnhwRHNGTmxZdFJ1eHpudTZ6QUlGVXNMS2VuVlg2dFJaSXBWU0pITWVMaUhPWldIbGZR?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T19:01:43Z"
+      "published_at": "2026-11-08T22:13:43Z"
     },
     {
-      "title": "Trump says he is highly unlikely to order Iran strikes if talks progress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T18:58:48Z"
-    },
-    {
-      "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T18:36:34Z"
-    },
-    {
-      "title": "Sanders ‘not worried’ about Stephen Miller becoming White House chief of staff",
-      "url": "https://thehill.com/homenews/senate/6206577-sanders-miller-white-house/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T18:13:31Z"
-    },
-    {
-      "title": "GOP lawmaker calls Trump’s promotion of Stephen Miller ‘a mistake’",
-      "url": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T18:09:44Z"
-    },
-    {
-      "title": "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T18:08:40Z"
-    },
-    {
-      "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
-      "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-08T18:05:01Z"
-    },
-    {
-      "title": "Saturday Night Live: Druski hosts and James Talarico cameos, but where’s the post-election comedy?",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-08T18:02:36Z"
-    },
-    {
-      "title": "Trump says he is unlikely to order Iran attack if talks progress, CNN reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyTjlQcUE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T18:00:09Z"
-    },
-    {
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-08T17:58:43Z"
-    },
-    {
-      "title": "Netanyahu rival Eisenkot seeks 'wide' government but path to power uncertain - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejJnOTcwYVNEbnpEdVN4M0cwM3BsNEVBbXBpd21YUEcyM3RfX0FKUWsxaHk2dDVmc2NZZXR5cmNZY1NyY0o2MzlMSzU3SW1oVFpadFRLWjlTWHlWY3UxN2FXbUNQeFB4TlZrNlRyRW5jal9zQ2NaQWE2aGNfbHQxb1Zxb3VHcjRxcnNFaDZpdEw0Vm14eHNPLTVhM2l1ejJiYkMyQU51YzZRWEZSdm51ck5HOUh2NFNaQW5ONnhn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T17:40:21Z"
-    },
-    {
-      "title": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-08T17:28:10Z"
-    },
-    {
-      "title": "Sanders says Democrats should hold Trump accountable but ‘cannot spend all of our time’",
-      "url": "https://thehill.com/homenews/senate/6206576-sanders-democrats-trump-accountability/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T17:21:26Z"
-    },
-    {
-      "title": "Trump shares cartoon of Dana White as press secretary",
-      "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T17:09:16Z"
-    },
-    {
-      "title": "Educators and families, read past the talking points on tax credits",
-      "url": "https://thehill.com/opinion/education/6204657-educator-supports-education-freedom-tax-credit/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T17:00:00Z"
-    },
-    {
-      "title": "Democrats plot to choke off Iran war — with some GOP help",
-      "url": "https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/",
-      "source": "THE HILL",
-      "published_at": "2026-11-08T17:00:00Z"
-    },
-    {
-      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "title": "Trump staffing changes post-midterms signal he's battle ready",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
       "source": "NPR",
-      "published_at": "2026-11-08T16:46:15Z"
+      "published_at": "2026-11-08T22:04:17Z"
     },
     {
-      "title": "Challenging the politics that brought Donald Trump to power | Letters",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-08T16:37:43Z"
+      "title": "How will Democrats approach foreign policy after their midterm win?",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
+      "source": "NPR",
+      "published_at": "2026-11-08T22:04:14Z"
+    },
+    {
+      "title": "This week on the Hill: Congress returns to leadership fights, shutdown deadline after GOP losses",
+      "url": "https://thehill.com/homenews/house/6205706-gop-leadership-elections-new-congress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T22:00:00Z"
+    },
+    {
+      "title": "Democrats see new path to expand Senate majority in 2028",
+      "url": "https://thehill.com/homenews/senate/6204697-democrats-expand-2028-senate-map/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T22:00:00Z"
+    },
+    {
+      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-08T21:59:15Z"
+    },
+    {
+      "title": "White House deputy chief of staff departs under Miller shakeup",
+      "url": "https://thehill.com/homenews/administration/6206974-white-house-deputy-chief-of-staff-departs-stephen-miller/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T21:53:07Z"
+    },
+    {
+      "title": "How a digital bank’s collapse toppled Paraguay’s president - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWlVMmg2TlFMXzFudjZfRUlFWlVkYldzRzcwY2U0NVM2VUc4YXpYWDhnbHpJTHAzd25KUG9DUmJreXlEazZsZmlkWXJJal9KYUdpYmZCVkZDaUVsY3dvLUxKUWFPZW42V21FT1NhbC1vX2owY1lyQVJUdXI4b0hwTkQ1S0ptajZjNnp4LXlxVnVKN2pOZVRpbVNEYnVGcmE3THotZGh3Mll4X1k?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-08T21:38:14Z"
+    },
+    {
+      "title": "Native American women made history in tribal, state and federal elections",
+      "url": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-08T21:15:34Z"
+    },
+    {
+      "title": "Iran gives US two-day diplomacy ultimatum",
+      "url": "https://thehill.com/policy/international/6206904-iran-gives-us-two-day-diplomacy-ultimatum/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T21:06:28Z"
+    },
+    {
+      "title": "Trump says he’s ‘unlikely’ to renew attacks on Iran if talks show progress",
+      "url": "https://thehill.com/homenews/administration/6206935-trump-unlikely-attack-iran/",
+      "source": "THE HILL",
+      "published_at": "2026-11-08T21:02:25Z"
     }
   ]
 }
