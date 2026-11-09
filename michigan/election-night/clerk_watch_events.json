@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:54:49.912731+00:00",
+  "updatedAt": "2026-11-09T07:59:58.712961+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -772,6 +772,14 @@
     },
     {
       "at": "2026-11-08T18:23:01.442397+00:00",
+      "county": "Oceana",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-09T07:59:58.712961+00:00",
       "county": "Oceana",
       "kind": "page_modified",
       "newLinks": [],
