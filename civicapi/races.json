@@ -14572,22 +14572,22 @@
       "verified": true
     },
     "UT-03": {
-      "asOf": "2026-11-09T00:38:59.405000Z",
+      "asOf": "2026-11-09T07:51:40.050000Z",
       "candidates": [
         {
           "name": "Celeste Maloy",
           "party": "R",
-          "votes": 143995
+          "votes": 144009
         },
         {
           "name": "Kent Udell",
           "party": "D",
-          "votes": 88911
+          "votes": 89087
         },
         {
           "name": "Cassie Easley",
           "party": "O",
-          "votes": 7883
+          "votes": 7884
         },
         {
           "name": "Michael R. Stoddard",
@@ -14602,18 +14602,18 @@
         {
           "name": "Adonis Hooslyn",
           "party": "O",
-          "votes": 1722
+          "votes": 1723
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 93.6,
+      "precinctsReporting": 93.7,
       "raceId": "87459",
-      "retrievedAt": "2026-11-09T00:57:49.889101Z",
+      "retrievedAt": "2026-11-09T08:02:26.958447Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87459",
       "timestampBasis": "provider_last_updated",
-      "total": 252233,
+      "total": 252425,
       "verified": true
     },
     "UT-04": {
@@ -14832,33 +14832,33 @@
       "verified": true
     },
     "VA-06": {
-      "asOf": "2026-11-06T23:56:16.856000Z",
+      "asOf": "2026-11-09T07:33:02.525000Z",
       "candidates": [
         {
           "name": "Ben Cline",
           "party": "R",
-          "votes": 175926
+          "votes": 175944
         },
         {
           "name": "Beth Macy",
           "party": "D",
-          "votes": 140685
+          "votes": 140727
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 611
+          "votes": 612
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 93.5,
+      "precinctsReporting": 93.6,
       "raceId": "87466",
-      "retrievedAt": "2026-11-07T00:16:47.045965Z",
+      "retrievedAt": "2026-11-09T08:02:26.958447Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87466",
       "timestampBasis": "provider_last_updated",
-      "total": 317222,
+      "total": 317283,
       "verified": true
     },
     "VA-07": {
@@ -15052,17 +15052,17 @@
       "verified": true
     },
     "VA-SENATE": {
-      "asOf": "2026-11-08T23:27:57.231000Z",
+      "asOf": "2026-11-09T07:33:03.263000Z",
       "candidates": [
         {
           "name": "Mark Warner",
           "party": "D",
-          "votes": 2202248
+          "votes": 2202290
         },
         {
           "name": "Bert Mizusawa",
           "party": "R",
-          "votes": 1380831
+          "votes": 1380849
         },
         {
           "name": "Write-in",
@@ -15072,13 +15072,13 @@
       ],
       "election": "2026-11-03",
       "office": "senate",
-      "precinctsReporting": 96.8,
+      "precinctsReporting": 96.9,
       "raceId": "87472",
-      "retrievedAt": "2026-11-08T23:58:13.168308Z",
+      "retrievedAt": "2026-11-09T08:02:26.958447Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87472",
       "timestampBasis": "provider_last_updated",
-      "total": 3592618,
+      "total": 3592678,
       "verified": true
     },
     "VT-GOVERNOR": {
