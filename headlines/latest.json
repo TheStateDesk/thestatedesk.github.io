@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T18:40:31.154115Z",
+  "generated_at": "2026-11-10T01:59:07.026252Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,49 +15,49 @@
   ],
   "priority": [
     {
+      "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-09T23:48:36Z",
+      "source_count": 3,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5"
+        },
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Pentagon chief Hegseth expected to face House impeachment vote this week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T22:54:54Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/house/6208854-massie-escalates-hegseth-impeachment/"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
       "title": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
       "url": "https://www.pbs.org/newshour/politics/trump-says-idea-to-make-ufcs-dana-white-his-press-secretary-just-a-little-fun",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-09T16:25:14Z",
-      "source_count": 3,
+      "source_count": 2,
       "other_sources": [
         {
           "source": "BBC NEWS",
           "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
-      "url": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T15:56:08Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T15:53:44Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6207029-live-updates-trump-congress-lame-duck/"
         }
       ],
       "priority_score": 5,
@@ -66,148 +66,148 @@
   ],
   "headlines": [
     {
-      "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T18:26:03Z"
+      "title": "Returning to Washington, Republicans vent anger, frustrations after midterm drubbing",
+      "url": "https://thehill.com/the-120/6209621-gop-midterm-loss-reckoning/",
+      "source": "THE HILL",
+      "published_at": "2026-11-10T01:49:19Z"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-09T18:19:19Z"
+      "published_at": "2026-11-10T01:38:49Z"
     },
     {
-      "title": "At a Jackson store, high prices show why Mississippi US Senate race is so close - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWVxVGFHekFGWXVLb0N0U0k2d1NyWmtEbkhvUWQ1bzgwUUVDV0pBOF9JdE56UWdmTm1EZzdLUVhGTGVwQ2pMejhXZ3M1d2I3RDNJVHNmUXhVTFdRMVFQeUtWR19adlQwOUk0MEt1TEhEU2Mzc0UzbE5KUXByWVM1cFNjZzBPLXhhdmctcXVTU2xXWjZNRDQ4azF3eVE1N1FjR0ViY29mT3hZSFdtdTlaNFUzYy1qS0Q1a0E?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-09T18:07:43Z"
-    },
-    {
-      "title": "Biden: Jan. 6 riots should follow Trump ‘to his grave’",
-      "url": "https://thehill.com/homenews/administration/6208410-biden-memoir-january-6-trump/",
-      "source": "THE HILL",
-      "published_at": "2026-11-09T18:07:05Z"
-    },
-    {
-      "title": "Trump casts doubt on midterm results: ‘How could the polls be so wrong?’",
-      "url": "https://thehill.com/homenews/campaign/6208460-trump-questions-midterm-results/",
-      "source": "THE HILL",
-      "published_at": "2026-11-09T18:04:35Z"
-    },
-    {
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-09T17:47:29Z"
-    },
-    {
-      "title": "Boosting healthcare and ending the Iran war are top of the to-do list for House Democrats once they have majority",
-      "url": "https://www.pbs.org/newshour/politics/boosting-healthcare-and-ending-the-iran-war-are-top-of-the-to-do-list-for-house-democrats-once-they-have-majority",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T17:34:58Z"
-    },
-    {
-      "title": "We want your vote, but we don’t want you: Republicans failed on diversity yet again",
-      "url": "https://thehill.com/opinion/campaign/6207067-gop-must-embrace-diversity/",
-      "source": "THE HILL",
-      "published_at": "2026-11-09T17:30:00Z"
-    },
-    {
-      "title": "Obama granted me clemency after 23 years in prison. What will it take for Trump to do similar? | Letter",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/obama-clemency-years-prison-trump-6-january",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T17:23:35Z"
+      "published_at": "2026-11-10T01:31:44Z"
     },
     {
-      "title": "John Oliver on Pete Hegseth’s military plans: ‘Dr Seuss for concussed bigots’",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/john-oliver-pete-hegseth-military",
+      "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T17:04:36Z"
+      "published_at": "2026-11-10T01:03:14Z"
     },
     {
-      "title": "Two arrested near White House in separate incidents, Secret Service says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW9QcVFUNXlLNjJXVk94TkxESXlGMFZNckt6X2NoMzNVYkl5WFhuQWVYZUEwLS15bFBCRnBVMjNtM0pkRkNYd3RtSmNqSVZ0TEt4UmZHMzhLRENEamlsUENmQi1lM2p5OWtycVJxTzlpMkRDWXJWQ2JMMTJ0d0N0YWVMSGtDS0drOF9WaHdYN3V0czhCMHVXYVVGZ09XNExhSDRKeGwyNzRIWWFPVjJGbGtiMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-09T17:03:43Z"
-    },
-    {
-      "title": "WATCH LIVE: House returns to Washington after blowout election for Democrats",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-house-returns-to-washington-after-blowout-election-for-democrats",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T17:00:34Z"
-    },
-    {
-      "title": "Trump’s Christmas nightmare: The ghost of impeachment future",
-      "url": "https://thehill.com/opinion/white-house/6205525-trump-election-defeat-scrooge/",
-      "source": "THE HILL",
-      "published_at": "2026-11-09T17:00:00Z"
-    },
-    {
-      "title": "Trump calls Strait of Hormuz blockade ‘history’s greatest’",
-      "url": "https://thehill.com/homenews/administration/6208161-trump-strait-hormuz-naval-blockade/",
-      "source": "THE HILL",
-      "published_at": "2026-11-09T16:50:11Z"
-    },
-    {
-      "title": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/elon-musk-tech-bros-donald-trump",
+      "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T16:48:18Z"
+      "published_at": "2026-11-10T00:41:13Z"
     },
     {
-      "title": "EXCLUSIVE: French officials accuse Iran of being behind refrigerator hacks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-09T16:44:43Z"
-    },
-    {
-      "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
-      "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-09T16:40:11Z"
-    },
-    {
-      "title": "Midterm losses could accelerate Trump’s disturbing foreign policy goals",
-      "url": "https://thehill.com/opinion/white-house/6205119-trump-midterm-election-rebuke/",
+      "title": "5 takeaways from Trump’s surprise White House briefing",
+      "url": "https://thehill.com/homenews/administration/6209377-trump-briefing-dana-white-pete-hegseth/",
       "source": "THE HILL",
-      "published_at": "2026-11-09T16:30:00Z"
+      "published_at": "2026-11-10T00:09:56Z"
     },
     {
-      "title": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
-      "url": "https://www.pbs.org/newshour/politics/trump-says-idea-to-make-ufcs-dana-white-his-press-secretary-just-a-little-fun",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T16:25:14Z"
-    },
-    {
-      "title": "WATCH: Hegseth speaks at the Naval War College as possible impeachment vote looms",
-      "url": "https://www.pbs.org/newshour/world/watch-live-hegseth-speaks-at-the-naval-war-college-as-possible-impeachment-vote-looms",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T16:14:37Z"
-    },
-    {
-      "title": "Head of US Justice Department's civil division resigns, says Blanche - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXRyTEtYNzJHemlndGF1QmMyd29vN25Id2VpUXlXb24xVWczTHphdDR2Tks3NUlGX19kY19MTzVhNmhjYUxrdmx2NmtQbS1MNklrM05sckVJUy11N1dPWXVGTDctcWNBM2xMZ1RQRHhBTnlqTDdzNm5WckRMM1BWMVRlS0RtZ2dvMG1BUm55VnRqRlE2eDM5Y0hVU3dTb0JVNlAyR2xSQ0NycGJnQWdOanpxSQ?oc=5",
+      "title": "Russia, Ukraine to meet for US-backed talks after Trump says broad deal possible - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFJoc0ZJdUVhZlNDUWpsU1A0MVhlbWZXMGphaHktSWpjblNReDNXd3FXUVlnSzRVa2doWEtNd21vNHJXdm1vQU5qVnJJX1p6TlVVWi01Nkt0NzVrMkFXVkstdXdfVHJGaWtSeXlPdjdwZVJrTW9MQW9fV2NmS3RpT29EZU9mal9BVWNRWXJ6RGxWbnJzcGJ5aG5tM3JUM1BMUmNqdGhEVlZiRGRhTG0xMVI5ZWw0V2dwenJMT2NB?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-09T16:10:47Z"
+      "published_at": "2026-11-10T00:03:00Z"
     },
     {
-      "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
-      "url": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-09T15:56:08Z"
-    },
-    {
-      "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+      "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-09T15:53:44Z"
+      "published_at": "2026-11-09T23:48:36Z"
     },
     {
-      "title": "Rubio: Iran war not ‘necessarily popular,’ but needed",
-      "url": "https://thehill.com/homenews/administration/6207962-marco-rubio-donald-trump-iran-war-defense-gop-midterm-losses/",
+      "title": "Hegseth faces impeachment push as Congress returns to Washington",
+      "url": "https://www.pbs.org/newshour/show/hegseth-faces-impeachment-push-as-congress-returns-to-washington",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-09T23:35:16Z"
+    },
+    {
+      "title": "Senate advances bipartisan permitting reform bill, teeing up passage",
+      "url": "https://thehill.com/policy/energy-environment/6208626-bipartisan-permitting-reform-bill-energy-infrastructure/",
       "source": "THE HILL",
-      "published_at": "2026-11-09T15:52:07Z"
+      "published_at": "2026-11-09T23:35:08Z"
+    },
+    {
+      "title": "Trump Media swings to quarterly profit; Truth API boosts revenue - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLW8wVzFqUF92NDVlYl8tVUZMYWFDYkUwaWFESmYwaTlIVkFqNUNFcTdLdnZKZFUzVkJEdGREMC01Qjl6TDJmN1BqN3FXbWN0NWxOd2loaDVOWjBEVHpUNVpQaFJ6al9vZ2FiNHNONUtsQ2w0QU1lc28yNjY3c1FTcDdRbVZVUjJiU3Y2cXZoZG94eFlQZXNDdWtCRmxXZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T23:24:18Z"
+    },
+    {
+      "title": "Trump attacks Massie as ‘stone cold loser’ in combative press conference",
+      "url": "https://thehill.com/policy/defense/6209413-trump-calls-massie-loser/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T23:23:20Z"
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on how Trump will govern after the blue wave",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-how-trump-will-govern-after-the-blue-wave",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-09T23:20:06Z"
+    },
+    {
+      "title": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T23:15:43Z"
+    },
+    {
+      "title": "Trump says Qatar, Saudi prefer peace in Iran conflict - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T23:07:09Z"
+    },
+    {
+      "title": "WATCH: Trump says FBI is looking into Nvidia CEO Jensen Huang's affair with alleged Chinese agent",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-looking-into-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-09T23:04:24Z"
+    },
+    {
+      "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-09T22:58:31Z"
+    },
+    {
+      "title": "Pentagon chief Hegseth expected to face House impeachment vote this week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T22:54:54Z"
+    },
+    {
+      "title": "Dana White takes podium at White House press briefing",
+      "url": "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T22:40:36Z"
+    },
+    {
+      "title": "Trump says he ‘will not approve wind turbines’ despite support for permitting reform bill",
+      "url": "https://thehill.com/policy/energy-environment/6209267-trump-wind-turbines-permitting-reform-bill/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T22:36:12Z"
+    },
+    {
+      "title": "Supreme Court allows Trump border wall at Big Bend National Park in Texas - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkJpVmZsai1WS0dCdl9Fa1hVNGtGV2RhNHMtZVJuUG5EU3JZZ2xCbWhYbjE1aUxJUVJubjdhSEpUMFR0cFpJeFJFT3RWVWU2UVZaU3lpZGxFSkY4VTVESmo5ZjZyMGpBemc4VW9yOWJ6MEVjVnhxQV9IcmVLVThhci1NT0IzMkZnQzFaZG5xdWp2cWZxTFZYd3F5ZUpmRE9pX0hhTzJ4QnYydG5VUUE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-09T22:31:45Z"
+    },
+    {
+      "title": "Trump signals no Iran strikes coming after meeting Qatari leader",
+      "url": "https://thehill.com/homenews/administration/6209247-trump-downplays-iran-military-action/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T22:31:34Z"
+    },
+    {
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "source": "NPR",
+      "published_at": "2026-11-09T22:30:49Z"
+    },
+    {
+      "title": "Colom calls out election raters for writing off his Mississippi Senate campaign",
+      "url": "https://thehill.com/homenews/campaign/6209217-colom-blasts-election-forecasters/",
+      "source": "THE HILL",
+      "published_at": "2026-11-09T22:27:41Z"
     }
   ]
 }
