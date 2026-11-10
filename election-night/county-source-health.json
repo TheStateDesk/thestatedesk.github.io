@@ -1,7 +1,7 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-10T07:28:20.947971+00:00",
+  "checkedAt": "2026-11-10T16:28:06.946518+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
@@ -390,8 +390,8 @@
         "26031": {
           "county": "Cheboygan",
           "sourceUrl": "https://www.cheboygancounty.net",
-          "connectivity": "unavailable",
-          "note": "HTTP 502 to robot",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -768,8 +768,8 @@
         "26115": {
           "county": "Monroe",
           "sourceUrl": "https://www.co.monroe.mi.us",
-          "connectivity": "reachable",
-          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
+          "connectivity": "indeterminate",
+          "note": "Connection timeout or automated access blocked",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
