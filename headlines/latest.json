@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T23:09:30.788584Z",
+  "generated_at": "2026-11-11T02:57:51.923559Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,6 +14,21 @@
     "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
   "priority": [
+    {
+      "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+      "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-10T23:55:40Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
     {
       "title": "Bacon plans to vote ‘no’ on Hegseth impeachment",
       "url": "https://thehill.com/homenews/house/6210923-bacon-opposes-hegseth-impeachment/",
@@ -30,15 +45,19 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:49:17Z",
-      "source_count": 2,
+      "published_at": "2026-11-11T01:18:56Z",
+      "source_count": 3,
       "other_sources": [
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/"
+          "source": "BBC NEWS",
+          "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5"
         }
       ],
       "priority_score": 5,
@@ -64,12 +83,8 @@
       "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-10T22:26:53Z",
-      "source_count": 3,
+      "source_count": 2,
       "other_sources": [
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
-        },
         {
           "source": "THE HILL",
           "url": "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/"
@@ -96,148 +111,148 @@
   ],
   "headlines": [
     {
-      "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/10/chuck-schumer-confident-on-senate-leadership-role-bernie-sanders-video",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:53:51Z"
-    },
-    {
-      "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:49:17Z"
+      "published_at": "2026-11-11T02:24:17Z"
     },
     {
-      "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:42:43Z"
-    },
-    {
-      "title": "Biden’s book reveals ‘very generous letter’ from Trump during 2021 transition",
-      "url": "https://thehill.com/homenews/administration/6212102-biden-reveals-trump-letter/",
+      "title": "Permitting reform bill advances closer to Senate finish",
+      "url": "https://thehill.com/homenews/6212389-senate-advances-infrastructure-energy-bill/",
       "source": "THE HILL",
-      "published_at": "2026-11-10T22:31:11Z"
+      "published_at": "2026-11-11T02:09:19Z"
     },
     {
-      "title": "Trump administration finalizes $480 million loan to Arena, in first such aid to oil and gas - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRktLNWo1UVNPc3A4Yy0zWDFESVl1TDVwRnluOXVDY2w0RmF1OGFWb05icUx2ckVJLWViRy1Ra0ZUUXFCdndHNjVjdzNkY3hSTEl1WWtReGs3N3Y0ZUZTNDBkMy1ORFRQaVFWR0lVOHR3VE81bnQ2U3pqaHV3MzNPWmdmd252bTNPV25wdkNfWnhJUEFDSWxJU1JSWWg3YTRZaFY3cGk4dDVSUEU1SWlfYkpTUS14MUtJVHF0OHpVZTFNa0k?oc=5",
+      "title": "Kennedy family members join legal fight over Trump’s arch",
+      "url": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T01:52:23Z"
+    },
+    {
+      "title": "California GOP Rep. Ken Calvert defeats Rep. Young Kim in race for merged 40th District",
+      "url": "https://thehill.com/homenews/campaign/6194420-calvert-wins-ca-40th-district/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T01:19:22Z"
+    },
+    {
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T01:18:56Z"
+    },
+    {
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T01:18:09Z"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T01:14:40Z"
+    },
+    {
+      "title": "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T22:27:44Z"
+      "published_at": "2026-11-11T01:00:00Z"
     },
     {
-      "title": "'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader",
-      "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-10T22:26:53Z"
+      "title": "Norman gives Trump an ‘F’ on South Carolina midterm performance",
+      "url": "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T00:24:28Z"
     },
     {
-      "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:16:32Z"
+      "published_at": "2026-11-10T23:56:11Z"
     },
     {
-      "title": "Democrats escalate probe of Trump admin drug pricing deals",
-      "url": "https://thehill.com/policy/healthcare/6212045-democrats-demand-mfn-drug-details/",
+      "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+      "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-10T23:55:40Z"
+    },
+    {
+      "title": "US judge says Trump’s $10 billion BBC defamation case can proceed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-10T23:47:00Z"
+    },
+    {
+      "title": "Moreno responds to former son-in-law Miller’s re-election loss",
+      "url": "https://thehill.com/homenews/senate/6212163-moreno-reacts-miller-defeat-elections/",
       "source": "THE HILL",
-      "published_at": "2026-11-10T22:12:41Z"
+      "published_at": "2026-11-10T23:46:27Z"
     },
     {
-      "title": "Cornyn: Talarico will have ‘interesting time navigating a red state as a Democrat’",
-      "url": "https://thehill.com/the-120/6212040-cornyn-talarico-senate-transition/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T22:07:12Z"
-    },
-    {
-      "title": "House GOP report critical of Epstein investigation",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
+      "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
       "source": "NPR",
-      "published_at": "2026-11-10T21:43:31Z"
+      "published_at": "2026-11-10T23:43:59Z"
     },
     {
-      "title": "Whitmer presses Trump administration on tariffs, grocery reimbursements",
-      "url": "https://thehill.com/homenews/state-watch/6211901-whitmer-demands-food-tariff-reimbursement/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T21:41:40Z"
-    },
-    {
-      "title": "Tillis ‘leaning toward’ impeaching Hegseth if articles reach Senate",
-      "url": "https://thehill.com/policy/defense/6211868-tillis-hegseth-impeachment-dod-pentagon/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T21:23:30Z"
-    },
-    {
-      "title": "Justice Department sues Lyft for alleged discrimination against disabled passengers",
-      "url": "https://thehill.com/regulation/court-battles/6211841-doj-sues-lyft-disability-discrimination/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T21:22:02Z"
-    },
-    {
-      "title": "John Kerry says China now leads on green energy: ‘The rest of the world is stumbling along’",
-      "url": "https://thehill.com/policy/energy-environment/6211803-kerry-warns-china-clean-energy-dominance/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T21:14:26Z"
-    },
-    {
-      "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
+      "title": "Thune, Jordan emerge as Republican minority leaders for next US Congress - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE5pQkRIY0JYdW1mRGtidndvN2hYcHFRaXRuTVdtTnNLaXNzMGdPcEpWREhMclc0YVdTdk10TGNXR0U2Nml5bkNVdjY4OU90SWdIOXgtLVJwWE9xQ0ttR1MwTkI4SV84VFBlZm9hbXA0d0lFR2dQMW5NR0Q1dmVjRlo4bENFLTJ6NHVGY2NwSGREMzhraXRTQkZZcjNEdkc4TFZZczg1RlZ0V1RNSkdpOEFxV01pWlFPbXc?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T21:11:43Z"
+      "published_at": "2026-11-10T23:38:09Z"
     },
     {
-      "title": "Senate Republicans vote to keep Thune as leader after election wipeout",
-      "url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+      "title": "Salazar keeps House seat after break with Trump on immigration",
+      "url": "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
+      "source": "THE HILL",
+      "published_at": "2026-11-10T23:36:07Z"
+    },
+    {
+      "title": "Mississippi voters reflect on surprising Senate race as count continues",
+      "url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-10T21:05:55Z"
+      "published_at": "2026-11-10T23:35:03Z"
     },
     {
-      "title": "Thune elected Senate GOP leader after bruising showdown with critics",
-      "url": "https://thehill.com/homenews/senate/6211797-john-thune-senate-leader-reelected/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:58:12Z"
+      "title": "Farewell to the electoral college? Democrats now control enough states to elevate the popular vote",
+      "url": "https://www.pbs.org/newshour/politics/farewell-to-the-electoral-college-democrats-now-control-enough-states-to-elevate-the-popular-vote",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-10T23:28:51Z"
     },
     {
-      "title": "McClain beats Steube and Houchin for GOP conference chair",
-      "url": "https://thehill.com/the-120/6211765-lisa-mcclain-wins-gop-chair/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:47:38Z"
+      "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+      "source": "NPR",
+      "published_at": "2026-11-10T23:27:32Z"
     },
     {
-      "title": "Hyde-Smith ‘feeling very optimistic’ despite trailing in Mississippi vote count",
-      "url": "https://thehill.com/homenews/campaign/6211683-hyde-smith-optimistic-mississippi-election/",
+      "title": "Live updates: Hegseth impeachment effort fails; GOP picks Thune, Jordan to lead",
+      "url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
       "source": "THE HILL",
-      "published_at": "2026-11-10T20:35:27Z"
+      "published_at": "2026-11-10T23:20:03Z"
     },
     {
-      "title": "Sanders, Slotkin won’t back Schumer as Senate Democratic leader",
-      "url": "https://thehill.com/homenews/6211705-sanders-slotkin-oppose-schumer/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:28:53Z"
+      "title": "Who is Jim Jordan? Far-right Trump ideologue to lead diminished Republican ranks",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-10T23:12:12Z"
     },
     {
-      "title": "Cruz launches ‘Saving Texas’ headquarters after GOP midterm losses",
-      "url": "https://thehill.com/homenews/campaign/6211634-ted-cruz-launches-texas-gop-hq/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:26:22Z"
+      "title": "Explainer: How would impeaching Pentagon chief Hegseth work? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWhYdFkwaTUzVUx1RldDaV8tM0dhZ0FTNUh1UGJXcGlrc0s1T0FmamhCd0h5LXpsdWZSNmh5QTFndWc1dFlTWWI5R1VXSnY3eVo5Q1BFTEpMZVVGN3Ixd2ZtWTNMaTM2QlZrZkM1cHBmTHdoZTJUd3pqZl9kbVJJd3dCdVB5MXNsZ21zbDVGakFuR0RKVVdkWVdTV3piRHZSQ0Fj?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-10T23:10:15Z"
     },
     {
-      "title": "Schumer says Trump support of Nvidia CEO a ‘dereliction of duty’",
-      "url": "https://thehill.com/policy/national-security/6211619-schumer-slams-trump-nvidia-ceo/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:23:27Z"
+      "title": "US lawmakers push China chip rules after Nvidia CEO allegations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWxqUnFpSkZaOE5LVFZnaWZJaHhteVV2dkdiQnRnX1Zua2Jnd0N3VVBxSzBtOWhETm92Mk9EY0JMbEZMNV9ibThnaWhjd1Y5RTZfMEoxYkk0TTF4Zlk4cmd2RnV2bV85VExSZmswbEJFNmZuZGNBMHYwUklvTjNmdDR1cEIteDdzSlJDc2ZVT3FrS0lZaUVJb1J2MDBvdWtNR0l5NllodU1WUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-10T23:05:21Z"
     },
     {
-      "title": "Key Democrats shrug off Trump’s wind comments: ‘We chalk that up to him being 80’",
-      "url": "https://thehill.com/policy/energy-environment/6211611-trump-wind-turbines-bipartisan-permitting-reform-bill/",
+      "title": "House GOP shelves Pete Hegseth impeachment articles",
+      "url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
       "source": "THE HILL",
-      "published_at": "2026-11-10T20:14:27Z"
-    },
-    {
-      "title": "‘I don’t like the prospect of losing’: Supreme Court visa fine argument leaves DOJ worried",
-      "url": "https://thehill.com/regulation/court-battles/6211544-supreme-court-h2a-visa-case/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T20:06:05Z"
+      "published_at": "2026-11-10T23:04:49Z"
     }
   ]
 }
