@@ -8082,17 +8082,17 @@
       "verified": true
     },
     "MS-01": {
-      "asOf": "2026-11-11T21:29:01.603000Z",
+      "asOf": "2026-11-11T22:43:12.826000Z",
       "candidates": [
         {
           "name": "Trent Kelly",
           "party": "R",
-          "votes": 139986
+          "votes": 140018
         },
         {
           "name": "Cliff Johnson",
           "party": "D",
-          "votes": 96685
+          "votes": 96757
         },
         {
           "name": "Johnny Baucom",
@@ -8104,41 +8104,41 @@
       "office": "house",
       "precinctsReporting": 99.0,
       "raceId": "81000",
-      "retrievedAt": "2026-11-11T21:30:37.003037Z",
+      "retrievedAt": "2026-11-11T22:44:05.628252Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/81000",
       "timestampBasis": "provider_last_updated",
-      "total": 240020,
+      "total": 240124,
       "verified": true
     },
     "MS-02": {
-      "asOf": "2026-11-11T21:29:01.877000Z",
+      "asOf": "2026-11-11T22:43:12.969000Z",
       "candidates": [
         {
           "name": "Bennie Thompson",
           "party": "D",
-          "votes": 166531
+          "votes": 166636
         },
         {
           "name": "Ron Eller",
           "party": "R",
-          "votes": 73515
+          "votes": 73538
         },
         {
           "name": "Bennie Foster",
           "party": "O",
-          "votes": 5935
+          "votes": 5940
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 98.0,
       "raceId": "81001",
-      "retrievedAt": "2026-11-11T21:30:37.003037Z",
+      "retrievedAt": "2026-11-11T22:44:05.628252Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/81001",
       "timestampBasis": "provider_last_updated",
-      "total": 245981,
+      "total": 246114,
       "verified": true
     },
     "MS-03": {
@@ -8202,33 +8202,33 @@
       "verified": true
     },
     "MS-SENATE": {
-      "asOf": "2026-11-11T21:29:02.442000Z",
+      "asOf": "2026-11-11T22:43:13.330000Z",
       "candidates": [
         {
           "name": "Scott Colom",
           "party": "D",
-          "votes": 471859
+          "votes": 472375
         },
         {
           "name": "Cindy Hyde-Smith",
           "party": "R",
-          "votes": 467384
+          "votes": 467659
         },
         {
           "name": "Ty Pinkins",
           "party": "O",
-          "votes": 20147
+          "votes": 20163
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
-      "precinctsReporting": 98.7,
+      "precinctsReporting": 98.8,
       "raceId": "81004",
-      "retrievedAt": "2026-11-11T21:30:37.003037Z",
+      "retrievedAt": "2026-11-11T22:44:05.628252Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/81004",
       "timestampBasis": "provider_last_updated",
-      "total": 959390,
+      "total": 960197,
       "verified": true
     },
     "MT-01": {

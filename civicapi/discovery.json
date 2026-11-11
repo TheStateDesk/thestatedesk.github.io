@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-11T21:30:37.003037Z",
+  "checkedAt": "2026-11-11T22:44:05.628252Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -146,8 +146,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-11T21:16:28.413Z",
-      "responseMs": 133
+      "providerTimestamp": "2026-11-11T22:32:10.560Z",
+      "responseMs": 101
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -178,8 +178,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-11T21:23:40.684Z",
-      "responseMs": 175
+      "providerTimestamp": "2026-11-11T22:19:00.714Z",
+      "responseMs": 123
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -188,7 +188,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 173
+      "responseMs": 88
     }
   },
   "publishedRaces": 499,
@@ -2042,18 +2042,18 @@
       "validatedVoteTotal": 225436
     },
     "MS-01": {
-      "lastSuccessfulRetrievalAt": "2026-11-11T21:30:37.003037Z",
-      "lastValidatedResultAt": "2026-11-11T21:29:01.603000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T22:44:05.628252Z",
+      "lastValidatedResultAt": "2026-11-11T22:43:12.826000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 240020
+      "validatedVoteTotal": 240124
     },
     "MS-02": {
-      "lastSuccessfulRetrievalAt": "2026-11-11T21:30:37.003037Z",
-      "lastValidatedResultAt": "2026-11-11T21:29:01.877000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T22:44:05.628252Z",
+      "lastValidatedResultAt": "2026-11-11T22:43:12.969000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 245981
+      "validatedVoteTotal": 246114
     },
     "MS-03": {
       "lastSuccessfulRetrievalAt": "2026-11-11T15:18:50.436919Z",
@@ -2070,11 +2070,11 @@
       "validatedVoteTotal": 215363
     },
     "MS-SENATE": {
-      "lastSuccessfulRetrievalAt": "2026-11-11T21:30:37.003037Z",
-      "lastValidatedResultAt": "2026-11-11T21:29:02.442000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T22:44:05.628252Z",
+      "lastValidatedResultAt": "2026-11-11T22:43:13.330000Z",
       "office": "senate",
       "status": "reporting",
-      "validatedVoteTotal": 959390
+      "validatedVoteTotal": 960197
     },
     "MT-01": {
       "lastSuccessfulRetrievalAt": "2026-11-10T17:54:28.774326Z",
@@ -3777,6 +3777,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 27,
+  "updatedRaces": 3,
   "version": 2
 }
