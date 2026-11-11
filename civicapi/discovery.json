@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-11T06:34:57.780697Z",
+  "checkedAt": "2026-11-11T09:47:36.434988Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -146,8 +146,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-11T06:33:31.205Z",
-      "responseMs": 28
+      "providerTimestamp": "2026-11-11T09:36:22.960Z",
+      "responseMs": 40
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -178,8 +178,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-11T06:10:31.901Z",
-      "responseMs": 32
+      "providerTimestamp": "2026-11-11T09:25:11.764Z",
+      "responseMs": 103
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -188,7 +188,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 31
+      "responseMs": 43
     }
   },
   "publishedRaces": 499,
@@ -2098,11 +2098,11 @@
       "validatedVoteTotal": 489120
     },
     "NC-01": {
-      "lastSuccessfulRetrievalAt": "2026-11-11T06:34:57.780697Z",
-      "lastValidatedResultAt": "2026-11-11T06:33:54.891000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T09:47:36.434988Z",
+      "lastValidatedResultAt": "2026-11-11T09:46:01.444000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 314134
+      "validatedVoteTotal": 314157
     },
     "NC-02": {
       "lastSuccessfulRetrievalAt": "2026-11-11T06:34:57.780697Z",
@@ -2140,11 +2140,11 @@
       "validatedVoteTotal": 274835
     },
     "NC-07": {
-      "lastSuccessfulRetrievalAt": "2026-11-10T23:27:22.306134Z",
-      "lastValidatedResultAt": "2026-11-10T23:22:17.929000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T09:47:36.434988Z",
+      "lastValidatedResultAt": "2026-11-11T09:46:02.107000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 321997
+      "validatedVoteTotal": 322307
     },
     "NC-08": {
       "lastSuccessfulRetrievalAt": "2026-11-11T06:34:57.780697Z",
@@ -2154,11 +2154,11 @@
       "validatedVoteTotal": 293268
     },
     "NC-09": {
-      "lastSuccessfulRetrievalAt": "2026-11-10T23:27:22.306134Z",
-      "lastValidatedResultAt": "2026-11-10T23:22:18.180000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T09:47:36.434988Z",
+      "lastValidatedResultAt": "2026-11-11T09:46:02.296000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 272030
+      "validatedVoteTotal": 272258
     },
     "NC-10": {
       "lastSuccessfulRetrievalAt": "2026-11-10T23:27:22.306134Z",
@@ -2196,11 +2196,11 @@
       "validatedVoteTotal": 289297
     },
     "NC-SENATE": {
-      "lastSuccessfulRetrievalAt": "2026-11-11T06:34:57.780697Z",
-      "lastValidatedResultAt": "2026-11-11T06:33:58.266000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-11T09:47:36.434988Z",
+      "lastValidatedResultAt": "2026-11-11T09:46:03.003000Z",
       "office": "senate",
       "status": "reporting",
-      "validatedVoteTotal": 4221501
+      "validatedVoteTotal": 4222084
     },
     "ND-01": {
       "lastSuccessfulRetrievalAt": "2026-11-04T05:31:25.430470Z",
@@ -3777,6 +3777,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 126,
+  "updatedRaces": 4,
   "version": 2
 }

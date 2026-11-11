@@ -8332,17 +8332,17 @@
       "verified": true
     },
     "NC-01": {
-      "asOf": "2026-11-11T06:33:54.891000Z",
+      "asOf": "2026-11-11T09:46:01.444000Z",
       "candidates": [
         {
           "name": "Don Davis",
           "party": "D",
-          "votes": 157489
+          "votes": 157506
         },
         {
           "name": "Laurie Buckhout",
           "party": "R",
-          "votes": 146700
+          "votes": 146706
         },
         {
           "name": "Tom Bailey",
@@ -8354,11 +8354,11 @@
       "office": "house",
       "precinctsReporting": 96.7,
       "raceId": "87332",
-      "retrievedAt": "2026-11-11T06:34:57.780697Z",
+      "retrievedAt": "2026-11-11T09:47:36.434988Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87332",
       "timestampBasis": "provider_last_updated",
-      "total": 314134,
+      "total": 314157,
       "verified": true
     },
     "NC-02": {
@@ -8512,33 +8512,33 @@
       "verified": true
     },
     "NC-07": {
-      "asOf": "2026-11-10T23:22:17.929000Z",
+      "asOf": "2026-11-11T09:46:02.107000Z",
       "candidates": [
         {
           "name": "David Rouzer",
           "party": "R",
-          "votes": 160605
+          "votes": 160701
         },
         {
           "name": "Kim Hardy",
           "party": "D",
-          "votes": 158227
+          "votes": 158431
         },
         {
           "name": "Maad Abu-Ghazalah",
           "party": "O",
-          "votes": 3165
+          "votes": 3175
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.1,
+      "precinctsReporting": 94.2,
       "raceId": "87338",
-      "retrievedAt": "2026-11-10T23:27:22.306134Z",
+      "retrievedAt": "2026-11-11T09:47:36.434988Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87338",
       "timestampBasis": "provider_last_updated",
-      "total": 321997,
+      "total": 322307,
       "verified": true
     },
     "NC-08": {
@@ -8572,28 +8572,28 @@
       "verified": true
     },
     "NC-09": {
-      "asOf": "2026-11-10T23:22:18.180000Z",
+      "asOf": "2026-11-11T09:46:02.296000Z",
       "candidates": [
         {
           "name": "Richard Ojeda",
           "party": "D",
-          "votes": 139124
+          "votes": 139315
         },
         {
           "name": "Richard Hudson",
           "party": "R",
-          "votes": 132906
+          "votes": 132943
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 93.7,
+      "precinctsReporting": 93.8,
       "raceId": "87340",
-      "retrievedAt": "2026-11-10T23:27:22.306134Z",
+      "retrievedAt": "2026-11-11T09:47:36.434988Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87340",
       "timestampBasis": "provider_last_updated",
-      "total": 272030,
+      "total": 272258,
       "verified": true
     },
     "NC-10": {
@@ -8737,38 +8737,38 @@
       "verified": true
     },
     "NC-SENATE": {
-      "asOf": "2026-11-11T06:33:58.266000Z",
+      "asOf": "2026-11-11T09:46:03.003000Z",
       "candidates": [
         {
           "name": "Roy Cooper",
           "party": "D",
-          "votes": 2480272
+          "votes": 2480707
         },
         {
           "name": "Michael Whatley",
           "party": "R",
-          "votes": 1648464
+          "votes": 1648593
         },
         {
           "name": "Shannon Bray",
           "party": "O",
-          "votes": 56063
+          "votes": 56074
         },
         {
           "name": "Michael Dublin",
           "party": "O",
-          "votes": 36702
+          "votes": 36710
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
       "precinctsReporting": 95.4,
       "raceId": "87346",
-      "retrievedAt": "2026-11-11T06:34:57.780697Z",
+      "retrievedAt": "2026-11-11T09:47:36.434988Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87346",
       "timestampBasis": "provider_last_updated",
-      "total": 4221501,
+      "total": 4222084,
       "verified": true
     },
     "ND-01": {
