@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:28:48.440854+00:00",
+  "updatedAt": "2026-11-11T07:45:51.305345+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -832,6 +832,22 @@
       "kind": "page_modified",
       "newLinks": [],
       "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-11T07:45:51.305345+00:00",
+      "county": "Houghton",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://www.houghtoncounty.net/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-11T07:45:51.305345+00:00",
+      "county": "Livingston",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://milivcounty.gov/elections/election-results/",
       "notice": "Source change is not an election return"
     }
   ]
