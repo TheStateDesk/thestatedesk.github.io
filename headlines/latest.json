@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T02:57:51.923559Z",
+  "generated_at": "2026-11-11T10:41:21.597399Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -30,18 +30,33 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Bacon plans to vote ‘no’ on Hegseth impeachment",
-      "url": "https://thehill.com/homenews/house/6210923-bacon-opposes-hegseth-impeachment/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T16:40:07Z",
+      "title": "Kennedys sue to block Trump's arch, citing shadow over JFK's grave",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch-citing-shadow-over-jfks-grave",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:58Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/watch-live-house-expected-to-hold-preliminary-vote-on-hegseth-impeachment-as-gop-chooses-next-leader"
+          "source": "BBC NEWS",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "priority_score": 9,
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T09:11:31Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5"
+        }
+      ],
+      "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
@@ -64,21 +79,6 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T22:42:43Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/the-120/6211341-republicans-elect-jim-jordan-minority-leader/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
       "title": "'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader",
       "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader",
       "source": "PBS NEWSHOUR",
@@ -92,167 +92,152 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T16:27:13Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/policy/defense/6210107-republicans-iran-war-end-survey-reuters/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T10:15:12Z"
+    },
+    {
+      "title": "Kennedys sue to block Trump's arch, citing shadow over JFK's grave",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch-citing-shadow-over-jfks-grave",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:58Z"
+    },
+    {
+      "title": "Ex-CIA officer on UK investigations into alleged Iran, Russia threats",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6036829/ex-cia-officer-on-uk-investigations-into-alleged-iran-russia-threats",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:57Z"
+    },
+    {
+      "title": "Close Trump ally to lead House Republicans next year",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6035795/close-trump-ally-to-lead-house-republicans-next-year",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:52Z"
+    },
+    {
+      "title": "Mixed results from ballot measures on abortion and trans issues",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6035718/mixed-results-from-ballot-measures-on-abortion-and-trans-issues",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:50Z"
+    },
+    {
+      "title": "Michel Martin speaks to Republican advisor about GOP leadership vote",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6035785/michel-martin-speaks-to-republican-advisor-about-gop-leadership-vote",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:46Z"
+    },
+    {
+      "title": "Ex-GOP lawmaker, turned California Independent, talks reelection bid defeat",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6034566/ex-gop-lawmaker-turned-california-independent-talks-reelection-bid-defeat",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:02:43Z"
+    },
+    {
+      "title": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense",
+      "source": "NPR",
+      "published_at": "2026-11-11T10:00:00Z"
+    },
+    {
+      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T09:11:31Z"
+    },
+    {
+      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzM1dGUzNzlPWFJ6dTlBMGc4OHdjSWlRZ0d6Y3NERDNEcmpzUGF0LUFYM0hrUDJRZDFFOE01YVFrWGpPSEtEVV9OelI5NnNXbXcxUkhuR2ZvNzFseWlTRkNfcGFzRVNHNjBiX055akdLaEM4eTh3NTFNcUx4RHdmUmtjTm1NTGNoWjRGQWdnbk9kN1M3eFRvMjVBeDYxbzdHcGdYUkdWV2E?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T07:14:00Z"
+    },
+    {
+      "title": "Ukraine's path to EU accession narrows as war drags on - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGQ3Vnl3Q3JxLUxKMjE3OUdLSG5lYi1LRXZLTjR4U1hhSE1sMFdZWlB2ZHRrMEJnd2pRbGdlUWxkcHN3aHhNUmEyd2s3LUtRaHhtYVE1cWZ3cEE1aUpJRFB1TUJINXUxWE9VMVJKcnc3YnZVaDd3VE5vRTNUd2ZGT3BDZ2xaNWtBcDI2RWFtOS1VVjBlMHNvcg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T07:04:00Z"
+    },
+    {
+      "title": "For Trump, Musk and Farage, the message is the same: voters don’t want to be hijacked by billionaires | Rafael Behr",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-elon-musk-nigel-farage-voters-billionaires-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T07:00:32Z"
+    },
+    {
+      "title": "Over 100 Indonesian lawmakers sign petition demanding vice president's impeachment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTZ0Q3FKQkpsRnZBSlJKMHFqS3d1QV9qTXp5aUpidXh5eEF3amd5aWh0YUFfbnJHYVQ4c29LaVRQTDJKbkRiUHBuTERNU1RuRnJ4dlFGdlY2ZWJIYjN1RmRQeUF6bkNITTFjQ2tUWlpUQWJqd3ZFQ1FOSnR4MkRzSm5uaDVoSjlOZVgwUHRkX1JCVTItVE1NUnVIQjZxcTd0N3V2NDUxSm9aUldEUWZQeVB6WGIxT0lQTE5QY2F4SG9PaTgxRGZkcnNB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T06:47:00Z"
+    },
+    {
+      "title": "Iran designates Argentina's navy and air force as 'terrorist organizations' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T06:10:00Z"
+    },
+    {
+      "title": "Who is Stephen Miller, the new gateway man to Trump - podcast",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/nov/11/who-is-stephen-miller-the-new-gateway-man-to-trump-decoding-america-podcast",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T06:08:15Z"
+    },
+    {
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2NpOWxKOEdIcDkzeElRQWNmX2RJRWpCcGtETmFEZlZJRmlaZ1ZMQW9EMV9Sa0N1WWtVUkRaUVh2VkJKcWQ1QjhFRkt6NTlXa2ZnRGJrMTkySV9NMXBDZXNQOVM2R1VLTTRFZUNjTzFYMEZ5TnljMVlHY19fS0ZreXVMeXJPeEdWbVJpNDJQYWZjTGtCMFR1SExyenpLZnJOT3hWQkZmRWFsbWd1dzNTV2x2ak11di1aTVUzbmQ0QlpDUV9lWjBwQkJqWXM3dw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T05:55:00Z"
+    },
+    {
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T03:44:06Z"
+    },
+    {
+      "title": "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakhNTHdFSEhVdlBiTnJYLTZJZklCRG1iOWR3SzRlNW5MNGdGZ2xBcUtLZXdwSm5qZ1lpei1DOHdIUGpkdmVaZ3cwM29INlJ1c3V1T1hLSUcxdFYwSGdGM2tnV1VNVEZiMWYzYlUzQUpyV3F6N3VLbHlkWTVCaDczZmJLdVNsbUZhX2lWRnVMR28zZDZUUFBvUjdqdUR2VW84SndUNkFzWk9Fd2RwYnFfU2ZjRW5USXNkNXBZ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T03:43:00Z"
+    },
+    {
+      "title": "House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment",
+      "url": "https://thehill.com/homenews/house/6212500-stansbury-misses-hegseth-vote/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T03:09:50Z"
+    },
+    {
+      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-11T02:24:17Z"
+      "published_at": "2026-11-11T02:55:46Z"
+    },
+    {
+      "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0y8r54pqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T02:53:57Z"
+    },
+    {
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-11T02:41:16Z"
+    },
+    {
+      "title": "Oil steadies as Hormuz attacks blunt hopes for Iran truce - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T02:10:00Z"
     },
     {
       "title": "Permitting reform bill advances closer to Senate finish",
       "url": "https://thehill.com/homenews/6212389-senate-advances-infrastructure-energy-bill/",
       "source": "THE HILL",
       "published_at": "2026-11-11T02:09:19Z"
-    },
-    {
-      "title": "Kennedy family members join legal fight over Trump’s arch",
-      "url": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T01:52:23Z"
-    },
-    {
-      "title": "California GOP Rep. Ken Calvert defeats Rep. Young Kim in race for merged 40th District",
-      "url": "https://thehill.com/homenews/campaign/6194420-calvert-wins-ca-40th-district/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T01:19:22Z"
-    },
-    {
-      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-11T01:18:56Z"
-    },
-    {
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-11T01:18:09Z"
-    },
-    {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-11T01:14:40Z"
-    },
-    {
-      "title": "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T01:00:00Z"
-    },
-    {
-      "title": "Norman gives Trump an ‘F’ on South Carolina midterm performance",
-      "url": "https://thehill.com/homenews/campaign/6212326-norman-gives-trump-f-grade/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T00:24:28Z"
-    },
-    {
-      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T23:56:11Z"
-    },
-    {
-      "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
-      "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-10T23:55:40Z"
-    },
-    {
-      "title": "US judge says Trump’s $10 billion BBC defamation case can proceed - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXBMT2FsRHRuMzJPbE1qVmxwbUllWmUxZk5ENGVBSGthMGxsUjVDZFhiMEhNalJVdU5ZejhYcVo3SlBtTjZ5d09QVlF6QmdHYkZHSkxFQ2R3SXRTZXZtUU1IcjdoQjctb1FxcTNtalRtcWVqTms1aFhoR1pYRDlfZGhnUWc5b0cxdFVmOWg4WEw3STUwX05PVFZPTm9sTW9xbzc0S2NHQlBNRGd5WExTaHhiQTVXMDA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T23:47:00Z"
-    },
-    {
-      "title": "Moreno responds to former son-in-law Miller’s re-election loss",
-      "url": "https://thehill.com/homenews/senate/6212163-moreno-reacts-miller-defeat-elections/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T23:46:27Z"
-    },
-    {
-      "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
-      "source": "NPR",
-      "published_at": "2026-11-10T23:43:59Z"
-    },
-    {
-      "title": "Thune, Jordan emerge as Republican minority leaders for next US Congress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE5pQkRIY0JYdW1mRGtidndvN2hYcHFRaXRuTVdtTnNLaXNzMGdPcEpWREhMclc0YVdTdk10TGNXR0U2Nml5bkNVdjY4OU90SWdIOXgtLVJwWE9xQ0ttR1MwTkI4SV84VFBlZm9hbXA0d0lFR2dQMW5NR0Q1dmVjRlo4bENFLTJ6NHVGY2NwSGREMzhraXRTQkZZcjNEdkc4TFZZczg1RlZ0V1RNSkdpOEFxV01pWlFPbXc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T23:38:09Z"
-    },
-    {
-      "title": "Salazar keeps House seat after break with Trump on immigration",
-      "url": "https://thehill.com/homenews/campaign/6163186-maria-elvira-salazar-florida-27th-district-reelection/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T23:36:07Z"
-    },
-    {
-      "title": "Mississippi voters reflect on surprising Senate race as count continues",
-      "url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-10T23:35:03Z"
-    },
-    {
-      "title": "Farewell to the electoral college? Democrats now control enough states to elevate the popular vote",
-      "url": "https://www.pbs.org/newshour/politics/farewell-to-the-electoral-college-democrats-now-control-enough-states-to-elevate-the-popular-vote",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-10T23:28:51Z"
-    },
-    {
-      "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
-      "source": "NPR",
-      "published_at": "2026-11-10T23:27:32Z"
-    },
-    {
-      "title": "Live updates: Hegseth impeachment effort fails; GOP picks Thune, Jordan to lead",
-      "url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T23:20:03Z"
-    },
-    {
-      "title": "Who is Jim Jordan? Far-right Trump ideologue to lead diminished Republican ranks",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-10T23:12:12Z"
-    },
-    {
-      "title": "Explainer: How would impeaching Pentagon chief Hegseth work? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWhYdFkwaTUzVUx1RldDaV8tM0dhZ0FTNUh1UGJXcGlrc0s1T0FmamhCd0h5LXpsdWZSNmh5QTFndWc1dFlTWWI5R1VXSnY3eVo5Q1BFTEpMZVVGN3Ixd2ZtWTNMaTM2QlZrZkM1cHBmTHdoZTJUd3pqZl9kbVJJd3dCdVB5MXNsZ21zbDVGakFuR0RKVVdkWVdTV3piRHZSQ0Fj?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T23:10:15Z"
-    },
-    {
-      "title": "US lawmakers push China chip rules after Nvidia CEO allegations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWxqUnFpSkZaOE5LVFZnaWZJaHhteVV2dkdiQnRnX1Zua2Jnd0N3VVBxSzBtOWhETm92Mk9EY0JMbEZMNV9ibThnaWhjd1Y5RTZfMEoxYkk0TTF4Zlk4cmd2RnV2bV85VExSZmswbEJFNmZuZGNBMHYwUklvTjNmdDR1cEIteDdzSlJDc2ZVT3FrS0lZaUVJb1J2MDBvdWtNR0l5NllodU1WUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-10T23:05:21Z"
-    },
-    {
-      "title": "House GOP shelves Pete Hegseth impeachment articles",
-      "url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
-      "source": "THE HILL",
-      "published_at": "2026-11-10T23:04:49Z"
     }
   ]
 }
