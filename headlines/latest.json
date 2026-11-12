@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T18:35:18.465118Z",
+  "generated_at": "2026-11-12T00:58:20.198820Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,6 +15,74 @@
   ],
   "priority": [
     {
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-12T00:52:57Z",
+      "source_count": 5,
+      "other_sources": [
+        {
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+        },
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
+        },
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T23:52:36Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T22:28:23Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+      "url": "https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T21:32:56Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
       "title": "Live updates: Trump, Vance mark Veterans Day at Arlington",
       "url": "https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/",
       "source": "THE HILL",
@@ -28,212 +96,152 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "source": "NPR",
-      "published_at": "2026-11-11T16:59:32Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Bessent moved to military base after Iranian threats",
-      "url": "https://thehill.com/homenews/administration/6213592-bessent-moves-military-base/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:51:44Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump declares ‘huge victory’ after judge allows suit against BBC to proceed",
-      "url": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T15:09:06Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Kennedys sue to block Trump's arch",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
-      "source": "NPR",
-      "published_at": "2026-11-11T10:02:58Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "Live updates: Trump, Vance mark Veterans Day at Arlington",
-      "url": "https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T18:30:58Z"
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-12T00:52:57Z"
     },
     {
-      "title": "Alina Habba Mildon loses $50M contract after Trump criticism",
-      "url": "https://thehill.com/homenews/administration/6213856-alina-habba-mildon-fired/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T18:22:50Z"
+      "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-12T00:11:12Z"
     },
     {
-      "title": "Jim Justice says GOP can ‘forget’ retaking Senate majority in 2028",
-      "url": "https://thehill.com/homenews/senate/6213842-justice-gop-senate-majority-2028/",
+      "title": "Hawley calls for Senate to pass data center moratorium",
+      "url": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/",
       "source": "THE HILL",
-      "published_at": "2026-11-11T18:21:12Z"
+      "published_at": "2026-11-12T00:08:46Z"
     },
     {
-      "title": "Trump wants a non-nuclear Iran. What’s the plan?",
-      "url": "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/",
+      "title": "GOP’s Murphy concedes in North Carolina House race",
+      "url": "https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/",
       "source": "THE HILL",
-      "published_at": "2026-11-11T18:00:00Z"
+      "published_at": "2026-11-11T23:55:55Z"
     },
     {
-      "title": "Just 40 percent in new poll looking forward to 2028 presidential election",
-      "url": "https://thehill.com/homenews/campaign/6213771-americans-sentiment-2028-election/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T17:55:18Z"
+      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T23:52:36Z"
     },
     {
-      "title": "Biden says he didn’t hide cancer diagnosis while president",
-      "url": "https://thehill.com/homenews/administration/6213629-biden-prostate-cancer-diagnosis-denies-hiding/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T17:53:59Z"
+      "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T23:50:05Z"
     },
     {
-      "title": "Trump shouts out Hegseth to applause in Veteran’s Day speech: ‘He loves you’",
-      "url": "https://thehill.com/homenews/administration/6213708-trump-praises-hegseth-veterans-day/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T17:32:34Z"
+      "title": "White House threatens Democrats over plans to investigate Trump officials",
+      "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T23:45:49Z"
     },
     {
-      "title": "Republican Turner says Ramaswamy ad sunk his re-election in Ohio",
-      "url": "https://thehill.com/homenews/campaign/6213680-turner-blames-ramaswamy-ad-ohio-loss/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T17:25:44Z"
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-11T23:42:08Z"
     },
     {
-      "title": "Russia and Ukraine say some progress made at talks, US cites a lack of trust - Reuters",
+      "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
+      "url": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T23:40:56Z"
+    },
+    {
+      "title": "Democrat Scott Colom wins the closest Senate race in the country",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+      "source": "NPR",
+      "published_at": "2026-11-11T23:33:59Z"
+    },
+    {
+      "title": "Mississippi Senate stunner: Cindy Hyde-Smith concedes to Democrat Scott Colom",
+      "url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T23:26:19Z"
+    },
+    {
+      "title": "Trump ally Alina Habba Mildon faces New Jersey attorney ethics complaint - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ0FWZmNuMHFjNjJwTGFWV0lZZTluZmNKeGt1Y0Q4VEx2OGVJeThTNTRpc1Jrd3FiNVhDNWxVcWJvUkZ5ZmZ4T09uemJWS0xoOUx4cmVjWnQ0aC1qalRORWd5ODhDOEkwMjFrcG90SWJueU1YT0F4VmJKMVZLUFJsUHJudlFRaUgyVnRDd3dhMUtKeEdwc1BTZ2hzaDNtMjdsb0NybFJBaEVFXzNnUERDXzhyUVRrRExWbVA0S1ZYSndjVU0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T23:09:37Z"
+    },
+    {
+      "title": "Colom builds on slim lead in Mississippi, as AP calls for Democrat",
+      "url": "https://thehill.com/homenews/campaign/6214689-colom-leads-hyde-smith/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T23:06:39Z"
+    },
+    {
+      "title": "Democrat Scott Colom wins Mississippi Senate race",
+      "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+      "source": "NPR",
+      "published_at": "2026-11-11T23:04:51Z"
+    },
+    {
+      "title": "Scott Colom wins Senate election in Mississippi",
+      "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T23:01:15Z"
+    },
+    {
+      "title": "Palantir’s Karp says he’s been criticizing Trump on immigration ‘in private’",
+      "url": "https://thehill.com/policy/technology/6214634-palantir-ceo-criticizes-trump-immigration/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T23:00:01Z"
+    },
+    {
+      "title": "The Memo: Misfire on Hegseth vote adds to Democratic tensions",
+      "url": "https://thehill.com/homenews/analysis/6214600-democrats-fail-hegseth-impeachment/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T22:56:16Z"
+    },
+    {
+      "title": "Trump embraces Huang as espionage scandal shakes Nvidia",
+      "url": "https://thehill.com/homenews/administration/6214652-trump-defends-nvidia-ceo-scandal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T22:52:18Z"
+    },
+    {
+      "title": "4 key findings in the Jeffrey Epstein report from GOP-led House Oversight panel",
+      "url": "https://www.pbs.org/newshour/politics/4-key-findings-in-the-jeffrey-epstein-report-from-gop-led-house-oversight-panel",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-11T22:40:43Z"
+    },
+    {
+      "title": "Trump administration announces new plan to sell public lands",
+      "url": "https://thehill.com/policy/energy-environment/6214564-trump-admin-plans-land-sales/",
+      "source": "THE HILL",
+      "published_at": "2026-11-11T22:29:16Z"
+    },
+    {
+      "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T17:11:11Z"
+      "published_at": "2026-11-11T22:28:23Z"
     },
     {
-      "title": "White House sends warning to Democrats about investigating the Trump administration",
-      "url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-11T17:06:10Z"
+      "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDk3Z2kxT2NlVkxtZ3FMbksyU0ZlT2JzcERTTVBkeGFzUk5kaHhpazg4Mk5GSnZGTmNmbVVZakFyUHZOeGx5ZEt1N0pVZFRBcDlzMFU0dDc0RFh1ak1ndzZBVWNsN3NCVmliX040XzZHXzc3TFlCUWNTeXdyUkZ1S3B4WUhLSnNCWDVzeGd2NDZUZzBaTUNwemdVRWtqWGlzUnczR09yU09qaWwxZGRKaFBOUDdiR2lLa0VSa0tiWQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T22:12:18Z"
     },
     {
-      "title": "It’s impeachment season! After the attempt on Pete Hegseth, will Donald Trump be next? | Arwa Mahdawi",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-11T17:00:55Z"
+      "title": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T22:05:42Z"
     },
     {
-      "title": "Stephen Miller’s White House will test Mexico’s red lines",
-      "url": "https://thehill.com/opinion/international/6211857-miller-white-house-chief-staff/",
+      "title": "Texas Democrat files bill to follow through on Hinojosa’s $1.5K check promise",
+      "url": "https://thehill.com/homenews/state-watch/6214487-texas-senator-files-household-check-bill/",
       "source": "THE HILL",
-      "published_at": "2026-11-11T17:00:00Z"
-    },
-    {
-      "title": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-11T16:59:34Z"
-    },
-    {
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "source": "NPR",
-      "published_at": "2026-11-11T16:59:32Z"
-    },
-    {
-      "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-11T16:54:36Z"
-    },
-    {
-      "title": "Bessent moved to military base after Iranian threats",
-      "url": "https://thehill.com/homenews/administration/6213592-bessent-moves-military-base/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:51:44Z"
-    },
-    {
-      "title": "Watch live: House Freedom Caucus charts path forward after GOP midterm losses",
-      "url": "https://thehill.com/video-clips/6213328-watch-house-freedom-caucus-gop-midterm-losses/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:24:08Z"
-    },
-    {
-      "title": "Republicans are ‘going to have to start moving on’ from Trump: Erick Erickson",
-      "url": "https://thehill.com/homenews/campaign/6213460-erick-erickson-republicans-trump-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:24:06Z"
-    },
-    {
-      "title": "Mulvaney: ‘Animosity aimed at the White House right now is real’",
-      "url": "https://thehill.com/homenews/administration/6213390-mick-mulvaney-donald-trump-white-house-2026-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:23:46Z"
-    },
-    {
-      "title": "House Democrat: ‘Mr. Hegseth’s days are numbered’",
-      "url": "https://thehill.com/homenews/house/6213391-house-democrat-madeleine-dean-pete-hegseth-warning-impeachment/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T16:07:03Z"
-    },
-    {
-      "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
-      "url": "https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-11T16:01:25Z"
-    },
-    {
-      "title": "Trump targets New York Times over coverage of Bedminster suit, C-SPAN call",
-      "url": "https://thehill.com/homenews/administration/6212987-trump-ny-times-bedminster-lawsuit-c-span/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T15:43:39Z"
-    },
-    {
-      "title": "Almost half of MAGA Trump supporters call movement a loser in midterms: Survey",
-      "url": "https://thehill.com/homenews/campaign/6213245-politico-poll-maga-gop-defeat/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T15:41:01Z"
-    },
-    {
-      "title": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks",
-      "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T15:26:50Z"
+      "published_at": "2026-11-11T21:53:32Z"
     }
   ]
 }
