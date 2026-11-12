@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T00:58:20.198820Z",
+  "generated_at": "2026-11-12T08:10:59.712835Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -18,7 +18,7 @@
       "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-12T00:52:57Z",
+      "published_at": "2026-11-12T04:00:30Z",
       "source_count": 5,
       "other_sources": [
         {
@@ -38,30 +38,15 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T23:52:36Z",
+      "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+      "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-12T02:02:37Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T22:28:23Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
         }
       ],
       "priority_score": 5,
@@ -77,6 +62,21 @@
         {
           "source": "THE HILL",
           "url": "https://thehill.com/regulation/court-battles/6213054-donald-trump-bbc-lawsuit-new-ruling-celebration/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "White House tells Democrats that investigating Trump administration could be criminal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmtZZ2NGUE9lNXZHZTJySFhIbHJoemVJbks5bVNEV1l4WFJSWU5xaC1TV2lWR2lwSV9vUU9GRmZjTjJCdU51UzBGcWRiamFwcTVjWWNtUGpxR3ZORG1BUFFLTERUQlpvTlFrZ190MEZfMldGOUtZdFJkVHhudkRPS2ZMaUlWZy0tVWp2SlJCck1nRHFJdUtPbFpUbndiMlVuQkhKWDJocVNGVm42aVFZZFhOSUZSNDdqMXRPQVBjOXpNVUJORmNLVw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T21:13:58Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration"
         }
       ],
       "priority_score": 5,
@@ -100,10 +100,40 @@
   ],
   "headlines": [
     {
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanhBckZWOGZoOFJnUGpQNkR5b25Ibm5RYzZRWGJReUNkM2l0dWJPNUdwSUxFbDRGdHNsWm9qaG1ZVm9fNW0yNUdHanFFV2pza05kbjJWREE2ZEFHdVNIT0pmR3JEMUFnVkhFaXdXQ25oUHdEcWVMUGYxX1VSeGh1RGVBT3Bhc3RJckpsVWtfRkpSNTBnWTRzVm1EenJUOFhnOGF3STJXbDUyV3NtUXAtSjFqU1lOTmN0Zm1FSFRn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-12T04:18:00Z"
+    },
+    {
       "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-12T00:52:57Z"
+      "published_at": "2026-11-12T04:00:30Z"
+    },
+    {
+      "title": "Senior US Democratic senators urge administration to preserve Nvidia export records amid China security concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-12T03:46:14Z"
+    },
+    {
+      "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXQzWEgtelNiMHRMRXFkQU15NEo2a3ZDRmdFRU5nWllrcV9mNm5BbVFkcjdEc19uVTlJYlpLTjg5UXFQUElJRXNwRmxhMTZUY2JvSGliRjExOUlZWm9iS2Q2QjRPZElPWGlpVmRsTGJPaXkxdDBmSDM1XzhHaVZwS2QxcElkaFl4aDRpUXRWY0JkUFduc3dTaGZuWm8wTDllQmhiZ3c4T19mOW9wcVU3Rw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-12T02:14:00Z"
+    },
+    {
+      "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+      "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-12T02:02:37Z"
+    },
+    {
+      "title": "GOP senator feels ‘strongly’ Jensen Huang should resign at Nvidia",
+      "url": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-12T01:57:13Z"
     },
     {
       "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
@@ -122,12 +152,6 @@
       "url": "https://thehill.com/homenews/campaign/6214832-murphy-concedes-north-carolina-house/",
       "source": "THE HILL",
       "published_at": "2026-11-11T23:55:55Z"
-    },
-    {
-      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T23:52:36Z"
     },
     {
       "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
@@ -164,6 +188,12 @@
       "url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
       "source": "THE HILL",
       "published_at": "2026-11-11T23:26:19Z"
+    },
+    {
+      "title": "Missed Hegseth vote disappointed Americans, Democratic leader says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0pQNmNjYlhjeTZsSGRnZFUxeUVOb05pRGMzNWY1RTdrTU9OenNJVUZjRHJ5dGlGR2NlX0VHc3JyS0stdXk4bDZyTFJVTnF2QTctLTgtUnlQR0R5RlRLT1dYc21YVWhVSFhJYVQ0Ym1HejhZWHNtRnQ2VGZ4VzZrc2pSQmEtT1hNaGd3Q3cxTlpmMGFZZUp3VHQzeU44amxONXR0LXh4S1RmZE9lYmFWY2JzSUVBMGtXeWc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-11T23:23:44Z"
     },
     {
       "title": "Trump ally Alina Habba Mildon faces New Jersey attorney ethics complaint - Reuters",
@@ -212,36 +242,6 @@
       "url": "https://www.pbs.org/newshour/politics/4-key-findings-in-the-jeffrey-epstein-report-from-gop-led-house-oversight-panel",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-11T22:40:43Z"
-    },
-    {
-      "title": "Trump administration announces new plan to sell public lands",
-      "url": "https://thehill.com/policy/energy-environment/6214564-trump-admin-plans-land-sales/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T22:29:16Z"
-    },
-    {
-      "title": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZkalllTkswSW1lWVlXanFsVFBfVnBSUmE0U1VNWTJ4c3BrS3dzTDZWQUhwM3NfOTFMdjVuaHBqZVRTVFBYU2JEOWtpX2VoR1ZtUzZVcDlTN0tKVzVtczFhYThSSHpDTjJXSHV4U1Rqc0doRElpcW1WTGQwdmF6bE1VN3BpU2J4U3V1Rld3S25XNXZxWkVVNVlRZDAzLWpIVGFHWG9Bd2M?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T22:28:23Z"
-    },
-    {
-      "title": "Lutnick stalled Trump crackdown on diversion of Nvidia chips to China, Axios reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDk3Z2kxT2NlVkxtZ3FMbksyU0ZlT2JzcERTTVBkeGFzUk5kaHhpazg4Mk5GSnZGTmNmbVVZakFyUHZOeGx5ZEt1N0pVZFRBcDlzMFU0dDc0RFh1ak1ndzZBVWNsN3NCVmliX040XzZHXzc3TFlCUWNTeXdyUkZ1S3B4WUhLSnNCWDVzeGd2NDZUZzBaTUNwemdVRWtqWGlzUnczR09yU09qaWwxZGRKaFBOUDdiR2lLa0VSa0tiWQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T22:12:18Z"
-    },
-    {
-      "title": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-11T22:05:42Z"
-    },
-    {
-      "title": "Texas Democrat files bill to follow through on Hinojosa’s $1.5K check promise",
-      "url": "https://thehill.com/homenews/state-watch/6214487-texas-senator-files-household-check-bill/",
-      "source": "THE HILL",
-      "published_at": "2026-11-11T21:53:32Z"
     }
   ]
 }
