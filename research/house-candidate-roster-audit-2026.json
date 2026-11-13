@@ -1,13 +1,40 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T16:46:43.314005+00:00",
+  "generatedAt": "2026-11-13T16:15:58.998189+00:00",
   "summary": {
     "districts": 435,
     "districtsWithAtLeastOneCandidate": 435,
     "missingDistricts": [],
-    "districtsWithBothSources": 435,
-    "totalCandidates": 1156,
+    "districtsWithBothSources": 0,
+    "totalCandidates": 867,
     "multipleMajorPartyCandidates": [
+      {
+        "raceId": "AL-02",
+        "issue": "multiple_same_major_party_listed",
+        "candidates": [
+          {
+            "name": "Shomari Figures",
+            "party": "D",
+            "source": [
+              "Elections in USA"
+            ]
+          },
+          {
+            "name": "Hampton Harris",
+            "party": "R",
+            "source": [
+              "Elections in USA"
+            ]
+          },
+          {
+            "name": "Rhett Marques",
+            "party": "R",
+            "source": [
+              "Elections in USA"
+            ]
+          }
+        ]
+      },
       {
         "raceId": "CA-04",
         "issue": "multiple_same_major_party_listed",
@@ -16,16 +43,14 @@
             "name": "Eric Jones",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Mike Thompson",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -35,19 +60,17 @@
         "issue": "multiple_same_major_party_listed",
         "candidates": [
           {
-            "name": "Doris O. Matsui",
+            "name": "Doris Matsui",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Mai Vang",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -60,16 +83,14 @@
             "name": "Connie Chan",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Scott Wiener",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -82,16 +103,14 @@
             "name": "Jamie Joyce",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Lateefah Simon",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -104,16 +123,14 @@
             "name": "Aisha Wahab",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Melissa Hernandez",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -126,16 +143,14 @@
             "name": "Angélica María Dueñas",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Luz M. Rivas",
+            "name": "Luz Rivas",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -148,16 +163,14 @@
             "name": "Angela Gonzales-Torres",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Jimmy Gomez",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -170,16 +183,14 @@
             "name": "Samantha Mota",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Sydney Kamlager-Dove",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -192,103 +203,68 @@
             "name": "Ken Calvert",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Young Kim",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
       },
       {
-        "raceId": "LA-01",
+        "raceId": "CT-02",
         "issue": "multiple_same_major_party_listed",
         "candidates": [
           {
-            "name": "Lauren Jewett",
+            "name": "Joe Courtney",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Randall Arrington",
+            "name": "Kyle Gauck",
+            "party": "D",
+            "source": [
+              "Elections in USA"
+            ]
+          },
+          {
+            "name": "George Austin",
             "party": "R",
             "source": [
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Steve Scalise",
-            "party": "R",
-            "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "E. \"Liddy\" Glass",
-            "party": "I",
-            "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
       },
       {
-        "raceId": "LA-03",
+        "raceId": "CT-05",
         "issue": "multiple_same_major_party_listed",
         "candidates": [
           {
-            "name": "Caleb \"With a C\" Walker",
+            "name": "Jahana Hayes",
             "party": "D",
             "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "John Day",
-            "party": "D",
-            "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Priscilla Gonzalez",
-            "party": "D",
-            "source": [
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Clay Higgins",
+            "name": "Chris Shea",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Kate Cotten",
+            "name": "Jonathan De Barros",
             "party": "R",
             "source": [
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Tia LeBrun",
-            "party": "NPA",
-            "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -301,40 +277,35 @@
             "name": "Conrad Cable",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Matt Gromlich",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Gordon Heslop",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Mike Johnson",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Mike Nichols",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -344,66 +315,59 @@
         "issue": "multiple_same_major_party_listed",
         "candidates": [
           {
-            "name": "Dan McKay",
+            "name": "Antonio Wilson",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Patricia \"Pat\" Moore",
+            "name": "Dan McKay",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
+            ]
+          },
+          {
+            "name": "Patricia Moore",
+            "party": "D",
+            "source": [
+              "Elections in USA"
             ]
           },
           {
             "name": "Austin Magee",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Gabe Firment",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Michael Echols",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Misti Cordell",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Oscar \"Omar\" Dantzler",
-            "party": "R",
-            "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Stewart Cathey Jr.",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -413,81 +377,59 @@
         "issue": "multiple_same_major_party_listed",
         "candidates": [
           {
-            "name": "Chauna Banks",
+            "name": "Lindsay Garcia",
             "party": "D",
             "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Lindsay \"Rubia\" Garcia",
+            "name": "Pat Forbes",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Patrick \"Pat\" Forbes",
-            "party": "D",
-            "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Blake Miguez",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
-            "name": "Larry Davis III",
+            "name": "Larry Davis",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Michael Mebruer",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Monique Appeaning",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Rick Edmonds",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Stephen Wagley",
             "party": "R",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Rufus Craig",
-            "party": "L",
-            "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -500,38 +442,21 @@
             "name": "Jose Vega",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Ritchie Torres",
             "party": "D",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Stylo Sapaskis",
-            "party": "R",
-            "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           },
           {
             "name": "Andre Easton",
             "party": "I",
             "source": [
-              "Elections in USA",
-              "DeepSyte"
-            ]
-          },
-          {
-            "name": "Gonzalo Duran",
-            "party": "CONSERVATIVE PARTY",
-            "source": [
-              "DeepSyte"
+              "Elections in USA"
             ]
           }
         ]
@@ -539,12 +464,12 @@
     ],
     "sourceRows": {
       "elections_in_usa_source_rows": 2236,
-      "deepsyte_source_rows": 1294,
-      "electionsinusa_nominees": 864,
-      "deepsyte_on_ballot": 1156
+      "electionsinusa_nominees": 867
     },
-    "sourceFailures": {},
-    "candidateRacesWithD": 427,
-    "candidateRacesWithR": 415
+    "sourceFailures": {
+      "deepsyte": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "candidateRacesWithD": 418,
+    "candidateRacesWithR": 361
   }
 }
