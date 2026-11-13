@@ -1,13 +1,13 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-13T06:54:38.923035+00:00",
+  "checkedAt": "2026-11-13T16:31:53.583466+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
     "countyEquivalents": 3143,
     "countySourcesIndependentlyLinked": 104,
-    "countySourcePagesResponding": 87,
+    "countySourcePagesResponding": 96,
     "countiesWithoutDirectVerifiedSource": 3039,
     "machineReadableCountyFeedsConfirmed": 0,
     "verified2026CountyReturnsBeforePollClose": 0
@@ -41,7 +41,7 @@
       "notIndependentlyLinked": 15,
       "stateAuthority": "https://azsos.gov/press",
       "authorityRole": "county-export-announcement",
-      "authorityConnectivity": "reachable",
+      "authorityConnectivity": "indeterminate",
       "countySources": {},
       "verifiedResultFeeds": 0,
       "note": "Source link and HTTP connectivity do not mean this county has a validated 2026 vote feed."
@@ -74,7 +74,7 @@
       "notIndependentlyLinked": 64,
       "stateAuthority": "https://results.enr.clarityelections.com/CO/",
       "authorityRole": "state-results",
-      "authorityConnectivity": "indeterminate",
+      "authorityConnectivity": "reachable",
       "countySources": {},
       "verifiedResultFeeds": 0,
       "note": "Source link and HTTP connectivity do not mean this county has a validated 2026 vote feed."
@@ -993,8 +993,8 @@
         "26165": {
           "county": "Wexford",
           "sourceUrl": "https://wexfordcounty.org",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1136,8 +1136,8 @@
         "34011": {
           "county": "Cumberland",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Cumberland/127562/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1154,8 +1154,8 @@
         "34015": {
           "county": "Gloucester",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Gloucester/127298/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1163,8 +1163,8 @@
         "34017": {
           "county": "Hudson",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Hudson/127495/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1181,8 +1181,8 @@
         "34021": {
           "county": "Mercer",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Mercer/127554/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1199,8 +1199,8 @@
         "34025": {
           "county": "Monmouth",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Monmouth/127586/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1208,8 +1208,8 @@
         "34027": {
           "county": "Morris",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Morris/127576/web.345435/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1226,8 +1226,8 @@
         "34031": {
           "county": "Passaic",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Passaic/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1244,8 +1244,8 @@
         "34035": {
           "county": "Somerset",
           "sourceUrl": "https://results.enr.clarityelections.com/NJ/Somerset/",
-          "connectivity": "indeterminate",
-          "note": "HTTP 202",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1331,7 +1331,7 @@
       "notIndependentlyLinked": 88,
       "stateAuthority": "https://liveresults.ohiosos.gov/",
       "authorityRole": "state-and-county-results",
-      "authorityConnectivity": "reachable",
+      "authorityConnectivity": "indeterminate",
       "countySources": {},
       "verifiedResultFeeds": 0,
       "note": "Source link and HTTP connectivity do not mean this county has a validated 2026 vote feed."
