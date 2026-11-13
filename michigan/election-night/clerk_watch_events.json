@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:02:09.764911+00:00",
+  "updatedAt": "2026-11-13T20:30:05.895059+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -962,6 +962,73 @@
       "kind": "page_modified",
       "newLinks": [],
       "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Alger",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://www.algercounty.gov/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Bay",
+      "kind": "new_result_links",
+      "newLinks": [
+        {
+          "title": "Potential November 2026 result report",
+          "url": "https://www.baycountymi.gov/departments/clerk/elections/Documents/Departments/Clerk/Elections/Election Results/November 3, 2026 Official Precinct Results.pdf?t=202611131134520"
+        },
+        {
+          "title": "Potential November 2026 result report",
+          "url": "https://www.baycountymi.gov/departments/clerk/elections/Documents/Departments/Clerk/Elections/Election Results/November 3, 2026 Official Summary Results.pdf?t=202611131134530"
+        }
+      ],
+      "sourceUrl": "https://www.baycountymi.gov/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Charlevoix",
+      "kind": "new_result_links",
+      "newLinks": [
+        {
+          "title": "Statement of Votes Cast (Totals include Early Voting Numbers)",
+          "url": "https://charlevoixcountymi.documents-on-demand.com/document/6a044947-a82a-460f-9edf-80c885bd1d2a/Statement%20Of%20Votes%20Cast%20Nov%2026.PDF"
+        }
+      ],
+      "sourceUrl": "https://www.charlevoixcounty.org/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Livingston",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://milivcounty.gov/elections/election-results/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Oceana",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-13T20:30:05.895059+00:00",
+      "county": "Shiawassee",
+      "kind": "new_result_links",
+      "newLinks": [
+        {
+          "title": "November 2026 Statement of Votes Cast",
+          "url": "https://shiawassee.net/wp-content/uploads/2026/11/SOVC-Complete-General-Election-11-3-2026.pdf"
+        }
+      ],
+      "sourceUrl": "https://shiawassee.net/",
       "notice": "Source change is not an election return"
     }
   ]
