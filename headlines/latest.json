@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T03:21:40.548817Z",
+  "generated_at": "2026-11-13T11:27:51.400049Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,21 +14,6 @@
     "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
   "priority": [
-    {
-      "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
-      "url": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T14:10:01Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "priority_score": 9,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
     {
       "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
       "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
@@ -49,60 +34,19 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
-      "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T23:40:52Z",
-      "source_count": 2,
+      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "source": "NPR",
+      "published_at": "2026-11-13T03:52:25Z",
+      "source_count": 3,
       "other_sources": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-12T19:01:16Z",
-      "source_count": 2,
-      "other_sources": [
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader"
+        },
         {
           "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
-      "url": "https://www.theguardian.com/news/video/2026/nov/12/mississippi-makes-history-with-democrat-scott-coloms-senate-win-the-latest",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-12T19:00:53Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia",
-      "url": "https://thehill.com/policy/technology/6216293-trump-suggests-tim-cook-nvidia/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T16:25:39Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5"
         }
       ],
       "priority_score": 5,
@@ -111,10 +55,130 @@
   ],
   "headlines": [
     {
+      "title": "GOP senators warn Trump push for Pentagon funding risks shutdown",
+      "url": "https://thehill.com/homenews/senate/6217691-republican-reconciliation-threatens-government-funding/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T11:00:00Z"
+    },
+    {
+      "title": "Trump, Democrats brace for a brawl on congressional oversight",
+      "url": "https://thehill.com/homenews/house/6217371-congress-democrats-trump-administration-investigations/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T11:00:00Z"
+    },
+    {
+      "title": "Means rocks boat, further straining Trump’s MAHA alliance",
+      "url": "https://thehill.com/policy/healthcare/6217333-calley-means-susie-wiles-feud-maha/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T11:00:00Z"
+    },
+    {
+      "title": "These swing voters have low expectations for divided government",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+      "source": "NPR",
+      "published_at": "2026-11-13T10:00:00Z"
+    },
+    {
+      "title": "These two voter turnout trends explain what happened across the South in the election",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
+      "source": "NPR",
+      "published_at": "2026-11-13T10:00:00Z"
+    },
+    {
+      "title": "Trump redirects Vance from Iran to focus on combatting fraud in Democratic-led states",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states",
+      "source": "NPR",
+      "published_at": "2026-11-13T09:43:04Z"
+    },
+    {
+      "title": "Why the Nvidia CEO’s downfall is bad for Trump – podcast",
+      "url": "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-13T07:05:01Z"
+    },
+    {
+      "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T07:00:00Z"
+    },
+    {
+      "title": "Dutch government set for talks to stave off collapse after wealth tax row - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkFYa1l2Q1d3RnhPSTU0VnZ4NnA3TmwwdlB0YzRxM0x2aWRNYVVheUZzeEozbTgwMHBXM3U3RkYyZ2o4NnpDaTRCVkpBSWprMHZmT0Vsczdoa2ZPN2w1ZjBYT3R0UzVPaEE0cWw3SnpqS1BnelBqTEdKb1VQS05HSzdOZ2lZVlVWVk5oWkl5XzdWSVMydzFwclFySThIME1LWW53dTl1T25tRGpI?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T06:18:00Z"
+    },
+    {
+      "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEdIdklzemVxYVBScFNuVEVObkNwNFc3NlpDeWFNUDZuYVc0anZEOWFHUFJDRWxSenRjLUdxalJyWXJmZFBDUzdHZmdvQUdoQmVrMEU1WWJGQUhZR0ZLMHZpc1Q0R2FSam43LWhybHBlUFBrY3RETW1vWDJtMkd5RURGWE9kX2Vpckw1QnkxMHFZZm5STWJoWUMzTm1PSFdzQkVSU3JMdjdFdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T05:03:00Z"
+    },
+    {
+      "title": "Trump told Huang to fight for his job after affair scandals: Report",
+      "url": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T04:05:58Z"
+    },
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-13T03:57:01Z"
+    },
+    {
+      "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "source": "NPR",
+      "published_at": "2026-11-13T03:52:25Z"
+    },
+    {
+      "title": "Alito warns Congress can ‘turn off the lights’ at Supreme Court",
+      "url": "https://thehill.com/regulation/court-battles/6217960-alito-warns-congress-defunding/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T03:39:47Z"
+    },
+    {
+      "title": "Jones ousts House Democrat in California",
+      "url": "https://thehill.com/homenews/campaign/6217945-jones-wins-california-house-race/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T03:20:25Z"
+    },
+    {
+      "title": "Australia's spy agency, federal police hit by Microsoft outage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T03:08:00Z"
+    },
+    {
+      "title": "Oil prices set for second weekly decline as Trump sticks with Iran blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T03:01:00Z"
+    },
+    {
+      "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T02:54:00Z"
+    },
+    {
+      "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T02:51:00Z"
+    },
+    {
       "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
       "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-13T02:30:07Z"
+    },
+    {
+      "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T02:28:00Z"
     },
     {
       "title": "How could the Nvidia CEO’s affair threaten US national security?",
@@ -123,136 +187,16 @@
       "published_at": "2026-11-13T02:15:59Z"
     },
     {
+      "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlhsUlJGZTlJTWxfaXhsOS1kNkFrSlRMLXNVZ09uQ0RvR0dobTRXWExCRk1SckN4aDZibm5Vdm9NWDUyWWdpRFR2aExsSFdscmNSX0U3QUlmTVRDYlpERWxHeVRUX2FUZjB3WVJBb05pYy1xZ2pILWpXQlQzaEVWNjljSUsxZ2xGVTdCZXNmazBFX21ZYkh3d1RqZTFCWEw2a09oanFWS0c0LTNwZkNOQThuamJkdk5HVFNROFFXQm1GS0E?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T01:39:00Z"
+    },
+    {
       "title": "Trump on Colom’s Mississippi Senate win: ‘I give him a lot of credit’",
       "url": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/",
       "source": "THE HILL",
       "published_at": "2026-11-13T01:06:58Z"
-    },
-    {
-      "title": "Photos showing White House ballroom’s size spark backlash from Clyburn, McGarvey",
-      "url": "https://thehill.com/homenews/house/6217770-democrats-backlash-white-house-ballroom-size/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T00:43:17Z"
-    },
-    {
-      "title": "Why midterm vote-counting is taking so long in America's largest state",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-13T00:35:05Z"
-    },
-    {
-      "title": "Trump had urged Jensen Huang to fight for his job, New York Times reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1R2ZnVrdXdnOTROYTRFd0tjRUJhYmgxSEVIOG1VOHowYVNCQm5qNHk2ZVRFQWhXUGtyNVRKcU5fNWRxSmJUZ1FYVWYxdkJ4a2h2TzhHWmhwc2VyTkhqOGU0WU5ZZWJJMFd2RGg5dmFZS3VPclR3c2ZyQ3pPZmU5VE5WMHExQWxTN2pESlFxbC1MclVJNUtIU1JHamstZVJDakltZTFWYXc4bVdkSXBaYXFR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T00:31:00Z"
-    },
-    {
-      "title": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWhFaS12YTJmTFZLWF94WFZXRndrbWxyWkhSX2FLSXFvSFBFbGR6emtfcmVPckRNZjlKYWYwX21Ha3hubnhEUmQ4bW91UndSbmZFRkd5blZyOFdqaC0yRHZXOFhWQjJuOTdrQlZJVXB4S2tvWFI0aVBpdU1mMjRnNy1TU1ZxajZ1WlNBdm9fWDFNNVpDMUFVb0hGSUVOYUE3Ui1USTRSX2w3T0dCWXZiTmpiMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T00:15:00Z"
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-12T23:42:52Z"
-    },
-    {
-      "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
-      "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T23:40:52Z"
-    },
-    {
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-      "source": "NPR",
-      "published_at": "2026-11-12T23:36:19Z"
-    },
-    {
-      "title": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-12T23:27:19Z"
-    },
-    {
-      "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
-      "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T23:15:50Z"
-    },
-    {
-      "title": "Poland says Pentagon has ‘greenlit’ permanent US base",
-      "url": "https://thehill.com/newsletters/defense-national-security/6217655-pentagon-greenlights-poland-base/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T23:11:38Z"
-    },
-    {
-      "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
-      "url": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T23:00:58Z"
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr. advisory role, pointing to Polymarket ties",
-      "url": "https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T22:57:35Z"
-    },
-    {
-      "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlQ3N0FyWHE3WUp4cHZOWWJRVUFVWFJuT1Jic05nVVBBWFNsYkFzbk1zeWRTbDA5c2k1Wk55UGFVdDBYeF9CY1U2YjhNV1pKd1h3aThoSm1jVEpmcEZtRDE5RldpeHhZaEphT1VfREFGd2Y1NG5BWVBiWFdQREFHeHQ4UjEtT2w4ZksyVldLNkpTRGpfYkdTZXpTblZFdEpNbGUta25VM2RpbDYzb0NWSkdCV3h2ZUhPamJBXy1iYzA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-12T22:56:00Z"
-    },
-    {
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-      "source": "NPR",
-      "published_at": "2026-11-12T22:52:49Z"
-    },
-    {
-      "title": "Top trade committee Democrats launch probe into Trump administration approving Nvidia’s chip sales to China",
-      "url": "https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T22:52:19Z"
-    },
-    {
-      "title": "GOP lawmaker says party is focusing on ‘political power’ rather than people",
-      "url": "https://thehill.com/homenews/house/6217576-gop-lawmaker-says-party-is-focusing-on-political-power-rather-than-people/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T22:45:59Z"
-    },
-    {
-      "title": "Shaheen, Tillis demand probe into Ukraine Starshield restrictions",
-      "url": "https://thehill.com/homenews/senate/6217524-shaheen-tillis-ukraine-starshield-probe/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T22:29:30Z"
-    },
-    {
-      "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
-      "url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T22:29:13Z"
-    },
-    {
-      "title": "WATCH: Trump administration officials announce PTSD research funding for psychedelic drug ibogaine",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-administration-officials-announce-ptsd-research-funding-for-psychedelic-drug-ibogaine",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-12T21:58:26Z"
-    },
-    {
-      "title": "Trump says he wants to ‘get Cuba done’ before leaving office",
-      "url": "https://thehill.com/homenews/administration/6217391-trump-wants-cuba-change/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T21:40:40Z"
-    },
-    {
-      "title": "Macron says there’s ‘no more US support’ for Ukraine",
-      "url": "https://thehill.com/policy/international/6217318-macron-europe-ukraine-support/",
-      "source": "THE HILL",
-      "published_at": "2026-11-12T21:35:24Z"
     }
   ]
 }
