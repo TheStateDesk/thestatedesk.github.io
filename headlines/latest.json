@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T00:17:27.246514Z",
+  "generated_at": "2026-11-14T06:56:17.894596Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -44,15 +44,15 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
-      "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T23:40:11Z",
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+      "source": "NPR",
+      "published_at": "2026-11-14T05:12:43Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/van-hollen-schumer-senate-democratic-leader-6d74c189cb6c065c9a810a1cf1a53436?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/"
         }
       ],
       "priority_score": 5,
@@ -104,7 +104,7 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching dealmaking with the president",
+      "title": "'TrumpCare' and commemorative plaques: How Democrats are pitching dealmaking with the president",
       "url": "https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
       "published_at": "2026-11-13T20:20:12Z",
@@ -136,6 +136,54 @@
   ],
   "headlines": [
     {
+      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+      "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+      "source": "NPR",
+      "published_at": "2026-11-14T05:12:43Z"
+    },
+    {
+      "title": "Democrat flips Alaska governor’s office",
+      "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T05:05:12Z"
+    },
+    {
+      "title": "South Korea should not fear China's rise, foreign minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T04:49:00Z"
+    },
+    {
+      "title": "US flight shutdown exposes deepening air traffic network crisis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T02:18:00Z"
+    },
+    {
+      "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+      "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T01:30:55Z"
+    },
+    {
+      "title": "Hegseth directs Pentagon CFO to transform military pay systems",
+      "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T00:25:15Z"
+    },
+    {
+      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T00:22:00Z"
+    },
+    {
+      "title": "Democratic US senators order Musk to preserve records on Ukraine Starlink access - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T23:55:00Z"
+    },
+    {
       "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
       "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
       "source": "PBS NEWSHOUR",
@@ -160,6 +208,18 @@
       "published_at": "2026-11-13T23:19:17Z"
     },
     {
+      "title": "Republican Lauren Boebert, a colorful conservative, loses reelection bid in Colorado, according to US media - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0lkZE5xVG04SW9xZjBEZ1NndWRVZEhtVVU0TThJeDhMZ19fajZOVkFCS1dmYm8xNUZzcFdmS1U1Umt5VkZqaTFwLXk1MGh1MjBIcVR0MkZaa1hpTGp4UHl3TE1JeUNpOU5wMi02SjRubHdDVFRFdjhhM2p4RXFNZmpBUEF4WElEd1RSRlNhSklkbzZQWGhxeXViaHNkOE1xZm9BU19FOElUalZqQlNIT0lNRHlNTWlsaWlVQ1VfOWxJUk1CWjdlbnV3?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T23:09:59Z"
+    },
+    {
+      "title": "Paraguay widens ueno bank probe with fresh charge against ex-president Peña - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYl9lTG9DalZXWWxadWpmS1UzSmRLTE93T1I5cnZGX3dzNlQ5Q01wT25UdGtIaGJ2Q0RyUDRoOWRsZjd6Xy1nZXg3LXdiX3JXLVBucDE3aGl1U1dZSHNIUmxWWWs5el9vbzhveVk1bGdlVWhRUlQwV1pCanhpVzJnUFpxaUR5ckQwQkhaX0V2ekY1NVdSNmliclAxZExFSXdTZG9hVjZuVEk4LWNHR3BJbkQzRzdXdVdEVDBj?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T22:53:06Z"
+    },
+    {
       "title": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
       "url": "https://thehill.com/business/6219883-fed-announces-2027-meeting-schedule/",
       "source": "THE HILL",
@@ -182,6 +242,12 @@
       "url": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/",
       "source": "THE HILL",
       "published_at": "2026-11-13T22:10:33Z"
+    },
+    {
+      "title": "Democrat Holscher wins Kansas governor's race amid data center backlash - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTZXTFM5V00xOEJZcWtJU21rRENBM2lkQ3JCQmJvbUVRSDNqeWplR0FWSk9qSWVVdDAxR295VWxLMmNKb1Z0RmZURlQ3TV9ReHVrTW1nak9IVHpCNjduUXZZTG5NQ3JhT2pTNUR1N3dtZTNoZDVwdjNKeGY1cGxvSFNsYTNMMjhyZmNENkl1SDR4cFBDNllZdWRRbHhQa3BFUS1xc2lLTkFrOXNkZDNVSnJrRi0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T21:58:36Z"
     },
     {
       "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO - Reuters",
@@ -212,72 +278,6 @@
       "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
       "published_at": "2026-11-13T21:33:10Z"
-    },
-    {
-      "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
-      "url": "https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T21:32:51Z"
-    },
-    {
-      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T21:28:45Z"
-    },
-    {
-      "title": "Hassett denies report he is leaving White House",
-      "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T21:26:26Z"
-    },
-    {
-      "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-      "source": "NPR",
-      "published_at": "2026-11-13T21:06:05Z"
-    },
-    {
-      "title": "Merkley, senior Senate progressive, backs Van Hollen over Schumer",
-      "url": "https://thehill.com/the-120/6219652-merkley-supports-van-hollen-majority-leader/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T21:01:04Z"
-    },
-    {
-      "title": "Ocasio-Cortez: Stevens has ‘been with the Republicans’ since Congress returned",
-      "url": "https://thehill.com/homenews/campaign/6219619-ocasio-cortez-stevens-republicans/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T20:58:47Z"
-    },
-    {
-      "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
-      "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T20:52:26Z"
-    },
-    {
-      "title": "Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
-      "url": "https://thehill.com/homenews/senate/6219585-van-hollen-filibuster-2028/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T20:36:13Z"
-    },
-    {
-      "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T20:34:31Z"
-    },
-    {
-      "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching dealmaking with the president",
-      "url": "https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T20:20:12Z"
-    },
-    {
-      "title": "DeSantis on Defense secretary speculation: ‘I’ve never discussed it’ with Trump",
-      "url": "https://thehill.com/homenews/administration/6219494-desantis-denies-hegseth-replacement/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T20:08:19Z"
     }
   ]
 }
