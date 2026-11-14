@@ -1,48 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T06:56:17.894596Z",
+  "generated_at": "2026-11-14T14:03:48.404380Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
-    "BBC NEWS",
     "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [],
+  "source_warnings": [
+    "BBC NEWS: no recent politics items"
+  ],
   "priority": [
-    {
-      "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
-      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T21:33:10Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border"
-        }
-      ],
-      "priority_score": 9,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Supreme Court will decide if Trump’s asylum restrictions are legal",
-      "url": "https://thehill.com/regulation/court-battles/6219384-supreme-court-trump-asylum-restrictions/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T19:14:09Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHNWeFYxTlNOZElZQ1BSdDNZSXhJM3RtVWNhRXJ4SkcxVU5MU3ZIdW1Oc1gxa2Y3eXJ4NFc3b21Bb3lKT2pwZVNxMUtSa2NDS3JYSTI5ZzJzRkU4Z3ptRDlhVlBvWXNHdjh3MGNBLVg1bjRRV2poamg2eHo0Sl84ZGFPaS02RjhJMVo5RWtWMC1rc1pFNkE3UkUwS3VuUjJnejl2NHZIWGdrM3psTUZR?oc=5"
-        }
-      ],
-      "priority_score": 9,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
     {
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
       "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
@@ -57,84 +28,99 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T21:34:14Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T21:28:45Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/chris-van-hollen-democratic-senate-majority-leader-ac00cf5b627f3f244ab7c3dcb426392e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Hassett denies report he is leaving White House",
-      "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T21:26:26Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG5VWFduTnVycU5YUjlNR1UxdkZHVG90ZzhmOVRORXFINkFFOTlPMUs2V2QxTG43NUlBRThPVTRCYy1seWlRTERpZ1dMQXRiT1NiZjJqbGRrMmxINzJ4am92WW0wejBZcXFXbGxDSHVXZlhSYkNVWm5GSlNFaW56Zld4bFIwbWwyYlNyeTFlWEs0UGlvdkY2YW16NkttNFpMU3FZZEJHNA?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "'TrumpCare' and commemorative plaques: How Democrats are pitching dealmaking with the president",
-      "url": "https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T20:20:12Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress",
-      "url": "https://apnews.com/article/justice-department-congress-fbi-trump-e121c4420d0010b9ba7e8003407d304a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T16:30:33Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
+    {
+      "title": "Peltola holds nearly 4-point lead on Sullivan in latest ballot drop",
+      "url": "https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T13:02:13Z"
+    },
+    {
+      "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-14T13:00:47Z"
+    },
+    {
+      "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+      "source": "NPR",
+      "published_at": "2026-11-14T12:40:26Z"
+    },
+    {
+      "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
+      "source": "NPR",
+      "published_at": "2026-11-14T12:40:25Z"
+    },
+    {
+      "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
+      "source": "NPR",
+      "published_at": "2026-11-14T12:40:22Z"
+    },
+    {
+      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T12:26:12Z"
+    },
+    {
+      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T11:04:10Z"
+    },
+    {
+      "title": "At the Supreme Court, Trump aims to cut the power of judges again - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T11:02:44Z"
+    },
+    {
+      "title": "Indonesian president orders greater share of mining benefits for the state - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTU44U0puNksxb3BGUUk4anBoaVJabHBiOUVvQWUzblNJUGpLQWZMNDdyQzA2cHhoVHd6NFFXdy1aRHVyVU5MblhwR2I4NUZ5MFJscExRX3JnQWxCanNta2MwZGlMMUMwWkczcFY2NE04U0FITTVtWGwzcTlHMjV6Q18wdG1sS3dkM1Z6d1U1S1lkSnUtcHFrREpuRmUxbUJyZk9UOElZNkVsaWEwenV6ZmhLM05sX1hkR0E?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T11:01:44Z"
+    },
+    {
+      "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-14T11:00:43Z"
+    },
+    {
+      "title": "Trump says the Iran war ‘effectively over.’ It’s still costing the US billions",
+      "url": "https://thehill.com/policy/defense/6214685-us-military-costs-iran-conflict/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T11:00:00Z"
+    },
+    {
+      "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T10:31:30Z"
+    },
+    {
+      "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T07:13:00Z"
+    },
+    {
+      "title": "Riots in France: How anti-government protests spiraled out of control - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3F1XzJUQTItaTJpX1hvYTBuU1J0Z2tnX0d2a0ZPTHBUQ1JlYk1FODF4QnFreUdRQm81d2MxeGdXTm5XV25EdDFPXy0yQkNmMTduYXRiMjlrXzFYd0RISjRZbzhuazYySERDU1pXN0hadDZpdXdTTjlxQnJWQ1VJNmVwUWlwUmR1VW1FV0pfMkZROHY3R1dUNnlEVFlxX0RzdDRNVjBJNGlqQ2NXZU5hc2JR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T06:00:00Z"
+    },
+    {
+      "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T05:36:00Z"
+    },
     {
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
       "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
@@ -160,6 +146,12 @@
       "published_at": "2026-11-14T02:18:00Z"
     },
     {
+      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T01:37:46Z"
+    },
+    {
       "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
       "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
       "source": "THE HILL",
@@ -172,12 +164,6 @@
       "published_at": "2026-11-14T00:25:15Z"
     },
     {
-      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T00:22:00Z"
-    },
-    {
       "title": "Democratic US senators order Musk to preserve records on Ukraine Starlink access - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
@@ -188,96 +174,6 @@
       "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-13T23:40:11Z"
-    },
-    {
-      "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T23:30:37Z"
-    },
-    {
-      "title": "House Democrat calls FAA stop ‘quite disturbing’",
-      "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T23:22:00Z"
-    },
-    {
-      "title": "Trump administration delays Medicaid work requirement enforcement",
-      "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T23:19:17Z"
-    },
-    {
-      "title": "Republican Lauren Boebert, a colorful conservative, loses reelection bid in Colorado, according to US media - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM0lkZE5xVG04SW9xZjBEZ1NndWRVZEhtVVU0TThJeDhMZ19fajZOVkFCS1dmYm8xNUZzcFdmS1U1Umt5VkZqaTFwLXk1MGh1MjBIcVR0MkZaa1hpTGp4UHl3TE1JeUNpOU5wMi02SjRubHdDVFRFdjhhM2p4RXFNZmpBUEF4WElEd1RSRlNhSklkbzZQWGhxeXViaHNkOE1xZm9BU19FOElUalZqQlNIT0lNRHlNTWlsaWlVQ1VfOWxJUk1CWjdlbnV3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T23:09:59Z"
-    },
-    {
-      "title": "Paraguay widens ueno bank probe with fresh charge against ex-president Peña - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYl9lTG9DalZXWWxadWpmS1UzSmRLTE93T1I5cnZGX3dzNlQ5Q01wT25UdGtIaGJ2Q0RyUDRoOWRsZjd6Xy1nZXg3LXdiX3JXLVBucDE3aGl1U1dZSHNIUmxWWWs5el9vbzhveVk1bGdlVWhRUlQwV1pCanhpVzJnUFpxaUR5ckQwQkhaX0V2ekY1NVdSNmliclAxZExFSXdTZG9hVjZuVEk4LWNHR3BJbkQzRzdXdVdEVDBj?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T22:53:06Z"
-    },
-    {
-      "title": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
-      "url": "https://thehill.com/business/6219883-fed-announces-2027-meeting-schedule/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T22:44:33Z"
-    },
-    {
-      "title": "Jeffries outlines Democratic plans for Medicare expansion",
-      "url": "https://thehill.com/homenews/house/6219982-jeffries-endorses-medicare-age-lowering/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T22:43:31Z"
-    },
-    {
-      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-      "source": "NPR",
-      "published_at": "2026-11-13T22:18:55Z"
-    },
-    {
-      "title": "Fate of Trump’s DC golf course makeover at East Potomac Park hangs before federal judge",
-      "url": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T22:10:33Z"
-    },
-    {
-      "title": "Democrat Holscher wins Kansas governor's race amid data center backlash - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTZXTFM5V00xOEJZcWtJU21rRENBM2lkQ3JCQmJvbUVRSDNqeWplR0FWSk9qSWVVdDAxR295VWxLMmNKb1Z0RmZURlQ3TV9ReHVrTW1nak9IVHpCNjduUXZZTG5NQ3JhT2pTNUR1N3dtZTNoZDVwdjNKeGY1cGxvSFNsYTNMMjhyZmNENkl1SDR4cFBDNllZdWRRbHhQa3BFUS1xc2lLTkFrOXNkZDNVSnJrRi0?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T21:58:36Z"
-    },
-    {
-      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE0zT1RvMFJtc1k0LXVEa0Y4WUV1SjRBQUd0T1RSYzVJSjJ1MTlVZEdXUmVLZUgyWGdXMXZkTGdja3I1WG10QklEb2JaN1dYbFY3ZG5YenpZTTdXY29HbTByeEQzTWRpak1FdjRtVnpoY1VHMGVIZkVBSzU3QlhISDQ3UE1vR3Q4RFd4a0NfMmJmbEV6OVpuYWdpUExFOEJlT1d5LWtrTE9nQTNRdnZWRDQ1VnVlS3BIX0gw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T21:47:11Z"
-    },
-    {
-      "title": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHhKNS1YbHpLcldfQTByOFM5TzNFOC16QmlWZHRva3lhTkxSVldFaWVkZ2ZWdDFzODFGZk02MU56X0hkWWtDZzJUa3JOSkd4YUFVVEVNZmN0ZXZWN1QtR01SV1N4UW84SzJxTFJEcnFSdndlYnhHWlFDVGtibWVRTkF0aU1WejNKOVdHVVRGWkt3WlBGbDRFVXptYTBoVjhFUDlKV0lpU0JDSEJ5RWdneHZYMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T21:38:59Z"
-    },
-    {
-      "title": "US Congress Democrats plot 'must-have' victories in 2027 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGhnekxYN2VBbGp2T1R2em5qV2ZVQ0FHa0tYWGRGNWZqUkoySzVhdU9yRUN0TzRWSXBsaHVla0dPT0U5RTAxMUlIcUloZzhFUnJ3MTNMQWMwWGt5QVNOTWxhTloweWpOb2JXcnd6cy1oblAxenl4WmtNNXJTaHc5QU1uUDE3cU1PbUJPUGUyLVpnaUxJRUxMeTE1SGRCWjNJeUU3NFM3WQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T21:35:55Z"
-    },
-    {
-      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T21:34:14Z"
-    },
-    {
-      "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
-      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-13T21:33:10Z"
     }
   ]
 }
