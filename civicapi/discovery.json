@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-14T09:20:46.183415Z",
+  "checkedAt": "2026-11-14T19:27:10.835250Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -159,7 +159,7 @@
       "payloadType": "dict",
       "positiveCandidateTotals": true,
       "providerTimestamp": "2026-11-14T05:04:14.299Z",
-      "responseMs": 68
+      "responseMs": 112
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -191,7 +191,7 @@
       "payloadType": "dict",
       "positiveCandidateTotals": true,
       "providerTimestamp": "2026-11-14T05:00:03.800Z",
-      "responseMs": 79
+      "responseMs": 110
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -200,7 +200,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 64
+      "responseMs": 86
     }
   },
   "publishedRaces": 499,
@@ -3801,6 +3801,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 163,
+  "updatedRaces": 0,
   "version": 2
 }
