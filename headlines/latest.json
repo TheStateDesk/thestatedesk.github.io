@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T18:42:09.150888Z",
+  "generated_at": "2026-11-14T00:17:27.246514Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,41 +8,126 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
-  ],
+  "source_warnings": [],
   "priority": [
     {
-      "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T17:15:05Z",
+      "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T21:33:10Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Supreme Court will decide if Trump’s asylum restrictions are legal",
+      "url": "https://thehill.com/regulation/court-battles/6219384-supreme-court-trump-asylum-restrictions/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T19:14:09Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHNWeFYxTlNOZElZQ1BSdDNZSXhJM3RtVWNhRXJ4SkcxVU5MU3ZIdW1Oc1gxa2Y3eXJ4NFc3b21Bb3lKT2pwZVNxMUtSa2NDS3JYSTI5ZzJzRkU4Z3ptRDlhVlBvWXNHdjh3MGNBLVg1bjRRV2poamg2eHo0Sl84ZGFPaS02RjhJMVo5RWtWMC1rc1pFNkE3UkUwS3VuUjJnejl2NHZIWGdrM3psTUZR?oc=5"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
+      "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-13T23:40:11Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/van-hollen-schumer-senate-democratic-leader-6d74c189cb6c065c9a810a1cf1a53436?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-13T15:48:07Z",
-      "source_count": 3,
+      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-13T21:34:14Z",
+      "source_count": 2,
       "other_sources": [
         {
           "source": "PBS NEWSHOUR",
           "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader"
-        },
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-13T21:28:45Z",
+      "source_count": 2,
+      "other_sources": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/chris-van-hollen-democratic-senate-majority-leader-ac00cf5b627f3f244ab7c3dcb426392e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Hassett denies report he is leaving White House",
+      "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T21:26:26Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG5VWFduTnVycU5YUjlNR1UxdkZHVG90ZzhmOVRORXFINkFFOTlPMUs2V2QxTG43NUlBRThPVTRCYy1seWlRTERpZ1dMQXRiT1NiZjJqbGRrMmxINzJ4am92WW0wejBZcXFXbGxDSHVXZlhSYkNVWm5GSlNFaW56Zld4bFIwbWwyYlNyeTFlWEs0UGlvdkY2YW16NkttNFpMU3FZZEJHNA?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching dealmaking with the president",
+      "url": "https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T20:20:12Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress",
+      "url": "https://apnews.com/article/justice-department-congress-fbi-trump-e121c4420d0010b9ba7e8003407d304a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T16:30:33Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress"
         }
       ],
       "priority_score": 5,
@@ -51,148 +136,148 @@
   ],
   "headlines": [
     {
-      "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching deal-making with the president",
-      "url": "https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president",
+      "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
+      "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T18:40:51Z"
+      "published_at": "2026-11-13T23:40:11Z"
     },
     {
-      "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T18:22:31Z"
+      "title": "Brooks and Marcus on how Republicans are responding to midterm losses",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-how-republicans-are-responding-to-midterm-losses",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-13T23:30:37Z"
     },
     {
-      "title": "Public safety is a rare bipartisan win Congress shouldn’t let slip away",
-      "url": "https://thehill.com/opinion/criminal-justice/6218590-bipartisan-public-safety-bills/",
+      "title": "House Democrat calls FAA stop ‘quite disturbing’",
+      "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T17:30:00Z"
+      "published_at": "2026-11-13T23:22:00Z"
     },
     {
-      "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T17:15:05Z"
+      "title": "Trump administration delays Medicaid work requirement enforcement",
+      "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T23:19:17Z"
     },
     {
-      "title": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China",
-      "url": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T17:09:45Z"
+      "title": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+      "url": "https://thehill.com/business/6219883-fed-announces-2027-meeting-schedule/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T22:44:33Z"
     },
     {
-      "title": "The Trump administration's voter roll crusade could continue",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+      "title": "Jeffries outlines Democratic plans for Medicare expansion",
+      "url": "https://thehill.com/homenews/house/6219982-jeffries-endorses-medicare-age-lowering/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T22:43:31Z"
+    },
+    {
+      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
       "source": "NPR",
-      "published_at": "2026-11-13T17:00:00Z"
+      "published_at": "2026-11-13T22:18:55Z"
     },
     {
-      "title": "Trump ‘gaslighting’ over Huang controversy: Kara Swisher",
-      "url": "https://thehill.com/media/6218982-swisher-trump-nvidia-huang-scandal/",
+      "title": "Fate of Trump’s DC golf course makeover at East Potomac Park hangs before federal judge",
+      "url": "https://thehill.com/regulation/court-battles/6219769-federal-judge-east-potomac-park-golf-course-hearing/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T16:50:55Z"
+      "published_at": "2026-11-13T22:10:33Z"
     },
     {
-      "title": "California governor Gavin Newsom endorses global fossil fuel phaseout",
-      "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
+      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE0zT1RvMFJtc1k0LXVEa0Y4WUV1SjRBQUd0T1RSYzVJSjJ1MTlVZEdXUmVLZUgyWGdXMXZkTGdja3I1WG10QklEb2JaN1dYbFY3ZG5YenpZTTdXY29HbTByeEQzTWRpak1FdjRtVnpoY1VHMGVIZkVBSzU3QlhISDQ3UE1vR3Q4RFd4a0NfMmJmbEV6OVpuYWdpUExFOEJlT1d5LWtrTE9nQTNRdnZWRDQ1VnVlS3BIX0gw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T21:47:11Z"
+    },
+    {
+      "title": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaHhKNS1YbHpLcldfQTByOFM5TzNFOC16QmlWZHRva3lhTkxSVldFaWVkZ2ZWdDFzODFGZk02MU56X0hkWWtDZzJUa3JOSkd4YUFVVEVNZmN0ZXZWN1QtR01SV1N4UW84SzJxTFJEcnFSdndlYnhHWlFDVGtibWVRTkF0aU1WejNKOVdHVVRGWkt3WlBGbDRFVXptYTBoVjhFUDlKV0lpU0JDSEJ5RWdneHZYMA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T21:38:59Z"
+    },
+    {
+      "title": "US Congress Democrats plot 'must-have' victories in 2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGhnekxYN2VBbGp2T1R2em5qV2ZVQ0FHa0tYWGRGNWZqUkoySzVhdU9yRUN0TzRWSXBsaHVla0dPT0U5RTAxMUlIcUloZzhFUnJ3MTNMQWMwWGt5QVNOTWxhTloweWpOb2JXcnd6cy1oblAxenl4WmtNNXJTaHc5QU1uUDE3cU1PbUJPUGUyLVpnaUxJRUxMeTE1SGRCWjNJeUU3NFM3WQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-13T21:35:55Z"
+    },
+    {
+      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-13T16:31:28Z"
+      "published_at": "2026-11-13T21:34:14Z"
     },
     {
-      "title": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo",
-      "url": "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T16:20:29Z"
+      "title": "Supreme Court will consider Trump’s executive order suspending asylum access at the southern border",
+      "url": "https://apnews.com/article/supreme-court-trump-asylum-aeed6eb39a46b6f9e56f4b6940a5cfe4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T21:33:10Z"
     },
     {
-      "title": "Kushner: Russia has agreed to include Europe in Ukraine war talks",
-      "url": "https://thehill.com/policy/international/6218870-russia-ukraine-negotiations-europe/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T16:19:49Z"
-    },
-    {
-      "title": "White House urges Congress to provide $30.1 billion for aviation reform - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkVZemRYZzluclpNcE5QNFpDTDUtMzRTaWxjWVpIOUU4WDBHUnlkSDNfbVNoMlh1Z3BER0dVVzRUUm5BWm5FUTQ3aHFQNGhDb1o3MFR4ZktEZEp1Q1dzNHcyUlBFV3NaTkUzRXlkV3FQbjgtSFhHR0N6Uzd4M3RtRGRXbDFfcFdpSzJjLVhfTE53eF9IWDJzNkN0VHJpM2E5YW5ubHhzVUUzRE95LTFKLW55VmlrUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T16:13:30Z"
-    },
-    {
-      "title": "Watch live: Van Hollen speaks from Denver as he eyes Senate leadership role",
-      "url": "https://thehill.com/video-clips/6218733-watch-live-van-hollen-remarks-whats-next-conference-denver-schumer-challenge-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T16:00:15Z"
-    },
-    {
-      "title": "Trump approval hits record second-term low: Survey",
-      "url": "https://thehill.com/homenews/administration/6218757-trump-approval-iran-midterms-2028/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T15:57:55Z"
-    },
-    {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-13T15:48:07Z"
-    },
-    {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-13T15:40:08Z"
-    },
-    {
-      "title": "Peltola extends lead after new Alaska Senate ballots count",
-      "url": "https://thehill.com/the-120/6218667-mary-peltola-alaska-senate-lead/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T15:34:05Z"
-    },
-    {
-      "title": "Russia’s economy is reeling — Trump should be raising the pressure if he wants peace",
-      "url": "https://thehill.com/opinion/national-security/6215155-russian-economy-worsens-inflation-rises/",
-      "source": "THE HILL",
-      "published_at": "2026-11-13T15:30:00Z"
-    },
-    {
-      "title": "Trump's Justice Department faces a new era of scrutiny under a Democratic-led Congress",
-      "url": "https://www.pbs.org/newshour/politics/trumps-justice-department-faces-a-new-era-of-scrutiny-under-a-democratic-led-congress",
+      "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
+      "url": "https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T15:29:23Z"
+      "published_at": "2026-11-13T21:32:51Z"
     },
     {
-      "title": "After ICE raids, southwest Kansans swung to a Democrat. Now they want accountability - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjdDb2NoUUxDS3dJeHMyNVBScTA5VlFtZEl4TEVqRDRDenloT0VYRExpcGVEeDlabGxjQ2xQLXo3bm8zMDBsNHJmTmtyamY2MzE4eTE2NkJ6MWZ5SlRCcVlVTmdSaElpRlRsYTlQM3I5aVdDOE1sOEloYXRwYU9PLUp5bzhVWXVmX0oxSXFRdDc2Z29HNFNiQUpRc2FEM3dzQjZRRDdUZE1Vbk1kU0t2eW1UamxSZEt5SjJJSHhkX2dlY0J6ZDFiTUVn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T15:24:53Z"
+      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-13T21:28:45Z"
     },
     {
-      "title": "We vote because they can’t: What Democrats must do now to fix mmigration",
-      "url": "https://thehill.com/opinion/immigration/6214421-democrats-immigration-enforcement-accountability/",
+      "title": "Hassett denies report he is leaving White House",
+      "url": "https://thehill.com/homenews/administration/6219713-kevin-hassett-denies-departure/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T15:00:00Z"
+      "published_at": "2026-11-13T21:26:26Z"
     },
     {
-      "title": "White House sends CFTC, SEC nominations to Senate",
-      "url": "https://thehill.com/homenews/administration/6218493-white-house-cftc-sec-nominations-senate/",
+      "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+      "source": "NPR",
+      "published_at": "2026-11-13T21:06:05Z"
+    },
+    {
+      "title": "Merkley, senior Senate progressive, backs Van Hollen over Schumer",
+      "url": "https://thehill.com/the-120/6219652-merkley-supports-van-hollen-majority-leader/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T14:54:41Z"
+      "published_at": "2026-11-13T21:01:04Z"
     },
     {
-      "title": "Talarico wants to make Trump’s last 2 years ‘the most productive of any presidency’",
-      "url": "https://thehill.com/the-120/6218440-talarico-democrats-trump-bipartisanship/",
+      "title": "Ocasio-Cortez: Stevens has ‘been with the Republicans’ since Congress returned",
+      "url": "https://thehill.com/homenews/campaign/6219619-ocasio-cortez-stevens-republicans/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T14:37:40Z"
+      "published_at": "2026-11-13T20:58:47Z"
     },
     {
-      "title": "The midterm avalanche reveals a new political geography",
-      "url": "https://thehill.com/opinion/campaign/6215499-new-post-trump-political-alignment/",
+      "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+      "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T20:52:26Z"
+    },
+    {
+      "title": "Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid",
+      "url": "https://thehill.com/homenews/senate/6219585-van-hollen-filibuster-2028/",
       "source": "THE HILL",
-      "published_at": "2026-11-13T14:30:00Z"
+      "published_at": "2026-11-13T20:36:13Z"
     },
     {
-      "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
-      "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T14:26:31Z"
+      "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-13T20:34:31Z"
+    },
+    {
+      "title": "'TrumpCare' and commemorative plaques — how Democrats are pitching dealmaking with the president",
+      "url": "https://apnews.com/article/democrats-trump-elsayed-talarico-2c851a15cb5e27a0ff4d60ef990aef3e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-13T20:20:12Z"
+    },
+    {
+      "title": "DeSantis on Defense secretary speculation: ‘I’ve never discussed it’ with Trump",
+      "url": "https://thehill.com/homenews/administration/6219494-desantis-denies-hegseth-replacement/",
+      "source": "THE HILL",
+      "published_at": "2026-11-13T20:08:19Z"
     }
   ]
 }
