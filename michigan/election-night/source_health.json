@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-14T08:00:02.434879+00:00",
+  "checkedAt": "2026-11-14T18:50:50.875926+00:00",
   "purpose": "Public connectivity only; no automatic county return ingestion",
   "localCounties": {
     "status": "ready",
@@ -10,8 +10,8 @@
     "oakland": {
       "label": "Oakland · 2026 results portal",
       "url": "https://results.enr.clarityelections.com/MI/Oakland/127284/",
-      "status": "reachable",
-      "note": "Portal responds; precinct feed and actual returns unverified",
+      "status": "indeterminate",
+      "note": "HTTP 202",
       "role": "page"
     },
     "kent": {
@@ -24,8 +24,8 @@
     "livingston": {
       "label": "Livingston · county results",
       "url": "https://milivcounty.gov/elections/election-results/",
-      "status": "indeterminate",
-      "note": "HTTP 202",
+      "status": "reachable",
+      "note": "Portal responds; precinct feed and actual returns unverified",
       "role": "page"
     },
     "state_directory": {
