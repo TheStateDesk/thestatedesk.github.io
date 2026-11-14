@@ -1,13 +1,13 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-14T15:10:08.567125+00:00",
+  "checkedAt": "2026-11-14T20:46:33.136332+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
     "countyEquivalents": 3143,
     "countySourcesIndependentlyLinked": 104,
-    "countySourcePagesResponding": 86,
+    "countySourcePagesResponding": 88,
     "countiesWithoutDirectVerifiedSource": 3039,
     "machineReadableCountyFeedsConfirmed": 0,
     "verified2026CountyReturnsBeforePollClose": 0
@@ -264,8 +264,8 @@
         "26003": {
           "county": "Alger",
           "sourceUrl": "https://www.algercounty.gov",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1091,8 +1091,8 @@
         "34001": {
           "county": "Atlantic",
           "sourceUrl": "https://www.atlanticcountyclerk.org/elections-2/elections-results/",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
