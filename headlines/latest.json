@@ -1,24 +1,24 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T14:03:48.404380Z",
+  "generated_at": "2026-11-14T19:03:19.019937Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items"
+    "BBC NEWS: no recent politics items",
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
   "priority": [
     {
-      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-      "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-      "source": "NPR",
-      "published_at": "2026-11-14T05:12:43Z",
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-14T16:58:33Z",
       "source_count": 2,
       "other_sources": [
         {
@@ -28,9 +28,120 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+      "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-14T16:38:34Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
+    {
+      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+      "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-14T18:43:07Z"
+    },
+    {
+      "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+      "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-14T18:05:33Z"
+    },
+    {
+      "title": "At the Supreme Court, Trump aims to cut the power of judges again - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T17:27:58Z"
+    },
+    {
+      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T17:14:23Z"
+    },
+    {
+      "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T17:09:54Z"
+    },
+    {
+      "title": "Some Republicans say rising stars should sit out 2028 after midterm shellacking",
+      "url": "https://thehill.com/homenews/campaign/6219720-gop-candidates-considering-2032/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T17:00:00Z"
+    },
+    {
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-14T16:58:33Z"
+    },
+    {
+      "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+      "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-14T16:38:34Z"
+    },
+    {
+      "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T15:37:54Z"
+    },
+    {
+      "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-14T15:28:14Z"
+    },
+    {
+      "title": "Democrats win an election and immediately move to subvert democracy",
+      "url": "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T15:00:00Z"
+    },
+    {
+      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T14:48:19Z"
+    },
+    {
+      "title": "Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T14:37:30Z"
+    },
+    {
+      "title": "Alaska elects first Democratic governor since 1998, US media project - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T14:28:09Z"
+    },
+    {
+      "title": "PODCAST: FAA restores flights, Trump plans nuclear talks in China and SS United States' final voyage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUdVM0xpU1lDOWpfYVNHVlRVOTBGTzZNVGdwenljck5OdkRsNTNkOHUxV3l5LUpON0ZuZzFheEstSlU2VHhNcXQ5SFBZN0RYVzNleGU2bk5KM21sQzd5ZVRqZ3hKckZQUWsybzNMWlJlZFpaZ1N1c0djVjhBWnNPWndyODJMbnZqTzQ0VUktRHNjT1VPNk1uVmZha3czTURzQnhzV3ctZjlKUmtZQUVtYjdvd0JsRjlBQW1iRA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T14:06:37Z"
+    },
+    {
+      "title": "South Sudan delays election to February 11, 2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3U0Um9xVEQzN2ZkMWdFaHFWOEV0T1FTVVRaZXU0WnFFVjRiQ1Z4SUZ2VVNrNXUxZ2d6RWY0VXBJcUZNMU04ZmUyRVlXOURtWk5Kb2h6Y28wMVVHYnZkN0l6Vks3Z1hTa3cta25wbDhhb0JBUldpWmtzVlpvYUt0LVVfQzJpYlF6c29vQUI3SUMxQl96SUZYVw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T13:28:38Z"
+    },
     {
       "title": "Peltola holds nearly 4-point lead on Sullivan in latest ballot drop",
       "url": "https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/",
@@ -62,22 +173,10 @@
       "published_at": "2026-11-14T12:40:22Z"
     },
     {
-      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T12:26:12Z"
-    },
-    {
       "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-14T11:04:10Z"
-    },
-    {
-      "title": "At the Supreme Court, Trump aims to cut the power of judges again - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2VIZWp1ZnhpQ09VVEdDSjhteU9qNzdxWEYtZ1d2aEs3cjZ4SUtEUVlxanBWTHlMX1JTbGdMd3A5UkZrMHFVc1ppTUVka1RTTEctN0toYkFualFicnFDNVBaSjhESmd4dlBVMDdCNERsNThVc0duRkJTc3BNdzFyVS1iczc4LXM1UzlXczlvdGlocWZjWTdMczlYak1GS1N6OWc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T11:02:44Z"
     },
     {
       "title": "Indonesian president orders greater share of mining benefits for the state - Reuters",
@@ -86,94 +185,10 @@
       "published_at": "2026-11-14T11:01:44Z"
     },
     {
-      "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-14T11:00:43Z"
-    },
-    {
       "title": "Trump says the Iran war ‘effectively over.’ It’s still costing the US billions",
       "url": "https://thehill.com/policy/defense/6214685-us-military-costs-iran-conflict/",
       "source": "THE HILL",
       "published_at": "2026-11-14T11:00:00Z"
-    },
-    {
-      "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T10:31:30Z"
-    },
-    {
-      "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T07:13:00Z"
-    },
-    {
-      "title": "Riots in France: How anti-government protests spiraled out of control - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3F1XzJUQTItaTJpX1hvYTBuU1J0Z2tnX0d2a0ZPTHBUQ1JlYk1FODF4QnFreUdRQm81d2MxeGdXTm5XV25EdDFPXy0yQkNmMTduYXRiMjlrXzFYd0RISjRZbzhuazYySERDU1pXN0hadDZpdXdTTjlxQnJWQ1VJNmVwUWlwUmR1VW1FV0pfMkZROHY3R1dUNnlEVFlxX0RzdDRNVjBJNGlqQ2NXZU5hc2JR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T06:00:00Z"
-    },
-    {
-      "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T05:36:00Z"
-    },
-    {
-      "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-      "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-      "source": "NPR",
-      "published_at": "2026-11-14T05:12:43Z"
-    },
-    {
-      "title": "Democrat flips Alaska governor’s office",
-      "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/",
-      "source": "THE HILL",
-      "published_at": "2026-11-14T05:05:12Z"
-    },
-    {
-      "title": "South Korea should not fear China's rise, foreign minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T04:49:00Z"
-    },
-    {
-      "title": "US flight shutdown exposes deepening air traffic network crisis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T02:18:00Z"
-    },
-    {
-      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T01:37:46Z"
-    },
-    {
-      "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
-      "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
-      "source": "THE HILL",
-      "published_at": "2026-11-14T01:30:55Z"
-    },
-    {
-      "title": "Hegseth directs Pentagon CFO to transform military pay systems",
-      "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
-      "source": "THE HILL",
-      "published_at": "2026-11-14T00:25:15Z"
-    },
-    {
-      "title": "Democratic US senators order Musk to preserve records on Ukraine Starlink access - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX25Kck55T1o2eEtVLW5rSlBkRzM0MnR4OWpYTGNYcHFJc0I4dW1UaTc5VEtJUzZGT1EtVGdSd2FQdm1iNEl4YzE0eFRDc1VPUFR4NmR6RjR1cW1veHpEZVowQlFMV1JpWGRpZUdOaTBiQ0R6MEdUQW1HdEZtWFhWdHBaZGlvaHZJRlZOLXFHWUU0aUkxQ01rdkwwN3JiZGgxNWZiZG9pTmM3eDRjQkhJYkhwQkw2VFdseG82U0tsWlNQQnVCaEg3eWdGYTJ5Ync?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-13T23:55:00Z"
-    },
-    {
-      "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
-      "url": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-13T23:40:11Z"
     }
   ]
 }
