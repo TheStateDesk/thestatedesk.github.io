@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T22:56:07.584808Z",
+  "generated_at": "2026-11-15T02:31:43.807499Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -13,44 +13,37 @@
     "BBC NEWS: no recent politics items",
     "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
-  "priority": [
+  "priority": [],
+  "headlines": [
     {
-      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-14T16:58:33Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
+      "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
+      "url": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T02:02:59Z"
     },
     {
-      "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
-      "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-14T16:38:34Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    }
-  ],
-  "headlines": [
+      "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal",
+      "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T00:26:46Z"
+    },
+    {
+      "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/6220953-sunday-shows-trump-cabinet-democrats-congress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-14T23:55:20Z"
+    },
+    {
+      "title": "‘I don’t know what to do’: student pilot on first solo flight caught in US shutdown - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T23:36:17Z"
+    },
     {
       "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T22:10:59Z"
+      "published_at": "2026-11-14T22:54:19Z"
     },
     {
       "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
@@ -77,12 +70,6 @@
       "published_at": "2026-11-14T21:17:39Z"
     },
     {
-      "title": "China's COMAC electric plane completes first crewed flight: state media - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjV01laUhKXzgtMENlMVB6QVo2cE1nQzdmR3lGQklKaV9YZDVrSkJ2b05PMU9vV2Z4MS1JQkJMZGRGcWdBSGdad0g2ZlBsNTc1STM5ZU5pQjUwRDZORW0tYjF0SEgzMEk?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T20:48:58Z"
-    },
-    {
       "title": "Trump says he’s working with bipartisan senators on film industry legislation",
       "url": "https://thehill.com/business/6220886-trump-bipartisan-film-industry-bill/",
       "source": "THE HILL",
@@ -98,7 +85,7 @@
       "title": "US aviation shutdown blamed on L3 Harris installed router - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T20:17:19Z"
+      "published_at": "2026-11-14T20:10:00Z"
     },
     {
       "title": "U.S. government falls short on food aid promise - Reuters",
@@ -137,10 +124,22 @@
       "published_at": "2026-11-14T19:15:06Z"
     },
     {
+      "title": "Trump denies report that he disparaged war dead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuT1ZCMFFNeExoRW5GbzZCdE8tRGJxZjZBbzNkRkszcnB6cXFZR2lzXzAxQ0RMLUprcmZYbEdWT1J0RnhKWHhhU1BfMGJZQXJTZXJJbXE3R05OWEpD?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T19:15:06Z"
+    },
+    {
       "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
       "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
       "source": "NPR",
       "published_at": "2026-11-14T19:13:54Z"
+    },
+    {
+      "title": "Ukraine hopes for grain exports breakthrough - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZ21uUGJZbnRqaEtDSXZxOFFoUzJwanZibksxaHMyb0ZUTW9nODJxd0x2QnJ6Yzl1SVB1N1Bqb0wzaFZCRll1RmVUY2dvbGM4YlI0bEdqWHpGMGpFYUR5aDFmVXhPbTA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T18:53:43Z"
     },
     {
       "title": "Making ends meet in Mississippi: How high prices led to an election upset - Reuters",
@@ -159,36 +158,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-14T18:28:28Z"
-    },
-    {
-      "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
-      "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-14T18:05:33Z"
-    },
-    {
-      "title": "China's COMAC electric plane completes first crewed flight: state media - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13WEtrWlBzZGg2UzUwVTZ3MC1mZWswRGdjdEVaUnU1dTM5djd1aGRPZDUwdm13MFFabGEyUEMtWnhJVlhPRmE4VFc0TzVxbEE0XzhSUG5UNWpZdnFGcVBOWmI1dU1ldnFfdk9GUmxOZ3psdU1TaWRCeTZ3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T17:42:27Z"
-    },
-    {
-      "title": "After ICE raids, southwest Kansans swung to a Democrat. Now they want accountability - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSenMyVHBtcHRpY3lZTnYtMnBSN1g1Vld6bm1tNktzZWdOWkJpWFAwUzJia1Q1SmxNTUU1QlcybUhWVzJVTDdtN2JRQ0lYZDE2NldrdFF1ckw4aktEbVZvd3N0bjhpaE0?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T17:00:08Z"
-    },
-    {
-      "title": "Some Republicans say rising stars should sit out 2028 after midterm shellacking",
-      "url": "https://thehill.com/homenews/campaign/6219720-gop-candidates-considering-2032/",
-      "source": "THE HILL",
-      "published_at": "2026-11-14T17:00:00Z"
-    },
-    {
-      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-14T16:58:33Z"
     }
   ]
 }
