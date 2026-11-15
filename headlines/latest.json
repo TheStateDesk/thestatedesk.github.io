@@ -1,33 +1,44 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T16:57:36.347731Z",
+  "generated_at": "2026-11-15T21:39:12.911218Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
+    "BBC NEWS",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items"
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
   "priority": [
     {
-      "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
-      "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-15T18:46:49Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+      "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-15T16:20:54Z",
-      "source_count": 3,
+      "published_at": "2026-11-15T17:39:22Z",
+      "source_count": 2,
       "other_sources": [
         {
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
-        },
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-washington-golf-course-east-potomac-injunction-df0f89f28f2a216faf09b3d63cdb6f9a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
@@ -36,22 +47,124 @@
   ],
   "headlines": [
     {
+      "title": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
+      "url": "https://thehill.com/homenews/senate/6221606-texas-prosecutor-warns-warren/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T21:24:02Z"
+    },
+    {
+      "title": "Trump says Interior will appeal ruling delaying golf course renovations",
+      "url": "https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T20:44:12Z"
+    },
+    {
+      "title": "Colom urges Democrats to invest more in Mississippi after surprise Senate win",
+      "url": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T20:22:10Z"
+    },
+    {
+      "title": "Swedish opposition leader Andersson wins crucial backing to form government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX29seW5hQW1UY2N4aDVKX3ZEYV9NeHk1RE52blpnbi1uRHhqeXlPOXBfQU5qa3hrLTVaUDZmSDgwM193VE1aMnE3Z0pFYVZIckpqaHJLTlBBNWllREpNV1NDTk1TM2lhNmlKSGxtWVVSMUh2Q3JXNlcwUHZjSWFvU1hpMGRVR1RWajVlM1h5ZU45OTJjajlCTWRLYjlMc3cxUTlkNjVLVEphYUh2QzZVcUVnNmQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T19:35:28Z"
+    },
+    {
+      "title": "Tens of thousands of Czechs rally against government media funding plan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T19:14:27Z"
+    },
+    {
+      "title": "Could Trump turn against the AI barons?",
+      "url": "https://thehill.com/opinion/technology/6220328-trump-ai-policy-shift/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T19:00:00Z"
+    },
+    {
+      "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T18:59:19Z"
+    },
+    {
+      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-15T18:48:10Z"
+    },
+    {
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-15T18:46:49Z"
+    },
+    {
+      "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
+      "url": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T18:28:06Z"
+    },
+    {
+      "title": "Tens of thousands of Czechs rally against government media funding plan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjk5Sm1iTTRRUF9OaWNCZm10UjVzTndiVG5Tc0xmWlhKTlEwY3B6QUJTRDB2SmZKQnJnS19PdEVNNkRKUmNsVnFwaVJYanVITlA3d3ZpbVU0UUk1ZldZaXBkNTVjZnFIUUgybmQ4RTVWclNySEthSVl3RGoyMXNWcVZqRjVYeFlQN0VyS19NaVFvNXF5ZzBJ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T18:17:28Z"
+    },
+    {
+      "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+      "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-15T17:39:22Z"
+    },
+    {
+      "title": "Trump pardons ex-aide Bannon, but not himself - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGczJfbmtKYjlCRnFvSVhtbm5MQXFFYVQtUmtwMWVVZVhreFJTTjYtdkJDNkhCYWJYT0lsa1ExU0o3TEpVc3VJdW5FUDN0ek8yV2hiSnlaOWNVNktV?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T17:24:42Z"
+    },
+    {
+      "title": "Van Hollen: Senators who pledged to support Schumer will switch vote",
+      "url": "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T16:45:31Z"
+    },
+    {
       "title": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses",
       "url": "https://thehill.com/homenews/administration/6221381-pence-vance-midterm-losses/",
       "source": "THE HILL",
       "published_at": "2026-11-15T16:34:46Z"
     },
     {
-      "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
+      "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
       "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-15T16:32:43Z"
+    },
+    {
+      "title": "Trump's judge appointment blitz faces Republican resistance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTg5d09JVTFvR2R5VTRRVWZPV3NRcGx4UlBRRHEybkdwV0FvMUViaTJDejNTSkFuSkxZSE9UMnBPRWJLQngzdklQMUZUQndnc2xXemdSTmpqdTdSQjZZRlJLMEQ1akp1eHdqVmczSFI4MFE4SHFSSUNlVmtaVk5mT1dsMkI1YVl4WjdUWXZVak5xY05ISW14eGpOUGd2UDUzY1JvZ1JtSXFlclU4MFhfWg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T16:27:01Z"
+    },
+    {
+      "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T16:25:41Z"
     },
     {
       "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
       "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-15T16:20:54Z"
+    },
+    {
+      "title": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXZuc1Exa0s2dzJKQ3U1bkdxd01NelRtemI0SnpSVHZNQ2Z1bGM3MlpLQ29pZ1ZRNHJLWS1OQTM5bFJySnBKUUNLSXlNeDNvUlJ2Um00ZVZFaU13bW5rSTFwWHJINlJFSkd4UHNPUVk2Y1A0dWQ4cE5VeU5tRjVtZHlXZEt2c1VPeU9tNEl4N2RZWjRCRmpPMm92NjU0VVhiLTZTQXQ4cFY2YnZld3d0OFVwRnFxRkpP?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T16:18:55Z"
     },
     {
       "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
@@ -66,118 +179,16 @@
       "published_at": "2026-11-15T16:10:10Z"
     },
     {
-      "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T16:06:45Z"
-    },
-    {
       "title": "Duffy pins ground stop on Congress’s lack of funding",
       "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
       "source": "THE HILL",
       "published_at": "2026-11-15T16:04:46Z"
     },
     {
-      "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T15:56:58Z"
-    },
-    {
-      "title": "Trump calls on Congress to fund new air traffic control system",
-      "url": "https://thehill.com/policy/transportation/6221316-trump-requests-air-traffic-funding/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T15:25:50Z"
-    },
-    {
-      "title": "Tens of thousands of Czechs rally against government media funding plan - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T15:19:45Z"
-    },
-    {
-      "title": "Van Hollen says ‘bunch of nonsense’ that he can’t win Senate majority leader",
-      "url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T15:11:11Z"
-    },
-    {
-      "title": "Trump moves to build his space legacy with NASA’s help",
-      "url": "https://thehill.com/opinion/technology/6219046-trump-space-freedom-proclamation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T15:00:00Z"
-    },
-    {
-      "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Democrats discuss Senate majority elections",
-      "url": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T14:18:23Z"
-    },
-    {
-      "title": "US floated idea swapping Ukrainian territory for NATO membership: Zelensky",
-      "url": "https://thehill.com/policy/international/6221276-zelensky-nato-donbas-deal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T14:12:04Z"
-    },
-    {
-      "title": "Hong Kong activists seek support in U.S. Congress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjOVNCNXpDNlROZ3hlaDdWdURycDJqS01PSnJSSlRtY214Yy0xM2FyZ09BUXVTZEFmLTBZb0J2T2dCTHk3cDVQRzhzX25kOFZOZHdRTG85SGNWR1Yw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T14:07:47Z"
-    },
-    {
-      "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
-      "url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T14:06:18Z"
-    },
-    {
-      "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-15T14:00:20Z"
-    },
-    {
-      "title": "ASEAN, China fail to conclude South China Sea code of conduct - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RJdXlfUmlvM01RTEVHbEIzRzA0eTYxLWVtMGdlOEhXT1hyRHl0ejhBMjBvSGFVU25SUTNsMXJXV3ZhRkRldDJOd3VMTWdqSTdpQ0FXcHl4aGtUbzNQWWdnSlpQWkM3d1d1VldFeE4wNmMwZUhrVEdyQnlTdTBTNDM1a3oxRVZCS0pTRnpSLXRMbFVOM1VrUWY2bWFZQU41VDV5cg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T13:39:46Z"
-    },
-    {
-      "title": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T13:24:58Z"
-    },
-    {
-      "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
-      "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump",
-      "source": "NPR",
-      "published_at": "2026-11-15T13:11:23Z"
-    },
-    {
-      "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-15T13:00:15Z"
-    },
-    {
-      "title": "Protesters clash with police near Philippines ASEAN summit over Trump visit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTXFENUtvWFYxbmdLQWNKMU9fNlUwNUdvUTViamxobW10UGRGRUlHMWY1bTBBamtTOGJYbXByUFp4aWhETWxYS0d0ZUx3N2s4OGpVMkg3RWdyRl9FZEx3R1VxU3ZlZzA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T12:38:51Z"
-    },
-    {
-      "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-15T12:00:15Z"
-    },
-    {
-      "title": "Confirming judges, defense funding top of GOP’s lame-duck agenda: Cramer",
-      "url": "https://thehill.com/homenews/senate/6221099-gop-lame-duck-agenda-cramer/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T12:00:00Z"
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-15T15:57:03Z"
     }
   ]
 }
