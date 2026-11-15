@@ -5297,28 +5297,28 @@
       "verified": true
     },
     "IN-06": {
-      "asOf": "2026-11-14T04:48:34.450000Z",
+      "asOf": "2026-11-15T19:55:01.070000Z",
       "candidates": [
         {
           "name": "Jefferson Shreve",
           "party": "R",
-          "votes": 111169
+          "votes": 111179
         },
         {
           "name": "Cinde Wirth",
           "party": "D",
-          "votes": 90652
+          "votes": 90672
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.0,
       "raceId": "87140",
-      "retrievedAt": "2026-11-14T09:20:46.183415Z",
+      "retrievedAt": "2026-11-15T19:55:40.638364Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87140",
       "timestampBasis": "provider_last_updated",
-      "total": 201821,
+      "total": 201851,
       "verified": true
     },
     "IN-07": {
@@ -5352,28 +5352,28 @@
       "verified": true
     },
     "IN-08": {
-      "asOf": "2026-11-14T04:48:34.632000Z",
+      "asOf": "2026-11-15T19:55:01.994000Z",
       "candidates": [
         {
           "name": "Mark Messmer",
           "party": "R",
-          "votes": 117714
+          "votes": 117716
         },
         {
           "name": "Mary Allen",
           "party": "D",
-          "votes": 95362
+          "votes": 95373
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.0,
       "raceId": "87142",
-      "retrievedAt": "2026-11-14T09:20:46.183415Z",
+      "retrievedAt": "2026-11-15T19:55:40.638364Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87142",
       "timestampBasis": "provider_last_updated",
-      "total": 213076,
+      "total": 213089,
       "verified": true
     },
     "IN-09": {

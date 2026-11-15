@@ -1,6 +1,6 @@
 {
   "attemptedRaces": 505,
-  "checkedAt": "2026-11-15T09:50:31.211087Z",
+  "checkedAt": "2026-11-15T19:55:40.638364Z",
   "discovery": {
     "found": 505,
     "lookups": 1,
@@ -157,8 +157,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-15T09:48:36.869Z",
-      "responseMs": 36
+      "providerTimestamp": "2026-11-15T18:59:37.158Z",
+      "responseMs": 64
     },
     "MI-SENATE": {
       "candidateRows": 12,
@@ -189,8 +189,8 @@
       "identityMatches": true,
       "payloadType": "dict",
       "positiveCandidateTotals": true,
-      "providerTimestamp": "2026-11-15T08:58:08.676Z",
-      "responseMs": 45
+      "providerTimestamp": "2026-11-15T19:17:27.026Z",
+      "responseMs": 83
     },
     "networkReachable": true,
     "statusEndpoint": {
@@ -199,7 +199,7 @@
         "status"
       ],
       "payloadType": "dict",
-      "responseMs": 45
+      "responseMs": 73
     }
   },
   "publishedRaces": 499,
@@ -1480,11 +1480,11 @@
       "validatedVoteTotal": 260369
     },
     "IN-06": {
-      "lastSuccessfulRetrievalAt": "2026-11-14T09:20:46.183415Z",
-      "lastValidatedResultAt": "2026-11-14T04:48:34.450000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-15T19:55:40.638364Z",
+      "lastValidatedResultAt": "2026-11-15T19:55:01.070000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 201821
+      "validatedVoteTotal": 201851
     },
     "IN-07": {
       "lastSuccessfulRetrievalAt": "2026-11-14T09:20:46.183415Z",
@@ -1494,11 +1494,11 @@
       "validatedVoteTotal": 207053
     },
     "IN-08": {
-      "lastSuccessfulRetrievalAt": "2026-11-14T09:20:46.183415Z",
-      "lastValidatedResultAt": "2026-11-14T04:48:34.632000Z",
+      "lastSuccessfulRetrievalAt": "2026-11-15T19:55:40.638364Z",
+      "lastValidatedResultAt": "2026-11-15T19:55:01.994000Z",
       "office": "house",
       "status": "reporting",
-      "validatedVoteTotal": 213076
+      "validatedVoteTotal": 213089
     },
     "IN-09": {
       "lastSuccessfulRetrievalAt": "2026-11-14T09:20:46.183415Z",
@@ -3799,6 +3799,6 @@
   "registeredRaces": 505,
   "targetRaces": 506,
   "transientApiErrors": 0,
-  "updatedRaces": 19,
+  "updatedRaces": 2,
   "version": 2
 }
