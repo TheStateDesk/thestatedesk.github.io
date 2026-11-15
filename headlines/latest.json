@@ -1,20 +1,104 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T02:31:43.807499Z",
+  "generated_at": "2026-11-15T09:49:28.029361Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items",
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+    "BBC NEWS: no recent politics items"
   ],
-  "priority": [],
+  "priority": [
+    {
+      "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-15T04:52:34Z",
+      "source_count": 4,
+      "other_sources": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5"
+        },
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-washington-golf-course-east-potomac-injunction-df0f89f28f2a216faf09b3d63cdb6f9a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    }
+  ],
   "headlines": [
+    {
+      "title": "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T08:40:22Z"
+    },
+    {
+      "title": "Cape Verde votes for president with emigration in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWI3OGxfWTRxVTVMY3diaEZFMWZmRlZGYnZ0dnJKSzZqYjN4U2xmMTIyMVJ4U3QxcnI1VEVSblhZck40NTZCaGVhamRFQ2l0VDZnNXhYLTRTRUNRSDNqVW9FQ2pHZXRfQzNQOUEzRG9vaU82Q094M2J0eGo4T3N3QWdadEVmQ3BJR3FPRGNHUXdmcWpWcWItVl9LVERRUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T07:03:00Z"
+    },
+    {
+      "title": "Hindalco's Novelis to sell two China units for $265 million - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3BuUFUwSEZJQjBHRGRPcTZWN1ZlSGlVeklYVC04QTF1SXhkbUxwQmNGc1ZsdWZsN3AwS0ZFNjZkVUduQnNfZnNLUEN6OVJZYXBvemNtVkxOVWN2SEZrWE5MVEstZXhzd0lVY1FxSXZIbkxudkhWcllTYnZXbUp0QUtPRXFsMGNsWHE5c3EtUFdtYXBvMkQwc0xRdFlHdTg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T06:37:00Z"
+    },
+    {
+      "title": "Rift deepens between the Philippines, China over South China Sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2EtbGxOOHhuLWg4RzQzeTdhcXlKbFIzU1g3S3BlOE1wMWxlRngzTUgtTzFVY0o0azIxc2tqWWdDWXNQSV9ld04wRjExVVUwbHVqbmhaQmt4NFlPZkczWUhwU05aUWtZZVlYX3dIQ3FET1lBUXJaZkVTTkFfbWhURUJGOVBxMkF1RnJWUjV1T1VuUkluM0NsNEU5ZFlRejlUUXcwM3c0MnAwYTg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T05:21:00Z"
+    },
+    {
+      "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-15T04:52:34Z"
+    },
+    {
+      "title": "Philippines, Australia sign defence pact with eye on China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVp4NnMwSDJUWVYzTmJ2NDFUMkdvVlZqUm5PUU1pLVRHMEtVd1k1NDVTakFYUURCZGR3Y3ZHMGRyVktDQmZ4UC1lN0NIREp0bHpzYTQ1RHlvZjl2dmFZNkFINmJVS3luVmVvMlNFVmhQQVJjVXJiWUc0S0dwTDRVNzRMYzNlbGpZSFU3MFFmY2dKNzVodTdqNmZGd3BGWFlfTmhnSg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T04:48:00Z"
+    },
+    {
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T04:29:00Z"
+    },
+    {
+      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+      "source": "NPR",
+      "published_at": "2026-11-15T04:28:45Z"
+    },
+    {
+      "title": "US judge again blocks Trump's makeover plan for DC golf course - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDhtdGs0TVotWFJLMGVMMXVlLU9vZjdFTVAzU21kUThuSmdwWmNrckFkSGVTVTJKcHVCVzRHNzA0Ui1tQnlOME9pbWZkRTVuUmtzSUJwUzdwdmIzOUpfYlRKdzJFbWN2NUkzdXROUng0eGxiTnlraVJvNzR5SmJ3WkRuUTRlWVBNSnRDWE9mUDBoS0NHWVhNSUQyQ0JJUlZGRG5GTGR4X3JmNXktdVZz?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T02:38:00Z"
+    },
+    {
+      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+      "url": "https://apnews.com/article/trump-washington-golf-course-east-potomac-injunction-df0f89f28f2a216faf09b3d63cdb6f9a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-15T02:36:59Z"
+    },
     {
       "title": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
       "url": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/",
@@ -22,10 +106,28 @@
       "published_at": "2026-11-15T02:02:59Z"
     },
     {
+      "title": "White House broke law by withholding Ukraine aid: watchdog - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tcXc0OU92YzgzQmVGU3pFMmFZbVB6UHJKUXBWMUZKWDlrQWE0S01tX3g0QldiMjFsZjhhNVFjUW5LeGJqTmI0LVNUZHFudEF0anozX1BmY0Ziak5s?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T01:26:53Z"
+    },
+    {
+      "title": "Evangelical magazine stands by scathing Trump op-ed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pU0ZEZmZCSTBza0tUNVBhUXRfU3Bta2pLeTd2Und3N0UyUDBqTEpTUGUxZnY0aUFHbVJ0UEJUWXVvRkxVd2Ffc1JEX1VVWk5FN1ZuY1pFNlBxNWVf?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T01:15:59Z"
+    },
+    {
       "title": "Carney says he’s ‘making progress’ with Trump on possible US-Canada trade deal",
       "url": "https://thehill.com/policy/international/6221010-carney-trump-canada-us-trade-progress/",
       "source": "THE HILL",
       "published_at": "2026-11-15T00:26:46Z"
+    },
+    {
+      "title": "L&G India INR Government Bond UCITS USD Dist ETF (TIGRG.DE) | Stock Price & Latest News - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hS3hEM2xITDBRYjFtRFozMEVVNFZIS1VBaDFRS0pwcDU3REhRbzd3SXc1UDMxRExGYmR4YTAzTGh3M0F4eENpSU1zMlZIOHFuQVZ4RDFnMWFEbUdUVnppU3k1MDM0VkZHMFhxXy1EUE8?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-14T23:55:48Z"
     },
     {
       "title": "Sunday shows preview: Democrats gear Trump administration probes amid leadership disputes",
@@ -46,10 +148,10 @@
       "published_at": "2026-11-14T22:54:19Z"
     },
     {
-      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
+      "title": "China's COMAC electric plane completes first crewed flight: state media - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjV01laUhKXzgtMENlMVB6QVo2cE1nQzdmR3lGQklKaV9YZDVrSkJ2b05PMU9vV2Z4MS1JQkJMZGRGcWdBSGdad0g2ZlBsNTc1STM5ZU5pQjUwRDZORW0tYjF0SEgzMEk?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T21:19:16Z"
+      "published_at": "2026-11-14T22:23:08Z"
     },
     {
       "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda - Reuters",
@@ -80,84 +182,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-14T20:23:56Z"
-    },
-    {
-      "title": "US aviation shutdown blamed on L3 Harris installed router - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEQ1ckJVbXlQSHI5ZHU4VEppWVVZbXBYa0ZRWjdDdFNGWWxSdHF5bEtwR1Q2OHRxN2plYXctMm5lTU5TV0hzb2xQazg4U09MNDhyRnpOalhGYXJWN01mak9NR0dXWG0yR0k5WUtycmNhdkdZZkpYcXp5N2w0N2RQSUxEX1F5aEY1TGhDTzV5ZXl3dWR6QmdabDduOFBBWTNPdXBvVVY1VlAwVW1XYnIyQ2FwU2ZOeW5x?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T20:10:00Z"
-    },
-    {
-      "title": "U.S. government falls short on food aid promise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iUmZMMnRaLTFMTFNqcFR1bXJpY2pabFNobkJ3UU5ENlBycTBjVmJKRWxPNkg1ZUtwWHJXZ3Y4QmRFSVRWSXp5LUZoNFFXRFFZLUdVZURJdmJwOTVP?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "Senate leaders spar over Trump's intent to nominate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11UHZUeFRCenYzUGFDdlZuaWFIOUlLQzFILW5ZaEpRSWtNRnoyV0JxYWR3Wno0WWMySmxkbS1zNlpWa3VqMW5ZbWNlNTY1Tk1nTmZ1d1R5T0hXM0U0?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "Will they accept results? Trump wants 'poll watchers' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vYnNMT19NQnlXazZSQW1pU0V4cjhwV2hJRmI2RVU0Vm5FWV9CTlVHc244SmhrR1FXZDM3WTlGVWVQXzk2NEg4V3J4S0hnVWc5VDJXVVZNWkR3aUJr?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "Unclear if equipment or contractor error caused flight shutdown, says Duffy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUGZEdklDMFVGeHNrY2xhVElyN1FqWW1la2FZeGVQNVl1R2IzeXIwSFFZRGI0SlJIb2xzX0duZlhmeGotaVlJVkVBcEo2aUE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "U.S. rejects Beijing's claims in South China Sea - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nQ3oyQmZRVmpQRFZZdHZ5WC1jNjBxZzd3ck44VmZ4SXFLOTIyZUswYS1MZVFVV1BBeW5JazlWLWh0dEg4RGF5aVFRYm5hWjNpVnpUNjQxZ1B0b0FP?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "Trump and Biden face off in chaotic first debate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94VzFWa0VYOFZtZ2hwWm5GRzRVOHJhb0FJbEJHZkFVR1hqYmMwcDdvNUlaMXdkdGhLV0xFTWZtdC1uYzZiRFd6Snl0QVBwQWV4MmQxZ2R5ZDNuTmlf?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "Trump denies report that he disparaged war dead - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuT1ZCMFFNeExoRW5GbzZCdE8tRGJxZjZBbzNkRkszcnB6cXFZR2lzXzAxQ0RMLUprcmZYbEdWT1J0RnhKWHhhU1BfMGJZQXJTZXJJbXE3R05OWEpD?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T19:15:06Z"
-    },
-    {
-      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-      "source": "NPR",
-      "published_at": "2026-11-14T19:13:54Z"
-    },
-    {
-      "title": "Ukraine hopes for grain exports breakthrough - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZ21uUGJZbnRqaEtDSXZxOFFoUzJwanZibksxaHMyb0ZUTW9nODJxd0x2QnJ6Yzl1SVB1N1Bqb0wzaFZCRll1RmVUY2dvbGM4YlI0bEdqWHpGMGpFYUR5aDFmVXhPbTA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T18:53:43Z"
-    },
-    {
-      "title": "Making ends meet in Mississippi: How high prices led to an election upset - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wUUhuTmxIM2hXeFRxSy1CVFhIQW5CZUZQeVEzNGtvU2x5TDNrb3NPMFJ3U3o5S0JHWjAwSkZpTUFNZTVJdEtXMnQzUjhRZ1NOdV9pQg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T18:45:32Z"
-    },
-    {
-      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
-      "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-14T18:43:07Z"
-    },
-    {
-      "title": "Unclear if equipment or contractor error caused flight shutdown, says Duffy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdnRjdWlaM1Z6ZmVXZ3diTzZpS2ZqMFptZzE5YXFPZ21fQmhxajYwNVM4amEwNHpKV09JVThMbVF6aVg1TzR2WDF4eGNjRkNjNWZ0NnpoOWFOR0dlZUhtSVl2Tl8xdms?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-14T18:28:28Z"
     }
   ]
 }
