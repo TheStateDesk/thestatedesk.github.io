@@ -4627,197 +4627,197 @@
       "verified": true
     },
     "IL-01": {
-      "asOf": "2026-11-14T23:34:14.572000Z",
+      "asOf": "2026-11-15T23:57:59.175000Z",
       "candidates": [
         {
           "name": "Jonathan Jackson",
           "party": "D",
-          "votes": 174747
+          "votes": 175009
         },
         {
           "name": "Christian Maxwell",
           "party": "R",
-          "votes": 66191
+          "votes": 66199
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 90.8,
+      "precinctsReporting": 90.9,
       "raceId": "87112",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87112",
       "timestampBasis": "provider_last_updated",
-      "total": 240938,
+      "total": 241208,
       "verified": true
     },
     "IL-02": {
-      "asOf": "2026-11-14T23:34:14.968000Z",
+      "asOf": "2026-11-15T23:57:59.298000Z",
       "candidates": [
         {
           "name": "Donna Miller",
           "party": "D",
-          "votes": 159689
+          "votes": 159777
         },
         {
           "name": "Mike Noack",
           "party": "R",
-          "votes": 57308
+          "votes": 57312
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 94.2,
       "raceId": "87113",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87113",
       "timestampBasis": "provider_last_updated",
-      "total": 216997,
+      "total": 217089,
       "verified": true
     },
     "IL-03": {
-      "asOf": "2026-11-14T23:34:15.111000Z",
+      "asOf": "2026-11-15T23:57:59.375000Z",
       "candidates": [
         {
           "name": "Delia Ramirez",
           "party": "D",
-          "votes": 158032
+          "votes": 158349
         },
         {
           "name": "Angel Oakley",
           "party": "R",
-          "votes": 45869
+          "votes": 45892
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 86.1,
+      "precinctsReporting": 86.2,
       "raceId": "87114",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87114",
       "timestampBasis": "provider_last_updated",
-      "total": 203901,
+      "total": 204241,
       "verified": true
     },
     "IL-04": {
-      "asOf": "2026-11-14T23:34:15.261000Z",
+      "asOf": "2026-11-15T23:57:59.451000Z",
       "candidates": [
         {
           "name": "Patty Garcia",
           "party": "D",
-          "votes": 116181
+          "votes": 116260
         },
         {
           "name": "Lupe Castillo",
           "party": "R",
-          "votes": 25832
+          "votes": 25836
         },
         {
           "name": "Chris Getty",
           "party": "O",
-          "votes": 14919
+          "votes": 14920
         },
         {
           "name": "Ed Hershey",
           "party": "O",
-          "votes": 5964
+          "votes": 5970
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 84.8,
       "raceId": "87115",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87115",
       "timestampBasis": "provider_last_updated",
-      "total": 162896,
+      "total": 162986,
       "verified": true
     },
     "IL-05": {
-      "asOf": "2026-11-14T23:34:15.410000Z",
+      "asOf": "2026-11-15T23:57:59.531000Z",
       "candidates": [
         {
           "name": "Mike Quigley",
           "party": "D",
-          "votes": 214886
+          "votes": 215847
         },
         {
           "name": "Tom Hanson",
           "party": "R",
-          "votes": 63413
+          "votes": 63460
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.0,
       "raceId": "87116",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87116",
       "timestampBasis": "provider_last_updated",
-      "total": 278299,
+      "total": 279307,
       "verified": true
     },
     "IL-06": {
-      "asOf": "2026-11-14T23:34:15.900000Z",
+      "asOf": "2026-11-15T23:57:59.609000Z",
       "candidates": [
         {
           "name": "Sean Casten",
           "party": "D",
-          "votes": 168705
+          "votes": 168753
         },
         {
           "name": "Niki Conforti",
           "party": "R",
-          "votes": 99294
+          "votes": 99299
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 85.4,
       "raceId": "87117",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87117",
       "timestampBasis": "provider_last_updated",
-      "total": 267999,
+      "total": 268052,
       "verified": true
     },
     "IL-07": {
-      "asOf": "2026-11-14T23:34:16.042000Z",
+      "asOf": "2026-11-15T23:57:59.682000Z",
       "candidates": [
         {
           "name": "La Shawn Ford",
           "party": "D",
-          "votes": 186263
+          "votes": 186765
         },
         {
           "name": "Chad Koppie",
           "party": "R",
-          "votes": 22250
+          "votes": 22272
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 89.0,
+      "precinctsReporting": 89.3,
       "raceId": "87118",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87118",
       "timestampBasis": "provider_last_updated",
-      "total": 208513,
+      "total": 209037,
       "verified": true
     },
     "IL-08": {
-      "asOf": "2026-11-14T23:34:17.119000Z",
+      "asOf": "2026-11-15T23:57:59.752000Z",
       "candidates": [
         {
           "name": "Melissa Bean",
           "party": "D",
-          "votes": 138733
+          "votes": 138741
         },
         {
           "name": "Jennifer Davis",
@@ -4829,36 +4829,36 @@
       "office": "house",
       "precinctsReporting": 83.4,
       "raceId": "87119",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87119",
       "timestampBasis": "provider_last_updated",
-      "total": 215620,
+      "total": 215628,
       "verified": true
     },
     "IL-09": {
-      "asOf": "2026-11-14T23:34:18.121000Z",
+      "asOf": "2026-11-15T23:57:59.831000Z",
       "candidates": [
         {
           "name": "Daniel K. Biss",
           "party": "D",
-          "votes": 202040
+          "votes": 202550
         },
         {
           "name": "John Elleson",
           "party": "R",
-          "votes": 60728
+          "votes": 60747
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.0,
       "raceId": "87120",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87120",
       "timestampBasis": "provider_last_updated",
-      "total": 262768,
+      "total": 263297,
       "verified": true
     },
     "IL-10": {
@@ -5062,22 +5062,22 @@
       "verified": true
     },
     "IL-GOVERNOR": {
-      "asOf": "2026-11-14T23:34:20.598000Z",
+      "asOf": "2026-11-15T23:58:01.374000Z",
       "candidates": [
         {
           "name": "JB Pritzker",
           "party": "D",
-          "votes": 2550030
+          "votes": 2551106
         },
         {
           "name": "Darren Bailey",
           "party": "R",
-          "votes": 1507914
+          "votes": 1507993
         },
         {
           "name": "Collin Corbett",
           "party": "O",
-          "votes": 140731
+          "votes": 140756
         },
         {
           "name": "Griselda Romero",
@@ -5109,41 +5109,41 @@
       "office": "governor",
       "precinctsReporting": 90.3,
       "raceId": "87130",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87130",
       "timestampBasis": "provider_last_updated",
-      "total": 4198675,
+      "total": 4199855,
       "verified": true
     },
     "IL-SENATE": {
-      "asOf": "2026-11-14T23:34:20.206000Z",
+      "asOf": "2026-11-15T23:58:01.123000Z",
       "candidates": [
         {
           "name": "Juliana Stratton",
           "party": "D",
-          "votes": 2592561
+          "votes": 2595336
         },
         {
           "name": "Don Tracy",
           "party": "R",
-          "votes": 1524871
+          "votes": 1524994
         },
         {
           "name": "Whitfield Harrington Jr.",
           "party": "O",
-          "votes": 66507
+          "votes": 66546
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
       "precinctsReporting": 90.0,
       "raceId": "87129",
-      "retrievedAt": "2026-11-15T00:11:12.090359Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87129",
       "timestampBasis": "provider_last_updated",
-      "total": 4183939,
+      "total": 4186876,
       "verified": true
     },
     "IN-01": {
@@ -6467,57 +6467,57 @@
       "verified": true
     },
     "MD-04": {
-      "asOf": "2026-11-14T04:49:36.293000Z",
+      "asOf": "2026-11-16T00:03:52.668000Z",
       "candidates": [
         {
           "name": "Glenn Ivey",
           "party": "D",
-          "votes": 173181
+          "votes": 176756
         },
         {
           "name": "George McDermott",
           "party": "R",
-          "votes": 11676
+          "votes": 11860
         },
         {
           "name": "Sam Husseini",
           "party": "O",
-          "votes": 8900
+          "votes": 9129
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 316
+          "votes": 320
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 82.8,
+      "precinctsReporting": 84.5,
       "raceId": "87193",
-      "retrievedAt": "2026-11-14T09:20:46.183415Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87193",
       "timestampBasis": "provider_last_updated",
-      "total": 194073,
+      "total": 198065,
       "verified": true
     },
     "MD-05": {
-      "asOf": "2026-11-14T04:49:36.416000Z",
+      "asOf": "2026-11-16T00:03:52.759000Z",
       "candidates": [
         {
           "name": "Adrian Boafo",
           "party": "D",
-          "votes": 224047
+          "votes": 225869
         },
         {
           "name": "Chris Chaffee",
           "party": "R",
-          "votes": 92154
+          "votes": 92292
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 2217
+          "votes": 2249
         },
         {
           "name": "Mildred Marie Hall",
@@ -6527,13 +6527,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 89.2,
+      "precinctsReporting": 89.8,
       "raceId": "87194",
-      "retrievedAt": "2026-11-14T09:20:46.183415Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87194",
       "timestampBasis": "provider_last_updated",
-      "total": 318471,
+      "total": 320463,
       "verified": true
     },
     "MD-06": {
@@ -6637,43 +6637,43 @@
       "verified": true
     },
     "MD-GOVERNOR": {
-      "asOf": "2026-11-15T09:45:24.879000Z",
+      "asOf": "2026-11-16T00:03:53.442000Z",
       "candidates": [
         {
           "name": "Wes Moore",
           "party": "D",
-          "votes": 1431197
+          "votes": 1436663
         },
         {
           "name": "Dan Cox",
           "party": "R",
-          "votes": 679423
+          "votes": 679752
         },
         {
           "name": "Andy Ellis",
           "party": "O",
-          "votes": 47461
+          "votes": 47593
         },
         {
           "name": "Cathy White",
           "party": "O",
-          "votes": 42823
+          "votes": 42915
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 5837
+          "votes": 5854
         }
       ],
       "election": "2026-11-03",
       "office": "governor",
-      "precinctsReporting": 88.1,
+      "precinctsReporting": 88.3,
       "raceId": "87198",
-      "retrievedAt": "2026-11-15T09:50:31.211087Z",
+      "retrievedAt": "2026-11-16T00:19:28.229863Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87198",
       "timestampBasis": "provider_last_updated",
-      "total": 2206741,
+      "total": 2212777,
       "verified": true
     },
     "ME-01": {
