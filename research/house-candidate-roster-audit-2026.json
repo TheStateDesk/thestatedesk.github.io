@@ -1,12 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T15:37:32.633214+00:00",
+  "generatedAt": "2026-11-16T18:27:08.728022+00:00",
   "summary": {
     "districts": 435,
-    "districtsWithAtLeastOneCandidate": 435,
-    "missingDistricts": [],
+    "districtsWithAtLeastOneCandidate": 434,
+    "missingDistricts": [
+      "NV-01"
+    ],
     "districtsWithBothSources": 0,
-    "totalCandidates": 867,
+    "totalCandidates": 865,
     "multipleMajorPartyCandidates": [
       {
         "raceId": "AL-02",
@@ -464,12 +466,12 @@
     ],
     "sourceRows": {
       "elections_in_usa_source_rows": 2236,
-      "electionsinusa_nominees": 867
+      "electionsinusa_nominees": 865
     },
     "sourceFailures": {
       "deepsyte": "HTTPError: HTTP Error 429: Too Many Requests"
     },
-    "candidateRacesWithD": 418,
-    "candidateRacesWithR": 361
+    "candidateRacesWithD": 417,
+    "candidateRacesWithR": 360
   }
 }
