@@ -6467,57 +6467,57 @@
       "verified": true
     },
     "MD-04": {
-      "asOf": "2026-11-16T00:03:52.668000Z",
+      "asOf": "2026-11-16T09:11:29.498000Z",
       "candidates": [
         {
           "name": "Glenn Ivey",
           "party": "D",
-          "votes": 176756
+          "votes": 177336
         },
         {
           "name": "George McDermott",
           "party": "R",
-          "votes": 11860
+          "votes": 11889
         },
         {
           "name": "Sam Husseini",
           "party": "O",
-          "votes": 9129
+          "votes": 9166
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 320
+          "votes": 321
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 84.5,
+      "precinctsReporting": 84.8,
       "raceId": "87193",
-      "retrievedAt": "2026-11-16T00:19:28.229863Z",
+      "retrievedAt": "2026-11-16T23:29:12.927394Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87193",
       "timestampBasis": "provider_last_updated",
-      "total": 198065,
+      "total": 198712,
       "verified": true
     },
     "MD-05": {
-      "asOf": "2026-11-16T00:03:52.759000Z",
+      "asOf": "2026-11-16T09:11:29.594000Z",
       "candidates": [
         {
           "name": "Adrian Boafo",
           "party": "D",
-          "votes": 225869
+          "votes": 226262
         },
         {
           "name": "Chris Chaffee",
           "party": "R",
-          "votes": 92292
+          "votes": 92317
         },
         {
           "name": "Write-in",
           "party": "O",
-          "votes": 2249
+          "votes": 2256
         },
         {
           "name": "Mildred Marie Hall",
@@ -6527,13 +6527,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 89.8,
+      "precinctsReporting": 89.9,
       "raceId": "87194",
-      "retrievedAt": "2026-11-16T00:19:28.229863Z",
+      "retrievedAt": "2026-11-16T23:29:12.927394Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87194",
       "timestampBasis": "provider_last_updated",
-      "total": 320463,
+      "total": 320888,
       "verified": true
     },
     "MD-06": {
@@ -6637,27 +6637,27 @@
       "verified": true
     },
     "MD-GOVERNOR": {
-      "asOf": "2026-11-16T00:03:53.442000Z",
+      "asOf": "2026-11-16T09:11:30.168000Z",
       "candidates": [
         {
           "name": "Wes Moore",
           "party": "D",
-          "votes": 1436663
+          "votes": 1437649
         },
         {
           "name": "Dan Cox",
           "party": "R",
-          "votes": 679752
+          "votes": 679806
         },
         {
           "name": "Andy Ellis",
           "party": "O",
-          "votes": 47593
+          "votes": 47614
         },
         {
           "name": "Cathy White",
           "party": "O",
-          "votes": 42915
+          "votes": 42923
         },
         {
           "name": "Write-in",
@@ -6667,13 +6667,13 @@
       ],
       "election": "2026-11-03",
       "office": "governor",
-      "precinctsReporting": 88.3,
+      "precinctsReporting": 88.4,
       "raceId": "87198",
-      "retrievedAt": "2026-11-16T00:19:28.229863Z",
+      "retrievedAt": "2026-11-16T23:29:12.927394Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87198",
       "timestampBasis": "provider_last_updated",
-      "total": 2212777,
+      "total": 2213846,
       "verified": true
     },
     "ME-01": {
@@ -8302,17 +8302,17 @@
       "verified": true
     },
     "MT-SENATE": {
-      "asOf": "2026-11-13T09:29:33.613000Z",
+      "asOf": "2026-11-16T09:12:07.905000Z",
       "candidates": [
         {
           "name": "Kurt Alme",
           "party": "R",
-          "votes": 235583
+          "votes": 235581
         },
         {
           "name": "Seth Bodnar",
           "party": "O",
-          "votes": 184562
+          "votes": 184563
         },
         {
           "name": "Alani Bankhead",
@@ -8322,14 +8322,14 @@
         {
           "name": "Kyle Austin",
           "party": "O",
-          "votes": 9015
+          "votes": 9016
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
       "precinctsReporting": 86.5,
       "raceId": "87247",
-      "retrievedAt": "2026-11-13T09:55:18.692274Z",
+      "retrievedAt": "2026-11-16T23:29:12.927394Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87247",
       "timestampBasis": "provider_last_updated",
