@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T21:39:12.911218Z",
+  "generated_at": "2026-11-16T01:49:49.787644Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -28,29 +28,74 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
-      "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-15T17:39:22Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
+    {
+      "title": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-16T01:32:00Z"
+    },
+    {
+      "title": "DeSantis knocks Republicans resisting Trump judicial appointment push",
+      "url": "https://thehill.com/homenews/state-watch/6221727-desantis-knocks-republicans-resisting-trump-judicial-appointment-push/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T00:07:49Z"
+    },
+    {
+      "title": "Inside China's drive to build an AI-native generation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVUtY3hKeno0SFNRY2lXTS1Ka29uakhJcGlqMmw5YldNRElPQWJPVjRWcU5IXzZRaDhPZ2F5MExxQjdGZEVsNXZNd1dvSnA3OEJoSVNlbzFxdHFRNWF3RUNSV21rOW12Z1NSdVROTXdfdU5hS1p6SHh2eFdyaXJUN1BJbk9YZWtGamowbWVhTV92SGNTMjhTVS1ZZHdtQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-16T00:06:00Z"
+    },
+    {
+      "title": "Panic and fear in Ukraine's frontline village - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcENGWC0tLWFOQTdUc053LVlIblZGY2gzMFRHcnRyNEtldWtkdTg1TjZZaTZVOWNUd21fU3RxRUxpLWxpcE00UHdldVNFMk5RUndKV2FvU3NvZVRiSG11a255VG5zOW8?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T23:26:21Z"
+    },
+    {
+      "title": "Hundreds of thousands of Czechs rally against government media funding plan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T22:50:27Z"
+    },
+    {
+      "title": "Cassidy says questions remain about Trump’s FDA pick ahead of committee vote",
+      "url": "https://thehill.com/homenews/senate/6221636-cassidy-questions-trumps-fda-pick/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T22:50:23Z"
+    },
+    {
+      "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+      "url": "https://www.pbs.org/newshour/politics/trumps-handpicked-party-chair-faces-a-rebellion-as-midterm-losses-challenge-presidents-grip-on-gop",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-15T22:43:07Z"
+    },
+    {
+      "title": "Britain's Prince Harry visits war-wounded in Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYW9nUmdzZ1RDU1hwVmQ3Z0RIWndjWWM1aFBEa0xFTmxtRm1WUHlfNXhZY2wwaWVwbHZOeERYX2NEeU93eVlFTURBLVdRT2hoYkp5QjhuSVl1dVlqQmVTaThMZWpPeGdXdm44bVE5NG51UUZsTXRqYjZZUjZGSWNnWm5aMTlDTDNHTDJEcy1FX2V5NDlJSVdtZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T22:04:00Z"
+    },
+    {
+      "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
+      "url": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/",
+      "source": "THE HILL",
+      "published_at": "2026-11-15T21:36:11Z"
+    },
     {
       "title": "Texas prosecutor accuses Warren of targeting Trump associates with investigations",
       "url": "https://thehill.com/homenews/senate/6221606-texas-prosecutor-warns-warren/",
       "source": "THE HILL",
       "published_at": "2026-11-15T21:24:02Z"
+    },
+    {
+      "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-15T20:49:24Z"
     },
     {
       "title": "Trump says Interior will appeal ruling delaying golf course renovations",
@@ -69,12 +114,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX29seW5hQW1UY2N4aDVKX3ZEYV9NeHk1RE52blpnbi1uRHhqeXlPOXBfQU5qa3hrLTVaUDZmSDgwM193VE1aMnE3Z0pFYVZIckpqaHJLTlBBNWllREpNV1NDTk1TM2lhNmlKSGxtWVVSMUh2Q3JXNlcwUHZjSWFvU1hpMGRVR1RWajVlM1h5ZU45OTJjajlCTWRLYjlMc3cxUTlkNjVLVEphYUh2QzZVcUVnNmQ?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-15T19:35:28Z"
-    },
-    {
-      "title": "Tens of thousands of Czechs rally against government media funding plan - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0pRaS1YQ3ZuYW42YldaYWdvWTBoN19GMFBGaXJBbGtSLWNtc3ZRRGoydDRzM3EyV0pPNjhEODV5Q3dRSXVtaTNwVzlBa2huUGR1SHNBUER4Z2RQaFlORENfUkdRMHFvcVRCWngxUTJiTnVXZGVRQzc1Tm9SQjNIQk5YYkFHZFdHbUtwa3czQ1YxVTA3QWdMd1BYNHY0cVpqZ1c2LXc4ODNrWFpRbVhUX2RpUkV6NTdJWVFDeW9idW9xUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T19:14:27Z"
     },
     {
       "title": "Could Trump turn against the AI barons?",
@@ -119,76 +158,22 @@
       "published_at": "2026-11-15T17:39:22Z"
     },
     {
-      "title": "Trump pardons ex-aide Bannon, but not himself - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGczJfbmtKYjlCRnFvSVhtbm5MQXFFYVQtUmtwMWVVZVhreFJTTjYtdkJDNkhCYWJYT0lsa1ExU0o3TEpVc3VJdW5FUDN0ek8yV2hiSnlaOWNVNktV?oc=5",
+      "title": "House votes to impeach Trump again - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOSFdQX1BoTHRaZEZQM0VfY3J0RkhNUDJSSEczclFHU3BtQ3hYUVk2OUhteHBUZmV3TmxLZTdnMFd5a2xaN2dEMXF0UGNyRHZEUkV6a3RPa25aOVRL?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-15T17:24:42Z"
     },
     {
-      "title": "Van Hollen: Senators who pledged to support Schumer will switch vote",
-      "url": "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T16:45:31Z"
-    },
-    {
-      "title": "Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses",
-      "url": "https://thehill.com/homenews/administration/6221381-pence-vance-midterm-losses/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T16:34:46Z"
-    },
-    {
-      "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
-      "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-15T16:32:43Z"
-    },
-    {
-      "title": "Trump's judge appointment blitz faces Republican resistance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTg5d09JVTFvR2R5VTRRVWZPV3NRcGx4UlBRRHEybkdwV0FvMUViaTJDejNTSkFuSkxZSE9UMnBPRWJLQngzdklQMUZUQndnc2xXemdSTmpqdTdSQjZZRlJLMEQ1akp1eHdqVmczSFI4MFE4SHFSSUNlVmtaVk5mT1dsMkI1YVl4WjdUWXZVak5xY05ISW14eGpOUGd2UDUzY1JvZ1JtSXFlclU4MFhfWg?oc=5",
+      "title": "China's COMAC electric plane completes first crewed flight: state media - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T16:27:01Z"
+      "published_at": "2026-11-15T17:24:42Z"
     },
     {
-      "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+      "title": "Trump pardons ex-aide Bannon, but not himself - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGczJfbmtKYjlCRnFvSVhtbm5MQXFFYVQtUmtwMWVVZVhreFJTTjYtdkJDNkhCYWJYT0lsa1ExU0o3TEpVc3VJdW5FUDN0ek8yV2hiSnlaOWNVNktV?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T16:25:41Z"
-    },
-    {
-      "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
-      "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-15T16:20:54Z"
-    },
-    {
-      "title": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXZuc1Exa0s2dzJKQ3U1bkdxd01NelRtemI0SnpSVHZNQ2Z1bGM3MlpLQ29pZ1ZRNHJLWS1OQTM5bFJySnBKUUNLSXlNeDNvUlJ2Um00ZVZFaU13bW5rSTFwWHJINlJFSkd4UHNPUVk2Y1A0dWQ4cE5VeU5tRjVtZHlXZEt2c1VPeU9tNEl4N2RZWjRCRmpPMm92NjU0VVhiLTZTQXQ4cFY2YnZld3d0OFVwRnFxRkpP?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T16:18:55Z"
-    },
-    {
-      "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-15T16:18:49Z"
-    },
-    {
-      "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-15T16:10:10Z"
-    },
-    {
-      "title": "Duffy pins ground stop on Congress’s lack of funding",
-      "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
-      "source": "THE HILL",
-      "published_at": "2026-11-15T16:04:46Z"
-    },
-    {
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-15T15:57:03Z"
+      "published_at": "2026-11-15T17:24:42Z"
     }
   ]
 }
