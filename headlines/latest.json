@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T19:48:00.384899Z",
+  "generated_at": "2026-11-17T02:52:43.575724Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,21 +8,20 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
-    "REUTERS VIA GOOGLE NEWS"
+    "AP VIA FLIPBOARD (UNOFFICIAL)"
   ],
   "source_warnings": [],
   "priority": [
     {
-      "title": "Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips",
-      "url": "https://thehill.com/homenews/senate/6222507-cantwell-accuses-lutnick-ai-risk/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T15:20:40Z",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-17T02:37:53Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHNHRklwUzFDcEI3SGJYeUxvRlloS25SR2VfUHd3ZldiQUdldUlsQ1JUOUdXWW1QU1FOanlHSGxza3Zqa04yNGQ3clFqcVcxMGkxdWM4cjI2aDE0ZTFKWmdBeWx1NV9QajF1NlhHUjhieUszTHdvZE5kMjBMa3lOTTFmWDF4Mlg5cURTTVh0X1BpRlVxbUpLbHV6T3hzU1FRNFNHVFpHNWlEZ1lkMjRDREFMbkdsRk9nS005Rk1vbmZodw?oc=5"
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia"
         }
       ],
       "priority_score": 5,
@@ -41,22 +40,124 @@
   ],
   "headlines": [
     {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-17T02:37:53Z"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-17T02:31:14Z"
+    },
+    {
+      "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
+      "url": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T02:16:58Z"
+    },
+    {
+      "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
+      "url": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T02:06:38Z"
+    },
+    {
+      "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+      "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-17T00:48:19Z"
+    },
+    {
+      "title": "Senate takes big step toward passing permitting reform package",
+      "url": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T00:07:20Z"
+    },
+    {
+      "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
+      "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T23:55:00Z"
+    },
+    {
+      "title": "U.S. works to close loophole that let China access advanced AI chips",
+      "url": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T23:40:37Z"
+    },
+    {
+      "title": "Incoming House Democrat accuses Hegseth of ‘war crimes’",
+      "url": "https://thehill.com/homenews/house/6223902-wellman-accuses-hegseth-crimes/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T23:38:43Z"
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's summit with Xi and Putin",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-summit-with-xi-and-putin",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T23:35:35Z"
+    },
+    {
+      "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
+      "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T23:25:54Z"
+    },
+    {
+      "title": "The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress",
+      "url": "https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T22:44:13Z"
+    },
+    {
+      "title": "Buttigieg fires back at Trump over FAA outage blame",
+      "url": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T22:40:00Z"
+    },
+    {
+      "title": "California attorney general sues OpenAI over alleged safety failures",
+      "url": "https://thehill.com/homenews/state-watch/6223583-california-sues-openai-huggingface-hack/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T22:09:48Z"
+    },
+    {
+      "title": "WATCH: 'You never notice broken windows, obviously,' Trump tells Black reporter",
+      "url": "https://www.pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T21:34:29Z"
+    },
+    {
+      "title": "Read the full White House memo requiring agencies to get approval before testifying in front of Congress",
+      "url": "https://www.pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-16T21:00:32Z"
+    },
+    {
+      "title": "DesJarlais concedes to Democrat in Tennessee House race",
+      "url": "https://thehill.com/homenews/campaign/6196424-victoria-broderick-scott-desjarlais-tennessee-4th/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T20:33:04Z"
+    },
+    {
+      "title": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
+      "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T20:10:58Z"
+    },
+    {
+      "title": "Joe Rogan slams Trump, says MAGA betrayed ‘podcast bros’",
+      "url": "https://thehill.com/opinion/robbys-radar/6223386-gop-loses-young-men-economic-betrayal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-16T19:47:01Z"
+    },
+    {
       "title": "Khanna proposes $1,700 Iran war refund checks for Americans",
       "url": "https://thehill.com/the-120/6223191-khanna-proposes-iran-war-refunds/",
       "source": "THE HILL",
       "published_at": "2026-11-16T19:22:45Z"
-    },
-    {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-16T19:17:37Z"
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-16T19:16:52Z"
     },
     {
       "title": "Indicted Virginia state senator pushes to sanction Blanche, Patel over public comments",
@@ -65,34 +166,10 @@
       "published_at": "2026-11-16T18:34:04Z"
     },
     {
-      "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T18:08:56Z"
-    },
-    {
-      "title": "Germany's Uniper details €6 billion investment plan as government seeks sale - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2l2cDZSc296dkdjelJsdUh5SGJsbzkzdkUxZ0JsQ3dRRHhIOVF3YnpoWDFtTHI2ZXBMUWI4dUhYVS1iQWpSdmRWaVA5SmJocjZKRDI0VW96YlgwVE9wVmxTZEQzYXZQYjktVmF3S1NEdGFOMU13cjJDYWVzZGNGZU95anZQQjdyR1V0TWlqWlUzUlJXMG1paFVXM3JqemI2S2UtZUdwYnJodw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T18:05:49Z"
-    },
-    {
       "title": "Trump could’ve helped with falling prices ‘far earlier’: GasBuddy",
       "url": "https://thehill.com/policy/transportation/6222899-gas-prices-donald-trump-iran-war-gasbuddy-analysis/",
       "source": "THE HILL",
       "published_at": "2026-11-16T17:25:37Z"
-    },
-    {
-      "title": "Bank of Canada Governor Macklem to step down once term ends in 2027 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOExHMHhYSmZUdF9OVlBnTkQ4N29jLTA4RmFPa09hdTgzMHQ0UlhYRkZmcHU3S19ZckE1MURrQU43U3FQOU9ENTdGZHZBTUZvT2hNcExZcWVPTUUzWEhtX1BvX3lpXzVXQktFMTBybkRMaTdsM3FfVFZnYTlnUVhRSGRob2paU0JMcXA1NmxKUjI0UkRGQmVSbFhuOVliZDYwbFhXZ2ZnanpBR1lmOGc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T17:16:38Z"
-    },
-    {
-      "title": "Trump says he might meet with North Korea's Kim Jong Un in China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T17:15:46Z"
     },
     {
       "title": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal",
@@ -105,84 +182,6 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/16/hawaii-niihau-midterm-elections",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-16T17:00:49Z"
-    },
-    {
-      "title": "Trump on FAA outage: ‘I don’t take any responsibility’",
-      "url": "https://thehill.com/homenews/administration/6222891-trump-no-responsibility-faa-ground-stop/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T16:48:51Z"
-    },
-    {
-      "title": "Trump backs potential return of Jensen Huang as Nvidia CEO - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXlLTW9ld2U2cjRMU3pVOFBtOEhlQzE2TnlxazhiOHltQU9icEhwRmhvUFRhWC1uQzJ0bldzQmhJcnNsMmVFVHJhY1hEcWdNcG9KLWJoWlVKSlNHOEZvREdCQjhsQTl5cm5FdXVFNmk4VGFSOHh6ZVlaZUh4NVE0MXUyMVNmNHhvbm1mLTlyR3VGQ25uM094OTdsUDJQNGFfaGxST0VyanJCdENNS213?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T16:38:51Z"
-    },
-    {
-      "title": "Was Election Day the opening shot of a new US civil war?",
-      "url": "https://thehill.com/opinion/campaign/6219680-trump-democrats-gridlock-civil-war/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T16:30:00Z"
-    },
-    {
-      "title": "Iran’s proxy in Iraq rakes in hundreds of millions through oil smuggling - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUlTdkFxaWpmd0tNUXA5WXRMbmQydm9xVGtYVXYwbnAxVWx3QnZfOUdJS2YwUkFmRWV3TkRHclFKdEZzcFlKLUlGSXhQQ1VBZUFENE9pSWdzRHBsYzg1QVA5am4weVVXeUJHZzF3OGZuVnZ6dmZlbmxUZExnREs4NEMwUFFFMGRsN2N4VThtbUZFS21hblF2bXEzQk5pR3k4SDJBZVhLTDEtT0V3UHN0dnRpWkZKNEk?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T16:28:21Z"
-    },
-    {
-      "title": "Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large",
-      "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T16:17:40Z"
-    },
-    {
-      "title": "Kremlin aide denies US assertion that Europeans will join next round of Ukraine peace talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY0FmVF9kSmNHVV9ZbWY3cHg5Rm41UlRaY21vMzYxRDh1ZzItZHl1UzRpRDBDRnFfMFNOdi11S2dnckdQSExYWDBBYV9MVEVWZlRnam9ET29oaHNzRzhCd2s2ZGU3NlQ3TzgyMEVyYy1CTTN6ZllCdHk1d1dTc2JwYWtMUmNwb2kwbk5uOFNGTWxySmFMQThRTUFDeU1RYy0xeS05c3BEclloYnJUcnQ0?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T16:07:27Z"
-    },
-    {
-      "title": "DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-16T15:50:59Z"
-    },
-    {
-      "title": "After Yemen setback, Saudi Arabia replaces military commander - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllfNkZoYzF4U1ZLdmUtaGE2VnZsblBfeXMyV0xFSEVwcDRya3hzTG1jR2JVS08zYUFBR1laaGhkTVhyZ3hueTl5N1k5ZkFTc3V0blFaUm02WFd0Y2Y2bTR5Rm53XzhTZV8wYy1YWVRNQWo3Vjc5VF9GeXJMaU9zZnhOV3N4aDNkbmcyalJnenlReWFCamtKS0NPZWNLRV9EQ1A3SEVLeU9BNjBvYzd6VzNnQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T15:49:18Z"
-    },
-    {
-      "title": "Supreme Court declines Trump administration’s DEI research grant appeal",
-      "url": "https://thehill.com/regulation/court-battles/6222654-scotus-declines-trump-dei-appeal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T15:34:01Z"
-    },
-    {
-      "title": "Spain's government to raise minimum wage 5.3% as election looms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHloMkF4SGNXbGxkNldZV3pScUxucFBKRFF5X0hseDdZS21tOHVCZjEwTzdfNllOUGh0YTkyR0E4MlBCdE8zcEFMTzlIUG9pbDFJUm9KTGxZZFZLaVNtUmxkWlh4anN3NXh2c3FzaF93cFZFbHJfRHI0RTNtdk8wUE1mQ24wSkVob1B3dHMwQXRscGdyOFd0ajhlQ0c?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T15:31:57Z"
-    },
-    {
-      "title": "Incoming House Democrat gives Jeffries his ‘red lines’",
-      "url": "https://thehill.com/the-120/6222534-don-leonard-jeffries-speaker/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T15:24:15Z"
-    },
-    {
-      "title": "Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips",
-      "url": "https://thehill.com/homenews/senate/6222507-cantwell-accuses-lutnick-ai-risk/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T15:20:40Z"
-    },
-    {
-      "title": "Interest in Trump’s meme coin dinner fades as $TRUMP sinks to record lows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldWFkMVhic1ZHTmZpN0NxdEhnU2JqNUVBR2xXOWExaGYtV1FtZHRhUkZsQ0JpUGx1VFY3MDhSTW1XSFBsaEV6aXBsYldoZ1haVVN1YXBJYlZCSWVLQ2FNU3AzOW9aUWtvekh0SDVtclhUd2pJN3Y1d0xTYUdpR2U4Y2ZCRGpyN3B3THkxdjVpRDBfalVrQS1DNUpOM2JjT3FjcGItQVRaVnZhakVZc0d1czY3dw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-16T15:17:19Z"
     }
   ]
 }
