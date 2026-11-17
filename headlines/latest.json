@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T11:40:46.276586Z",
+  "generated_at": "2026-11-17T20:46:47.379118Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,190 +15,210 @@
   ],
   "priority": [
     {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "source": "NPR",
-      "published_at": "2026-11-17T10:43:55Z",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-17T17:37:04Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-17T02:37:53Z",
+      "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+      "source": "NPR",
+      "published_at": "2026-11-17T17:36:31Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia"
+          "source": "THE HILL",
+          "url": "https://thehill.com/policy/technology/6225075-nvidia-counsel-teter-jensen-huang-testimony/"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Indicted Virginia state senator pushes to sanction Blanche, Patel over public comments",
-      "url": "https://thehill.com/homenews/state-watch/6223132-trump-officials-accused-misconduct/",
-      "source": "THE HILL",
-      "published_at": "2026-11-16T18:34:04Z",
-      "source_count": 1,
-      "other_sources": [],
-      "priority_score": 6,
+      "title": "WATCH: Navy nominee Hung Cao acknowledges Iran war is 'a strain' in confirmation hearing",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-17T14:21:52Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/policy/defense/6224418-hung-cao-navy-secretary-hearing/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "source": "NPR",
+      "published_at": "2026-11-17T12:20:57Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/"
+        }
+      ],
+      "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-17T11:00:35Z"
-    },
-    {
-      "title": "What Trump, Putin and Xi want from superpower summit",
-      "url": "https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/",
+      "title": "Skepticism grows within GOP over tech failures: ‘Americans aren’t stupid’",
+      "url": "https://thehill.com/policy/technology/6225734-lawmakers-skepticism-tech-outages/",
       "source": "THE HILL",
-      "published_at": "2026-11-17T11:00:00Z"
+      "published_at": "2026-11-17T20:27:22Z"
     },
     {
-      "title": "Van Hollen’s Senate backers lay low as Schumer takes big lead",
-      "url": "https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/",
-      "source": "THE HILL",
-      "published_at": "2026-11-17T11:00:00Z"
-    },
-    {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "source": "NPR",
-      "published_at": "2026-11-17T10:43:55Z"
-    },
-    {
-      "title": "NATO allies to discuss US troop levels with Pentagon strategy chief - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjZZbTFLSVpBWlRjSmszOUY5d1YwSFp1cnlEV2ppX2l2bFJ3eDk5b2RRQmtnR2EzcnVmQ01TN3JDQUJ1N0NhczBiNmtUMlNQcFdxdFJQV3JDc1J0NDRLQ2UwSTZHUmVvaXBib1B3QmNORjlMbmE2RkU3Z1UwUmg3Q1R0c3J2UUxuUkVBV3pKWWNvWWNfRUpUTmNLNHFwU2puejZaeDhZWnVtdw?oc=5",
+      "title": "Classified US national security communications network hit by outage, NSA says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T10:34:09Z"
+      "published_at": "2026-11-17T20:25:56Z"
     },
     {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-17T10:13:27Z"
+      "published_at": "2026-11-17T20:25:46Z"
     },
     {
-      "title": "Ukraine strikes Crimean bridge for second day as Russia pounds Kyiv bridges - Reuters",
+      "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T10:11:01Z"
+      "published_at": "2026-11-17T20:23:05Z"
     },
     {
-      "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6036795/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-      "source": "NPR",
-      "published_at": "2026-11-17T09:46:10Z"
-    },
-    {
-      "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHhKT29qSUliWTg1SHhrT1JKUTJsYzVLSmZUalhkYkdEcXM0QzNzczQtVjI0dGF4cmdaOTVaaEdBbnBQR29lbGxZTUxCNlAzWnlta3V1TVFTTVFwYy11b1Q5eVRtYXpCMHZLZ0ZHRFRWWDc5ZVpOYmw1WDlkVUJFOHZ0bm1fVzh4NUdMWUlaeFd1VmIwa01LVUJOMVNtandGVUhyQXJyWXFtLWhOaC1PbndtTHlHYmJ0T1VaY1p1Y3c?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T09:29:43Z"
-    },
-    {
-      "title": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTl9Eb1E5UVQ3M3dxTUZvVFZiRndFUElsU3RMZ2ZGR0poZlV6X3JHdklhNUswWEE4RGZkbXZkWmpwS3I3ZTgyY1Vrc2tXOXZnYl9kSlJsT1BuR3pWZmkyYlRENWgyWHVSU0Y5dkhVdlFrNXMxMnNJTTVMRTF6aUJpQkdXUnV1NnE5aW43QVFlYmFfdjlxTVBUY0Rfam1tSFBRMl8weFVMSWw0RFBTekdncV8weE5CcXlwcHhMWDh3QQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T06:52:00Z"
-    },
-    {
-      "title": "India's IOC gets government nod for commercial-scale sustainable aviation fuel production - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVRFREFldDM4WFBKWjNmdnV4NnhjYUwwTzBtdldrTVZVTGdoYzAxMEdvdWJwN2dkUnpJSjlRYWtRNEJmQkdRaWtraFo3RjdRaEFCS3FjQk1QZkhtZ3N2RHM1V2tjR1RsYndSM19mcENXMnlMcDNKWjFULS1LRlF0SXFTb0l1VzE0aEpYcnlXNTlqYlNlS1VTLUtOV2NRVFdCYkpzWExycUJWR1VJdmJRcDZFS3czUE9UUlY5T0MxV3VuVlU?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T06:03:00Z"
-    },
-    {
-      "title": "COMMENTARY: Midterm Meltdown - How US elections sparked a rethink on energy risks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFpWOVZwSTNCMjRDWm4ybUl3WDlPbXhXbzY1OXF0NEljTHp0THZfLWpOTG15Y1lBSjBqWkw3bGJ2eHhQN1g0NUFyUUhFQ1JpT1JQNHl6SEhmVk1rQXhTVk9pMW9ETUxFckFIQ2Rpdmpudy11WjRJVk5tWi13dlVvMEtONlFRQmRtOXlKTXZWOGVNNWRDSWg4NncwWDNZNXFzU0ZWbkdSY1gyZ0VfbGFOSnp4N051ekpUZ3Z1YXZndzlDZnNFVjJDaEJWYw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T06:00:00Z"
-    },
-    {
-      "title": "Iran attacks US military radar system in Bahrain with drones - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV29iM2xvSHBZbjBVTy1QTFd3aUVKb2ZnMjY3a2wzWWo5eGRGV2UxSTcwTUJCeVFUaDc5TFhoaE1HbC14UVg5NUtRLUE4bXB5M0o2UnhCOXoxVEFLd29QYmJYdWg2M2h5NG80Rkk4X1BaOE5fTUpJVUctOTBIZEltS2FfSXRXeEFFOVNqaFNBaGljVmxubGJnWERTUC05ek5vX0tubUt6cUd2Qi1SZ3NSMUFtVnlHLUtqSzRiUVl3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T05:45:00Z"
-    },
-    {
-      "title": "Morning Bid: Markets shaken, not stirred, as US-China tech war heats up - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRG5BVmUxVXppTDIxS2lSYjc2T2FqUzYxLVB5WGFwNnBfNzduYk1waU9NQzFrWmU2c3dvZGYtM183UmUzQk5JOUxYX3luZGRwbkkwbnpPYWdNcmpKWVJlTWF5V21ObkV2UTQ5aTRtRjA3aEwtckxnTWdNYUZpdm8?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T05:33:00Z"
-    },
-    {
-      "title": "EXCLUSIVE: US presses UN agency over Taiwan flight restrictions, China hits back - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb01SbktQd3U1ekI4M0szX3R3V1dweUM3SUdLTVQ3LXRzSE5sWEU0UDk3emRBQzVmLUxwX1JkZHNnSHFZTEUtNElQVlc3elkyMGNJYnc3eFpaT240NENvX3dpTjZaT0FUZk9FeC1xR0FYaHRqNzJERFh5M3BGWERQdDBfZzlaWjZNMERfYTRzRDBsNjB4VjVxU1RYb2tZWU9ZTVUyVFViR2tBbHhPMXcwN01nYkwwNVFaQkt4NXpuNl9wR0toSk1hX2RIYw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T05:06:00Z"
-    },
-    {
-      "title": "Peltola expands lead over Sullivan in latest ballot drop",
-      "url": "https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/",
-      "source": "THE HILL",
-      "published_at": "2026-11-17T03:49:38Z"
-    },
-    {
-      "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T03:42:00Z"
-    },
-    {
-      "title": "Comer announces bid for Kentucky governor",
-      "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/",
-      "source": "THE HILL",
-      "published_at": "2026-11-17T03:07:31Z"
-    },
-    {
-      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-17T02:38:08Z"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-17T02:37:53Z"
-    },
-    {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-17T02:31:14Z"
+      "published_at": "2026-11-17T20:21:58Z"
     },
     {
-      "title": "Senate GOP unveils nearly $1.1T defense appropriations bill",
-      "url": "https://thehill.com/homenews/senate/6224030-senate-gop-defense-appropriations-bill/",
+      "title": "What to know about Iran’s ‘dirty bomb’ threat",
+      "url": "https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/",
       "source": "THE HILL",
-      "published_at": "2026-11-17T02:16:58Z"
+      "published_at": "2026-11-17T20:15:58Z"
     },
     {
-      "title": "Vance mocks Democrats for accusing Trump of being ‘soft on China’",
-      "url": "https://thehill.com/homenews/administration/6224034-vance-mocks-china-softness-accusations/",
+      "title": "Kalshi halts Trump mention markets",
+      "url": "https://thehill.com/policy/technology/6225878-kalshi-halts-mention-markets-donald-trump/",
       "source": "THE HILL",
-      "published_at": "2026-11-17T02:06:38Z"
+      "published_at": "2026-11-17T20:15:19Z"
     },
     {
-      "title": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5",
+      "title": "EXCLUSIVE: Trump's China data center curb advances despite Amazon, Google, Meta lobbying - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T01:26:00Z"
+      "published_at": "2026-11-17T19:54:25Z"
+    },
+    {
+      "title": "Donald Trump wants Jensen Huang back, casts doubt on Chinese spy story",
+      "url": "https://thehill.com/opinion/robbys-radar/6226022-trump-jensen-huang-nvidia/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T19:46:05Z"
+    },
+    {
+      "title": "As string of tech outages raises alarms, Trump says everything is \"fine\" - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFrNFhKT3ZkYUp6V1R4ZTlwSnlGT2RHTnZUanZxZ1dSNEZwLUtBd2YzZGNZZk1XQ3RHT3hPU2FFaEVwSEkzbzFoNmt1d2ZkenRyTjV4MWlQcnZwWUJ6c3B3Mk5BejhqNkJUaFI3WTZZSlczN0dpYUIzQ2VnNGJ4LVNZeWJuenBuT29LQ1JheGtxbk85aC15cnJlYk85YklfYTN4UHY1aG1qTVE4YVdNSWpjTTNmUFktTnZKQ3dha0ZVSlU?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-17T19:41:46Z"
+    },
+    {
+      "title": "Trump administration details its $50 billion request for aviation system improvements",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-17T19:27:51Z"
+    },
+    {
+      "title": "Trump administration flags $900M in college research funds from ‘countries of concern’",
+      "url": "https://thehill.com/homenews/education/6225859-trump-colleges-countries-of-concern/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T19:06:12Z"
+    },
+    {
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-17T18:58:57Z"
+    },
+    {
+      "title": "Lawyer for Fed's Cook says she may not participate in 'unfair' White House hearing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXVmUWZwVEJzR1RYSkxSV1RaeEZQZjRvSk5Ddl8wM0dLTThaSG10RzN5ZUFWYllEOUNicHJfSVpQdjlCY3RPcEdfNmFoU3ZFRHB6YkVvbWtKWEdOYjJ5dm1lQ19ONTByOTZEYVUtaG9pV2RySy1CMGJaaFEtU0piV0JFYUxFMHR5Tk5tSjV0ZmZWR3JSdGMzZV9wUmFoU01NclFEMkZfME1qQVFaRlE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-17T18:49:27Z"
+    },
+    {
+      "title": "How the Supreme Court could hinder Trump investigations by Congress - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmpKMTg4SlotMFlUUm5IbzVxR09Id2toRzNNWkM3VEh6S0hiWHpGSmhNbl92RXZKdTIxcXZSY1dHaVRoZWhUbEh0RnN2YWF4bk9KTHZSSGx6UWpSVmVFTXBvMDhMYjN2ZFpWZF9mb1lHaC1JYVZWeHdXSEZId1hvSmZUWHY4Z3FNS1g4UUtrUjlFX3JTcFhUZTM0MmtHa3hTcVJSNDVDS3YzblZLWHhUMzMzUGVIZFU?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-17T18:24:38Z"
+    },
+    {
+      "title": "Kelly: Democrats will discuss moving up date of Schumer-Van Hollen leadership vote",
+      "url": "https://thehill.com/the-120/6225589-kelly-democratic-early-senate-leader-vote/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:59:10Z"
+    },
+    {
+      "title": "What is a dirty bomb? What to know about reported Iran threat",
+      "url": "https://thehill.com/policy/defense/6225006-iran-threat-dirty-bomb-explainer/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:58:06Z"
+    },
+    {
+      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-17T17:58:05Z"
+    },
+    {
+      "title": "PETA calls on Trump to end Thanksgiving turkey pardon: ‘Lots of people would thank you’",
+      "url": "https://thehill.com/blogs/in-the-know/6225583-peta-trump-thanksgiving-turkey-pardon/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:53:18Z"
+    },
+    {
+      "title": "Democrats go after Trump administration over US losing measles elimination status",
+      "url": "https://thehill.com/policy/healthcare/6225550-democrats-criticize-trump-rfk-measles/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:41:14Z"
+    },
+    {
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-17T17:37:04Z"
+    },
+    {
+      "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+      "source": "NPR",
+      "published_at": "2026-11-17T17:36:31Z"
+    },
+    {
+      "title": "Politicized Christianity was on the midterm ballot",
+      "url": "https://thehill.com/opinion/campaign/6224140-democrats-rise-religious-left/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:30:00Z"
+    },
+    {
+      "title": "Live updates: Schumer says he has votes to beat Van Hollen; Trump administration brushes off outages",
+      "url": "https://thehill.com/homenews/administration/6224028-live-updates-donald-trump-asia-trip-xi-putin-talks-nvidia-senate-house/",
+      "source": "THE HILL",
+      "published_at": "2026-11-17T17:18:54Z"
     }
   ]
 }
