@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:47:49.462143+00:00",
+  "updatedAt": "2026-11-18T08:34:41.443698+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -1116,6 +1116,35 @@
       "county": "Oceana",
       "kind": "page_modified",
       "newLinks": [],
+      "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-18T08:34:41.443698+00:00",
+      "county": "Alger",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://www.algercounty.gov/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-18T08:34:41.443698+00:00",
+      "county": "Lake",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://lakecountymi.gov/clerk/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-18T08:34:41.443698+00:00",
+      "county": "Oceana",
+      "kind": "new_result_links",
+      "newLinks": [
+        {
+          "title": "Official Statement of Votes Cast \u2013 November 3, 2026",
+          "url": "https://oceana.mi.us/wp-content/uploads/2026/11/OFFICIAL-Statement-of-Votes-Cast-Nov-3-2026-Oceana-County.pdf"
+        }
+      ],
       "sourceUrl": "https://oceana.mi.us/",
       "notice": "Source change is not an election return"
     }
