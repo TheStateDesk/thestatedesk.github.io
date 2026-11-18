@@ -1,13 +1,13 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-18T07:39:28.453747+00:00",
+  "checkedAt": "2026-11-18T17:19:45.505469+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
     "countyEquivalents": 3143,
     "countySourcesIndependentlyLinked": 104,
-    "countySourcePagesResponding": 88,
+    "countySourcePagesResponding": 86,
     "countiesWithoutDirectVerifiedSource": 3039,
     "machineReadableCountyFeedsConfirmed": 0,
     "verified2026CountyReturnsBeforePollClose": 0
@@ -390,8 +390,8 @@
         "26031": {
           "county": "Cheboygan",
           "sourceUrl": "https://www.cheboygancounty.net",
-          "connectivity": "reachable",
-          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
+          "connectivity": "indeterminate",
+          "note": "Connection timeout or automated access blocked",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -1262,8 +1262,8 @@
         "34039": {
           "county": "Union",
           "sourceUrl": "https://unioncountyvotes.com/election-results/",
-          "connectivity": "reachable",
-          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
+          "connectivity": "indeterminate",
+          "note": "Connection timeout or automated access blocked",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
