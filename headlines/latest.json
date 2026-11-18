@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T11:28:45.029907Z",
+  "generated_at": "2026-11-18T19:32:05.636923Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,53 +14,110 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
-      "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T06:25:36Z",
+      "title": "Xi, Putin condemn sanctions as Trump arrives in China",
+      "url": "https://thehill.com/homenews/administration/6227270-trump-xi-putin-asia-summit-sanctions-criticism/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T13:10:43Z",
+      "source_count": 3,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5"
+        }
+      ],
+      "priority_score": 7,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T18:51:57Z",
       "source_count": 4,
       "other_sources": [
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5"
-        },
-        {
           "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
         },
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
-      "url": "https://apnews.com/article/fda-overton-trump-senate-kennedy-cassidy-15d9c3978ed4f77657900cc2c327d375?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T05:49:42Z",
-      "source_count": 2,
-      "other_sources": [
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
+        },
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/"
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/hakeem-jeffries-house-leadership-speaker-democrats-260433358f776473f29151992569f81d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Classified US national security communications network hit by outage, NSA says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-17T23:09:06Z",
+      "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
+      "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-18T16:57:45Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/nsa-computer-network-down-22dc6be1bf1d1f5f86a7167f016e9526?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "url": "https://apnews.com/article/trump-xi-marcos-apec-china-philippines-3fc8110f4b4414bfb2c03596f61da862?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+      "url": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-18T14:25:22Z",
+      "source_count": 5,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/campaign/6227287-mary-peltola-projects-victory-alaska-senate/"
+        },
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        },
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump touts ‘landmark’ trade deal with Philippines",
+      "url": "https://thehill.com/homenews/senate/6227288-us-philippines-economic-cooperation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T13:07:08Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "source": "NPR",
+      "published_at": "2026-11-18T12:14:28Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/"
         }
       ],
       "priority_score": 5,
@@ -69,148 +126,148 @@
   ],
   "headlines": [
     {
-      "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-18T11:00:57Z"
-    },
-    {
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-      "source": "NPR",
-      "published_at": "2026-11-18T10:32:03Z"
-    },
-    {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-18T10:23:57Z"
-    },
-    {
-      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-18T09:58:28Z"
-    },
-    {
-      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-18T08:33:32Z"
-    },
-    {
-      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-18T08:33:21Z"
-    },
-    {
-      "title": "Rockstar promotes GTA VI in China despite lack of sales approval - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmEzTWFRSTRmdDg5emtqSER1aTNfQVNMd1pWV3FzVFRZR0xGSzRBTzZ3aV9WRmN3Q2F1eDdHTlp6OW9vS0FrZll2MldBVzFaa1hFVURoSjA5cFc0cGhZN21DV2RGdTFEdHpILW5kVk5JdFNuaEdzbEhfdzJVVDY1eVpkbTRmLUxrYmliYURCSU81NV92Q2c1VF9NeHFYamQxSkF0c0x1a28?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T07:57:00Z"
-    },
-    {
-      "title": "Taiwan in 'close contact' with US ahead of US-China-Russia talks at APEC - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYm9mcVhlZGhhUVRyRkFSRS03NG5HcDdubEFDRFpHV0NzZTdUZHVCWHZDVS1EX3NIMGFlazZTelVwb1I0VWJXajNjdzRrdTRrakJWNU8xd1ZrVF8tWTBIWEtMeklldHhGYzhDbGtvQkpyQUN1a2kxY3RUNWtYaVVvTVdGVG94NEx0M0w1aS0wS2xBQVV2QUZBQ2xqMXVpcldrcG10ZFBmb2NQWnY3cEI2VXRRR09KemM0dXRlUlI4XzAtQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T07:26:11Z"
-    },
-    {
-      "title": "Trump wants to show strength in China, but a series of technological snafus raises concerns at home",
-      "url": "https://apnews.com/article/trump-xi-marcos-apec-china-philippines-3fc8110f4b4414bfb2c03596f61da862?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T07:21:45Z"
-    },
-    {
-      "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
-      "url": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T07:12:58Z"
-    },
-    {
-      "title": "Canada adjusts China ties, Carney says, aiming to clinch right deal with US - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVW9oY0laelZGSWNoN085TXVRME1WWTNCQ2JYWGhmRUc1Z2hWdnRXZ0kyTktXaDAwaklsSlF5WFhPRUZpVjMzdzMyWW1KX05uTzdVemdnNTNUN0dNc1kzaEhiTFBrdWJtWWE4ZFBqQ2JkaGprV1dGaXJiODVDZ1NQVVAtc2FYTldwUFF6OGE1ckV3bVJEVjdURGRPVUVuWDdEUmZKalhGUUEwem90VE9faEFQRUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T06:41:00Z"
-    },
-    {
-      "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
-      "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T06:25:36Z"
-    },
-    {
-      "title": "Trump says US wraps up 'very big trade deal' with Philippines - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMS04Tjk4eFJwZ1AwNmo5OFQ1NTlrSWEyMURicHFEVlM1SlJlWURicU5Hc3lRR3ZfOGNNWGNqRjFqWlp5eFRIQVhHSVdiX2RWUHptTEI2aWsyRzN1bHZvbTFxQUZqdnZ0VXQ5ZkprSWVkN1N5aTM0d21SQkc2U3BxQUN6UzVOcUk5RmtLaVR4QUxucWFmS1ZlQlFEMVVTYld4c3Nfbkc1MkdOdE1iUnpOVmN4OUt2a0RMUjA0?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T05:58:00Z"
-    },
-    {
-      "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
-      "url": "https://apnews.com/article/fda-overton-trump-senate-kennedy-cassidy-15d9c3978ed4f77657900cc2c327d375?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T05:49:42Z"
-    },
-    {
-      "title": "After years on ice, Canada seeks trade-based reset with China, minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXducGZ4U2x6Qk1QdGVXckdCZDNGbE84S0VtRXhFelZmVW1IZXpCRzFpc21JdEpqdzdvUjk4MzN1dnN5N3VpRXpWbjN6MmNVZjRvQ1Itck1nZ1J2bXBvR1FoMk5JY0QwX1dKNzY0THVza09xUWU4TVJzSS1NUVgxQW1KOE5mc1N1OVQyYVVISkxZRnJwbC1EbG5STy15VGg2TWVMZm1kWk5BWWtzaEUxVlFmRQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T05:21:00Z"
-    },
-    {
-      "title": "Democrat Hakeem Jeffries faces a first test to becoming House speaker during leadership elections",
-      "url": "https://apnews.com/article/hakeem-jeffries-house-leadership-speaker-democrats-260433358f776473f29151992569f81d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-18T05:01:40Z"
-    },
-    {
-      "title": "China's Xi backs efforts to ease tensions with North Korea, South Korea says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3g4anJnTmxJNVNoNWlYQzVHbVhPMVlfLVRkS09WWEFOWFMtRThxV3VHSGhRTXZYSWY5SE9UZlIxWlRhZ28yQTNrUlhaUDBuNU1OSkNGVnp4U3NheTlYTHFGbzE2MmFEOEZuckVvbVR3aU9hY2xGNW9JRkNfSlprenZLQUlQUktpMDRPVndCeUVTTkVRVnNNNjhJYzNxYTJZOFVyenpNWHBiSk8zOWd4YnBVdmFJakdySEJr?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T04:30:00Z"
-    },
-    {
-      "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-18T04:25:29Z"
-    },
-    {
-      "title": "Huang agrees to testify before Senate Banking panel",
-      "url": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
+      "title": "Carney: Trump not concerned about growing Canada trade ties with China",
+      "url": "https://thehill.com/policy/international/6228336-carney-trump-china-trade-ties/",
       "source": "THE HILL",
-      "published_at": "2026-11-18T03:48:10Z"
+      "published_at": "2026-11-18T19:19:43Z"
     },
     {
-      "title": "Trump says US is expanding defence cooperation with Philippines - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDMyblBMN1ZWQnQ0WkV6N1BUWEpDZ0Z4VlZXSlJTUXR2Sm95YkFCTWhDVjNHZEVSRDdLYjVBT3VVQ0VRWjRhN0hXbld5TlFQd2I1RVVPQ0JOTGFDMV90eS05NDRUUWxnRzFMQ0t6QTZSVWE5aGVCdHpJeTlNUlJWTVZNa2s1QjFTOGQ2M1VXX1lEaTVXMkxFRkdtWWNfS1pJNnZ0LW5IQXJJRkstMmhvbFRQc1p4QUhiMVE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T03:45:00Z"
-    },
-    {
-      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-      "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-      "source": "NPR",
-      "published_at": "2026-11-18T03:27:23Z"
-    },
-    {
-      "title": "Democrat Mary Peltola wins in Alaska, securing 56-44 US Senate majority - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDhNX2ltb0xDNjBoTzlRcFZtcGl4V0FhOE94dTEyMHZVSDItM1ZMYUR2SW1NZVRpamgzQ2g5cXNrcE1wWG5oZlJDNFBWZ1MxeUhUcWhUSF9qM3Y0RXFiY28zT0xiMXdlbU8xX2JoZkUtLW9WejVlX3p0NGtxT0JUNUh2QldjcU5aYThDNWdNcUxUTVo2dTBKTG16NGZrNGQ1WUR6ejUwUnZxM1U?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T03:27:00Z"
-    },
-    {
-      "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-18T03:25:14Z"
-    },
-    {
-      "title": "Mary Peltola flips Republican Senate seat in Alaska",
-      "url": "https://thehill.com/homenews/campaign/6176074-peltola-wins-alaska-senate/",
+      "title": "Canada’s Carney: Trump ‘listens a lot more in private’",
+      "url": "https://thehill.com/policy/international/6228281-trump-carney-relationship-u-s-canada/",
       "source": "THE HILL",
-      "published_at": "2026-11-18T03:21:19Z"
+      "published_at": "2026-11-18T19:07:10Z"
+    },
+    {
+      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-18T19:04:50Z"
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T18:51:57Z"
+    },
+    {
+      "title": "Buttigieg on Duffy’s Biden administration jabs: ‘What the hell is he talking about?’",
+      "url": "https://thehill.com/policy/transportation/6228206-buttigieg-duffy-infrastructure-clash/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T18:30:19Z"
+    },
+    {
+      "title": "WATCH: Intelligence official pressed to explain cause of National Security Agency outage",
+      "url": "https://www.pbs.org/newshour/politics/watch-intelligence-official-pressed-to-explain-cause-of-national-security-agency-outage",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-18T18:29:47Z"
+    },
+    {
+      "title": "These 7 newly-elected Democrats voted against Jeffries for House speaker",
+      "url": "https://thehill.com/the-120/6228189-house-progressives-oppose-jeffries-leadership/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T18:23:48Z"
+    },
+    {
+      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+      "source": "NPR",
+      "published_at": "2026-11-18T18:18:16Z"
+    },
+    {
+      "title": "Israel launches ground operation in central Gaza, dozens flee - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdVck4yZnVKU01QQ0Nrd1c2VXRReEloTk1IS0xKWjRkcUdrR3BiTlAyU2dQVm1POVg0MmM5anI0YWlIa0txYms3Sjh6QW9kRjU3bmk0ajlHZ3BZbHM5eHBqazVBbVRvYkt4NENBZ0VuU3NEREFaVGpEOXFyMkdPWEktNE41aUIzY2U3enZDX1dmTTZkQzJPNHh0WktQUV80M2ZTb2o0ZDBYUHR0YmIxRWlB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T18:17:51Z"
+    },
+    {
+      "title": "Hegseth meets with Delcy Rodríguez in Venezuela to deepen military partnership",
+      "url": "https://thehill.com/policy/defense/6228102-hegseth-meets-venezuela-rodriquez/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T18:07:18Z"
+    },
+    {
+      "title": "Republican Senator Cornyn blocks Trump judicial nominee in Texas - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0NHZWwycF85Y1NfZ1lEV01yWEpOUWJacnJPRlhBeXNReGR5VXlBODhDMzF3di00amFSNjFVVkNZSGViMkxYWFg2WTBxU0kwdEN5c0FReTZoZk9rVTltSEs5Ym9vRlVQMXVVRkNVSFRXNXBjQnJsV21KVTdGWWhLNUxOMkxseE1kQ29ZOUNBTWdDUnQ1VXNQMDNiM2FHTnBMYlZYY3RiT2s2SGlBeGdjSnJWQjk?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T17:49:24Z"
+    },
+    {
+      "title": "1 in 5 Trump voters say Republicans will lose White House: Survey",
+      "url": "https://thehill.com/homenews/campaign/6227832-trump-voters-expectations-2028/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T17:47:29Z"
+    },
+    {
+      "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-18T17:46:34Z"
+    },
+    {
+      "title": "Putin and Trump expected to hold bilateral talks at APEC summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmphYzlHTmtWY2ttZUFFb0VmdHRaTUtId2RKT1luZE96cXF2ZjFYTDk3WTlVNEZ5Q0hTc0JrSFpLSEwzSV8wblVNOE03R3BXdXU3bnhxUnpvb2FJd2hSMG1uTU9yMmNQLUdtNW5vTmxrSUNyb1REWDlzRl83SUx6QlE2Y09rSGFjY2JTb1JQRXNISTFoWTFRamF5U2VWNGJpM0JEMkhsLUs3VDJCdEVoMzBoZzFjZWgw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T17:41:25Z"
+    },
+    {
+      "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-18T17:25:00Z"
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-18T17:24:01Z"
+    },
+    {
+      "title": "Democrats flip 9 Senate seats – most since 1958",
+      "url": "https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T17:15:00Z"
+    },
+    {
+      "title": "The new class of Democrats won the Senate but they may struggle to find their power",
+      "url": "https://thehill.com/opinion/congress-blog/6227128-traceability-risk-political-power/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T17:00:00Z"
+    },
+    {
+      "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
+      "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-18T16:57:45Z"
+    },
+    {
+      "title": "Thune aiming for decision in next 24 hours on budget reconciliation push to fund Pentagon",
+      "url": "https://thehill.com/homenews/senate/6227951-thune-pentagon-budget-deadline/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T16:54:09Z"
+    },
+    {
+      "title": "El-Sayed: Jeffries Medicare expansion plan ‘a great start’",
+      "url": "https://thehill.com/policy/healthcare/6227869-el-sayed-supports-medicare-expansion/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T16:37:25Z"
+    },
+    {
+      "title": "Iran attacks US air base in Kuwait",
+      "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T16:24:29Z"
+    },
+    {
+      "title": "Sanders backs Jeffries’s Medicare expansion plan",
+      "url": "https://thehill.com/policy/healthcare/6227738-sanders-jeffriess-medicare-expansion-plan/",
+      "source": "THE HILL",
+      "published_at": "2026-11-18T16:15:48Z"
+    },
+    {
+      "title": "Global patent filings hit record high in 2025 as China drives growth, UN agency says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX21fSEZwSlpHUWFuby1pYnF1X0R0SVZUdEVENG1ITG1SVlJYMmpIMzhRLWxWbXREbVBWeC1jV2NmbUxQS0RGbjVWSlJYcE1zY3lockx1aWJGMUtGRmFINEVEYkxRQVAxc0VTaVdXWi1WaEs2ZzEzVGo5cFdiWW5tSDhibFhhaHdtRy1qX3NEaU81Mkx3alVKbFFZYlN3d0Y4V0xKYmpvTVRQWG1zUnRQXzBWbmIyME0xUzNjdUVVV1hKVnhZOWRuSTd3?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-18T16:13:56Z"
     }
   ]
 }
