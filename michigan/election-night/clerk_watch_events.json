@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:50:15.228285+00:00",
+  "updatedAt": "2026-11-19T21:37:45.152729+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -1231,6 +1231,22 @@
     },
     {
       "at": "2026-11-19T08:50:15.228285+00:00",
+      "county": "Oceana",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-19T21:37:45.152729+00:00",
+      "county": "Livingston",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://milivcounty.gov/elections/election-results/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-19T21:37:45.152729+00:00",
       "county": "Oceana",
       "kind": "page_modified",
       "newLinks": [],
