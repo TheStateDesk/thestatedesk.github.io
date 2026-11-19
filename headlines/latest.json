@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T09:25:16.127621Z",
+  "generated_at": "2026-11-19T18:35:54.374516Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,97 +8,51 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
-  ],
+  "source_warnings": [],
   "priority": [
     {
-      "title": "Federal judge extends block on Trump arch construction",
-      "url": "https://thehill.com/regulation/court-battles/6228830-trump-arch-construction-halted-december/",
-      "source": "THE HILL",
-      "published_at": "2026-11-18T22:12:37Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmVRdG1JVzZLUGVCQVVXQnEzdW1PQ3dra0VWVlQ3NGJaNDdIOVoxc0hzNzBFZnNsTy1tbi13Q1EtRHJ2WEYwTTJSX1YwTWJodGpnMjVETE9zLVYxc3Noc3BZNnJUc3MwR3h4YnJsZnJ1MDg0UGdPNUFTOGFGaUxsQU5ldC0wd2VTVk41VGFXWmZydEFldk9hYUt6aGlXLWZFSTVtRDVwbnNqeHNmY2w0?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Democrats flipped 9 U.S. Senate seats — the most in almost 70 years",
-      "url": "https://www.pbs.org/newshour/politics/democrats-flipped-9-us-senate-seats-the-most-in-almost-70-years",
+      "title": "Republican Rep. Nick Begich wins reelection for Alaska House seat",
+      "url": "https://www.pbs.org/newshour/politics/republican-rep-nick-begich-wins-reelection-for-alaska-house-seat",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-18T22:11:08Z",
+      "published_at": "2026-11-19T16:16:28Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "THE HILL",
-          "url": "https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/"
+          "url": "https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
-      "url": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas",
+      "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
+      "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-18T21:02:57Z",
+      "published_at": "2026-11-19T15:45:15Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0NHZWwycF85Y1NfZ1lEV01yWEpOUWJacnJPRlhBeXNReGR5VXlBODhDMzF3di00amFSNjFVVkNZSGViMkxYWFg2WTBxU0kwdEN5c0FReTZoZk9rVTltSEs5Ym9vRlVQMXVVRkNVSFRXNXBjQnJsV21KVTdGWWhLNUxOMkxseE1kQ29ZOUNBTWdDUnQ1VXNQMDNiM2FHTnBMYlZYY3RiT2s2SGlBeGdjSnJWQjk?oc=5"
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Democrats nominate Hakeem Jeffries for next US House speaker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFJMeDVVWnRDWmUydUhCQ0lieV9kZjdRc0xKbHA5ZDlMeG1WZ29rTWJpcGxLSE1EZEttb1Vwd2Zrdl8tX0Q1RVNEbGR0OEZqdWxLdnpkZnFBenNBclduTWhENTdhYnY1WXdjZ2RGRTVDMjFPVkpnZnJVZEZ4VngweEtJWTVlakU2ZEtDWUxTMTliZktETXlvcXFXWTFhdU5GeUIyRUxqUkV4aGFX?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T20:31:31Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump to meet Putin one-on-one during China trip",
-      "url": "https://thehill.com/homenews/administration/6228595-trump-putin-meeting-china/",
+      "title": "Trump greets Putin: ‘He’s my friend’",
+      "url": "https://thehill.com/policy/international/6229700-donald-trump-vladimir-putin-friendship-china-summit/",
       "source": "THE HILL",
-      "published_at": "2026-11-18T20:26:50Z",
+      "published_at": "2026-11-19T12:58:31Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Mullin defends taking government plane to LSU-Texas game after nationwide ground stop",
-      "url": "https://thehill.com/homenews/administration/6228456-homeland-security-secretary-flight-controversy/",
-      "source": "THE HILL",
-      "published_at": "2026-11-18T19:50:01Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/video/2026/nov/18/markwayne-mullin-defends-taking-government-plane-to-college-football-game-amid-nationwide-grounding-video"
+          "source": "BBC NEWS",
+          "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "priority_score": 5,
@@ -107,148 +61,148 @@
   ],
   "headlines": [
     {
-      "title": "Is Donald Trump beyond caricature? Not at all – here’s his hilarious origin story",
-      "url": "https://www.theguardian.com/stage/2026/nov/19/donald-review-trump-ustinov-studio-bath",
+      "title": "5 takeaways on Trump’s unprecedented summit with Putin, Xi",
+      "url": "https://thehill.com/homenews/administration/6231008-trump-xi-putin-summit-takeaways/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T18:29:45Z"
+    },
+    {
+      "title": "DoJ assigns pro-Trump prosecutor to handle inquiry into 2022 Mar-a-Lago raid, reports say",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/bill-essayli-mar-a-lago-raid",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-19T09:00:22Z"
+      "published_at": "2026-11-19T18:04:17Z"
     },
     {
-      "title": "Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzRFcTV3RC1acloyenJ5UXlCQjNfZ0tieEg5NXpGX3NObnlVMzVTR1BDX3VsNWlhOEZKak1ja3JGU3hBMTI3cjJsRlpGWTNhRm1iSkc4U1JHeUdBYXFYdVpjWW9maWJ6MTdMOEw5ZG1YRUJyTkctVGxlTk1hT0VKY2lGNDdGS0w3ZnRJdUQxUzBHeU9KNHdUODBNMEllMDR5Y1NZaFhsd1ZNYzh6ZmZTS0p3S0pCckJ4REUwYnJIN3NsUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T07:10:00Z"
-    },
-    {
-      "title": "Taiwan reports two Russian military aircraft nearby, second time this week - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T07:10:00Z"
-    },
-    {
-      "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDJ3ZUp3ZjhsQ01rN3VaRGlJNkx3SVpycUdaVENpLUtwT01aQmJ0c01ielVrbW0zcUtjVHlMbjlXc1IxaFFCYnhyWHpoY19vY0N0MVk5dXplemZKM0hSaWpIMndSMzBoZ3lndFpyeEhhUE5pTWVlRWpjMDhDYXpmNEJqZVRiMXgzWVRtNHE4cE1LNE1sWTNSM0lRQ2w5cU00MDE5dmdn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T06:38:00Z"
-    },
-    {
-      "title": "Migrants fuelled Spain's boom - now investors fear an anti-immigration government could stifle economy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU0Q3SEdsRURCR25kZEEwX3NUQWtNd2tvaVR3MkVuUF81MGI1U3JWQ0EzRFI5R1FEVTBTMlhuQ2dYT1ppNVY0WkwyTFd2bmxSOXZhX3poOW1femJNelJJQzBNRkdHQXJZYWhfalgyYVV5ZXdlTUVOQ0tjUzJwRUlrNVpLVzR1NEV3QnRxVG1GT012VHd1YlFfX21PRGN1eUhsNzlrUzFtMzlaRlJFelExYVNHbmpET3lXZWtnTkNtZWpURHVVbEhSUnBHaw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T06:03:00Z"
-    },
-    {
-      "title": "Denmark expected to ratify Trump deal over Greenland on Thursday - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9HMkljSnNmOWZWZGFRQWEzUTRpMEg3bXpXSllFdERYS0VNLVV3bnEzN1ZZeG85b3VWb2gzaXFLMldWejVlNGhfWlNqazFtUDQ1cDdJeVVGWTlac0xvVWlwRnZIU0NnNURrX2s1XzRXQmZtWGlxcUxRQUY3QTVKOWVfNDQ5dW5FOENXUV80Z0dSNTB1TTV6dE5TT09PYWs4X0E?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T05:02:00Z"
-    },
-    {
-      "title": "Trump says people stockpiling food, water amid outages should ‘relax’",
-      "url": "https://thehill.com/homenews/administration/6229375-trump-downplays-outage-concerns/",
+      "title": "Trump calls Putin his friend, Xi Jinping hugs POTUS in trilateral summit",
+      "url": "https://thehill.com/opinion/lindseys-lens/6230964-trump-xi-putin-shenzhen-summit/",
       "source": "THE HILL",
-      "published_at": "2026-11-19T04:04:29Z"
+      "published_at": "2026-11-19T18:03:18Z"
     },
     {
-      "title": "Elbridge Colby chides Ukraine’s strikes inside Russia, drawing German rebuke",
-      "url": "https://thehill.com/policy/international/6229395-colby-criticizes-ukraine-long-range-strikes/",
+      "title": "Live updates: Trump wraps Asia trip with Xi, Putin ‘declaration toward peace’",
+      "url": "https://thehill.com/homenews/administration/6229360-live-updates-trump-xi-putin-china-summit-crypto-alaska-tech-outages/",
       "source": "THE HILL",
-      "published_at": "2026-11-19T03:59:49Z"
+      "published_at": "2026-11-19T17:32:25Z"
     },
     {
-      "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T03:25:00Z"
-    },
-    {
-      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-19T03:11:52Z"
-    },
-    {
-      "title": "Social Security raise: What’s left after the Medicare premium hike?",
-      "url": "https://thehill.com/homenews/6229319-social-security-raise-whats-left-after-the-medicare-premium-hike/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T02:48:14Z"
-    },
-    {
-      "title": "Begich holds Alaska’s lone House seat for GOP",
-      "url": "https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T02:32:15Z"
-    },
-    {
-      "title": "Trump says ‘we’ll wipe them out’ if Iran dirty bombs US",
-      "url": "https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T01:59:54Z"
-    },
-    {
-      "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T01:46:00Z"
-    },
-    {
-      "title": "COMMENTARY: Trump-Xi-Putin summit exposes Europe’s power deficit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXhYWk03Z1VnUVZYME1MaUxfVzRsU25WYjRHTTQwZkhFbmE1dmNiZHYzc3p5TEtJUHpQNTU0R1dtMUk5QlEzNzd5b2k0Tl81emFncl9PU2FkRnRIYVdBVXI0OC1ZeEVDd0ljaUp1OGhUeG53WjYxNlVKcVRhZEgzQkdueXZVekZsVGZvTi11YW9rSkxwNTF0ZWh5NTZFWm8zNHJQRW0zQ19mTUdKdXk3UmJCWXRzdmk4d1J1Wg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T01:00:00Z"
-    },
-    {
-      "title": "Cornyn blocks Trump’s nomination to federal district court because he didn’t choose a Texan",
-      "url": "https://thehill.com/homenews/senate/6229094-cornyn-blocks-non-texan-judge/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T00:26:46Z"
-    },
-    {
-      "title": "Iran’s ‘dirty bomb’ threat underscores risks to US homeland",
-      "url": "https://thehill.com/policy/defense/6229088-iran-dirty-bomb-plot-homeland-threats/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T00:04:57Z"
-    },
-    {
-      "title": "Ukraine's European allies meet in Berlin in show of support - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHBhRURfZmJHUzhfMW53YjcxYUNlVE1rbFZtTmV2S2Jfcm5hYXFweEJaQlZHbmE0U2Q5Y2IzM29LUExzUUx0UlIyVTNMamhzT3NPS25rbmp3bzZuZDhId1B4YzZXYWZXRkU0clRpUm9scVV5ZXRvMnBSTUlTZlVtTDJlSnFlREg3YTZpM0xVOXl2cV9xaWZpcnF2M01zdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T00:03:00Z"
-    },
-    {
-      "title": "Xi, Putin ‘not our friends’ Republicans warn Trump ahead of trilateral",
-      "url": "https://thehill.com/homenews/6229121-gop-warns-trump-trilateral-summit/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T00:00:59Z"
-    },
-    {
-      "title": "Trump makes third trip to Supreme Court over Venezuelan deportation protections - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSllLNWJzWnktNEVWYTV0WGE1Vm5LV05YR0t0Z0ZxODRqNnVFNnI2SDFGZ1U4Z3Fpd0VIS3EtZjh2X2ROUXVMUmRPcnFyYXFCdkozRi1YSExzSWNsdXBpcFFIaG5TdVVibVZDN2lYN3RtN095QnFra1UydFMyMkhuODc5cUdNZGNLUV9MRnNNNThYdkdzckdSM0ZsRElzWkdfQ0VEd3VRbm9zcUFOR2lFVS1mWExvNEVJNlVQQ1N6Uk5wOUE2WWxkNg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T23:54:34Z"
-    },
-    {
-      "title": "Kazakhstan expects FAA blessing for direct US flights ahead of Trump-hosted G20 meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalVnVHZ3UDJBcTVkUHlwRC1weTVyd0Etb3g4ZWJIZW8wWXI5elFlNDI4V1FqR1VZLUxwWGJiWEdXT2lIdmlnMndVZXRHc3ozMy1tdUs2c29EcGgwTks1bjlBaWhUUzg0bXFRX2s2ZXAzLXU1cmpKMVh0R2tmUFU4b190VU5XMzZYYktHVnNmT2dUUk5McU1PNEl3WDNRdlhwWjdXOUZkSU5MTS1xWUs3THBOZnhBbWJwR1pPRUpCc2hLR0JtSlhjQWJuaHhfSHFh?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-18T23:38:36Z"
-    },
-    {
-      "title": "Republicans need to focus on 'quality of life issues,' ousted GOP Rep. Lawler says",
-      "url": "https://www.pbs.org/newshour/show/republicans-need-to-focus-on-quality-of-life-issues-ousted-gop-rep-lawler-says",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-18T23:30:12Z"
-    },
-    {
-      "title": "Ron Johnson calls for GOP to ditch filibuster now because Democrats ‘are going to eliminate it anyway’",
-      "url": "https://thehill.com/homenews/senate/6229063-ron-johnson-calls-eliminate-filibuster/",
-      "source": "THE HILL",
-      "published_at": "2026-11-18T23:29:25Z"
-    },
-    {
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-18T23:28:03Z"
+      "published_at": "2026-11-19T17:23:29Z"
+    },
+    {
+      "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-19T17:20:46Z"
+    },
+    {
+      "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-19T17:12:11Z"
+    },
+    {
+      "title": "'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing",
+      "url": "https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-19T17:09:25Z"
+    },
+    {
+      "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+      "source": "NPR",
+      "published_at": "2026-11-19T17:03:11Z"
+    },
+    {
+      "title": "Results from Latino voters should make the GOP course correct, not despair",
+      "url": "https://thehill.com/opinion/campaign/6228231-latino-midterm-vote-shift/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T17:00:00Z"
+    },
+    {
+      "title": "Hegseth hands Colombia C-130 military transport aircraft",
+      "url": "https://thehill.com/policy/defense/6230698-hegseth-delivers-c130-colombia/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T16:56:29Z"
+    },
+    {
+      "title": "Buttigieg supporters unveil Team Pete PAC ahead of 2028 vote",
+      "url": "https://thehill.com/homenews/campaign/6230656-team-pete-buttigieg-pac-launches/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T16:40:16Z"
+    },
+    {
+      "title": "New Congress must continue the important work of the China Committee",
+      "url": "https://thehill.com/opinion/national-security/6228561-house-china-committee-future/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T16:30:00Z"
+    },
+    {
+      "title": "Republican Rep. Nick Begich wins reelection for Alaska House seat",
+      "url": "https://www.pbs.org/newshour/politics/republican-rep-nick-begich-wins-reelection-for-alaska-house-seat",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-19T16:16:28Z"
+    },
+    {
+      "title": "Danish Parliament approves US- Greenland security deal after Trump pressure",
+      "url": "https://thehill.com/policy/international/6230363-danish-parliament-us-greenland-security-deal-approved/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T16:11:58Z"
+    },
+    {
+      "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-19T16:00:06Z"
+    },
+    {
+      "title": "The road to victory in Iran goes through Kyiv",
+      "url": "https://thehill.com/opinion/national-security/6228060-victory-iran-through-kyiv/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T16:00:00Z"
+    },
+    {
+      "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks",
+      "url": "https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-19T15:45:15Z"
+    },
+    {
+      "title": "Italian court delays ruling in Meta, TikTok social media case pending government curbs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2M4RWREQTcwRTQ5a0FLZmw5LUNLWVJCUk5WaHBoVFdIaGNCRDhfSHM0RDBwZUh5NFFfY093TFBlZXQ2ZHhIQk5xdkJnT19ZZUw0c0h3Q2l5WTJQRHRXS05PbHNzZzBFRC00YVlRS0FEOHhuamthR0RmMUJyTXpSejN2bzZnU1pxNUc0YlhPT0ZSX1pHcUkxOXB4RkVoSFcwZUFnM3VlQ3M0VFMtU0lXT1RFLTJaSFZYZlF1MGpESV9zSzVrTTVPMQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-19T15:43:00Z"
+    },
+    {
+      "title": "White House takes phones from reporters traveling from China with president",
+      "url": "https://thehill.com/homenews/administration/6230274-trump-press-phones-confiscated-china/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T15:28:50Z"
+    },
+    {
+      "title": "Gazans return to battered camp after Israel says it concluded tank raid - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTlHeU1CNWItYmpkOXVld21mVVRpNm9EbHhicnE3d1BQcmJ3em1HREh3NkFTUVNSUVFxMjFrWVU5V1dhT2Q2TWZEZ3VwYW9WSjB0SkhJU0JNMUxVMlAyU0RWYnZTekpLUS1oT0xPUXNzUWpjT0dhSktadFFXalBlcG1EaUJXaU1HMnBYb3pxd0V6OVBGdElzYg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-19T15:09:40Z"
+    },
+    {
+      "title": "How Mary Peltola won the Alaska Senate race",
+      "url": "https://thehill.com/homenews/campaign/data-nerds/6230057-mary-peltola-alaska-senate-win-midterms-live-discussion/",
+      "source": "THE HILL",
+      "published_at": "2026-11-19T15:04:13Z"
+    },
+    {
+      "title": "The ‘blue wave’ could foil the Trump administration’s Big Bend wall plans",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/big-bend-texas-trump",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-19T15:00:51Z"
+    },
+    {
+      "title": "WATCH LIVE: Senate meets for legislative business as Trump returns from Putin-Xi talks in China",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-for-legislative-business-as-trump-returns-from-putin-xi-talks-in-china",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-19T15:00:50Z"
     }
   ]
 }
