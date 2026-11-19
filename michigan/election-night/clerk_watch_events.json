@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:27:14.851550+00:00",
+  "updatedAt": "2026-11-19T08:50:15.228285+00:00",
   "events": [
     {
       "at": "2026-10-26T14:19:02.019910+00:00",
@@ -1158,6 +1158,79 @@
     },
     {
       "at": "2026-11-18T21:27:14.851550+00:00",
+      "county": "Oceana",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://oceana.mi.us/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-19T08:50:15.228285+00:00",
+      "county": "Leelanau",
+      "kind": "new_result_links",
+      "newLinks": [
+        {
+          "title": "Official November 3, 2009 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11032009_november_election_totals_2.pdf?t=202412050235280"
+        },
+        {
+          "title": "Official November 6, 2007, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11062007_november_election_totals.pdf?t=202412050237180"
+        },
+        {
+          "title": "Official November 8, 2011, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11082011_electionresults_final.pdf?t=202412050231040"
+        },
+        {
+          "title": "Official November 5, 2019 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11_5.pdf?t=202412050243580"
+        },
+        {
+          "title": "Official November 2, 2010, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2010_general_election_totals.pdf?t=202412050234150"
+        },
+        {
+          "title": "Official November 6, 2012 General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2012_november_election_results_gems.pdf?t=202412050240560"
+        },
+        {
+          "title": "Official November 4 2014, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2014_general_election_totals_final.pdf?t=202412050227200"
+        },
+        {
+          "title": "Official August 9, 2017, Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/august_2017_election_results_for_web_page_1.pdf?t=202412050240310"
+        },
+        {
+          "title": "Official November 5, 2013, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/certified_official_results_110513_landscape.pdf?t=202412050228240"
+        },
+        {
+          "title": "Official August 7, 2012, County Treasurer Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/county_treas_recount_results.pdf?t=202412050230100"
+        },
+        {
+          "title": "Official August 7, 2012, Empire Township Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/empire_twp_recount_results.pdf?t=202412050229470"
+        },
+        {
+          "title": "Official November 8, 2016, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/november_2016_results_by_precinct.pdf?t=202412050239430"
+        }
+      ],
+      "sourceUrl": "https://www.leelanau.gov/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-19T08:50:15.228285+00:00",
+      "county": "Livingston",
+      "kind": "page_modified",
+      "newLinks": [],
+      "sourceUrl": "https://milivcounty.gov/elections/election-results/",
+      "notice": "Source change is not an election return"
+    },
+    {
+      "at": "2026-11-19T08:50:15.228285+00:00",
       "county": "Oceana",
       "kind": "page_modified",
       "newLinks": [],

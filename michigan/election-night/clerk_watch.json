@@ -1,16 +1,17 @@
 {
-  "checkedAt": "2026-11-18T21:27:14.851550+00:00",
+  "checkedAt": "2026-11-19T08:50:15.228285+00:00",
   "coverage": 83,
   "purpose": "Clerk webpage and report discovery only; NOT automatic precinct vote ingestion",
   "summary": {
-    "reachable": 77,
+    "reachable": 78,
     "indeterminate": 4,
-    "unavailable": 2,
-    "resultLinks": 9,
-    "changedCounties": 2,
-    "newReportLinks": 0
+    "unavailable": 1,
+    "resultLinks": 20,
+    "changedCounties": 3,
+    "newReportLinks": 12
   },
   "changedCounties": [
+    "Leelanau",
     "Livingston",
     "Oceana"
   ],
@@ -19,7 +20,7 @@
       "county": "Alcona",
       "sourceUrl": "https://alconacountymi.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.806953+00:00",
+      "checkedAt": "2026-11-19T08:50:00.646950+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -27,13 +28,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://alconacountymi.com/",
-      "fingerprint": "a907badb5305a519c165"
+      "fingerprint": "89f19bb5eb57e9ab85f6"
     },
     "Alger": {
       "county": "Alger",
       "sourceUrl": "https://www.algercounty.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.807659+00:00",
+      "checkedAt": "2026-11-19T08:50:00.647692+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -47,7 +48,7 @@
       "county": "Allegan",
       "sourceUrl": "https://www.allegancounty.org",
       "status": "indeterminate",
-      "checkedAt": "2026-11-18T21:26:59.808032+00:00",
+      "checkedAt": "2026-11-19T08:50:00.648056+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -59,7 +60,7 @@
       "county": "Alpena",
       "sourceUrl": "https://alpenacounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.808458+00:00",
+      "checkedAt": "2026-11-19T08:50:00.648528+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -67,13 +68,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://alpenacounty.org/",
-      "fingerprint": "34c8f063293ca23439fc"
+      "fingerprint": "9d364a3e042f41ef2a6c"
     },
     "Antrim": {
       "county": "Antrim",
       "sourceUrl": "https://www.antrimcounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.808851+00:00",
+      "checkedAt": "2026-11-19T08:50:00.648945+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -87,7 +88,7 @@
       "county": "Arenac",
       "sourceUrl": "https://www.arenaccountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.809487+00:00",
+      "checkedAt": "2026-11-19T08:50:00.649215+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -101,7 +102,7 @@
       "county": "Baraga",
       "sourceUrl": "https://keweenawbay.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.811709+00:00",
+      "checkedAt": "2026-11-19T08:50:00.649907+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -115,7 +116,7 @@
       "county": "Barry",
       "sourceUrl": "https://www.barrycounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.812907+00:00",
+      "checkedAt": "2026-11-19T08:50:00.651981+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -129,7 +130,7 @@
       "county": "Bay",
       "sourceUrl": "https://www.baycountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.813272+00:00",
+      "checkedAt": "2026-11-19T08:50:00.653005+00:00",
       "reportLinks": [
         {
           "title": "Potential November 2026 result report",
@@ -152,7 +153,7 @@
       "county": "Benzie",
       "sourceUrl": "https://www.benzieco.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.813610+00:00",
+      "checkedAt": "2026-11-19T08:50:00.653425+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -166,7 +167,7 @@
       "county": "Berrien",
       "sourceUrl": "https://www.berriencounty.org",
       "status": "indeterminate",
-      "checkedAt": "2026-11-18T21:26:59.891823+00:00",
+      "checkedAt": "2026-11-19T08:50:00.727018+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -178,7 +179,7 @@
       "county": "Branch",
       "sourceUrl": "https://www.countyofbranch.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:26:59.951927+00:00",
+      "checkedAt": "2026-11-19T08:50:00.765876+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -192,7 +193,7 @@
       "county": "Calhoun",
       "sourceUrl": "https://www.calhouncountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.048931+00:00",
+      "checkedAt": "2026-11-19T08:50:00.816591+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -206,7 +207,7 @@
       "county": "Cass",
       "sourceUrl": "https://www.casscountymi.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.139318+00:00",
+      "checkedAt": "2026-11-19T08:50:00.894048+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -220,7 +221,7 @@
       "county": "Charlevoix",
       "sourceUrl": "https://www.charlevoixcounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.225722+00:00",
+      "checkedAt": "2026-11-19T08:50:00.969570+00:00",
       "reportLinks": [
         {
           "title": "Statement of Votes Cast (Totals include Early Voting Numbers)",
@@ -239,7 +240,7 @@
       "county": "Cheboygan",
       "sourceUrl": "https://www.cheboygancounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.239203+00:00",
+      "checkedAt": "2026-11-19T08:50:00.984811+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -247,13 +248,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.cheboygancounty.net/",
-      "fingerprint": "68b2453f408dc59d6dc2"
+      "fingerprint": "f5b966fe7eab533db344"
     },
     "Chippewa": {
       "county": "Chippewa",
       "sourceUrl": "https://www.chippewacountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.259968+00:00",
+      "checkedAt": "2026-11-19T08:50:01.044566+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -267,7 +268,7 @@
       "county": "Clare",
       "sourceUrl": "https://www.clareclerkrod.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.260911+00:00",
+      "checkedAt": "2026-11-19T08:50:01.122328+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -281,7 +282,7 @@
       "county": "Clinton",
       "sourceUrl": "https://www.clinton-county.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.415851+00:00",
+      "checkedAt": "2026-11-19T08:50:01.135580+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -295,7 +296,7 @@
       "county": "Crawford",
       "sourceUrl": "https://www.crawfordco.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.456744+00:00",
+      "checkedAt": "2026-11-19T08:50:01.267745+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -309,7 +310,7 @@
       "county": "Delta",
       "sourceUrl": "https://deltacountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.469862+00:00",
+      "checkedAt": "2026-11-19T08:50:01.380886+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -323,7 +324,7 @@
       "county": "Dickinson",
       "sourceUrl": "https://www.dickinsoncountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.498346+00:00",
+      "checkedAt": "2026-11-19T08:50:01.382011+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -337,7 +338,7 @@
       "county": "Eaton",
       "sourceUrl": "https://www.eatoncounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.600670+00:00",
+      "checkedAt": "2026-11-19T08:50:01.492994+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -345,13 +346,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.eatoncounty.org/",
-      "fingerprint": "36aecd2b30986ee126bc"
+      "fingerprint": "1d1c885801942d78ceb7"
     },
     "Emmet": {
       "county": "Emmet",
       "sourceUrl": "https://www.emmetcounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.621796+00:00",
+      "checkedAt": "2026-11-19T08:50:01.503955+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -365,7 +366,7 @@
       "county": "Genesee",
       "sourceUrl": "https://www.geneseecountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.747584+00:00",
+      "checkedAt": "2026-11-19T08:50:01.554650+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -379,7 +380,7 @@
       "county": "Gladwin",
       "sourceUrl": "https://gladwincounty-mi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:00.926027+00:00",
+      "checkedAt": "2026-11-19T08:50:01.602786+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -393,7 +394,7 @@
       "county": "Gogebic",
       "sourceUrl": "https://www.gogebic.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.090612+00:00",
+      "checkedAt": "2026-11-19T08:50:01.784326+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -407,7 +408,7 @@
       "county": "Grand Traverse",
       "sourceUrl": "https://www.gtcountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.160974+00:00",
+      "checkedAt": "2026-11-19T08:50:01.922567+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -421,7 +422,7 @@
       "county": "Gratiot",
       "sourceUrl": "https://www.gratiotmi.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.408779+00:00",
+      "checkedAt": "2026-11-19T08:50:01.942121+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -429,25 +430,27 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.gratiotmi.com/",
-      "fingerprint": "c14574bc280396303fde"
+      "fingerprint": "34c5d77b4700415363d4"
     },
     "Hillsdale": {
       "county": "Hillsdale",
-      "sourceUrl": "https://www.hillsdalecounty.gov",
-      "status": "unavailable",
-      "checkedAt": "2026-11-18T21:27:01.540983+00:00",
+      "sourceUrl": "https://www.hillsdalecounty.gov/",
+      "status": "reachable",
+      "checkedAt": "2026-11-19T08:50:02.233999+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
       "changeKind": "none",
       "lastChanged": null,
-      "note": "Connection/timeout: The read operation timed out"
+      "note": "Public page responds; no qualifying 2026 result links exposed",
+      "inspectedUrl": "https://www.hillsdalecounty.gov/",
+      "fingerprint": "0d6a2d6155e7cb95e595"
     },
     "Houghton": {
       "county": "Houghton",
       "sourceUrl": "https://www.houghtoncounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.582877+00:00",
+      "checkedAt": "2026-11-19T08:50:02.288861+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -461,7 +464,7 @@
       "county": "Huron",
       "sourceUrl": "https://www.co.huron.mi.us",
       "status": "indeterminate",
-      "checkedAt": "2026-11-18T21:27:01.602451+00:00",
+      "checkedAt": "2026-11-19T08:50:02.289747+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -473,7 +476,7 @@
       "county": "Ingham",
       "sourceUrl": "https://clerk.ingham.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.705307+00:00",
+      "checkedAt": "2026-11-19T08:50:02.393510+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -487,7 +490,7 @@
       "county": "Ionia",
       "sourceUrl": "https://ioniacounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.707850+00:00",
+      "checkedAt": "2026-11-19T08:50:02.441706+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -501,7 +504,7 @@
       "county": "Iosco",
       "sourceUrl": "https://iosco.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.798175+00:00",
+      "checkedAt": "2026-11-19T08:50:02.524884+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -515,7 +518,7 @@
       "county": "Iron",
       "sourceUrl": "https://ironmi.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.841076+00:00",
+      "checkedAt": "2026-11-19T08:50:02.599819+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -529,7 +532,7 @@
       "county": "Isabella",
       "sourceUrl": "https://www.isabellacounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.881582+00:00",
+      "checkedAt": "2026-11-19T08:50:02.843437+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -537,13 +540,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.isabellacounty.org/",
-      "fingerprint": "ac494b577ac1f0f8d986"
+      "fingerprint": "c96c25973daf190f5811"
     },
     "Jackson": {
       "county": "Jackson",
       "sourceUrl": "https://www.co.jackson.mi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:01.893968+00:00",
+      "checkedAt": "2026-11-19T08:50:02.940012+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -557,7 +560,7 @@
       "county": "Kalamazoo",
       "sourceUrl": "https://www.kalcounty.gov",
       "status": "indeterminate",
-      "checkedAt": "2026-11-18T21:27:02.148269+00:00",
+      "checkedAt": "2026-11-19T08:50:02.981973+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -569,7 +572,7 @@
       "county": "Kalkaska",
       "sourceUrl": "https://www.kalkaskacounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.180777+00:00",
+      "checkedAt": "2026-11-19T08:50:03.052502+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -583,7 +586,7 @@
       "county": "Kent",
       "sourceUrl": "https://app.enhancedvoting.com/results/public/kent-county-mi/elections/11032026_20261005115447",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.199013+00:00",
+      "checkedAt": "2026-11-19T08:50:03.053176+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -597,7 +600,7 @@
       "county": "Keweenaw",
       "sourceUrl": "https://keweenawcountyonline.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.229573+00:00",
+      "checkedAt": "2026-11-19T08:50:03.131922+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -605,13 +608,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://keweenawcountyonline.org/",
-      "fingerprint": "c06a4cc7812afd0af0e2"
+      "fingerprint": "c4decd564219d0b34122"
     },
     "Lake": {
       "county": "Lake",
       "sourceUrl": "https://lakecountymi.gov/clerk/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.250196+00:00",
+      "checkedAt": "2026-11-19T08:50:03.141681+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -625,7 +628,7 @@
       "county": "Lapeer",
       "sourceUrl": "https://www.lapeercountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.275990+00:00",
+      "checkedAt": "2026-11-19T08:50:03.180455+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -639,26 +642,119 @@
       "county": "Leelanau",
       "sourceUrl": "https://www.leelanau.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.313922+00:00",
+      "checkedAt": "2026-11-19T08:50:03.218001+00:00",
       "reportLinks": [
         {
-          "title": "November 03 November 3, 2026 - General Election - Unofficial Results",
-          "url": "https://www.leelanau.gov/news_detail_T5_R192.php"
+          "title": "Official November 3, 2009 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11032009_november_election_totals_2.pdf?t=202412050235280"
+        },
+        {
+          "title": "Official November 6, 2007, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11062007_november_election_totals.pdf?t=202412050237180"
+        },
+        {
+          "title": "Official November 8, 2011, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11082011_electionresults_final.pdf?t=202412050231040"
+        },
+        {
+          "title": "Official November 5, 2019 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11_5.pdf?t=202412050243580"
+        },
+        {
+          "title": "Official November 2, 2010, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2010_general_election_totals.pdf?t=202412050234150"
+        },
+        {
+          "title": "Official November 6, 2012 General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2012_november_election_results_gems.pdf?t=202412050240560"
+        },
+        {
+          "title": "Official November 4 2014, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2014_general_election_totals_final.pdf?t=202412050227200"
+        },
+        {
+          "title": "Official August 9, 2017, Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/august_2017_election_results_for_web_page_1.pdf?t=202412050240310"
+        },
+        {
+          "title": "Official November 5, 2013, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/certified_official_results_110513_landscape.pdf?t=202412050228240"
+        },
+        {
+          "title": "Official August 7, 2012, County Treasurer Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/county_treas_recount_results.pdf?t=202412050230100"
+        },
+        {
+          "title": "Official August 7, 2012, Empire Township Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/empire_twp_recount_results.pdf?t=202412050229470"
+        },
+        {
+          "title": "Official November 8, 2016, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/november_2016_results_by_precinct.pdf?t=202412050239430"
         }
       ],
-      "newLinks": [],
-      "changed": false,
-      "changeKind": "none",
-      "lastChanged": "2026-11-03T22:50:34.463615+00:00",
+      "newLinks": [
+        {
+          "title": "Official November 3, 2009 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11032009_november_election_totals_2.pdf?t=202412050235280"
+        },
+        {
+          "title": "Official November 6, 2007, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11062007_november_election_totals.pdf?t=202412050237180"
+        },
+        {
+          "title": "Official November 8, 2011, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11082011_electionresults_final.pdf?t=202412050231040"
+        },
+        {
+          "title": "Official November 5, 2019 Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/11_5.pdf?t=202412050243580"
+        },
+        {
+          "title": "Official November 2, 2010, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2010_general_election_totals.pdf?t=202412050234150"
+        },
+        {
+          "title": "Official November 6, 2012 General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2012_november_election_results_gems.pdf?t=202412050240560"
+        },
+        {
+          "title": "Official November 4 2014, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/2014_general_election_totals_final.pdf?t=202412050227200"
+        },
+        {
+          "title": "Official August 9, 2017, Special Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/august_2017_election_results_for_web_page_1.pdf?t=202412050240310"
+        },
+        {
+          "title": "Official November 5, 2013, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/certified_official_results_110513_landscape.pdf?t=202412050228240"
+        },
+        {
+          "title": "Official August 7, 2012, County Treasurer Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/county_treas_recount_results.pdf?t=202412050230100"
+        },
+        {
+          "title": "Official August 7, 2012, Empire Township Recount",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/empire_twp_recount_results.pdf?t=202412050229470"
+        },
+        {
+          "title": "Official November 8, 2016, General Election",
+          "url": "https://www.leelanau.gov/Documents/Department/Clerk/Election Results/november_2016_results_by_precinct.pdf?t=202412050239430"
+        }
+      ],
+      "changed": true,
+      "changeKind": "new_result_links",
+      "lastChanged": "2026-11-19T08:50:03.218001+00:00",
       "note": "2026 result links discovered; vote totals unverified",
-      "inspectedUrl": "https://www.leelanau.gov/",
-      "fingerprint": "3c6061d1fd326a6f5f38"
+      "inspectedUrl": "https://www.leelanau.gov/departments/clerk/election_results.php",
+      "fingerprint": "acba592e4113dc9501d5"
     },
     "Lenawee": {
       "county": "Lenawee",
       "sourceUrl": "https://www.electionlenawee.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.314689+00:00",
+      "checkedAt": "2026-11-19T08:50:03.255520+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -672,7 +768,7 @@
       "county": "Livingston",
       "sourceUrl": "https://milivcounty.gov/elections/election-results/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.469365+00:00",
+      "checkedAt": "2026-11-19T08:50:03.317521+00:00",
       "reportLinks": [
         {
           "title": "Statement of Votes Cast Report",
@@ -682,16 +778,16 @@
       "newLinks": [],
       "changed": true,
       "changeKind": "page_modified",
-      "lastChanged": "2026-11-18T21:27:02.469365+00:00",
+      "lastChanged": "2026-11-19T08:50:03.317521+00:00",
       "note": "2026 result links discovered; vote totals unverified",
       "inspectedUrl": "https://milivcounty.gov/elections/election-results/",
-      "fingerprint": "d3d0d4c83e1e145efc48"
+      "fingerprint": "1ebf4ee2e0b8ea8d0e11"
     },
     "Luce": {
       "county": "Luce",
       "sourceUrl": "https://www.lucecountymi.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.500710+00:00",
+      "checkedAt": "2026-11-19T08:50:03.523490+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -705,7 +801,7 @@
       "county": "Mackinac",
       "sourceUrl": "https://www.mackinaccounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.528517+00:00",
+      "checkedAt": "2026-11-19T08:50:03.612319+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -719,7 +815,7 @@
       "county": "Macomb",
       "sourceUrl": "https://www.macombgov.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.554084+00:00",
+      "checkedAt": "2026-11-19T08:50:03.619594+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -733,7 +829,7 @@
       "county": "Manistee",
       "sourceUrl": "https://www.manisteecountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.615786+00:00",
+      "checkedAt": "2026-11-19T08:50:03.689069+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -747,7 +843,7 @@
       "county": "Marquette",
       "sourceUrl": "https://www.co.marquette.mi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.682050+00:00",
+      "checkedAt": "2026-11-19T08:50:03.754498+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -761,7 +857,7 @@
       "county": "Mason",
       "sourceUrl": "https://www.masoncounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.759772+00:00",
+      "checkedAt": "2026-11-19T08:50:03.805456+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -769,13 +865,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.masoncounty.net/",
-      "fingerprint": "f6112e0d578f9b4c1150"
+      "fingerprint": "77cfda4f9bf86f624e04"
     },
     "Mecosta": {
       "county": "Mecosta",
       "sourceUrl": "https://www.mecostacounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.795081+00:00",
+      "checkedAt": "2026-11-19T08:50:03.853171+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -789,7 +885,7 @@
       "county": "Menominee",
       "sourceUrl": "https://www.menomineecounty.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.848016+00:00",
+      "checkedAt": "2026-11-19T08:50:03.864879+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -803,7 +899,7 @@
       "county": "Midland",
       "sourceUrl": "https://midlandcountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:02.992850+00:00",
+      "checkedAt": "2026-11-19T08:50:03.878151+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -811,13 +907,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://midlandcountymi.gov/",
-      "fingerprint": "552a00e02bdfbc8bb9f8"
+      "fingerprint": "c913b8475e574d8415ea"
     },
     "Missaukee": {
       "county": "Missaukee",
       "sourceUrl": "https://www.missaukee.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.009955+00:00",
+      "checkedAt": "2026-11-19T08:50:03.891902+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -831,7 +927,7 @@
       "county": "Monroe",
       "sourceUrl": "https://www.co.monroe.mi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.161928+00:00",
+      "checkedAt": "2026-11-19T08:50:04.029194+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -839,13 +935,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.co.monroe.mi.us/",
-      "fingerprint": "91c427be72d8455efd44"
+      "fingerprint": "996f47bc05bf3822cfa0"
     },
     "Montcalm": {
       "county": "Montcalm",
       "sourceUrl": "https://www.montcalm.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.202858+00:00",
+      "checkedAt": "2026-11-19T08:50:04.031563+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -859,7 +955,7 @@
       "county": "Montmorency",
       "sourceUrl": "https://www.montcounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.217382+00:00",
+      "checkedAt": "2026-11-19T08:50:04.081415+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -873,7 +969,7 @@
       "county": "Muskegon",
       "sourceUrl": "https://co.muskegon.mi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.241517+00:00",
+      "checkedAt": "2026-11-19T08:50:04.156731+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -887,7 +983,7 @@
       "county": "Newaygo",
       "sourceUrl": "https://www.newaygocountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.256737+00:00",
+      "checkedAt": "2026-11-19T08:50:04.169137+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -901,7 +997,7 @@
       "county": "Oakland",
       "sourceUrl": "https://elections.oaklandcountymi.gov/government/clerk-register-of-deeds/elections-voting",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.322817+00:00",
+      "checkedAt": "2026-11-19T08:50:04.229468+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -915,7 +1011,7 @@
       "county": "Oceana",
       "sourceUrl": "https://oceana.mi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.360261+00:00",
+      "checkedAt": "2026-11-19T08:50:04.246036+00:00",
       "reportLinks": [
         {
           "title": "Official Statement of Votes Cast – November 3, 2026",
@@ -925,16 +1021,16 @@
       "newLinks": [],
       "changed": true,
       "changeKind": "page_modified",
-      "lastChanged": "2026-11-18T21:27:03.360261+00:00",
+      "lastChanged": "2026-11-19T08:50:04.246036+00:00",
       "note": "2026 result links discovered; vote totals unverified",
       "inspectedUrl": "https://oceana.mi.us/departments/county-clerk/elections/election-results/",
-      "fingerprint": "cad639ba4614360be3ba"
+      "fingerprint": "8f3e74ddae07c74e8016"
     },
     "Ogemaw": {
       "county": "Ogemaw",
       "sourceUrl": "https://www.ocmi.us/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.548551+00:00",
+      "checkedAt": "2026-11-19T08:50:04.298999+00:00",
       "reportLinks": [
         {
           "title": "November 3, 2026 Election Results",
@@ -953,7 +1049,7 @@
       "county": "Ontonagon",
       "sourceUrl": "https://ontonagoncounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.585040+00:00",
+      "checkedAt": "2026-11-19T08:50:04.314193+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -967,7 +1063,7 @@
       "county": "Osceola",
       "sourceUrl": "https://www.osceola-county.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.626796+00:00",
+      "checkedAt": "2026-11-19T08:50:04.354256+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -981,7 +1077,7 @@
       "county": "Oscoda",
       "sourceUrl": "https://www.oscodacountymi.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.655252+00:00",
+      "checkedAt": "2026-11-19T08:50:04.505935+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -995,7 +1091,7 @@
       "county": "Otsego",
       "sourceUrl": "https://www.otsegocountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.682082+00:00",
+      "checkedAt": "2026-11-19T08:50:04.524371+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1003,13 +1099,13 @@
       "lastChanged": null,
       "note": "Public page responds; no qualifying 2026 result links exposed",
       "inspectedUrl": "https://www.otsegocountymi.gov/",
-      "fingerprint": "6633a0550ce8a1eeb274"
+      "fingerprint": "401d1d5f4fc6d888e16b"
     },
     "Ottawa": {
       "county": "Ottawa",
       "sourceUrl": "https://miottawa.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.710044+00:00",
+      "checkedAt": "2026-11-19T08:50:04.563934+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1023,7 +1119,7 @@
       "county": "Presque Isle",
       "sourceUrl": "https://presqueislecounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.810088+00:00",
+      "checkedAt": "2026-11-19T08:50:04.578967+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1037,7 +1133,7 @@
       "county": "Roscommon",
       "sourceUrl": "https://www.roscommoncounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:03.908644+00:00",
+      "checkedAt": "2026-11-19T08:50:04.621733+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1051,7 +1147,7 @@
       "county": "Saginaw",
       "sourceUrl": "https://www.saginawcounty.com/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.038447+00:00",
+      "checkedAt": "2026-11-19T08:50:04.713286+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1065,7 +1161,7 @@
       "county": "Sanilac",
       "sourceUrl": "https://www.sanilaccounty.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.093514+00:00",
+      "checkedAt": "2026-11-19T08:50:04.751890+00:00",
       "reportLinks": [
         {
           "title": "Election Results Learn More",
@@ -1084,7 +1180,7 @@
       "county": "Schoolcraft",
       "sourceUrl": "https://www.schoolcraftcounty.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.127959+00:00",
+      "checkedAt": "2026-11-19T08:50:04.796853+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1098,7 +1194,7 @@
       "county": "Shiawassee",
       "sourceUrl": "https://shiawassee.net/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.259357+00:00",
+      "checkedAt": "2026-11-19T08:50:04.827797+00:00",
       "reportLinks": [
         {
           "title": "November 2026 Statement of Votes Cast",
@@ -1117,7 +1213,7 @@
       "county": "St. Clair",
       "sourceUrl": "https://stclaircountyclerk.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.377190+00:00",
+      "checkedAt": "2026-11-19T08:50:04.938449+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1131,7 +1227,7 @@
       "county": "St. Joseph",
       "sourceUrl": "https://stjosephcountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.453859+00:00",
+      "checkedAt": "2026-11-19T08:50:05.023995+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1145,7 +1241,7 @@
       "county": "Tuscola",
       "sourceUrl": "https://www.tuscolacounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.512602+00:00",
+      "checkedAt": "2026-11-19T08:50:05.061540+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1159,7 +1255,7 @@
       "county": "Van Buren",
       "sourceUrl": "https://www.vanburencountymi.gov/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.591199+00:00",
+      "checkedAt": "2026-11-19T08:50:05.072462+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1173,7 +1269,7 @@
       "county": "Washtenaw",
       "sourceUrl": "https://www.washtenaw.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.716484+00:00",
+      "checkedAt": "2026-11-19T08:50:05.099069+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1187,7 +1283,7 @@
       "county": "Wayne",
       "sourceUrl": "https://www.waynecounty.com/elected/clerk/election-results.aspx",
       "status": "unavailable",
-      "checkedAt": "2026-11-18T21:27:04.798794+00:00",
+      "checkedAt": "2026-11-19T08:50:05.181877+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
@@ -1199,7 +1295,7 @@
       "county": "Wexford",
       "sourceUrl": "https://wexfordcounty.org/",
       "status": "reachable",
-      "checkedAt": "2026-11-18T21:27:04.813131+00:00",
+      "checkedAt": "2026-11-19T08:50:05.216877+00:00",
       "reportLinks": [],
       "newLinks": [],
       "changed": false,
