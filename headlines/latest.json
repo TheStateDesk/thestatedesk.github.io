@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T08:22:26.806062Z",
+  "generated_at": "2026-11-20T17:11:26.666332Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,102 +14,79 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "DOJ looks to dismiss Alaska Senate lawsuit",
-      "url": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T03:25:33Z",
+      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-news-conference-after-meeting-with-xi-putin",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T16:59:58Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates"
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "California attorney general issues subpoena to Nvidia over chip sales to China",
-      "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/",
+      "title": "Russia ‘comfortable’ with NATO-style security guarantee for Ukraine, Kushner says",
+      "url": "https://thehill.com/policy/international/6233333-russia-open-ukraine-defense-pact/",
       "source": "THE HILL",
-      "published_at": "2026-11-20T01:05:38Z",
-      "source_count": 2,
+      "published_at": "2026-11-20T16:41:41Z",
+      "source_count": 3,
       "other_sources": [
         {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamN2T09McmJvdzlKWjl1YkJvNmxtZHJRbGJuXzRqeUtjQnQ2R0M2eXVFcTBhcGNiM0tQaTRoZ3ctb1pUdkFFVjFoSzBGcEJvRnZXMXA5X1RMc1NhZ0NsYzk5OFlGOTZkNzBmRTRyM0pXUVZBV3hIQmFKak04V0ZoQUtxSjdpb2NfTDhXWHNfYUMzeG5IVWdMQm42UXJtdUZoV0FXcGZZSTk1Qk45d185UldTWlpYUTdsVkNV?oc=5"
+        },
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/russia-ukraine-war-kerch-bridge-putin-crimea-7b4a86809dcd466bba97d374045a1a78?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Hackers access financial data of more than 4,000 retired NYC government workers: Report",
-      "url": "https://thehill.com/homenews/state-watch/6232046-nyc-retirees-data-breach-report/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T00:55:08Z",
+      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T15:09:09Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWRPejl6dU81Ty1UaWYxU1h1MUowcElUOHdPM1Q0TE9XNENtRldiSGpTMVgxWVVSdVVuT2hBTXJDd19FREF0akZaMEx3NWVvbmhKUVMtUFdNWTBUbThDc1QxaDljeGlxalp2cy0xelkzM0R2Nl9FN0pmX3p3VjM3R0Rfb3Z5NGZCSDJtQ1ZGbUdSSGxWVDVQd2pXalRvSnlOazVvc1BYSGlBT0FGT0hRbXdHcDVSVXFTamhz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWNIMlNjd1I2dzg4R0JUc2Jzb29wWElMQUJpZjhpR0NKeVVYWVJCX0xtNWEyRnVPelpSUC00Uk12aDZZQ3h2T0JKMkNMV3lyQTVoMjBIS040RDRremdwUjhRRGYyUS0ybG90ZS00bks1ckZYeDFDR3NlNGRHWkpaZVBjdTVjR2x0ZlFJbF9GR3ZnTWMtdi1fV19zZ3pDbmRqLW5NTENHVGljVHpZdFUwWWxTUnhCb0htWU9WNVA0dw?oc=5"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Trump pardons late baseball legend Pete Rose for tax crimes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWtxLS1DSjFZWG9vY2RMSDE2QkMyZ0ZDVk5tbi0xYTRRbUlSZE44Z1VwYWtVTXM5V1FIT1Q3QXJiQ2ZrOVpudjlGcy1qa1BMSHdubmpDNnh0aWtySTZReEcwbUYwSl9DOHJhcjRPZmc3UzIwVFI5ZVNLMzAyeGs0MGJPQWhvU2hTRWxQZGVyTFlTRzNiMXJ5NzlPMG53WVU?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T23:57:00Z",
-      "source_count": 3,
+      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T14:22:40Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-certification-justice-department-8b47f0b452442933bdc2bda9cbc6d915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
+      "url": "https://apnews.com/article/pete-rose-pardon-trump-baseball-14f398d4c657ccf55cb8a77cc7e60915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-19T23:54:54Z",
+      "source_count": 2,
       "other_sources": [
         {
           "source": "BBC NEWS",
           "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/policy/sports-gaming/6231706-trump-posthumously-pardons-pete-rose/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "3 takeaways from Trump, Xi and Putin's historic summit",
-      "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-19T22:58:31Z",
-      "source_count": 3,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-xi-putin-china-apec-25e17ec8d9c55fbff960d5631eaba71d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        },
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6231008-trump-xi-putin-summit-takeaways/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Backing Trump, US Senate Republicans block Iran war resolution - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T19:51:00Z",
-      "source_count": 3,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/"
-        },
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-for-legislative-business-as-trump-returns-from-putin-xi-talks-in-china"
         }
       ],
       "priority_score": 5,
@@ -118,148 +95,148 @@
   ],
   "headlines": [
     {
-      "title": "Trump's personalized diplomacy hits its limits with 3-way summit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T06:03:00Z"
+      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "source": "NPR",
+      "published_at": "2026-11-20T17:00:00Z"
     },
     {
-      "title": "Could Pete Buttigieg be the first gay US president? – podcast",
-      "url": "https://www.theguardian.com/politics/audio/2026/nov/20/could-pete-buttigieg-first-gay-us-president-podcast",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T05:00:22Z"
-    },
-    {
-      "title": "Melania Trump marks world premiere of Prime Video docuseries",
-      "url": "https://thehill.com/blogs/in-the-know/6232403-melania-trump-prime-video-series/",
+      "title": "Democrats must tackle affordability without breaking the budget",
+      "url": "https://thehill.com/opinion/congress-blog/economy-budget/6231213-democrats-congress-strategy-2028/",
       "source": "THE HILL",
-      "published_at": "2026-11-20T04:23:02Z"
+      "published_at": "2026-11-20T17:00:00Z"
     },
     {
-      "title": "DOJ looks to dismiss Alaska Senate lawsuit",
-      "url": "https://thehill.com/regulation/court-battles/6232324-doj-seeks-alaska-senate-lawsuit-dismissal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T03:25:33Z"
-    },
-    {
-      "title": "US Senate passes bipartisan bill to speed energy, infrastructure projects - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWNIMlNjd1I2dzg4R0JUc2Jzb29wWElMQUJpZjhpR0NKeVVYWVJCX0xtNWEyRnVPelpSUC00Uk12aDZZQ3h2T0JKMkNMV3lyQTVoMjBIS040RDRremdwUjhRRGYyUS0ybG90ZS00bks1ckZYeDFDR3NlNGRHWkpaZVBjdTVjR2x0ZlFJbF9GR3ZnTWMtdi1fV19zZ3pDbmRqLW5NTENHVGljVHpZdFUwWWxTUnhCb0htWU9WNVA0dw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T03:17:00Z"
-    },
-    {
-      "title": "Senate approves key permitting reform bill, sends to House",
-      "url": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T03:09:11Z"
-    },
-    {
-      "title": "Government urges Sandpapergate forum transparency as Cricket Australia faces backlash - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkc1cV9DODNCdUk1RUQ3cVFvSnYxVEkxbUljTDBiYTZabFFXRHdJNlJiNjQ2R3R2MTlVOVg0N1U1UXVtSm5sM3NmV3Y3Vk1jODU1aTZFQVBRM2hGbTVheXpubmk0dm1YRW1ZanY1UUItVExMUnJwazBtWWlnV0F3QjdxQ1FRY3NUZUJ3VFhXcjV1N3dVNkZsbHUxb2prMDNEb1pXeC1hOFUyME1rVy12RUFkRmVpSDBIVHFObmg1ZWU2dw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T02:59:00Z"
-    },
-    {
-      "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T02:58:52Z"
-    },
-    {
-      "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
-      "url": "https://apnews.com/article/russia-ukraine-war-kerch-bridge-putin-crimea-7b4a86809dcd466bba97d374045a1a78?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-20T02:49:19Z"
-    },
-    {
-      "title": "Trump’s CISA nominee ducks questions on 2020 election results, Jan. 6 Capitol attack",
-      "url": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T02:29:35Z"
-    },
-    {
-      "title": "White House cyber director ousted after US hit by wave of tech outages",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T01:25:05Z"
-    },
-    {
-      "title": "California attorney general issues subpoena to Nvidia over chip sales to China",
-      "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T01:05:38Z"
-    },
-    {
-      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's US Senate race",
-      "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-certification-justice-department-8b47f0b452442933bdc2bda9cbc6d915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-20T00:56:00Z"
-    },
-    {
-      "title": "Hackers access financial data of more than 4,000 retired NYC government workers: Report",
-      "url": "https://thehill.com/homenews/state-watch/6232046-nyc-retirees-data-breach-report/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T00:55:08Z"
-    },
-    {
-      "title": "US sanctions Australian Comanchero motorcycle gang over drug trafficking links - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXBGcGpNWmJIWXMxTkNBUm0zanFzWWxJQ1dMNlRxVmJmaDNUOUYyTzNFb3p5bWNtU3laejFUcDFWWFN5QzdmdTItcG11cmFKSHcyYWlHajlma0haRVpETE1fUHhLYzVNN2ZUUUdUdzNIQmswd2xqWklGUkp5V3E3OEhaNWdya0tmMGtmVDNqd3A4cVVVQjZLYnlMSXVOdkxzeFBQZDBRQzIwZUNZMF94VEF4T2JhQ0F2R1Frc1hRSlY2MnVTZlEtMWVpSQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T00:45:00Z"
-    },
-    {
-      "title": "Trump pardons late baseball legend Pete Rose for tax crimes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWtxLS1DSjFZWG9vY2RMSDE2QkMyZ0ZDVk5tbi0xYTRRbUlSZE44Z1VwYWtVTXM5V1FIT1Q3QXJiQ2ZrOVpudjlGcy1qa1BMSHdubmpDNnh0aWtySTZReEcwbUYwSl9DOHJhcjRPZmc3UzIwVFI5ZVNLMzAyeGs0MGJPQWhvU2hTRWxQZGVyTFlTRzNiMXJ5NzlPMG53WVU?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T23:57:00Z"
-    },
-    {
-      "title": "White House lets go of national cyber director, names acting replacement",
-      "url": "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T23:56:47Z"
-    },
-    {
-      "title": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
-      "url": "https://apnews.com/article/pete-rose-pardon-trump-baseball-14f398d4c657ccf55cb8a77cc7e60915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-19T23:54:54Z"
-    },
-    {
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-19T23:51:50Z"
-    },
-    {
-      "title": "Intoxicating hemp could snarl government funding",
-      "url": "https://thehill.com/newsletters/healthcare/6231992-intoxicating-hemp-could-snarl-government-funding/",
-      "source": "THE HILL",
-      "published_at": "2026-11-19T23:42:08Z"
-    },
-    {
-      "title": "Tennessee Democrat describes how she won a Trump district with almost no ad money",
-      "url": "https://www.pbs.org/newshour/show/tennessee-democrat-describes-how-she-won-a-trump-district-with-almost-no-ad-money",
+      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-news-conference-after-meeting-with-xi-putin",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-19T23:30:05Z"
+      "published_at": "2026-11-20T16:59:58Z"
     },
     {
-      "title": "California targets Nvidia in China AI chip probe",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-19T23:04:30Z"
+      "title": "Second federal judge blocks construction of Trump’s triumphal arch project – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T16:56:10Z"
     },
     {
-      "title": "Canada sees little US movement on tariff relief, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNl8xcFNUUzg5MHNEdmx3QmtiV2hJRXhEVW9ETVVSYnBJTFFDLXcxOEgyVUJWdUVsOXk4S0JKaDRoN1BIQk15UzBBWjdrQ3EzWi1BV2VLRHdCX1Rvdm9hRHg2VWRvNDF0QmpvaF9WZzFrS2VFMXY3VXgxNHpzYjA3cGF1QzRHd2RGNjlmZ285eHZHNUM3S2FIUnF6R2cycnVCbzdqZWRvbWJ6ZzlYR2IwNGdR?oc=5",
+      "title": "Live updates: Trump briefs reporters on China summit; GOP at odds over reconciliation",
+      "url": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T16:50:00Z"
+    },
+    {
+      "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T16:46:05Z"
+    },
+    {
+      "title": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
+      "url": "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T16:44:13Z"
+    },
+    {
+      "title": "Russia ‘comfortable’ with NATO-style security guarantee for Ukraine, Kushner says",
+      "url": "https://thehill.com/policy/international/6233333-russia-open-ukraine-defense-pact/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T16:41:41Z"
+    },
+    {
+      "title": "Bessent says Jensen Huang did not come up during China discussions",
+      "url": "https://thehill.com/policy/technology/6233257-bessent-denies-huang-apec-talks/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T16:39:30Z"
+    },
+    {
+      "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T16:32:32Z"
+    },
+    {
+      "title": "Stock investors are giving up on China",
+      "url": "https://thehill.com/opinion/international/6231063-xi-economic-plans-failing/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T16:30:00Z"
+    },
+    {
+      "title": "Top Democrat warns US law enforcement agencies to save records, including on apps - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeml6ano3N3dZMGMxMkhmYzRBZTIybDZKQUh5aU5LX2dySkRHSTRoSkdBTTRPdGk5M0lwV3RmNWVEQTRxNTBSMTVtSXZvakZJQmh6WW1VZ2Zfd3ZrNUU4V1dkZnB3ZS1pYlBYZk40bGhnOG9vRGJ3VXJSbk93ckJ2Q2lYTXRlaS1lMVZTallRUE9hcnJPV3kzV1RwT002QzdSZUJpVWNFWi10dm55SWVsbVhieW4yWThzMVFPbS1KNnFsMFp1c0E?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-19T23:02:16Z"
+      "published_at": "2026-11-20T16:21:00Z"
     },
     {
-      "title": "3 takeaways from Trump, Xi and Putin's historic summit",
-      "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+      "title": "Johnson urges GOP members to show up and vote",
+      "url": "https://thehill.com/homenews/house/6233228-mike-johnson-urges-gop-attendance/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T15:58:33Z"
+    },
+    {
+      "title": "Zinke says Republicans ‘moving on’ from Trump",
+      "url": "https://thehill.com/homenews/house/6233182-zinke-says-gop-distancing-trump-midterms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T15:55:32Z"
+    },
+    {
+      "title": "Justice Department clears NextEra-Dominion merger",
+      "url": "https://thehill.com/policy/energy-environment/6233084-doj-approves-nextera-dominion-merger/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T15:34:35Z"
+    },
+    {
+      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T15:09:09Z"
+    },
+    {
+      "title": "Trump to hold press conference after meeting with Xi and Putin",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "source": "NPR",
+      "published_at": "2026-11-20T15:00:00Z"
+    },
+    {
+      "title": "Bolton: ‘No substance’ to Trump meeting with Putin, Xi",
+      "url": "https://thehill.com/policy/international/6232720-john-bolton-trump-putin-xi-trilateral-meeting/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T14:47:58Z"
+    },
+    {
+      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-19T22:58:31Z"
+      "published_at": "2026-11-20T14:22:40Z"
+    },
+    {
+      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T14:00:31Z"
+    },
+    {
+      "title": "Estonia to close border with Russia, Moscow decries 'new Iron Curtain' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeU5KSE9iVEk1aUVlNnFFVVpfVzh6NVBKVUk2RDQyczI3dE9FQVRSNHRNZzVMYldHOERSZXNOeTlzUktYNXFhMWp3ZWhndlpJb1N1Q0hCVHNnbm9MdUh6NUE4SHpCTUU0YkN6eVN5ZWJaNG5mLWdzQnA2OTR5Z0hUREtlSUhQWHZHaDN6U3A3N3FRUWVJblE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T13:51:42Z"
+    },
+    {
+      "title": "Massie says GOP ‘already in a minority’ due to absences",
+      "url": "https://thehill.com/homenews/house/6232617-thomas-massie-gop-absenses-minority-lame-duck-session/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T13:48:00Z"
+    },
+    {
+      "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+      "url": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T13:43:58Z"
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-20T13:28:32Z"
     }
   ]
 }
