@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T17:11:26.666332Z",
+  "generated_at": "2026-11-20T23:18:19.117582Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,15 +14,64 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-news-conference-after-meeting-with-xi-putin",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T16:59:58Z",
+      "title": "Trump says US to penalize firms building data centers abroad - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T21:29:46Z",
       "source_count": 2,
       "other_sources": [
         {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Second federal judge blocks construction of Trump's memorial arch",
+      "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T21:28:49Z",
+      "source_count": 3,
+      "other_sources": [
+        {
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ?oc=5"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
+      "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T20:12:15Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T18:51:09Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/campaign/6232552-lauren-boebert-colorado-loss-donald-trump-policies-midterms/"
         }
       ],
       "priority_score": 5,
@@ -33,60 +82,11 @@
       "url": "https://thehill.com/policy/international/6233333-russia-open-ukraine-defense-pact/",
       "source": "THE HILL",
       "published_at": "2026-11-20T16:41:41Z",
-      "source_count": 3,
+      "source_count": 2,
       "other_sources": [
         {
           "source": "REUTERS VIA GOOGLE NEWS",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamN2T09McmJvdzlKWjl1YkJvNmxtZHJRbGJuXzRqeUtjQnQ2R0M2eXVFcTBhcGNiM0tQaTRoZ3ctb1pUdkFFVjFoSzBGcEJvRnZXMXA5X1RMc1NhZ0NsYzk5OFlGOTZkNzBmRTRyM0pXUVZBV3hIQmFKak04V0ZoQUtxSjdpb2NfTDhXWHNfYUMzeG5IVWdMQm42UXJtdUZoV0FXcGZZSTk1Qk45d185UldTWlpYUTdsVkNV?oc=5"
-        },
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/russia-ukraine-war-kerch-bridge-putin-crimea-7b4a86809dcd466bba97d374045a1a78?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T15:09:09Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWNIMlNjd1I2dzg4R0JUc2Jzb29wWElMQUJpZjhpR0NKeVVYWVJCX0xtNWEyRnVPelpSUC00Uk12aDZZQ3h2T0JKMkNMV3lyQTVoMjBIS040RDRremdwUjhRRGYyUS0ybG90ZS00bks1ckZYeDFDR3NlNGRHWkpaZVBjdTVjR2x0ZlFJbF9GR3ZnTWMtdi1fV19zZ3pDbmRqLW5NTENHVGljVHpZdFUwWWxTUnhCb0htWU9WNVA0dw?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
-      "url": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T14:22:40Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-certification-justice-department-8b47f0b452442933bdc2bda9cbc6d915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB",
-      "url": "https://apnews.com/article/pete-rose-pardon-trump-baseball-14f398d4c657ccf55cb8a77cc7e60915?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-19T23:54:54Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "priority_score": 5,
@@ -95,148 +95,148 @@
   ],
   "headlines": [
     {
-      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-      "source": "NPR",
-      "published_at": "2026-11-20T17:00:00Z"
-    },
-    {
-      "title": "Democrats must tackle affordability without breaking the budget",
-      "url": "https://thehill.com/opinion/congress-blog/economy-budget/6231213-democrats-congress-strategy-2028/",
+      "title": "Senate GOP pushes through Trump judges in preholiday sprint",
+      "url": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
       "source": "THE HILL",
-      "published_at": "2026-11-20T17:00:00Z"
+      "published_at": "2026-11-20T22:17:22Z"
     },
     {
-      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-news-conference-after-meeting-with-xi-putin",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T16:59:58Z"
+      "title": "5 takeaways from Trump’s Friday news conference",
+      "url": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T22:14:58Z"
     },
     {
-      "title": "Second federal judge blocks construction of Trump’s triumphal arch project – live",
+      "title": "Trump shakes up cybersecurity leadership",
+      "url": "https://thehill.com/newsletters/technology/6234571-trump-cairncross-white-house-leadership-shakeup/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T22:14:40Z"
+    },
+    {
+      "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T16:56:10Z"
+      "published_at": "2026-11-20T21:58:50Z"
     },
     {
-      "title": "Live updates: Trump briefs reporters on China summit; GOP at odds over reconciliation",
-      "url": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:50:00Z"
-    },
-    {
-      "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+      "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T16:46:05Z"
+      "published_at": "2026-11-20T21:47:41Z"
     },
     {
-      "title": "Watch live: Trump briefs on Asia trip after Xi, Putin summit",
-      "url": "https://thehill.com/video-clips/6233321-watch-live-donald-trump-press-briefing-asia-trip-putin-xi-meeting/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:44:13Z"
-    },
-    {
-      "title": "Russia ‘comfortable’ with NATO-style security guarantee for Ukraine, Kushner says",
-      "url": "https://thehill.com/policy/international/6233333-russia-open-ukraine-defense-pact/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:41:41Z"
-    },
-    {
-      "title": "Bessent says Jensen Huang did not come up during China discussions",
-      "url": "https://thehill.com/policy/technology/6233257-bessent-denies-huang-apec-talks/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:39:30Z"
-    },
-    {
-      "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T16:32:32Z"
-    },
-    {
-      "title": "Stock investors are giving up on China",
-      "url": "https://thehill.com/opinion/international/6231063-xi-economic-plans-failing/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:30:00Z"
-    },
-    {
-      "title": "Top Democrat warns US law enforcement agencies to save records, including on apps - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeml6ano3N3dZMGMxMkhmYzRBZTIybDZKQUh5aU5LX2dySkRHSTRoSkdBTTRPdGk5M0lwV3RmNWVEQTRxNTBSMTVtSXZvakZJQmh6WW1VZ2Zfd3ZrNUU4V1dkZnB3ZS1pYlBYZk40bGhnOG9vRGJ3VXJSbk93ckJ2Q2lYTXRlaS1lMVZTallRUE9hcnJPV3kzV1RwT002QzdSZUJpVWNFWi10dm55SWVsbVhieW4yWThzMVFPbS1KNnFsMFp1c0E?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T16:21:00Z"
-    },
-    {
-      "title": "Johnson urges GOP members to show up and vote",
-      "url": "https://thehill.com/homenews/house/6233228-mike-johnson-urges-gop-attendance/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T15:58:33Z"
-    },
-    {
-      "title": "Zinke says Republicans ‘moving on’ from Trump",
-      "url": "https://thehill.com/homenews/house/6233182-zinke-says-gop-distancing-trump-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T15:55:32Z"
-    },
-    {
-      "title": "Justice Department clears NextEra-Dominion merger",
-      "url": "https://thehill.com/policy/energy-environment/6233084-doj-approves-nextera-dominion-merger/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T15:34:35Z"
-    },
-    {
-      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T15:09:09Z"
-    },
-    {
-      "title": "Trump to hold press conference after meeting with Xi and Putin",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "title": "The latest from Trump's press conference",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
       "source": "NPR",
-      "published_at": "2026-11-20T15:00:00Z"
+      "published_at": "2026-11-20T21:38:21Z"
     },
     {
-      "title": "Bolton: ‘No substance’ to Trump meeting with Putin, Xi",
-      "url": "https://thehill.com/policy/international/6232720-john-bolton-trump-putin-xi-trilateral-meeting/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T14:47:58Z"
-    },
-    {
-      "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
-      "url": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T14:22:40Z"
-    },
-    {
-      "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T14:00:31Z"
-    },
-    {
-      "title": "Estonia to close border with Russia, Moscow decries 'new Iron Curtain' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeU5KSE9iVEk1aUVlNnFFVVpfVzh6NVBKVUk2RDQyczI3dE9FQVRSNHRNZzVMYldHOERSZXNOeTlzUktYNXFhMWp3ZWhndlpJb1N1Q0hCVHNnbm9MdUh6NUE4SHpCTUU0YkN6eVN5ZWJaNG5mLWdzQnA2OTR5Z0hUREtlSUhQWHZHaDN6U3A3N3FRUWVJblE?oc=5",
+      "title": "Trump says US to penalize firms building data centers abroad - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T13:51:42Z"
+      "published_at": "2026-11-20T21:29:46Z"
     },
     {
-      "title": "Massie says GOP ‘already in a minority’ due to absences",
-      "url": "https://thehill.com/homenews/house/6232617-thomas-massie-gop-absenses-minority-lame-duck-session/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T13:48:00Z"
-    },
-    {
-      "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
-      "url": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans",
+      "title": "Second federal judge blocks construction of Trump's memorial arch",
+      "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T13:43:58Z"
+      "published_at": "2026-11-20T21:28:49Z"
     },
     {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump asks Stephen Miller: ‘Do you want to run for president?’",
+      "url": "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T21:27:23Z"
+    },
+    {
+      "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T21:25:01Z"
+    },
+    {
+      "title": "WATCH: Cascade of tech outages 'separate events' and 'under control,' Trump says",
+      "url": "https://www.pbs.org/newshour/politics/watch-cascade-of-tech-outages-separate-events-and-under-control-trump-says",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T21:13:21Z"
+    },
+    {
+      "title": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T21:04:31Z"
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-20T13:28:32Z"
+      "published_at": "2026-11-20T20:54:12Z"
+    },
+    {
+      "title": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T20:34:56Z"
+    },
+    {
+      "title": "Trump says Democrats facing veto power should work with him - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTZidVEyUUhIRzZyN1F6WFRyUjVPZG52eUk1VTVHNWZ2MUhMVmNoUnEwamZYNFd3ZFpWcDd3R2VHTEFUT0w0ZVdpd29QSElZWlAxQWdfV2g0eGpfS2d4VnZzelhGZnpKSnloVkZ3LV9ISms5SUhQZ3dqYUVIUGRoWUdscWtKc1EwWHpqQUVIcVd6ZDhjelUwZnI2RUttV0lILVNXZVhTWQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T20:32:09Z"
+    },
+    {
+      "title": "French Senate approves police shootings law dubbed 'licence to kill' by critics - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1REWkppS2F2SjhjZkk2S2NYbW5HTkNsenZuaWJTRjQ0dUxXUm1rNkltdzdlM3VTY19yTTJZZjhUODB6T01sdjNNRUVFdTFlNGFLOVpvdF91X2hUU2RaaTFhSFhDdWt6YTZWeWdQUFlxNllYcEE0T2hpWXVnb1p5amxHMmNoUjRaTzZHS0QtVEMzUnJFRU9wNURJWFpnTWVwbnRGbWdFOEY5WVlCRHZYR2QxSk5aa00?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T20:27:05Z"
+    },
+    {
+      "title": "US judge questions Trump administration's policies targeting refugees - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRNV0RoUGFOSGY0U29maHhKUHNGV1ZNQnVkcXBUd2hyRzQ2UFA2UTZ6NVJCeDVKRGZ3a0I0U05ldlNGVUxUR19pODBiZW0yOGtYa2ZXY09MN2RwQ3VmeU9fbmY4S3QyUUcyajVPNFpBd0ZuLVBla0phcUYzNURjZWx0VHl4MFdOV2N4cEd2dktWVGszYzFxd1dXSHlHUi1oRjdLVnVxLXNDYktyXzU4NVdCWElPN1dnQ3pVd0J3?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T20:12:24Z"
+    },
+    {
+      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
+      "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T20:12:15Z"
+    },
+    {
+      "title": "WATCH: 'We will not allow that to happen,' Trump says of reported Iran dirty bomb threat",
+      "url": "https://www.pbs.org/newshour/politics/watch-we-will-not-allow-that-to-happen-trump-says-of-reported-iran-dirty-bomb-threat",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T20:12:12Z"
+    },
+    {
+      "title": "DeSantis calls Supreme Court justices ‘potted plants’",
+      "url": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T20:09:45Z"
+    },
+    {
+      "title": "Senate adopts resolution honoring Fiona the hippo",
+      "url": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T20:08:14Z"
+    },
+    {
+      "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T19:54:57Z"
+    },
+    {
+      "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
+      "url": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T19:34:54Z"
+    },
+    {
+      "title": "Vance deflects on whether Iran war worth political price",
+      "url": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
+      "source": "THE HILL",
+      "published_at": "2026-11-20T19:32:18Z"
     }
   ]
 }
