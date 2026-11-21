@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T04:14:09.394019Z",
+  "generated_at": "2026-11-21T12:56:24.141317Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,49 +14,15 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "Trump says US to penalize firms building data centers abroad - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T21:29:46Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-artificial-intelligence-data-centers-f1ac03b73d13445400eeed8631d9d879?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
       "title": "Second federal judge blocks construction of Trump's memorial arch",
       "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-20T21:28:49Z",
-      "source_count": 3,
-      "other_sources": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
-        },
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
-      "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T20:12:15Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans"
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-arch-virginia-judge-brinkema-f7b9b0a0480481505038d007bf270cd9?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
@@ -65,10 +31,70 @@
   ],
   "headlines": [
     {
+      "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
+      "source": "NPR",
+      "published_at": "2026-11-21T12:40:21Z"
+    },
+    {
+      "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
+      "source": "NPR",
+      "published_at": "2026-11-21T12:40:19Z"
+    },
+    {
+      "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
+      "source": "NPR",
+      "published_at": "2026-11-21T12:40:15Z"
+    },
+    {
+      "title": "This is how badly Trump’s Republican endorsements did in the midterms",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-21T12:00:58Z"
+    },
+    {
+      "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-21T12:00:57Z"
+    },
+    {
+      "title": "Democrats want ‘Medicare for More.’ Then comes the hard part",
+      "url": "https://thehill.com/policy/healthcare/6231776-democrats-expand-medicare-coverage/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T11:00:00Z"
+    },
+    {
+      "title": "Promise Me, America by Joe Biden review – former president defends his decisions",
+      "url": "https://www.theguardian.com/books/2026/nov/21/promise-me-america-joe-biden-memoir-review",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-21T10:00:55Z"
+    },
+    {
+      "title": "As Trump basks in summit pomp, China's Xi strengthens his hand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T09:12:54Z"
+    },
+    {
+      "title": "South Africa's first female deputy president and UN official dies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3BXSGxmTzRxd0JnLXpoYlFyaFl3VDNCeTNXZmxZTGV4VkVoRVdOaEZ0c1p6Si01andkTElkZm5XXzc5cmVCZHQ1VEF1UVJwXzZRdG9GRmU5R3Rwb0xkVFZudERqUTNjUjNRSXpwa2Mxa1lQczFhTlNWbTlMb25lMHRwdmJtQTNDZVowTGNyS3h1SWxVeWF2MzYxTFFoMDY2V21qSVNjQWpLS1pVNUE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T05:44:00Z"
+    },
+    {
       "title": "Democratic Sen.-elect Colom responds to Trump’s praise",
       "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
       "source": "THE HILL",
       "published_at": "2026-11-21T03:09:44Z"
+    },
+    {
+      "title": "Trump orders federal contractors to notify White House before giving Congress information - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEtlOEc3bjUwczg4dUlSVE5PNUpkelhpM2VtR2tCdGo1RHYzR0RzcHNaNElvb2dCUWVCb0pNVDF4Q3JEZ0toaXR2emhDai1nV29jcTZqUlNkaXdXVV9JalVVOW1OOFYzaENITTZZS0M3eTlfTzFTZ25YWFpKaTZReUlLcEVXVG93eWM3X1JPdF9kX2JiWnQtNE9venhxOHNOWUptcUE5S0d5Qm9IOUk5VU1MeXl2dw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T03:00:00Z"
     },
     {
       "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
@@ -95,22 +121,16 @@
       "published_at": "2026-11-21T00:16:26Z"
     },
     {
-      "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-21T00:04:36Z"
-    },
-    {
       "title": "What Trump addressed during his lengthy White House news conference",
       "url": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-20T23:55:30Z"
     },
     {
-      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T23:48:38Z"
+      "title": "US judge rejects Trump administration's homelessness program revamp - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG5VS2kxXzc0eW1zdWNGOXFUY3VrZGJGOWtuXzRZbW54bUVnVnh0UXFUWGpCbmduQW0yQkVIUzZYOERYNXU0d1BjU1R6Rm5SQ0VqUEYwR1BYWVAxMFI0ZEUwTExSbnM2UExXamlVdm4wUXpBdDJBdmg5bllYWkJsUTN4QVNsUm9hbzBhQmV0a3ZJWWpxVkt3cDh2QzFGUXozZzM4SFYzVkZUYnZxbUMxZkxIMlE5eGx5YXgw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T23:54:16Z"
     },
     {
       "title": "US Vice President Vance declines to say he would have ordered Iran strikes - Reuters",
@@ -137,10 +157,10 @@
       "published_at": "2026-11-20T22:42:31Z"
     },
     {
-      "title": "PODCAST: AI selloff, Trump speech, Meta's muse (Updated) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5",
+      "title": "Fresh off China trip, Trump bobs and weaves in freewheeling press conference - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWG5NdVlTX1ppNTh5S3dwUUZPbHUzLWdzYl9YQmNkTlFQODYxbXRrNFhiQzZiUWU1TW5sZ0dLdVFOTlZmNi10UHA3OWxNbXBVajNUM1JSYi1QVXUxbnNWLUhla0staGxiSlMzOE5Ed3NENmtGVU1ZYm1iWWZZTjgtZ1NWYzB1TEg3SE9ubFBtVU1tQTlnSXpXeGM4ckVBN3RpMnhUZVAtZDQxbDlBQ2szR1paRm45dW8?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T22:29:51Z"
+      "published_at": "2026-11-20T22:33:34Z"
     },
     {
       "title": "Senate GOP pushes through Trump judges in preholiday sprint",
@@ -153,60 +173,6 @@
       "url": "https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/",
       "source": "THE HILL",
       "published_at": "2026-11-20T22:14:58Z"
-    },
-    {
-      "title": "Trump shakes up cybersecurity leadership",
-      "url": "https://thehill.com/newsletters/technology/6234571-trump-cairncross-white-house-leadership-shakeup/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T22:14:40Z"
-    },
-    {
-      "title": "As Trump courts Xi and Putin, middle powers make their own moves - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T22:13:39Z"
-    },
-    {
-      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T21:47:41Z"
-    },
-    {
-      "title": "The latest from Trump's press conference",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-      "source": "NPR",
-      "published_at": "2026-11-20T21:38:21Z"
-    },
-    {
-      "title": "Trump says US to penalize firms building data centers abroad - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T21:29:46Z"
-    },
-    {
-      "title": "Second federal judge blocks construction of Trump's memorial arch",
-      "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T21:28:49Z"
-    },
-    {
-      "title": "Trump asks Stephen Miller: ‘Do you want to run for president?’",
-      "url": "https://thehill.com/homenews/administration/6234343-trump-asks-stephen-miller-run-presidency/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T21:27:23Z"
-    },
-    {
-      "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T21:25:01Z"
-    },
-    {
-      "title": "WATCH: Cascade of tech outages 'separate events' and 'under control,' Trump says",
-      "url": "https://www.pbs.org/newshour/politics/watch-cascade-of-tech-outages-separate-events-and-under-control-trump-says",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T21:13:21Z"
     }
   ]
 }
