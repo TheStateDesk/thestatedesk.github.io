@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T23:18:19.117582Z",
+  "generated_at": "2026-11-21T04:14:09.394019Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -61,39 +61,87 @@
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T18:51:09Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/campaign/6232552-lauren-boebert-colorado-loss-donald-trump-policies-midterms/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Russia ‘comfortable’ with NATO-style security guarantee for Ukraine, Kushner says",
-      "url": "https://thehill.com/policy/international/6233333-russia-open-ukraine-defense-pact/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T16:41:41Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamN2T09McmJvdzlKWjl1YkJvNmxtZHJRbGJuXzRqeUtjQnQ2R0M2eXVFcTBhcGNiM0tQaTRoZ3ctb1pUdkFFVjFoSzBGcEJvRnZXMXA5X1RMc1NhZ0NsYzk5OFlGOTZkNzBmRTRyM0pXUVZBV3hIQmFKak04V0ZoQUtxSjdpb2NfTDhXWHNfYUMzeG5IVWdMQm42UXJtdUZoV0FXcGZZSTk1Qk45d185UldTWlpYUTdsVkNV?oc=5"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
+    {
+      "title": "Democratic Sen.-elect Colom responds to Trump’s praise",
+      "url": "https://thehill.com/homenews/campaign/6234930-scott-colom-trump-praise-response/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T03:09:44Z"
+    },
+    {
+      "title": "Former Jackson, Mississippi, mayor sentenced to federal prison for bribery",
+      "url": "https://thehill.com/homenews/state-watch/6234903-jackson-mayor-lumumba-sentenced/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T02:10:18Z"
+    },
+    {
+      "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+      "url": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-21T01:02:08Z"
+    },
+    {
+      "title": "Sotomayor suggests Supreme Court colleagues may applaud midterm results as safeguard",
+      "url": "https://thehill.com/regulation/court-battles/6234774-justice-sotomayor-midterm-safeguards/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T00:27:39Z"
+    },
+    {
+      "title": "Trump turns White House press conference into a 2028 succession audition",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-21T00:16:26Z"
+    },
+    {
+      "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-21T00:04:36Z"
+    },
+    {
+      "title": "What Trump addressed during his lengthy White House news conference",
+      "url": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T23:55:30Z"
+    },
+    {
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-20T23:48:38Z"
+    },
+    {
+      "title": "US Vice President Vance declines to say he would have ordered Iran strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T23:45:19Z"
+    },
+    {
+      "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-summit-with-putin-and-xi",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-20T23:35:27Z"
+    },
+    {
+      "title": "US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T23:29:43Z"
+    },
+    {
+      "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T22:42:31Z"
+    },
+    {
+      "title": "PODCAST: AI selloff, Trump speech, Meta's muse (Updated) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObW5FRmZabmpDZzNyS1BwaUNycnNRXzBhVHlURXQxTk9ocEZ6bnZPRGJuWGdYZTlLWlhHd2JrNU5vandDSF9ZdGpMZG0zWmxYcWJsSWlOQmVoQVZRX2dkNWVQWWUtZldyclZOTHBQZWUwaDNGOGFDNFdSSnpaaDgtTGxvVlZ2WW1WWjVORkl6OFRzNHpUZDY1WGQ2Nm5jUmVzUHh0RDlPQ2tud19CcjdmZDRRMA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T22:29:51Z"
+    },
     {
       "title": "Senate GOP pushes through Trump judges in preholiday sprint",
       "url": "https://thehill.com/homenews/senate/6234572-senate-confirms-trump-judges/",
@@ -113,13 +161,13 @@
       "published_at": "2026-11-20T22:14:40Z"
     },
     {
-      "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-20T21:58:50Z"
+      "title": "As Trump courts Xi and Putin, middle powers make their own moves - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-20T22:13:39Z"
     },
     {
-      "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-20T21:47:41Z"
@@ -159,84 +207,6 @@
       "url": "https://www.pbs.org/newshour/politics/watch-cascade-of-tech-outages-separate-events-and-under-control-trump-says",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-20T21:13:21Z"
-    },
-    {
-      "title": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T21:04:31Z"
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-20T20:54:12Z"
-    },
-    {
-      "title": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T20:34:56Z"
-    },
-    {
-      "title": "Trump says Democrats facing veto power should work with him - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTZidVEyUUhIRzZyN1F6WFRyUjVPZG52eUk1VTVHNWZ2MUhMVmNoUnEwamZYNFd3ZFpWcDd3R2VHTEFUT0w0ZVdpd29QSElZWlAxQWdfV2g0eGpfS2d4VnZzelhGZnpKSnloVkZ3LV9ISms5SUhQZ3dqYUVIUGRoWUdscWtKc1EwWHpqQUVIcVd6ZDhjelUwZnI2RUttV0lILVNXZVhTWQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T20:32:09Z"
-    },
-    {
-      "title": "French Senate approves police shootings law dubbed 'licence to kill' by critics - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa1REWkppS2F2SjhjZkk2S2NYbW5HTkNsenZuaWJTRjQ0dUxXUm1rNkltdzdlM3VTY19yTTJZZjhUODB6T01sdjNNRUVFdTFlNGFLOVpvdF91X2hUU2RaaTFhSFhDdWt6YTZWeWdQUFlxNllYcEE0T2hpWXVnb1p5amxHMmNoUjRaTzZHS0QtVEMzUnJFRU9wNURJWFpnTWVwbnRGbWdFOEY5WVlCRHZYR2QxSk5aa00?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T20:27:05Z"
-    },
-    {
-      "title": "US judge questions Trump administration's policies targeting refugees - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRNV0RoUGFOSGY0U29maHhKUHNGV1ZNQnVkcXBUd2hyRzQ2UFA2UTZ6NVJCeDVKRGZ3a0I0U05ldlNGVUxUR19pODBiZW0yOGtYa2ZXY09MN2RwQ3VmeU9fbmY4S3QyUUcyajVPNFpBd0ZuLVBla0phcUYzNURjZWx0VHl4MFdOV2N4cEd2dktWVGszYzFxd1dXSHlHUi1oRjdLVnVxLXNDYktyXzU4NVdCWElPN1dnQ3pVd0J3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T20:12:24Z"
-    },
-    {
-      "title": "Who is Kirsten Davies, Trump’s new cyber chief?",
-      "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T20:12:15Z"
-    },
-    {
-      "title": "WATCH: 'We will not allow that to happen,' Trump says of reported Iran dirty bomb threat",
-      "url": "https://www.pbs.org/newshour/politics/watch-we-will-not-allow-that-to-happen-trump-says-of-reported-iran-dirty-bomb-threat",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-20T20:12:12Z"
-    },
-    {
-      "title": "DeSantis calls Supreme Court justices ‘potted plants’",
-      "url": "https://thehill.com/homenews/state-watch/6234014-ron-desantis-supreme-court-denial/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T20:09:45Z"
-    },
-    {
-      "title": "Senate adopts resolution honoring Fiona the hippo",
-      "url": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T20:08:14Z"
-    },
-    {
-      "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-20T19:54:57Z"
-    },
-    {
-      "title": "Watch live: Trump, Dana White host helipad reception honoring Marine Band",
-      "url": "https://thehill.com/homenews/administration/6233969-live-dana-white-trump-helipad-reception/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T19:34:54Z"
-    },
-    {
-      "title": "Vance deflects on whether Iran war worth political price",
-      "url": "https://thehill.com/homenews/administration/6233999-vance-iran-war-midterm-elections/",
-      "source": "THE HILL",
-      "published_at": "2026-11-20T19:32:18Z"
     }
   ]
 }
