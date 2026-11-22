@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T20:01:16.718311Z",
+  "generated_at": "2026-11-22T00:15:11.052270Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -16,11 +16,15 @@
   "priority": [
     {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-21T19:29:23Z",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "source": "NPR",
+      "published_at": "2026-11-21T22:40:36Z",
       "source_count": 4,
       "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress"
+        },
         {
           "source": "THE GUARDIAN",
           "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
@@ -28,10 +32,21 @@
         {
           "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
           "url": "https://apnews.com/article/trump-executive-order-congress-oversight-investigation-contractors-9546e1d7acdf3e65b654d1c5162cb0bd?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        },
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+      "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-21T21:20:34Z",
+      "source_count": 2,
+      "other_sources": [
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEtlOEc3bjUwczg4dUlSVE5PNUpkelhpM2VtR2tCdGo1RHYzR0RzcHNaNElvb2dCUWVCb0pNVDF4Q3JEZ0toaXR2emhDai1nV29jcTZqUlNkaXdXVV9JalVVOW1OOFYzaENITTZZS0M3eTlfTzFTZ25YWFpKaTZReUlLcEVXVG93eWM3X1JPdF9kX2JiWnQtNE9venhxOHNOWUptcUE5S0d5Qm9IOUk5VU1MeXl2dw?oc=5"
+          "source": "THE HILL",
+          "url": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/"
         }
       ],
       "priority_score": 5,
@@ -39,6 +54,66 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
+      "url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T23:52:23Z"
+    },
+    {
+      "title": "Sunday shows preview: Trump’s security agenda, House leadership elections take center stage",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T23:06:51Z"
+    },
+    {
+      "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+      "url": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-21T22:52:03Z"
+    },
+    {
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "source": "NPR",
+      "published_at": "2026-11-21T22:40:36Z"
+    },
+    {
+      "title": "Berkshire-owned utility lauds Oregon Supreme Court's expanded review of wildfire lawsuit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0NlUmFqMnhmVkpyWGZoS25Dam1uYjkxeHRjVDVMQmdqalVQYmpid2tjZ1JDLWdUM1FfYzc3cjRnU1VWdEI2WjRJMTZybmYxVEZESl91MTR1aEJCZnE2QzNiMXp6S1VWSFJnZWRhUVlTLTY2a1A0bDZsMnJ4dHNFem0yZm9IY1JmMkRzLTFOSl9vcGR4aVh0bklEUVU3eC1xR2VZd3VPYk9WWVNJMmR2WVE2Mmk5NDNqd1BqcEFrXzJ3SXZKbmx4TA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T22:35:22Z"
+    },
+    {
+      "title": "Trump’s grip on GOP tested as MAGA allies head for exit",
+      "url": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T22:00:00Z"
+    },
+    {
+      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+      "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-21T21:20:34Z"
+    },
+    {
+      "title": "Trump praises Zacharia amid California state bar investigation",
+      "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T21:07:46Z"
+    },
+    {
+      "title": "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
+      "url": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T20:28:45Z"
+    },
+    {
+      "title": "Trump praises Jeffries’s Speakership nod despite Stephen Miller jabs",
+      "url": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/",
+      "source": "THE HILL",
+      "published_at": "2026-11-21T20:16:49Z"
+    },
     {
       "title": "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
       "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
@@ -52,10 +127,28 @@
       "published_at": "2026-11-21T19:29:23Z"
     },
     {
+      "title": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T19:08:10Z"
+    },
+    {
+      "title": "Brazil ex-President Jair Bolsonaro taken to ICU - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRjc0toOVM1UmJiaXJrMTA4MU43ZmY2Yjc1QTlwcTQwUVA3TGZ5MVZuSzNRSmRwR2J3TkVHWWE0OWNlX3lkeU5pQnNQcWk5Q19Ua2k3ME5BalMyMEp1RzUyZ3FQdTFxdDZ1TWJLaVNmcWljSl9qMkVZaHdXbFhsUEk0OVJ5OVI5eUVVMm5haW5qanpUdW8yZDN5cw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T19:03:10Z"
+    },
+    {
       "title": "Canada defense minister sees no shift in US military ties - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-21T19:02:37Z"
+    },
+    {
+      "title": "Trump says he will consider championing Barry Bonds' Hall of Fame candidacy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdsdXlwb0VqWGxpRW1RTlA5MnlRRDZMVDBGcUJJZDV3Y2U1bDh5U0ZreVl0YVBHWjUzY2RRNTlNQkhyTlp1RlNTRHVfSWN6TDEybG9zWFFCYkdNNFNIQVBMNVJCd1V3S1g3ai1GRVdRX3pVdjRSdzFMV1AyNlBDRnd1a3dKNFJPekZJLWJNNmlDeVRQSDFxcUxkVk1oeHhGeTNiaktaQVNlcDdDY3lmalVReXM?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T18:23:43Z"
     },
     {
       "title": "Trump orders contractors to check with White House over any congressional inquiries",
@@ -104,84 +197,6 @@
       "url": "https://thehill.com/opinion/campaign/6233811-mike-pence-iran-war-comments/",
       "source": "THE HILL",
       "published_at": "2026-11-21T17:00:00Z"
-    },
-    {
-      "title": "Ballistic missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
-      "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-21T16:35:34Z"
-    },
-    {
-      "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
-      "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-21T16:28:20Z"
-    },
-    {
-      "title": "Trump limits Congress’s accesses to confidential agency, contractor information",
-      "url": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T15:37:40Z"
-    },
-    {
-      "title": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
-      "url": "https://apnews.com/article/immigration-sheriffs-elections-ice-agreements-0bca2d5add91614df4cbe1b92df8f5e4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-21T15:02:24Z"
-    },
-    {
-      "title": "With two big wins in court, Trump may leave a lasting mark on defamation law",
-      "url": "https://thehill.com/opinion/white-house/6234303-nytimes-bbc-court-victories/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T15:00:00Z"
-    },
-    {
-      "title": "Federal judge denies request to release man shot by immigration agents in New York",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-21T14:52:30Z"
-    },
-    {
-      "title": "Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-21T14:51:43Z"
-    },
-    {
-      "title": "Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China",
-      "url": "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T14:51:28Z"
-    },
-    {
-      "title": "Most new Black Democrats in decades to join US Congress, set to sway policy, party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xUZFEwY1RDY09Mc1lXQTdCMFk5ZWlCb0ZSakJuQmppYzI2Y0loc3BRdEp4MXhtMkNhY0Vsdk9fYUpEUTNUTTh0SFl3akZqUUdKWGdJTnpCVVFwZm1LOE5SNTcwV0VOSXc3S1k4SHM2R0UzV1liTm84SkZRZVNUZlYwZi1xLWpnVVBQaUVuaFFPM3NockMtcnhrYms0YmNJNXJzRXRVZ1hNNWFWYjNLU09JRzVDVXc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-21T14:13:06Z"
-    },
-    {
-      "title": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-21T14:03:44Z"
-    },
-    {
-      "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
-      "url": "https://apnews.com/article/schumer-vanhollen-majority-leader-progressives-new-senators-b7785d0b6aee5f4844f55b650a231f5d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-21T14:03:02Z"
-    },
-    {
-      "title": "Live updates: House races uncalled nearly 3 weeks post-election; Congress recesses",
-      "url": "https://thehill.com/homenews/administration/6234849-live-congress-recess-midterm-results-trump/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T14:01:34Z"
-    },
-    {
-      "title": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-21T13:40:32Z"
     }
   ]
 }
