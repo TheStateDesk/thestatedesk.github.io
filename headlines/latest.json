@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T00:15:11.052270Z",
+  "generated_at": "2026-11-22T07:21:07.577465Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,6 +14,21 @@
     "BBC NEWS: no recent politics items"
   ],
   "priority": [
+    {
+      "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T03:33:00Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
     {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
       "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
@@ -55,10 +70,46 @@
   ],
   "headlines": [
     {
+      "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T04:01:00Z"
+    },
+    {
+      "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T03:33:00Z"
+    },
+    {
+      "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
+      "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T01:57:37Z"
+    },
+    {
+      "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T01:57:00Z"
+    },
+    {
+      "title": "Australia criticises US Congressional Budget Office over AUKUS comments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlVOa1hkTkNLZ2tVNTdiR1RIUVJ3ODE5WlMzN1BtaHlzNjlnTmtrVHF5NVhqcjUycmhIb2dtOFRVbFhZaHNybEtWdGJ3X2pXX2FXZHRzNl9OSUEzaUw5VHVfZjZPYVRfRjRaSmRKSHJrS3NCY3A0MndnOXdOaVdPTTJHN3FOZmd0V0dZejExMV9nVjlwbmZDLXRjSHVodzhTN0ZldEZnQTgxc0ppcHJmdjVpeEs5c1hvT1ZxU0c2SFBaTTY2?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T00:33:00Z"
+    },
+    {
       "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
       "url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
       "source": "THE HILL",
       "published_at": "2026-11-21T23:52:23Z"
+    },
+    {
+      "title": "COP31 climate talks close to final deal, says summit president - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-21T23:40:00Z"
     },
     {
       "title": "Sunday shows preview: Trump’s security agenda, House leadership elections take center stage",
@@ -161,42 +212,6 @@
       "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
       "source": "THE HILL",
       "published_at": "2026-11-21T18:06:27Z"
-    },
-    {
-      "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
-      "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-21T17:32:04Z"
-    },
-    {
-      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-21T17:24:51Z"
-    },
-    {
-      "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-      "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-21T17:21:53Z"
-    },
-    {
-      "title": "Hannity vows to broadcast names, numbers of GOP lawmakers missing votes",
-      "url": "https://thehill.com/homenews/house/6235234-sean-hannity-mike-johnson-house-attendance/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T17:20:17Z"
-    },
-    {
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "url": "https://apnews.com/article/trump-executive-order-congress-oversight-investigation-contractors-9546e1d7acdf3e65b654d1c5162cb0bd?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-21T17:07:17Z"
-    },
-    {
-      "title": "Why is Mike ‘Finish the Job in Iran’ Pence attacking ‘America First’ JP Vance?",
-      "url": "https://thehill.com/opinion/campaign/6233811-mike-pence-iran-war-comments/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T17:00:00Z"
     }
   ]
 }
