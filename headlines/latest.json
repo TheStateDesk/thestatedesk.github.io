@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T15:36:42.022095Z",
+  "generated_at": "2026-11-22T21:14:01.222066Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -15,15 +15,19 @@
   ],
   "priority": [
     {
-      "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T03:33:00Z",
-      "source_count": 2,
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-22T20:55:33Z",
+      "source_count": 3,
       "other_sources": [
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/"
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate"
+        },
+        {
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5"
         }
       ],
       "priority_score": 5,
@@ -32,16 +36,124 @@
   ],
   "headlines": [
     {
+      "title": "Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T20:57:49Z"
+    },
+    {
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-22T20:55:33Z"
+    },
+    {
+      "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
+      "url": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T20:52:30Z"
+    },
+    {
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-22T20:23:36Z"
+    },
+    {
+      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T20:21:39Z"
+    },
+    {
+      "title": "Jeffries says he’ll move to ban lawmakers from stock trading ‘very early’ in next Congress",
+      "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T20:20:40Z"
+    },
+    {
+      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T19:54:11Z"
+    },
+    {
+      "title": "Trump blames $6T stock market slide on Democrats’ midterm wins",
+      "url": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T19:46:02Z"
+    },
+    {
+      "title": "GOP Rep ‘optimistic’ about passing AI bill before next Congress",
+      "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T19:28:31Z"
+    },
+    {
+      "title": "Live updates: Clayton calls Trump’s trilateral talks ‘remarkable’; Foxx concedes to Hubbard in North Carolina",
+      "url": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T18:53:53Z"
+    },
+    {
+      "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+      "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-22T18:37:06Z"
+    },
+    {
+      "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T17:53:07Z"
+    },
+    {
+      "title": "Director of National Intelligence: Putin is ‘not America’s friend in Ukraine’",
+      "url": "https://thehill.com/homenews/administration/6235931-clayton-defends-trump-putin-friendship/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T17:19:23Z"
+    },
+    {
+      "title": "US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T17:16:03Z"
+    },
+    {
+      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T17:05:41Z"
+    },
+    {
+      "title": "Trump hates wind power. A bill he supports may help it get built",
+      "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T17:00:00Z"
+    },
+    {
+      "title": "Trump sees difficulties ahead if Schumer leads Senate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T16:00:50Z"
+    },
+    {
+      "title": "Clayton says he trusts Trump ‘completely’ after calling Putin a friend",
+      "url": "https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T15:48:15Z"
+    },
+    {
       "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader",
       "url": "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
       "source": "THE HILL",
       "published_at": "2026-11-22T15:19:09Z"
     },
     {
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+      "title": "In Kyiv, restaurants are closing as Ukraine war pressures mount - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOeW1NYVc5OThLTEdINFlCSHdDajdwOXlob1pMYm81NmF4cFhVd3RCblRobk9mWnZwVnY2VjZDOFEtN2xxRVltVGYzb2NmbUlacm02SXNRZ1hkcjVhOWdiN0lSNG9CTlR1Ym5GcXJfdUwzWk1a?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T14:25:44Z"
+      "published_at": "2026-11-22T14:22:30Z"
     },
     {
       "title": "Congress can protect children with craniofacial anomalies",
@@ -50,28 +162,10 @@
       "published_at": "2026-11-22T14:00:00Z"
     },
     {
-      "title": "Live updates: Congress heads home for Thanksgiving, leadership fight ramps up",
-      "url": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T13:51:37Z"
-    },
-    {
-      "title": "$1.7T Biden-era government funding bill found unconstitutional, appeals court rules",
+      "title": "$1.7 trillion Biden-era government funding bill found unconstitutional, appeals court rules",
       "url": "https://thehill.com/regulation/court-battles/6235708-court-rules-congress-proxy-unconstitutional/",
       "source": "THE HILL",
       "published_at": "2026-11-22T13:49:20Z"
-    },
-    {
-      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T13:33:09Z"
-    },
-    {
-      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T13:29:34Z"
     },
     {
       "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -80,100 +174,10 @@
       "published_at": "2026-11-22T13:12:09Z"
     },
     {
-      "title": "It's Medicare open enrollment time. Here's what you need to know",
+      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
       "source": "NPR",
       "published_at": "2026-11-22T13:11:04Z"
-    },
-    {
-      "title": "Trump’s immigration crackdown drives international students away from US universities",
-      "url": "https://www.theguardian.com/education/2026/nov/22/trump-immigration-crackdown-international-students",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T13:00:28Z"
-    },
-    {
-      "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T11:00:26Z"
-    },
-    {
-      "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T11:00:26Z"
-    },
-    {
-      "title": "Trump administration ready to deploy ‘secret weapon’ against higher education",
-      "url": "https://thehill.com/homenews/education/6231125-trump-college-accreditation-intellectual-diversity/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T11:00:00Z"
-    },
-    {
-      "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-      "url": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T11:00:00Z"
-    },
-    {
-      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-      "url": "https://apnews.com/article/trump-credit-cards-interest-rates-warren-banks-098a69b520e520e535eebe595cd0c64a?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-22T04:13:45Z"
-    },
-    {
-      "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T04:01:00Z"
-    },
-    {
-      "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T03:33:00Z"
-    },
-    {
-      "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport",
-      "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T01:57:37Z"
-    },
-    {
-      "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T01:57:00Z"
-    },
-    {
-      "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
-      "url": "https://apnews.com/article/immigration-arrest-seattle-airport-ice-4748ddb6161c28853d763e835aeb31f1?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-22T01:25:13Z"
-    },
-    {
-      "title": "Australia criticises US Congressional Budget Office over AUKUS comments - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlVOa1hkTkNLZ2tVNTdiR1RIUVJ3ODE5WlMzN1BtaHlzNjlnTmtrVHF5NVhqcjUycmhIb2dtOFRVbFhZaHNybEtWdGJ3X2pXX2FXZHRzNl9OSUEzaUw5VHVfZjZPYVRfRjRaSmRKSHJrS3NCY3A0MndnOXdOaVdPTTJHN3FOZmd0V0dZejExMV9nVjlwbmZDLXRjSHVodzhTN0ZldEZnQTgxc0ppcHJmdjVpeEs5c1hvT1ZxU0c2SFBaTTY2?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T00:33:00Z"
-    },
-    {
-      "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
-      "url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T23:52:23Z"
-    },
-    {
-      "title": "Sunday shows preview: Trump’s security agenda, House leadership elections take center stage",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
-      "source": "THE HILL",
-      "published_at": "2026-11-21T23:06:51Z"
-    },
-    {
-      "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
-      "url": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-21T22:52:03Z"
     }
   ]
 }
