@@ -1,33 +1,96 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T10:38:16.517773Z",
+  "generated_at": "2026-11-23T22:33:19.280594Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
+    "BBC NEWS",
     "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [
-    "BBC NEWS: no recent politics items"
-  ],
+  "source_warnings": [],
   "priority": [
     {
-      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T20:55:33Z",
-      "source_count": 3,
+      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
+      "url": "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T22:27:18Z",
+      "source_count": 2,
       "other_sources": [
         {
           "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate"
+          "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-23T22:12:54Z",
+      "source_count": 4,
+      "other_sources": [
+        {
+          "source": "BBC NEWS",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "REUTERS VIA GOOGLE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5"
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/what-trump-told-pbs-news-about-jensen-huang-before-nvidia-reinstatement"
+        },
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6236924-trump-praises-nvidia-ceo-reinstatement/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-23T21:09:10Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6237473-donald-trump-jensen-huang-nvidia-return-victory-lap/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump to target Gavin Newsom in speech at Justice Department - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGxaOWZ5OU45Qk5pWkpJYzRKeFQ2SzRRQkxMcnNFMlZQR3JwLTF5RV9WR2IxT2JyVzdnd0daQWdma1JCTjRuTWZDZUtieWgxazB6eGN2WjlmTHNNaW5VMnFwZkh1MjVvaGh4OE92ZmQ0cUtJOGNzVUszMHZRY3NhVkVEaXJqTml5UFVxaHN6aE5NMGhPVjIwa0RFMHF1UEZFM3A1MVZpYw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T18:47:04Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-justice-department-speech-blanche-5fff1865550ea7699667120234f2ebd4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
+      "url": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T18:01:34Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
         }
       ],
       "priority_score": 5,
@@ -36,148 +99,148 @@
   ],
   "headlines": [
     {
-      "title": "After midterm losses, Republicans debate what's next for the party",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
+      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
+      "url": "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T22:27:18Z"
+    },
+    {
+      "title": "Ex-White House AI advisor weighs in on national security as Huang is back as Nvidia CEO",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
       "source": "NPR",
-      "published_at": "2026-11-23T09:45:06Z"
+      "published_at": "2026-11-23T22:23:29Z"
     },
     {
-      "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T09:38:45Z"
-    },
-    {
-      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRybDRhZzhaRkRlSHZUdWxTZVRPUEU1NDJfRFBwX3ItMDZsb0pSZWdFMlgwbDhzclBlaWwyTndXYUQxS0JrZFd5SjlNWC05YWYtYWZhREFHNE5VLXFEOGx3SkY5bWNrMWlYbVhEVklQN3YzMnZSNmVtcmNqdzlSQ21vZW1yWU4xN1UySDE1SHNCUXZfekUyQlRMQUFGMlBSWk5Hc0JFTjlsZGN6NS14M2E2eXk4a2tPUjZGd2Y4a09SX212UUlNY2lkVG1XQXZUMmhOMHRZMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T09:10:32Z"
-    },
-    {
-      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T08:33:10Z"
+      "published_at": "2026-11-23T22:12:54Z"
     },
     {
-      "title": "Zelenskiy says Ukraine sank Russian warship in Libya - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T07:53:00Z"
-    },
-    {
-      "title": "China's electric truck boom lifts demand for lithium - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnFTM0xYMzExZjQzQzlXZ2l5dXU1Tml4M0RfQXRfVmlCYW9BUmpWZVJNMFFFX2xXT0Qyc3Z2U096S3hDWVd5a0hNcjRYZVRLQ3J6dG91dFVDalFadENLeW94TW1CdnBsRW1wTzdxQUZOcmI4T0VXU0ktNlo3eEdOQXpyOHhwd3RaTHBqSDdpbVpjSXR2aWUzOWxEbHB3YnVjZzdqYmJLYVlqOGFHTFEyRm90bw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T07:31:00Z"
-    },
-    {
-      "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T07:00:00Z"
-    },
-    {
-      "title": "South Korea president nominates new foreign minister, spy chief amid US worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU25qTWZidFNXLXNpRGRNajlHQlAxS0pFYzdMb2FYUnBYdlpEU1k3dE9aZG0wa282a1hwTWt4eTI2azNjdlpKLTNuRm9pSVR0RTl4SmZTMXFLVEFfdVN1Y3lLRF9uR0ZUdHU0SXlEU3FQNG5BOV8zeUpmUHphcTZ2Tk5iRklKOHZjYzlDRHpJNHZMOTYtY0Ziakg1Z0xFaDNReWdueVVwcTZuNXNvSWkyeEx6QUhLby1CdUpUMQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T06:42:00Z"
-    },
-    {
-      "title": "Russian attack on Ukraine's Dymer in Kyiv region kills 11, official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlU4RTQwUF9vS2lzZ0ZWRkJiOUdrRWNUc2Y3eXlhWXBVWllFdHNwTXlnaFQ3ZXQtWmg1TlVRT3NISXhjSWd4VUZ0VV9wc01rLWFyenZRNEdrMkpVMjltM1ZSdFRmbUc2WlZpLXJLZlFMb0NMeldDdlpDRjcwb2ZadHQ0dlJGeGhJU2Q3OUNNZ2R1T1p3ODZJQ0kwdWtkdUZKazNfbEFBc1lDUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T06:24:00Z"
-    },
-    {
-      "title": "Indonesia president to nominate VP candidates on Monday, state media reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVpFcWppN3FkT0RvWVpvVzRNdEFTOWc2aTVoN3R2Sm5nbXppNzF5RVBFeDRZZEVtaW1zTVdRdThXZGZMd2wzODZYa3FsMjJ6MFVOa0dsTHEwclFYaWJlUmRtamE0a25KZ2RlUEM0VmR3anVZNEN6anZOMVJBX2pvYXhuNzBQZmUwUFE5VTJFUTltbjVLY3ZFbU05cF9TLUhWSG53S1BjMmh6VGhkeHhKT296TWpWOGJ1ZW9uSk9BTE9XUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T05:43:00Z"
-    },
-    {
-      "title": "China sets 2030 targets to boost support for older people, childcare - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T04:48:00Z"
-    },
-    {
-      "title": "European firms warn EU leaders against budget cuts on competitiveness - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1EwT0dKMUxVYzhvRE8zdzlTYlF2aGtuclU1ZjlfUXdmUzU4bVl0NTJkcG9mOGFpZmxSZ3JIYmxEbC1kWVAxY19iaVUzOWpfdUNNeFgyV292SE1YRUctdjJPd0pyMjJqa3o1b3dqalhPN3FhMEoxUlhUdzBfUVZNUlViYWZOaVRZLVV1QWZzMzlNMXJuM0hTT0NFdjRReGJwTzJGR29TT1BTS0FKRXBiSFpGY0JBVlpqbUE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T04:06:00Z"
-    },
-    {
-      "title": "Kennedy calls Trump, Putin and Xi meeting a ‘good thing’",
-      "url": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
+      "title": "Live updates: Trump challenges Newsom’s death row commutations; Nvidia makes U-turn on Jensen Huang",
+      "url": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T02:55:10Z"
+      "published_at": "2026-11-23T22:10:02Z"
     },
     {
-      "title": "Van Hollen says Democrats have a ‘generational opportunity’ in the Senate, but the party is ‘on probation’",
-      "url": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T02:09:55Z"
+      "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
+      "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-23T22:06:38Z"
     },
     {
-      "title": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T01:19:09Z"
-    },
-    {
-      "title": "UK government to make case for greater public control of utilities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEx1RWlLNnNvbEZ5a1kzbVBfb1dLSnNPbjViMmxXYXR4ZlJkNUpYVUhrQU40MlhXaTc1TlMtZWh4QnBYU1VxMW91aHZSR0xtSU9XWE16ZEw4R3p4RW1PU0hXdVVyUXlqdVQ1YmRBZDM0TkNYTzFnNTJ6enFOLUV3TjhDZHlmb3pOSEN1TTluSmQwTHp2Uzh0NnAzUV9PYW5PNjNz?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T00:11:00Z"
-    },
-    {
-      "title": "Trump hosts gala for meme coin investors as his token plunges to record lows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T22:32:00Z"
-    },
-    {
-      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+      "title": "Trump impersonator roasts Mark Carney at Canadian press dinner – video",
+      "url": "https://www.theguardian.com/world/video/2026/nov/23/trump-impersonator-roasts-mark-carney-at-canadian-press-dinner-video",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T22:01:17Z"
+      "published_at": "2026-11-23T22:01:51Z"
     },
     {
-      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T21:54:56Z"
-    },
-    {
-      "title": "Democrats secure largest House majority in election in three decades",
-      "url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+      "title": "Key GOP lawmaker calls for administration briefing on Huang",
+      "url": "https://thehill.com/homenews/house/6238496-mccaul-demands-nvidia-briefing/",
       "source": "THE HILL",
-      "published_at": "2026-11-22T21:33:52Z"
+      "published_at": "2026-11-23T21:55:52Z"
     },
     {
-      "title": "El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’",
-      "url": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T21:24:40Z"
+      "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+      "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-23T21:54:04Z"
     },
     {
-      "title": "POLL Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
+      "title": "JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T20:56:00Z"
+      "published_at": "2026-11-23T21:51:38Z"
     },
     {
-      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-23T21:51:23Z"
+    },
+    {
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-23T21:40:30Z"
+    },
+    {
+      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T21:26:14Z"
+    },
+    {
+      "title": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
+      "url": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T21:16:55Z"
+    },
+    {
+      "title": "Democrat Gomez resigns from House after sexual misconduct report",
+      "url": "https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T21:13:55Z"
+    },
+    {
+      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T20:55:33Z"
+      "published_at": "2026-11-23T21:09:10Z"
     },
     {
-      "title": "Democratic lawmaker says next Congress will focus on using AI to improve healthcare, jobs, agriculture",
-      "url": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
+      "title": "Watch live: Trump to tout law-and-order agenda in DOJ remarks",
+      "url": "https://thehill.com/homenews/administration/6238068-watch-live-donald-trump-doj-remarks-agenda-gavin-newsom-criticism/",
       "source": "THE HILL",
-      "published_at": "2026-11-22T20:52:30Z"
+      "published_at": "2026-11-23T21:00:00Z"
+    },
+    {
+      "title": "Belgian PM sets December 31 budget talks deadline amid national strike - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2dYclhGT080akFPLWo1X1p2b2ItOFc4TTBqNS1QckxaVHZqWUV5YUY5aUc3SjZ2VWs1QnNIMjhLU29vdUdKcW9VeGN1cGVmZ2NKSzNZMHd5a2swdE5UMXpLcUhfaXhKMktFXzRIVnNXcGhZV1huVkRvUm9Sc0VlUlZCQzdpUFdCakY3ZGNtVDFsbFNhamZmTnNGZXVySGZBUnc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T20:53:47Z"
+    },
+    {
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T20:31:08Z"
+    },
+    {
+      "title": "GOP senators urge Trump to support congressional ban on intoxicating hemp",
+      "url": "https://thehill.com/policy/healthcare/6238236-senators-urge-trump-end-hemp-loophole/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T20:26:48Z"
+    },
+    {
+      "title": "Incoming Louisiana senator announces wedding: ‘We feel so blessed’",
+      "url": "https://thehill.com/blogs/in-the-know/6238238-julia-letlow-marries-kevin-ainsworth/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T20:26:18Z"
+    },
+    {
+      "title": "NY Democrat who sparked ‘lizard people’ talk: ‘Obviously I’m a human being’",
+      "url": "https://thehill.com/homenews/state-watch/6238050-wright-addresses-lizard-people-theory/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T19:58:55Z"
+    },
+    {
+      "title": "Senate Banking panel sets Huang testimony for Dec. 3 after Nvidia CEO’s return",
+      "url": "https://thehill.com/homenews/senate/6238064-nvidia-ceo-ai-hearing-december/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T19:53:10Z"
+    },
+    {
+      "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
+      "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-23T19:52:52Z"
+    },
+    {
+      "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T19:39:43Z"
     }
   ]
 }
