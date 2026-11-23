@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T01:56:31.585635Z",
+  "generated_at": "2026-11-23T10:38:16.517773Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items",
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+    "BBC NEWS: no recent politics items"
   ],
   "priority": [
     {
@@ -36,16 +36,94 @@
   ],
   "headlines": [
     {
+      "title": "After midterm losses, Republicans debate what's next for the party",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
+      "source": "NPR",
+      "published_at": "2026-11-23T09:45:06Z"
+    },
+    {
+      "title": "Iran says it will use all its tools to confront US naval blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T09:38:45Z"
+    },
+    {
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmRybDRhZzhaRkRlSHZUdWxTZVRPUEU1NDJfRFBwX3ItMDZsb0pSZWdFMlgwbDhzclBlaWwyTndXYUQxS0JrZFd5SjlNWC05YWYtYWZhREFHNE5VLXFEOGx3SkY5bWNrMWlYbVhEVklQN3YzMnZSNmVtcmNqdzlSQ21vZW1yWU4xN1UySDE1SHNCUXZfekUyQlRMQUFGMlBSWk5Hc0JFTjlsZGN6NS14M2E2eXk4a2tPUjZGd2Y4a09SX212UUlNY2lkVG1XQXZUMmhOMHRZMA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T09:10:32Z"
+    },
+    {
       "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
       "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T00:31:31Z"
+      "published_at": "2026-11-23T08:33:10Z"
+    },
+    {
+      "title": "Zelenskiy says Ukraine sank Russian warship in Libya - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T07:53:00Z"
+    },
+    {
+      "title": "China's electric truck boom lifts demand for lithium - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnFTM0xYMzExZjQzQzlXZ2l5dXU1Tml4M0RfQXRfVmlCYW9BUmpWZVJNMFFFX2xXT0Qyc3Z2U096S3hDWVd5a0hNcjRYZVRLQ3J6dG91dFVDalFadENLeW94TW1CdnBsRW1wTzdxQUZOcmI4T0VXU0ktNlo3eEdOQXpyOHhwd3RaTHBqSDdpbVpjSXR2aWUzOWxEbHB3YnVjZzdqYmJLYVlqOGFHTFEyRm90bw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T07:31:00Z"
+    },
+    {
+      "title": "COMMENTARY: Oil's Iran war recovery masks a stubborn diesel shortage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTm1ualZQSkpWSE81dmJhNTVlenN6clBtbnAyczRuVDdPZUFkZDRDX0pPc1pacExyelpWSFp1VmpUWm5WUHFabTV6UmR2V2ZzaldKcjJlMEFiOWx6S0pHTE9tUGRoT1AxVm04SVR6U0d3X2JtZTcxOFpMWWFWS0FJaTlIYTBGTDc1cnB6SXQtQWhxN2xmQ0hnRldZSjI1a2R5aEhzNF9Vai1SX1VJemdyUU4yLW40c05yMGk1eElqMA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T07:00:00Z"
+    },
+    {
+      "title": "South Korea president nominates new foreign minister, spy chief amid US worries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU25qTWZidFNXLXNpRGRNajlHQlAxS0pFYzdMb2FYUnBYdlpEU1k3dE9aZG0wa282a1hwTWt4eTI2azNjdlpKLTNuRm9pSVR0RTl4SmZTMXFLVEFfdVN1Y3lLRF9uR0ZUdHU0SXlEU3FQNG5BOV8zeUpmUHphcTZ2Tk5iRklKOHZjYzlDRHpJNHZMOTYtY0Ziakg1Z0xFaDNReWdueVVwcTZuNXNvSWkyeEx6QUhLby1CdUpUMQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T06:42:00Z"
+    },
+    {
+      "title": "Russian attack on Ukraine's Dymer in Kyiv region kills 11, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlU4RTQwUF9vS2lzZ0ZWRkJiOUdrRWNUc2Y3eXlhWXBVWllFdHNwTXlnaFQ3ZXQtWmg1TlVRT3NISXhjSWd4VUZ0VV9wc01rLWFyenZRNEdrMkpVMjltM1ZSdFRmbUc2WlZpLXJLZlFMb0NMeldDdlpDRjcwb2ZadHQ0dlJGeGhJU2Q3OUNNZ2R1T1p3ODZJQ0kwdWtkdUZKazNfbEFBc1lDUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T06:24:00Z"
+    },
+    {
+      "title": "Indonesia president to nominate VP candidates on Monday, state media reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVpFcWppN3FkT0RvWVpvVzRNdEFTOWc2aTVoN3R2Sm5nbXppNzF5RVBFeDRZZEVtaW1zTVdRdThXZGZMd2wzODZYa3FsMjJ6MFVOa0dsTHEwclFYaWJlUmRtamE0a25KZ2RlUEM0VmR3anVZNEN6anZOMVJBX2pvYXhuNzBQZmUwUFE5VTJFUTltbjVLY3ZFbU05cF9TLUhWSG53S1BjMmh6VGhkeHhKT296TWpWOGJ1ZW9uSk9BTE9XUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T05:43:00Z"
+    },
+    {
+      "title": "China sets 2030 targets to boost support for older people, childcare - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjdnUk5JS01JQ21aaEVvZ0pWLWVIY3BSa1RzMWFzcERoNmtiODVjX2FDcWlaVWxYVGZiRXpVX0tTWHMzODBvSW1zYVgxOVd5eEJHVTFMOS03ZUgxV3AzVFl4b0RDNU5Ec3laSm1HdzcxMGZXbkUydHI3Y282bjF1ckN6ejljMlN4a01OSTZ6ak1fSlRXOU11OTFneC1uR1cySDNBdU1GaHdBYnlk?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T04:48:00Z"
+    },
+    {
+      "title": "European firms warn EU leaders against budget cuts on competitiveness - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1EwT0dKMUxVYzhvRE8zdzlTYlF2aGtuclU1ZjlfUXdmUzU4bVl0NTJkcG9mOGFpZmxSZ3JIYmxEbC1kWVAxY19iaVUzOWpfdUNNeFgyV292SE1YRUctdjJPd0pyMjJqa3o1b3dqalhPN3FhMEoxUlhUdzBfUVZNUlViYWZOaVRZLVV1QWZzMzlNMXJuM0hTT0NFdjRReGJwTzJGR29TT1BTS0FKRXBiSFpGY0JBVlpqbUE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T04:06:00Z"
+    },
+    {
+      "title": "Kennedy calls Trump, Putin and Xi meeting a ‘good thing’",
+      "url": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T02:55:10Z"
+    },
+    {
+      "title": "Van Hollen says Democrats have a ‘generational opportunity’ in the Senate, but the party is ‘on probation’",
+      "url": "https://thehill.com/the-120/6236489-van-hollen-democrats-have-a-generational-opportunity-in-the-senate-but-the-party-is-on-probation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T02:09:55Z"
     },
     {
       "title": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T00:12:25Z"
+      "published_at": "2026-11-23T01:19:09Z"
     },
     {
       "title": "UK government to make case for greater public control of utilities - Reuters",
@@ -54,7 +132,7 @@
       "published_at": "2026-11-23T00:11:00Z"
     },
     {
-      "title": "Trump to welcome investors at gala for his plunging meme coin - Reuters",
+      "title": "Trump hosts gala for meme coin investors as his token plunges to record lows - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-22T22:32:00Z"
@@ -72,12 +150,6 @@
       "published_at": "2026-11-22T21:54:56Z"
     },
     {
-      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T21:46:17Z"
-    },
-    {
       "title": "Democrats secure largest House majority in election in three decades",
       "url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
       "source": "THE HILL",
@@ -90,10 +162,10 @@
       "published_at": "2026-11-22T21:24:40Z"
     },
     {
-      "title": "Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
+      "title": "POLL Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T20:57:49Z"
+      "published_at": "2026-11-22T20:56:00Z"
     },
     {
       "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
@@ -106,78 +178,6 @@
       "url": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
       "source": "THE HILL",
       "published_at": "2026-11-22T20:52:30Z"
-    },
-    {
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-22T20:23:36Z"
-    },
-    {
-      "title": "Jeffries says he’ll move to ban lawmakers from stock trading ‘very early’ in next Congress",
-      "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T20:20:40Z"
-    },
-    {
-      "title": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins",
-      "url": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T19:46:02Z"
-    },
-    {
-      "title": "GOP lawmaker ‘optimistic’ about passing AI bill before next Congress",
-      "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T19:28:31Z"
-    },
-    {
-      "title": "Live updates: Clayton calls Trump’s trilateral talks ‘remarkable’; Foxx concedes to Hubbard in North Carolina",
-      "url": "https://thehill.com/homenews/administration/6235588-live-updates-congress-leadership-fight-ramps-up/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T18:53:53Z"
-    },
-    {
-      "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
-      "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-22T18:37:06Z"
-    },
-    {
-      "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T17:53:07Z"
-    },
-    {
-      "title": "Director of National Intelligence: Putin is ‘not America’s friend in Ukraine’",
-      "url": "https://thehill.com/homenews/administration/6235931-clayton-defends-trump-putin-friendship/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T17:19:23Z"
-    },
-    {
-      "title": "US intelligence chief says Putin is 'not America's friend in Ukraine' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNlR0aUswLUVNUWNuMk05NmJBSElCMzV6RWxDV2V4TmFicUFZWUFJR2pzQnd2VmNvQzhQTWtHTXZsMkkzcGMweEUyRE1FUlU1aXk5QkZCTk0tRE5fX1k2aU9jMmtOTndlTlVkaU5rT011UGgyMU1XX0JBQ3ZCb05qcEZYV3U2c003c3F3ZkRZamtvb3lDak8zR2o0dnJueWl6UkJ5RzBhTV9yUkpoaFVDVg?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T17:16:03Z"
-    },
-    {
-      "title": "Trump hates wind power. A bill he supports may help it get built",
-      "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T17:00:00Z"
-    },
-    {
-      "title": "Trump sees difficulties ahead if Schumer leads Senate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T16:00:50Z"
-    },
-    {
-      "title": "Clayton says he trusts Trump ‘completely’ after calling Putin a friend",
-      "url": "https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T15:48:15Z"
     }
   ]
 }
