@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "asOf": "2026-11-22T17:52:05.321443+00:00",
+  "asOf": "2026-11-23T22:04:23.782232+00:00",
   "method": "Exact or conservatively matching first+last person name on Wikipedia article and Wikimedia thumbnail. Missing remains initials. Third-party and CivicAPI images handled independently.",
   "portraits": {
     "Aaron Ford": {
