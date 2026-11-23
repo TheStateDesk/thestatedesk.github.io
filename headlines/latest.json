@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T21:14:01.222066Z",
+  "generated_at": "2026-11-23T01:56:31.585635Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items"
+    "BBC NEWS: no recent politics items",
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
   ],
   "priority": [
     {
@@ -36,6 +36,60 @@
   ],
   "headlines": [
     {
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-23T00:31:31Z"
+    },
+    {
+      "title": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T00:12:25Z"
+    },
+    {
+      "title": "UK government to make case for greater public control of utilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEx1RWlLNnNvbEZ5a1kzbVBfb1dLSnNPbjViMmxXYXR4ZlJkNUpYVUhrQU40MlhXaTc1TlMtZWh4QnBYU1VxMW91aHZSR0xtSU9XWE16ZEw4R3p4RW1PU0hXdVVyUXlqdVQ1YmRBZDM0TkNYTzFnNTJ6enFOLUV3TjhDZHlmb3pOSEN1TTluSmQwTHp2Uzh0NnAzUV9PYW5PNjNz?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T00:11:00Z"
+    },
+    {
+      "title": "Trump to welcome investors at gala for his plunging meme coin - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T22:32:00Z"
+    },
+    {
+      "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-22T22:01:17Z"
+    },
+    {
+      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T21:54:56Z"
+    },
+    {
+      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-22T21:46:17Z"
+    },
+    {
+      "title": "Democrats secure largest House majority in election in three decades",
+      "url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T21:33:52Z"
+    },
+    {
+      "title": "El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’",
+      "url": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
+      "source": "THE HILL",
+      "published_at": "2026-11-22T21:24:40Z"
+    },
+    {
       "title": "Bank of Israel to keep rates on hold amid uncertainty about new government - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
@@ -48,7 +102,7 @@
       "published_at": "2026-11-22T20:55:33Z"
     },
     {
-      "title": "Democratic Rep says next Congress will focus on using AI to improve healthcare, jobs and agriculture",
+      "title": "Democratic lawmaker says next Congress will focus on using AI to improve healthcare, jobs, agriculture",
       "url": "https://thehill.com/the-120/6236244-democrats-ai-policy-focus/",
       "source": "THE HILL",
       "published_at": "2026-11-22T20:52:30Z"
@@ -60,31 +114,19 @@
       "published_at": "2026-11-22T20:23:36Z"
     },
     {
-      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T20:21:39Z"
-    },
-    {
       "title": "Jeffries says he’ll move to ban lawmakers from stock trading ‘very early’ in next Congress",
       "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
       "source": "THE HILL",
       "published_at": "2026-11-22T20:20:40Z"
     },
     {
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T19:54:11Z"
-    },
-    {
-      "title": "Trump blames $6T stock market slide on Democrats’ midterm wins",
+      "title": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins",
       "url": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
       "source": "THE HILL",
       "published_at": "2026-11-22T19:46:02Z"
     },
     {
-      "title": "GOP Rep ‘optimistic’ about passing AI bill before next Congress",
+      "title": "GOP lawmaker ‘optimistic’ about passing AI bill before next Congress",
       "url": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
       "source": "THE HILL",
       "published_at": "2026-11-22T19:28:31Z"
@@ -120,12 +162,6 @@
       "published_at": "2026-11-22T17:16:03Z"
     },
     {
-      "title": "Schumer led Democrats to big Senate win. Now, some say they need a new leader - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T17:05:41Z"
-    },
-    {
       "title": "Trump hates wind power. A bill he supports may help it get built",
       "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
       "source": "THE HILL",
@@ -142,42 +178,6 @@
       "url": "https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/",
       "source": "THE HILL",
       "published_at": "2026-11-22T15:48:15Z"
-    },
-    {
-      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader",
-      "url": "https://thehill.com/homenews/administration/6235788-trump-critiques-schumer-senate/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T15:19:09Z"
-    },
-    {
-      "title": "In Kyiv, restaurants are closing as Ukraine war pressures mount - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOeW1NYVc5OThLTEdINFlCSHdDajdwOXlob1pMYm81NmF4cFhVd3RCblRobk9mWnZwVnY2VjZDOFEtN2xxRVltVGYzb2NmbUlacm02SXNRZ1hkcjVhOWdiN0lSNG9CTlR1Ym5GcXJfdUwzWk1a?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-22T14:22:30Z"
-    },
-    {
-      "title": "Congress can protect children with craniofacial anomalies",
-      "url": "https://thehill.com/opinion/healthcare/6234205-pass-elsa-health-care-bill/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T14:00:00Z"
-    },
-    {
-      "title": "$1.7 trillion Biden-era government funding bill found unconstitutional, appeals court rules",
-      "url": "https://thehill.com/regulation/court-battles/6235708-court-rules-congress-proxy-unconstitutional/",
-      "source": "THE HILL",
-      "published_at": "2026-11-22T13:49:20Z"
-    },
-    {
-      "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
-      "source": "NPR",
-      "published_at": "2026-11-22T13:12:09Z"
-    },
-    {
-      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-      "source": "NPR",
-      "published_at": "2026-11-22T13:11:04Z"
     }
   ]
 }
