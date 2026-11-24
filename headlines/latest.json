@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T22:33:19.280594Z",
+  "generated_at": "2026-11-24T06:19:29.186414Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,31 +14,46 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
-      "url": "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T22:27:18Z",
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-23T22:58:27Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction"
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+        }
+      ],
+      "priority_score": 9,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-24T04:36:31Z",
+      "source_count": 3,
+      "other_sources": [
+        {
+          "source": "THE GUARDIAN",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+        },
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6237473-donald-trump-jensen-huang-nvidia-return-victory-lap/"
         }
       ],
       "priority_score": 5,
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T22:12:54Z",
-      "source_count": 4,
+      "published_at": "2026-11-24T03:04:41Z",
+      "source_count": 3,
       "other_sources": [
-        {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
-        },
         {
           "source": "PBS NEWSHOUR",
           "url": "https://www.pbs.org/newshour/politics/what-trump-told-pbs-news-about-jensen-huang-before-nvidia-reinstatement"
@@ -52,30 +67,15 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T21:09:10Z",
+      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
+      "url": "https://thehill.com/homenews/6238637-trump-wins-hush-money-appeal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T22:27:18Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6237473-donald-trump-jensen-huang-nvidia-return-victory-lap/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump to target Gavin Newsom in speech at Justice Department - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGxaOWZ5OU45Qk5pWkpJYzRKeFQ2SzRRQkxMcnNFMlZQR3JwLTF5RV9WR2IxT2JyVzdnd0daQWdma1JCTjRuTWZDZUtieWgxazB6eGN2WjlmTHNNaW5VMnFwZkh1MjVvaGh4OE92ZmQ0cUtJOGNzVUszMHZRY3NhVkVEaXJqTml5UFVxaHN6aE5NMGhPVjIwa0RFMHF1UEZFM3A1MVZpYw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T18:47:04Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-justice-department-speech-blanche-5fff1865550ea7699667120234f2ebd4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction"
         }
       ],
       "priority_score": 5,
@@ -99,22 +99,136 @@
   ],
   "headlines": [
     {
-      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
-      "url": "https://thehill.com/regulation/court-battles/6238637-trump-wins-hush-money-appeal/",
+      "title": "US Army to detonate toxic explosives in Iowa after Trump paused plan",
+      "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-24T04:42:06Z"
+    },
+    {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-24T04:36:31Z"
+    },
+    {
+      "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T03:48:00Z"
+    },
+    {
+      "title": "White House sends Congress ‘anomalies’ request to keep federal agencies funded",
+      "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T22:27:18Z"
+      "published_at": "2026-11-24T03:18:42Z"
     },
     {
-      "title": "Ex-White House AI advisor weighs in on national security as Huang is back as Nvidia CEO",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
-      "source": "NPR",
-      "published_at": "2026-11-23T22:23:29Z"
-    },
-    {
-      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T22:12:54Z"
+      "published_at": "2026-11-24T03:04:41Z"
+    },
+    {
+      "title": "Trump urges justice department to speed up federal executions in dig at Gavin Newsom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-justice-department-federal-executions-gavin-newsom",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-24T01:55:36Z"
+    },
+    {
+      "title": "What are the various US federal and state probes faced by Nvidia and Jensen Huang? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ090d1dDZTh5bFpYYXBUZHhLaFN4dG9SeVYtZWE3MEZYVHVzdEt5RzZBeXo0dlV6ZFpnUlV0V21JWHQ1cUczMFpScjZlT3RTaW1jOEFFU3BQMU1HRER4cURid2VVWXRaQUxIRHVuU0FDekxyUDdoZlRZQUZPcnRoZkZrSU1qTVFJZjlac093MnBvX3JuZmVHYUFrdkNHRUlyaVRpN2tiR3o2QXhNVzZld25IYzdhSUpS?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T00:40:00Z"
+    },
+    {
+      "title": "Trump, incoming Iowa governor, punt Army lead detonation back and forth",
+      "url": "https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T00:20:29Z"
+    },
+    {
+      "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T00:18:00Z"
+    },
+    {
+      "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
+      "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-23T23:55:49Z"
+    },
+    {
+      "title": "Experts weigh national security implications of Huang's return to Nvidia",
+      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-23T23:50:21Z"
+    },
+    {
+      "title": "Trump, Iowa’s Sand play hot potato with lead detonation call",
+      "url": "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T23:46:27Z"
+    },
+    {
+      "title": "Tamara Keith and Amy Walter on Trump's role in Huang's reinstatement",
+      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-role-in-huangs-reinstatement",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-23T23:30:35Z"
+    },
+    {
+      "title": "Trump: DOJ working to overturn Newsom’s death row commutations",
+      "url": "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T23:24:26Z"
+    },
+    {
+      "title": "US Medicare says price cuts on 13 more drugs will reduce spending by 45% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1NQVE5Qa2JmNHJBQmlBc2ZxYktYYjItUEoxUmNUT194MzNaS0UtZmhJcmFIZU5hNVZlSHF2UmM3cWI4TVdlVzBkNlZUdUJfNkdiZmtlTlRxTGxSbXBIaEhNTEwxYl9YN1FCM0dPRk56OUluLVY5N1JSU0x4Y2pnQUh5SFltcW9BaG1FQnFQX0YzbFVMalBFLWttbnBWaU0tX3ByTlhmSnp1YVBtMm9GOGY3YUJBYTV1RWVfd3hR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T23:14:08Z"
+    },
+    {
+      "title": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFAwUlItN21PY1NYVkpES1RGdkZmNzZBWm5WTDIxWUJkWmdxM2VBb2xvZy03SGtpVXEyVWxITm9EOENSUmJoX1oxNjBDQXQzSW1aTUZKVWtNVGJlNDFoTy13cmtRa0FZREE2VHRNVmFtNk5wZHgwNFhvSTN0enNrYWpWemxDSU5ES2lGV2ZvcmRjdkxXVVJkdDByd01nZnJ0TXlLbDVNd1FMU05pUUdFX0U3aElCTDBGRWpOSFRBWU1oWEVLZUE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T23:04:00Z"
+    },
+    {
+      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-23T22:58:27Z"
+    },
+    {
+      "title": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T22:47:22Z"
+    },
+    {
+      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-23T22:40:29Z"
+    },
+    {
+      "title": "Key House Democrat will oppose permitting reform bill",
+      "url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T22:38:17Z"
+    },
+    {
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "source": "NPR",
+      "published_at": "2026-11-23T22:29:53Z"
+    },
+    {
+      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
+      "url": "https://thehill.com/homenews/6238637-trump-wins-hush-money-appeal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-23T22:27:18Z"
     },
     {
       "title": "Live updates: Trump challenges Newsom’s death row commutations; Nvidia makes U-turn on Jensen Huang",
@@ -127,120 +241,6 @@
       "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
       "source": "PBS NEWSHOUR",
       "published_at": "2026-11-23T22:06:38Z"
-    },
-    {
-      "title": "Trump impersonator roasts Mark Carney at Canadian press dinner – video",
-      "url": "https://www.theguardian.com/world/video/2026/nov/23/trump-impersonator-roasts-mark-carney-at-canadian-press-dinner-video",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T22:01:51Z"
-    },
-    {
-      "title": "Key GOP lawmaker calls for administration briefing on Huang",
-      "url": "https://thehill.com/homenews/house/6238496-mccaul-demands-nvidia-briefing/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T21:55:52Z"
-    },
-    {
-      "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
-      "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-23T21:54:04Z"
-    },
-    {
-      "title": "JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T21:51:38Z"
-    },
-    {
-      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-23T21:51:23Z"
-    },
-    {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-23T21:40:30Z"
-    },
-    {
-      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T21:26:14Z"
-    },
-    {
-      "title": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
-      "url": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T21:16:55Z"
-    },
-    {
-      "title": "Democrat Gomez resigns from House after sexual misconduct report",
-      "url": "https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T21:13:55Z"
-    },
-    {
-      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-23T21:09:10Z"
-    },
-    {
-      "title": "Watch live: Trump to tout law-and-order agenda in DOJ remarks",
-      "url": "https://thehill.com/homenews/administration/6238068-watch-live-donald-trump-doj-remarks-agenda-gavin-newsom-criticism/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T21:00:00Z"
-    },
-    {
-      "title": "Belgian PM sets December 31 budget talks deadline amid national strike - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2dYclhGT080akFPLWo1X1p2b2ItOFc4TTBqNS1QckxaVHZqWUV5YUY5aUc3SjZ2VWs1QnNIMjhLU29vdUdKcW9VeGN1cGVmZ2NKSzNZMHd5a2swdE5UMXpLcUhfaXhKMktFXzRIVnNXcGhZV1huVkRvUm9Sc0VlUlZCQzdpUFdCakY3ZGNtVDFsbFNhamZmTnNGZXVySGZBUnc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T20:53:47Z"
-    },
-    {
-      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T20:31:08Z"
-    },
-    {
-      "title": "GOP senators urge Trump to support congressional ban on intoxicating hemp",
-      "url": "https://thehill.com/policy/healthcare/6238236-senators-urge-trump-end-hemp-loophole/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T20:26:48Z"
-    },
-    {
-      "title": "Incoming Louisiana senator announces wedding: ‘We feel so blessed’",
-      "url": "https://thehill.com/blogs/in-the-know/6238238-julia-letlow-marries-kevin-ainsworth/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T20:26:18Z"
-    },
-    {
-      "title": "NY Democrat who sparked ‘lizard people’ talk: ‘Obviously I’m a human being’",
-      "url": "https://thehill.com/homenews/state-watch/6238050-wright-addresses-lizard-people-theory/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T19:58:55Z"
-    },
-    {
-      "title": "Senate Banking panel sets Huang testimony for Dec. 3 after Nvidia CEO’s return",
-      "url": "https://thehill.com/homenews/senate/6238064-nvidia-ceo-ai-hearing-december/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T19:53:10Z"
-    },
-    {
-      "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
-      "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-23T19:52:52Z"
-    },
-    {
-      "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T19:39:43Z"
     }
   ]
 }
