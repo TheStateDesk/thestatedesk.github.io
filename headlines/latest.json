@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T06:19:29.186414Z",
+  "generated_at": "2026-11-24T18:10:52.569923Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,83 +14,64 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-23T22:58:27Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
-        }
-      ],
-      "priority_score": 9,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-24T04:36:31Z",
-      "source_count": 3,
-      "other_sources": [
-        {
-          "source": "THE GUARDIAN",
-          "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
-        },
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6237473-donald-trump-jensen-huang-nvidia-return-victory-lap/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T03:04:41Z",
-      "source_count": 3,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/what-trump-told-pbs-news-about-jensen-huang-before-nvidia-reinstatement"
-        },
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6236924-trump-praises-nvidia-ceo-reinstatement/"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
-      "url": "https://thehill.com/homenews/6238637-trump-wins-hush-money-appeal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T22:27:18Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
-      "url": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
-      "source": "THE HILL",
-      "published_at": "2026-11-23T18:01:34Z",
+      "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+      "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-24T17:53:38Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "url": "https://apnews.com/article/trump-medal-freedom-giuliani-976fc5b276e6e590c2d28e82a81a6e63?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-24T17:45:36Z",
+      "source_count": 3,
+      "other_sources": [
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm"
+        },
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/us-congress-donald-trump-jr-1789-investigation-f51c0cd43c57326ab8540ac661dca2ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+      "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-24T16:12:37Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/jensen-huang-nvidia-trump-democrats-presidential-candidates-7c83c2f90e924291e435e0fb0d51f524?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "WATCH LIVE: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-24T14:56:08Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6239400-trump-white-house-thanksgiving-turkey-pardon/"
         }
       ],
       "priority_score": 5,
@@ -99,148 +80,148 @@
   ],
   "headlines": [
     {
-      "title": "US Army to detonate toxic explosives in Iowa after Trump paused plan",
-      "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-24T04:42:06Z"
-    },
-    {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-24T04:36:31Z"
-    },
-    {
-      "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T03:48:00Z"
-    },
-    {
-      "title": "White House sends Congress ‘anomalies’ request to keep federal agencies funded",
-      "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
+      "title": "Congress must not chicken out on investigating Nvidia",
+      "url": "https://thehill.com/opinion/national-security/6239118-nvda-ceo-reinstated-after-scandal/",
       "source": "THE HILL",
-      "published_at": "2026-11-24T03:18:42Z"
+      "published_at": "2026-11-24T18:00:00Z"
     },
     {
-      "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "title": "Jane Fonda, De Niro join celebrities backing Van Hollen as next Senate leader",
+      "url": "https://thehill.com/homenews/senate/6240220-celebs-endorse-van-hollen-majority-leader/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T17:59:57Z"
+    },
+    {
+      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T03:04:41Z"
+      "published_at": "2026-11-24T17:58:20Z"
     },
     {
-      "title": "Trump urges justice department to speed up federal executions in dig at Gavin Newsom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-justice-department-federal-executions-gavin-newsom",
+      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2I2bERDWFVzTGY0OFhwaE0xVHRxaFFWM0REVzVOVjBsRkIyQjdwTlVEdnBzSmtqc2FlRFlJOERuOTc1Q1ZDV2U4SWRFa01fQTNHMnZJTjRXOW5VOUVMcjA1WDI4eW5vZ0FFbmRiNEc4aGdsSDQ0Zm1TNFBiVE5Pb0tIVm1SSzRIa3BVTk5GQ2NPY0JhMG1HLVpHamtrVWswd09ONFJCN3JSZDlBd0pYdGxwTE9tNm5sQ0FB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T17:57:26Z"
+    },
+    {
+      "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+      "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-24T17:53:38Z"
+    },
+    {
+      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T01:55:36Z"
+      "published_at": "2026-11-24T17:45:36Z"
     },
     {
-      "title": "What are the various US federal and state probes faced by Nvidia and Jensen Huang? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ090d1dDZTh5bFpYYXBUZHhLaFN4dG9SeVYtZWE3MEZYVHVzdEt5RzZBeXo0dlV6ZFpnUlV0V21JWHQ1cUczMFpScjZlT3RTaW1jOEFFU3BQMU1HRER4cURid2VVWXRaQUxIRHVuU0FDekxyUDdoZlRZQUZPcnRoZkZrSU1qTVFJZjlac093MnBvX3JuZmVHYUFrdkNHRUlyaVRpN2tiR3o2QXhNVzZld25IYzdhSUpS?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T00:40:00Z"
-    },
-    {
-      "title": "Trump, incoming Iowa governor, punt Army lead detonation back and forth",
-      "url": "https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation/",
+      "title": "House Democrat: Trump intervention in Huang expulsion sets ‘bad precedent’",
+      "url": "https://thehill.com/homenews/house/6240192-subramanyam-calls-trump-nvidia-probe/",
       "source": "THE HILL",
-      "published_at": "2026-11-24T00:20:29Z"
+      "published_at": "2026-11-24T17:36:09Z"
     },
     {
-      "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T00:18:00Z"
+      "title": "Time for new leadership in Senate",
+      "url": "https://thehill.com/opinion/campaign/6239073-van-hollen-senate-leader/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T17:30:00Z"
     },
     {
-      "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
-      "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
+      "title": "Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor",
+      "url": "https://thehill.com/homenews/administration/6240166-donald-trump-honors-rudy-giuliani-presidential-medial-of-freedom/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T17:21:14Z"
+    },
+    {
+      "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+      "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-23T23:55:49Z"
+      "published_at": "2026-11-24T17:13:02Z"
     },
     {
-      "title": "Experts weigh national security implications of Huang's return to Nvidia",
-      "url": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+      "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-24T17:09:34Z"
+    },
+    {
+      "title": "Iraqi PM orders federal government to manage oilfields under control of Kurds, Kurds reject move - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T17:09:34Z"
+    },
+    {
+      "title": "Ben Shapiro on Trump, Israel and the future of the Republican party",
+      "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/ben-shapiro-on-trump-israel-and-the-future-of-the-republican-party",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-23T23:50:21Z"
+      "published_at": "2026-11-24T17:01:51Z"
     },
     {
-      "title": "Trump, Iowa’s Sand play hot potato with lead detonation call",
-      "url": "https://thehill.com/policy/energy-environment/6238814-trump-sand-iowa-lead-detonation-army-epa-munitions/",
+      "title": "It’s up to the Supreme Court to save academic freedom in the US",
+      "url": "https://thehill.com/opinion/education/6234029-scotus-academic-freedom-first-amendment/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T23:46:27Z"
+      "published_at": "2026-11-24T17:00:00Z"
     },
     {
-      "title": "Tamara Keith and Amy Walter on Trump's role in Huang's reinstatement",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-role-in-huangs-reinstatement",
+      "title": "Top House Democrat calls for public hearing with Jensen Huang",
+      "url": "https://thehill.com/policy/technology/6240078-top-house-democrat-calls-for-public-hearing-with-jensen-huang/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T16:52:33Z"
+    },
+    {
+      "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T16:32:12Z"
+    },
+    {
+      "title": "Trump shares meme of Jensen Huang raising red bra in air",
+      "url": "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T16:31:38Z"
+    },
+    {
+      "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+      "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-23T23:30:35Z"
+      "published_at": "2026-11-24T16:12:37Z"
     },
     {
-      "title": "Trump: DOJ working to overturn Newsom’s death row commutations",
-      "url": "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/",
+      "title": "Nebraska senator announces husband’s death: ‘Our family is heartbroken’",
+      "url": "https://thehill.com/homenews/senate/6239912-senator-deb-fischer-husband-dies/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T23:24:26Z"
+      "published_at": "2026-11-24T16:06:12Z"
     },
     {
-      "title": "US Medicare says price cuts on 13 more drugs will reduce spending by 45% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1NQVE5Qa2JmNHJBQmlBc2ZxYktYYjItUEoxUmNUT194MzNaS0UtZmhJcmFIZU5hNVZlSHF2UmM3cWI4TVdlVzBkNlZUdUJfNkdiZmtlTlRxTGxSbXBIaEhNTEwxYl9YN1FCM0dPRk56OUluLVY5N1JSU0x4Y2pnQUh5SFltcW9BaG1FQnFQX0YzbFVMalBFLWttbnBWaU0tX3ByTlhmSnp1YVBtMm9GOGY3YUJBYTV1RWVfd3hR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T23:14:08Z"
-    },
-    {
-      "title": "Australia's Pauline Hanson faces biggest test as debt and anger align in state vote - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFAwUlItN21PY1NYVkpES1RGdkZmNzZBWm5WTDIxWUJkWmdxM2VBb2xvZy03SGtpVXEyVWxITm9EOENSUmJoX1oxNjBDQXQzSW1aTUZKVWtNVGJlNDFoTy13cmtRa0FZREE2VHRNVmFtNk5wZHgwNFhvSTN0enNrYWpWemxDSU5ES2lGV2ZvcmRjdkxXVVJkdDByd01nZnJ0TXlLbDVNd1FMU05pUUdFX0U3aElCTDBGRWpOSFRBWU1oWEVLZUE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T23:04:00Z"
-    },
-    {
-      "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-23T22:58:27Z"
-    },
-    {
-      "title": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T22:47:22Z"
-    },
-    {
-      "title": "PODCAST: Huang reinstated, Ukraine hits Russian ship, Black Friday AI (Updated) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-23T22:40:29Z"
-    },
-    {
-      "title": "Key House Democrat will oppose permitting reform bill",
-      "url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
+      "title": "Education Department orders federal funding freeze for Virginia district beset by abuse, screening scandal",
+      "url": "https://thehill.com/homenews/education/6239925-doe-withholds-virginia-school-funds/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T22:38:17Z"
+      "published_at": "2026-11-24T16:06:07Z"
     },
     {
-      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-      "source": "NPR",
-      "published_at": "2026-11-23T22:29:53Z"
+      "title": "China's BYD in talks to buy French car factory from Ineos Automotive - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTVFdHUtZkhnUVF2LW9BQW1HWXUtSnFvUmFaOFN0TkY1RWtqZUx3bTBjY2p2ck5wNGpLT003cnF5dW9zQWRhX0lmcjBMS2dUc2ctdU44YW8wazA3NzkyX1M4SUhkdy1LNlc0bnJRVm1ySTVtUlRnMFJqaEJvR0tqX0w5T0dmdEdadDNfNW91dW16REg2R1BTaHhxODZET2hoSEhVemJRWGdkd0U4OW40QXJxbzRYc1ByX0RHZHpjWQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T16:05:57Z"
     },
     {
-      "title": "Appeals court breathes new life into Trump’s fight over hush money conviction",
-      "url": "https://thehill.com/homenews/6238637-trump-wins-hush-money-appeal/",
+      "title": "Lessons from air traffic control chaos for Medicare for All",
+      "url": "https://thehill.com/opinion/6239080-air-traffic-control-medicare-lessons/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T22:27:18Z"
+      "published_at": "2026-11-24T16:00:00Z"
     },
     {
-      "title": "Live updates: Trump challenges Newsom’s death row commutations; Nvidia makes U-turn on Jensen Huang",
-      "url": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+      "title": "Trump’s intervention on Huang will exact ‘heavy cost’ on rule of law, national security: WSJ editorial board",
+      "url": "https://thehill.com/homenews/media/6239781-donald-trump-jensen-huang-national-security-nvidia-return-wall-street-journal-editorial-board/",
       "source": "THE HILL",
-      "published_at": "2026-11-23T22:10:02Z"
+      "published_at": "2026-11-24T15:55:39Z"
     },
     {
-      "title": "Huang's reinstatement at Nvidia sparks fury in Congress as lawmakers move forward with hearings",
-      "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-23T22:06:38Z"
+      "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T15:35:37Z"
     }
   ]
 }
