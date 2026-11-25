@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T02:44:21.617911Z",
+  "generated_at": "2026-11-25T12:35:18.636132Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,59 +8,22 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [],
+  "source_warnings": [
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+  ],
   "priority": [
     {
-      "title": "Watch: Trump pardons turkeys Freedom and Feathers",
-      "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-24T20:45:09Z",
-      "source_count": 4,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/"
-        },
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers"
-        },
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-turkey-pardon-freedom-feather-bb973ff5e095fa20229f49aea36dafd5?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
-      "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T17:53:38Z",
+      "title": "Trump spares turkeys Freedom and Feathers from fowl Thanksgiving fate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnbEt2b1RHYVhnT0FqbG9KLUdubDhaVHpBelJ5eXFROTJSd3BlaTQtLVNvYS1KbHpCOHptMGJCempMZXZ0ZF9GOW1nVV9rN1dPUnBwaC1saUI1ZjVDRkY2alBieG92M1RYa0FkRFRZMmdMOG5Tekg3em1wMklIcFVBYlVuQVh4Szg4VzNac1NnZzlWY2ZlWGlack1EZVdod1ZEaklUNmcwQzhwTVNnTWhmZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T22:59:00Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-medal-freedom-giuliani-976fc5b276e6e590c2d28e82a81a6e63?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
-      "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T17:13:02Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/us-congress-donald-trump-jr-1789-investigation-f51c0cd43c57326ab8540ac661dca2ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+          "source": "BBC NEWS",
+          "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "priority_score": 5,
@@ -69,10 +32,82 @@
   ],
   "headlines": [
     {
-      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+      "title": "'Russia wants more than Ukraine,\" says Germany's Merz as he defends aid for Kyiv - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUI5R19MZFluOFUyQWRCLTJnRVpNYnZfemhIT0g5bEZqblpJYXNxSVBFNk4xSjFYWGFIcldBUEZvM0xrWDlya3hrVzNRbWQxdFpXOEdXR2g0bmRDZ1FOS2t5TnlKNkE2WGhOVXp5MU9YZkRHM1hQSUhRT0hzMEx5MlU4a1dMS2lEMDZ2MVdrQ3dBeE5wZGhwTmFoLUJ2QjV0ZzEzMXJ3eVpsaGVKM2ZmYlJrNi02MWl3Q1I0UFN4VQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T11:38:00Z"
+    },
+    {
+      "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-25T11:30:24Z"
+    },
+    {
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-25T11:29:40Z"
+    },
+    {
+      "title": "Trump’s acting Army secretary quietly eyes permanent role",
+      "url": "https://thehill.com/homenews/6241528-adam-telle-army-secretary-nomination/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T11:00:00Z"
+    },
+    {
+      "title": "Trump, Newsom find political advantage in their escalating feud",
+      "url": "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T11:00:00Z"
+    },
+    {
+      "title": "Trump puts contractors in the crossfire of coming Democratic probes",
+      "url": "https://thehill.com/homenews/administration/6241294-trump-executive-order-contractors/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T11:00:00Z"
+    },
+    {
+      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T08:29:22Z"
+    },
+    {
+      "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhaempkSHZWLTF5eVhTNC1qNmlwandab2ZSNERLTElpWGVjMGl1OGhoc1lvUmdTaC0yWG9ydXFQRVcteFhFQ0llNGhTaTdQdXdqUVBnVVQyZm5oaVFtQW9FRFF5ZnotRHVvc2k2cV9ENlpkSzgtR2x4SXIwWWFlTDBRNzJsLTFGbHptckFOUkN1bENXV1pCUHZjcHZ1MkRrRUU5UmFCWVUyd296NXJBMVFQSFVwelk5eEc4ZWhOS1ZFT1U?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T07:33:00Z"
+    },
+    {
+      "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T06:13:00Z"
+    },
+    {
+      "title": "EU plans €50 billion tech fund to challenge US and China, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNwSjZLMGhnbjRUT3dCanR4NUNvbFlkOHpleklINGJuU3p4X1dqQlpTZHYtYm85OTBLSlQ2ZjVudXJrQ2xvazBWN3lydjZXOUdzdjJ0amJ0Ulh5X3dXVEszdTM5QTdlMU9PbkszRmd4djFaLWh1M0FxQ1E5NzJQeDY5QTdSN2lvSGJpNUlUTGlSeVJjeGFzX0xpdlFzbS1GNzlfdDZLMTIwY0E?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T05:19:00Z"
+    },
+    {
+      "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T05:16:00Z"
+    },
+    {
+      "title": "Colom says he’s ‘excited’ to work with Trump at Itawamba County town hall",
+      "url": "https://thehill.com/homenews/senate/6241772-colom-trump-healthcare-cooperation/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T04:03:16Z"
+    },
+    {
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T02:14:21Z"
+      "published_at": "2026-11-25T02:58:18Z"
     },
     {
       "title": "Trump says he’ll meet with El-Sayed to discuss ‘Trumpcare’",
@@ -81,28 +116,22 @@
       "published_at": "2026-11-25T01:50:07Z"
     },
     {
-      "title": "Stocks retreat as AI rebound stumbles, tariff threats loom - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T01:50:00Z"
-    },
-    {
       "title": "Pentagon talking with Ford to supply military vehicles",
       "url": "https://thehill.com/newsletters/defense-national-security/6241645-pentagon-ford-military-vehicles/",
       "source": "THE HILL",
       "published_at": "2026-11-25T01:16:28Z"
     },
     {
-      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
       "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
       "published_at": "2026-11-25T01:03:05Z"
     },
     {
-      "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T00:56:48Z"
+      "title": "Trump administration pauses joint military operations with Ecuador, NYT says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T01:02:00Z"
     },
     {
       "title": "How Trump may have profited from Huang's return to Nvidia",
@@ -117,100 +146,34 @@
       "published_at": "2026-11-24T23:35:28Z"
     },
     {
+      "title": "'How to Kill a Federal Judge' author sentenced to 6-1/2 years in US prison for threats - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnl3Z1lJRk41bDk4YTJjTlVheTEtNVBxR1M4eklCalpPTWpZTW5aZGw3SUtPRWhfVnhQSC1TcE9pQ1ZrSTd6VFdzLU1Cb0xWc2ljOXNfaDNNYUt1X1V0Y2pBbFh4WWsxM0pEQ25VaGlBdXVpN1NvTWZnNWs5MkRDY0JIa0g0U3pPM0NyRUlhUzdCQXhxd25FWGZlRXBPMkxEWndGQ1NLNEdTSlQ0aTE0NFVmLVBuUVdvcDI5YTNR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T23:30:45Z"
+    },
+    {
       "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-24T23:30:28Z"
     },
     {
-      "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
+      "title": "Trump spares turkeys Freedom and Feathers from fowl Thanksgiving fate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnbEt2b1RHYVhnT0FqbG9KLUdubDhaVHpBelJ5eXFROTJSd3BlaTQtLVNvYS1KbHpCOHptMGJCempMZXZ0ZF9GOW1nVV9rN1dPUnBwaC1saUI1ZjVDRkY2alBieG92M1RYa0FkRFRZMmdMOG5Tekg3em1wMklIcFVBYlVuQVh4Szg4VzNac1NnZzlWY2ZlWGlack1EZVdod1ZEaklUNmcwQzhwTVNnTWhmZw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:48:13Z"
+      "published_at": "2026-11-24T22:59:00Z"
     },
     {
-      "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+      "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVEyZlVjRXh4R2pLS0xqQnMzNGtuNld1VllkX0VPdzVGZkZQZG82TnY2NWpIcURrUEZSQnh4RjdjYWVUd21XN2FXMGFLcGp6WVNTX0c5V3FULVVxSEZMM2UweDZsOTJzdFpuWENrclhxb2Zhemp4MUlXU3hRVVAzalluQnNBUGJRTW1nX09XUExMUUxKUEtHbWR5SDJIdHNEYkpHTW03dU5xQjE1ZEFjTVZGQUM?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:39:43Z"
-    },
-    {
-      "title": "Ukraine says attack on Russian ships in Libya was self-defence - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:37:11Z"
+      "published_at": "2026-11-24T22:28:09Z"
     },
     {
       "title": "How much did Trump stand to make from Huang return?",
       "url": "https://thehill.com/homenews/administration/6241139-trump-nvidia-huang-return-profits/",
       "source": "THE HILL",
       "published_at": "2026-11-24T22:26:48Z"
-    },
-    {
-      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T22:09:57Z"
-    },
-    {
-      "title": "Hungary, Ukraine make 'fresh start' as Magyar visit kickstarts trade talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:02:25Z"
-    },
-    {
-      "title": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
-      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T22:02:13Z"
-    },
-    {
-      "title": "Jennings: Talarico, Colom should run for White House",
-      "url": "https://thehill.com/homenews/campaign/6241202-scott-jennings-urges-talarico-colom/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T21:59:47Z"
-    },
-    {
-      "title": "Democrat opens investigation into Venezuela oil deal with reported tie to Vance",
-      "url": "https://thehill.com/homenews/senate/6241094-hassan-investigates-vance-vitol/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T21:47:17Z"
-    },
-    {
-      "title": "UK warns of Russian sabotage threat to companies that supply Ukraine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T21:32:51Z"
-    },
-    {
-      "title": "Dutch lawmakers urge government to resist US MATCH bill targeting ASML - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzVHX3hnSlM5Wlc1cnprdlZlZ2tEUi1TNkJHYTRzMjUzbnVtek5JSVVFNjZLdXZmeXlUT2lGRFFRaHdZd2pwMWY0MkI3M0tZRVI1d3NmRmotalRHQXdOd3NzUi1ocmJFZU9CY3ByUmZZN3pBSTc3V2NkS0V6d2Jfbzg4V2hJZF81ZHp4djVOU2RJTExUOG1fUlNmYXk3Uy1GWlYxbnR1NmFYcWxjSTRLblNzMmU4UQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T21:21:47Z"
-    },
-    {
-      "title": "Navy says it won’t rename USS Doris Miller aircraft carrier after Trump",
-      "url": "https://thehill.com/policy/defense/6241034-navy-uss-doris-miller-trump-pearl-harbor/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T21:18:26Z"
-    },
-    {
-      "title": "Live updates: Huang’s Nvidia return faces backlash; Iowa governor backs Army’s lead detonation date",
-      "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T21:15:00Z"
-    },
-    {
-      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-      "source": "NPR",
-      "published_at": "2026-11-24T21:04:50Z"
-    },
-    {
-      "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T20:54:49Z"
     }
   ]
 }
