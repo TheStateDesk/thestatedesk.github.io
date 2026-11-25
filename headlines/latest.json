@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T18:10:52.569923Z",
+  "generated_at": "2026-11-25T02:44:21.617911Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -13,6 +13,29 @@
   ],
   "source_warnings": [],
   "priority": [
+    {
+      "title": "Watch: Trump pardons turkeys Freedom and Feathers",
+      "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-24T20:45:09Z",
+      "source_count": 4,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/"
+        },
+        {
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers"
+        },
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-turkey-pardon-freedom-feather-bb973ff5e095fa20229f49aea36dafd5?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
     {
       "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
       "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
@@ -29,49 +52,15 @@
       "note": "Potential major development; verify original reporting before publishing."
     },
     {
-      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T17:45:36Z",
-      "source_count": 3,
+      "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+      "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-24T17:13:02Z",
+      "source_count": 2,
       "other_sources": [
-        {
-          "source": "PBS NEWSHOUR",
-          "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm"
-        },
         {
           "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
           "url": "https://apnews.com/article/us-congress-donald-trump-jr-1789-investigation-f51c0cd43c57326ab8540ac661dca2ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
-      "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T16:12:37Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/jensen-huang-nvidia-trump-democrats-presidential-candidates-7c83c2f90e924291e435e0fb0d51f524?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "WATCH LIVE: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T14:56:08Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6239400-trump-white-house-thanksgiving-turkey-pardon/"
         }
       ],
       "priority_score": 5,
@@ -80,148 +69,148 @@
   ],
   "headlines": [
     {
-      "title": "Congress must not chicken out on investigating Nvidia",
-      "url": "https://thehill.com/opinion/national-security/6239118-nvda-ceo-reinstated-after-scandal/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T18:00:00Z"
-    },
-    {
-      "title": "Jane Fonda, De Niro join celebrities backing Van Hollen as next Senate leader",
-      "url": "https://thehill.com/homenews/senate/6240220-celebs-endorse-van-hollen-majority-leader/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T17:59:57Z"
-    },
-    {
-      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T17:58:20Z"
+      "published_at": "2026-11-25T02:14:21Z"
     },
     {
-      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2I2bERDWFVzTGY0OFhwaE0xVHRxaFFWM0REVzVOVjBsRkIyQjdwTlVEdnBzSmtqc2FlRFlJOERuOTc1Q1ZDV2U4SWRFa01fQTNHMnZJTjRXOW5VOUVMcjA1WDI4eW5vZ0FFbmRiNEc4aGdsSDQ0Zm1TNFBiVE5Pb0tIVm1SSzRIa3BVTk5GQ2NPY0JhMG1HLVpHamtrVWswd09ONFJCN3JSZDlBd0pYdGxwTE9tNm5sQ0FB?oc=5",
+      "title": "Trump says he’ll meet with El-Sayed to discuss ‘Trumpcare’",
+      "url": "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T01:50:07Z"
+    },
+    {
+      "title": "Stocks retreat as AI rebound stumbles, tariff threats loom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T17:57:26Z"
+      "published_at": "2026-11-25T01:50:00Z"
     },
     {
-      "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
-      "url": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T17:53:38Z"
+      "title": "Pentagon talking with Ford to supply military vehicles",
+      "url": "https://thehill.com/newsletters/defense-national-security/6241645-pentagon-ford-military-vehicles/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T01:16:28Z"
     },
     {
-      "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
+      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-25T01:03:05Z"
+    },
+    {
+      "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T17:45:36Z"
+      "published_at": "2026-11-25T00:56:48Z"
     },
     {
-      "title": "House Democrat: Trump intervention in Huang expulsion sets ‘bad precedent’",
-      "url": "https://thehill.com/homenews/house/6240192-subramanyam-calls-trump-nvidia-probe/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T17:36:09Z"
-    },
-    {
-      "title": "Time for new leadership in Senate",
-      "url": "https://thehill.com/opinion/campaign/6239073-van-hollen-senate-leader/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T17:30:00Z"
-    },
-    {
-      "title": "Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor",
-      "url": "https://thehill.com/homenews/administration/6240166-donald-trump-honors-rudy-giuliani-presidential-medial-of-freedom/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T17:21:14Z"
-    },
-    {
-      "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
-      "url": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+      "title": "How Trump may have profited from Huang's return to Nvidia",
+      "url": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T17:13:02Z"
+      "published_at": "2026-11-24T23:55:53Z"
     },
     {
-      "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-24T17:09:34Z"
-    },
-    {
-      "title": "Iraqi PM orders federal government to manage oilfields under control of Kurds, Kurds reject move - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T17:09:34Z"
-    },
-    {
-      "title": "Ben Shapiro on Trump, Israel and the future of the Republican party",
-      "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/ben-shapiro-on-trump-israel-and-the-future-of-the-republican-party",
+      "title": "N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South'",
+      "url": "https://www.pbs.org/newshour/show/n-c-democrat-reflects-on-flipping-longtime-gop-seat-its-a-new-day-in-the-south",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T17:01:51Z"
+      "published_at": "2026-11-24T23:35:28Z"
     },
     {
-      "title": "It’s up to the Supreme Court to save academic freedom in the US",
-      "url": "https://thehill.com/opinion/education/6234029-scotus-academic-freedom-first-amendment/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T17:00:00Z"
-    },
-    {
-      "title": "Top House Democrat calls for public hearing with Jensen Huang",
-      "url": "https://thehill.com/policy/technology/6240078-top-house-democrat-calls-for-public-hearing-with-jensen-huang/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T16:52:33Z"
-    },
-    {
-      "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+      "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T16:32:12Z"
-    },
-    {
-      "title": "Trump shares meme of Jensen Huang raising red bra in air",
-      "url": "https://thehill.com/homenews/administration/6239971-trump-jensen-huang-ai-meme/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T16:31:38Z"
-    },
-    {
-      "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
-      "url": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T16:12:37Z"
-    },
-    {
-      "title": "Nebraska senator announces husband’s death: ‘Our family is heartbroken’",
-      "url": "https://thehill.com/homenews/senate/6239912-senator-deb-fischer-husband-dies/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T16:06:12Z"
-    },
-    {
-      "title": "Education Department orders federal funding freeze for Virginia district beset by abuse, screening scandal",
-      "url": "https://thehill.com/homenews/education/6239925-doe-withholds-virginia-school-funds/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T16:06:07Z"
-    },
-    {
-      "title": "China's BYD in talks to buy French car factory from Ineos Automotive - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTVFdHUtZkhnUVF2LW9BQW1HWXUtSnFvUmFaOFN0TkY1RWtqZUx3bTBjY2p2ck5wNGpLT003cnF5dW9zQWRhX0lmcjBMS2dUc2ctdU44YW8wazA3NzkyX1M4SUhkdy1LNlc0bnJRVm1ySTVtUlRnMFJqaEJvR0tqX0w5T0dmdEdadDNfNW91dW16REg2R1BTaHhxODZET2hoSEhVemJRWGdkd0U4OW40QXJxbzRYc1ByX0RHZHpjWQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T16:05:57Z"
-    },
-    {
-      "title": "Lessons from air traffic control chaos for Medicare for All",
-      "url": "https://thehill.com/opinion/6239080-air-traffic-control-medicare-lessons/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T16:00:00Z"
-    },
-    {
-      "title": "Trump’s intervention on Huang will exact ‘heavy cost’ on rule of law, national security: WSJ editorial board",
-      "url": "https://thehill.com/homenews/media/6239781-donald-trump-jensen-huang-national-security-nvidia-return-wall-street-journal-editorial-board/",
-      "source": "THE HILL",
-      "published_at": "2026-11-24T15:55:39Z"
+      "published_at": "2026-11-24T23:30:28Z"
     },
     {
       "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T15:35:37Z"
+      "published_at": "2026-11-24T22:48:13Z"
+    },
+    {
+      "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T22:39:43Z"
+    },
+    {
+      "title": "Ukraine says attack on Russian ships in Libya was self-defence - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T22:37:11Z"
+    },
+    {
+      "title": "How much did Trump stand to make from Huang return?",
+      "url": "https://thehill.com/homenews/administration/6241139-trump-nvidia-huang-return-profits/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T22:26:48Z"
+    },
+    {
+      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-24T22:09:57Z"
+    },
+    {
+      "title": "Hungary, Ukraine make 'fresh start' as Magyar visit kickstarts trade talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjc0WEhBdUdQN1JVNUExSXFCNkpwMktDM1BRamc5bHVINzdzckl0bzIyS1RvZUktLUtwOWJNVk4xV2piVjNYejFYTkNYanNQQUZOZmNfWDFxcThpU2NBODFxamx6TXN3V3drYm5BNGJydEZDd1FxbUg0REctb0VTMGtWaFNBSG9QVklwb2pxVGRjeGhwSERvZ0x2UWhmMTROaHlDMVB4cTkxcUt3N2c?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T22:02:25Z"
+    },
+    {
+      "title": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
+      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-24T22:02:13Z"
+    },
+    {
+      "title": "Jennings: Talarico, Colom should run for White House",
+      "url": "https://thehill.com/homenews/campaign/6241202-scott-jennings-urges-talarico-colom/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T21:59:47Z"
+    },
+    {
+      "title": "Democrat opens investigation into Venezuela oil deal with reported tie to Vance",
+      "url": "https://thehill.com/homenews/senate/6241094-hassan-investigates-vance-vitol/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T21:47:17Z"
+    },
+    {
+      "title": "UK warns of Russian sabotage threat to companies that supply Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T21:32:51Z"
+    },
+    {
+      "title": "Dutch lawmakers urge government to resist US MATCH bill targeting ASML - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzVHX3hnSlM5Wlc1cnprdlZlZ2tEUi1TNkJHYTRzMjUzbnVtek5JSVVFNjZLdXZmeXlUT2lGRFFRaHdZd2pwMWY0MkI3M0tZRVI1d3NmRmotalRHQXdOd3NzUi1ocmJFZU9CY3ByUmZZN3pBSTc3V2NkS0V6d2Jfbzg4V2hJZF81ZHp4djVOU2RJTExUOG1fUlNmYXk3Uy1GWlYxbnR1NmFYcWxjSTRLblNzMmU4UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T21:21:47Z"
+    },
+    {
+      "title": "Navy says it won’t rename USS Doris Miller aircraft carrier after Trump",
+      "url": "https://thehill.com/policy/defense/6241034-navy-uss-doris-miller-trump-pearl-harbor/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T21:18:26Z"
+    },
+    {
+      "title": "Live updates: Huang’s Nvidia return faces backlash; Iowa governor backs Army’s lead detonation date",
+      "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/",
+      "source": "THE HILL",
+      "published_at": "2026-11-24T21:15:00Z"
+    },
+    {
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "source": "NPR",
+      "published_at": "2026-11-24T21:04:50Z"
+    },
+    {
+      "title": "PODCAST: Trump's Nvidia intervention, Ukraine war spreads to Libya and AI rally fizzles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDQ4VmpuUGp3SW9fRFdmaWowcnNZTXZkNl9ZX3NyTHhid1ZkYldlYWtkeGJ0VnRucTR3MDJoUzN4NnJ5ckdBdnRIT0c0UG82djYyQklKTUM3NG1ianZlUkNOUjVOU2xMYldsU1Y5cEI1R0ludFFaekQxRkc0RkM4OXhYOWxNOTBVdFJXS2txcjhXcnpzX0cwT1lBWnlEZmtaVVE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-24T20:54:49Z"
     }
   ]
 }
