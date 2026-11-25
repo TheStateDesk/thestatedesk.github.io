@@ -1,13 +1,13 @@
 {
   "version": 1,
   "election": "2026-11-03",
-  "checkedAt": "2026-11-24T10:02:11.787398+00:00",
+  "checkedAt": "2026-11-25T00:50:52.386635+00:00",
   "scope": "All 50 locally bundled county-equivalent geographies, with independently sourced county election office URLs where available. No actual 2026 results asserted.",
   "summary": {
     "states": 50,
     "countyEquivalents": 3143,
     "countySourcesIndependentlyLinked": 104,
-    "countySourcePagesResponding": 86,
+    "countySourcePagesResponding": 88,
     "countiesWithoutDirectVerifiedSource": 3039,
     "machineReadableCountyFeedsConfirmed": 0,
     "verified2026CountyReturnsBeforePollClose": 0
@@ -390,8 +390,8 @@
         "26031": {
           "county": "Cheboygan",
           "sourceUrl": "https://www.cheboygancounty.net",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
@@ -993,8 +993,8 @@
         "26165": {
           "county": "Wexford",
           "sourceUrl": "https://wexfordcounty.org",
-          "connectivity": "indeterminate",
-          "note": "Connection timeout or automated access blocked",
+          "connectivity": "reachable",
+          "note": "Webpage or portal reachable; actual vote feed and 2026 results NOT verified",
           "authorityListed": true,
           "machineReadable": false,
           "resultsVerified": false
