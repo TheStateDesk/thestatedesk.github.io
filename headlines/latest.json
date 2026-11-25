@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T12:35:18.636132Z",
+  "generated_at": "2026-11-25T21:57:15.453033Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,172 +8,171 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
-  ],
+  "source_warnings": [],
   "priority": [
     {
-      "title": "Trump spares turkeys Freedom and Feathers from fowl Thanksgiving fate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnbEt2b1RHYVhnT0FqbG9KLUdubDhaVHpBelJ5eXFROTJSd3BlaTQtLVNvYS1KbHpCOHptMGJCempMZXZ0ZF9GOW1nVV9rN1dPUnBwaC1saUI1ZjVDRkY2alBieG92M1RYa0FkRFRZMmdMOG5Tekg3em1wMklIcFVBYlVuQVh4Szg4VzNac1NnZzlWY2ZlWGlack1EZVdod1ZEaklUNmcwQzhwTVNnTWhmZw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:59:00Z",
+      "title": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+      "url": "https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-25T17:14:34Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "BBC NEWS",
-          "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss"
+          "source": "PBS NEWSHOUR",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-to-raise-tariffs-on-china-eu-brazil-and-others"
         }
       ],
-      "priority_score": 5,
+      "priority_score": 7,
       "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "'Russia wants more than Ukraine,\" says Germany's Merz as he defends aid for Kyiv - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUI5R19MZFluOFUyQWRCLTJnRVpNYnZfemhIT0g5bEZqblpJYXNxSVBFNk4xSjFYWGFIcldBUEZvM0xrWDlya3hrVzNRbWQxdFpXOEdXR2g0bmRDZ1FOS2t5TnlKNkE2WGhOVXp5MU9YZkRHM1hQSUhRT0hzMEx5MlU4a1dMS2lEMDZ2MVdrQ3dBeE5wZGhwTmFoLUJ2QjV0ZzEzMXJ3eVpsaGVKM2ZmYlJrNi02MWl3Q1I0UFN4VQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T11:38:00Z"
+      "title": "Trump: Iowa Gov-elect. Sand was ‘absolutely no help’ in controlled lead blast",
+      "url": "https://thehill.com/homenews/administration/6243848-trump-criticizes-sand-iowa-lead-blast/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T21:46:01Z"
     },
     {
-      "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
+      "title": "Navarro: Democratic probes a recipe for 2028 GOP president or ‘civil war’",
+      "url": "https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T21:31:39Z"
+    },
+    {
+      "title": "Abrego Garcia sees victory in Spain arrival after Trump deportation push",
+      "url": "https://thehill.com/homenews/administration/6243654-kilmar-abrego-garcia-trump-administration-deportation-case/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T21:18:34Z"
+    },
+    {
+      "title": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks",
+      "url": "https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T21:11:36Z"
+    },
+    {
+      "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+      "url": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T21:08:56Z"
+    },
+    {
+      "title": "GOP senator calls for vote on pro-labor bill",
+      "url": "https://thehill.com/homenews/senate/6243655-hawley-urges-cassidy-labor-vote/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T20:56:07Z"
+    },
+    {
+      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T11:30:24Z"
+      "published_at": "2026-11-25T20:55:05Z"
+    },
+    {
+      "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T20:50:19Z"
+    },
+    {
+      "title": "Miller touts Iowa blast as ‘tremendous display of unity’ under Trump",
+      "url": "https://thehill.com/homenews/administration/6243542-miller-praises-iowa-munitions-detonation-trump/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T20:35:00Z"
+    },
+    {
+      "title": "Second judge invalidates Trump’s new attempt to restrict birthright citizenship",
+      "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T20:01:28Z"
+    },
+    {
+      "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T19:56:16Z"
+    },
+    {
+      "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-25T19:36:24Z"
+    },
+    {
+      "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-25T19:36:22Z"
     },
     {
       "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
       "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC NEWS",
-      "published_at": "2026-11-25T11:29:40Z"
+      "published_at": "2026-11-25T19:22:18Z"
     },
     {
-      "title": "Trump’s acting Army secretary quietly eyes permanent role",
-      "url": "https://thehill.com/homenews/6241528-adam-telle-army-secretary-nomination/",
+      "title": "Christie says Huang return sends message Trump allies can ‘get away with anything’",
+      "url": "https://thehill.com/policy/national-security/6243210-christie-criticizes-trump-nvidia-huang/",
       "source": "THE HILL",
-      "published_at": "2026-11-25T11:00:00Z"
+      "published_at": "2026-11-25T19:01:42Z"
     },
     {
-      "title": "Trump, Newsom find political advantage in their escalating feud",
-      "url": "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/",
+      "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T18:55:31Z"
+    },
+    {
+      "title": "Jackson, progressive Maine senator-elect, backs Van Hollen for leader",
+      "url": "https://thehill.com/homenews/senate/6243237-troy-jackson-chris-van-hollen-support-senate-leadership-race/",
       "source": "THE HILL",
-      "published_at": "2026-11-25T11:00:00Z"
+      "published_at": "2026-11-25T18:38:58Z"
     },
     {
-      "title": "Trump puts contractors in the crossfire of coming Democratic probes",
-      "url": "https://thehill.com/homenews/administration/6241294-trump-executive-order-contractors/",
+      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T18:32:52Z"
+    },
+    {
+      "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T18:26:10Z"
+    },
+    {
+      "title": "Trump Accounts surpass $1B in donations from friends, family",
+      "url": "https://thehill.com/homenews/administration/6243156-trump-accounts-contributions-treasury/",
       "source": "THE HILL",
-      "published_at": "2026-11-25T11:00:00Z"
+      "published_at": "2026-11-25T18:13:52Z"
     },
     {
-      "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T08:29:22Z"
-    },
-    {
-      "title": "Meta officials meet India's opposition Congress amid protests on content curbs, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhaempkSHZWLTF5eVhTNC1qNmlwandab2ZSNERLTElpWGVjMGl1OGhoc1lvUmdTaC0yWG9ydXFQRVcteFhFQ0llNGhTaTdQdXdqUVBnVVQyZm5oaVFtQW9FRFF5ZnotRHVvc2k2cV9ENlpkSzgtR2x4SXIwWWFlTDBRNzJsLTFGbHptckFOUkN1bENXV1pCUHZjcHZ1MkRrRUU5UmFCWVUyd296NXJBMVFQSFVwelk5eEc4ZWhOS1ZFT1U?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T07:33:00Z"
-    },
-    {
-      "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T06:13:00Z"
-    },
-    {
-      "title": "EU plans €50 billion tech fund to challenge US and China, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUNwSjZLMGhnbjRUT3dCanR4NUNvbFlkOHpleklINGJuU3p4X1dqQlpTZHYtYm85OTBLSlQ2ZjVudXJrQ2xvazBWN3lydjZXOUdzdjJ0amJ0Ulh5X3dXVEszdTM5QTdlMU9PbkszRmd4djFaLWh1M0FxQ1E5NzJQeDY5QTdSN2lvSGJpNUlUTGlSeVJjeGFzX0xpdlFzbS1GNzlfdDZLMTIwY0E?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T05:19:00Z"
-    },
-    {
-      "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T05:16:00Z"
-    },
-    {
-      "title": "Colom says he’s ‘excited’ to work with Trump at Itawamba County town hall",
-      "url": "https://thehill.com/homenews/senate/6241772-colom-trump-healthcare-cooperation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T04:03:16Z"
-    },
-    {
-      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T02:58:18Z"
-    },
-    {
-      "title": "Trump says he’ll meet with El-Sayed to discuss ‘Trumpcare’",
-      "url": "https://thehill.com/homenews/administration/6241682-trump-el-sayed-trumpcare-healthcare/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T01:50:07Z"
-    },
-    {
-      "title": "Pentagon talking with Ford to supply military vehicles",
-      "url": "https://thehill.com/newsletters/defense-national-security/6241645-pentagon-ford-military-vehicles/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T01:16:28Z"
-    },
-    {
-      "title": "Trump's rescue of Nvidia's Huang brings political risks",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-25T01:03:05Z"
-    },
-    {
-      "title": "Trump administration pauses joint military operations with Ecuador, NYT says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T01:02:00Z"
-    },
-    {
-      "title": "How Trump may have profited from Huang's return to Nvidia",
-      "url": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
+      "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
+      "url": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
       "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T23:55:53Z"
+      "published_at": "2026-11-25T18:07:48Z"
     },
     {
-      "title": "N.C. Democrat reflects on flipping longtime GOP seat: 'It's a new day in the South'",
-      "url": "https://www.pbs.org/newshour/show/n-c-democrat-reflects-on-flipping-longtime-gop-seat-its-a-new-day-in-the-south",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-24T23:35:28Z"
-    },
-    {
-      "title": "'How to Kill a Federal Judge' author sentenced to 6-1/2 years in US prison for threats - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnl3Z1lJRk41bDk4YTJjTlVheTEtNVBxR1M4eklCalpPTWpZTW5aZGw3SUtPRWhfVnhQSC1TcE9pQ1ZrSTd6VFdzLU1Cb0xWc2ljOXNfaDNNYUt1X1V0Y2pBbFh4WWsxM0pEQ25VaGlBdXVpN1NvTWZnNWs5MkRDY0JIa0g0U3pPM0NyRUlhUzdCQXhxd25FWGZlRXBPMkxEWndGQ1NLNEdTSlQ0aTE0NFVmLVBuUVdvcDI5YTNR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T23:30:45Z"
-    },
-    {
-      "title": "COMMENTARY: Trump's Nvidia intervention rips up Wall Street playbook - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczdXX09VbktzSHB2LWVWdy1ZR3d0OTlhbGpndW9HU3ZzWjU0VXZwNzI5M0pFYXhXM0pOSS01REQxeG9rUG9kekdqbzdQdEttaDZ1YUVqSjFBc0xCSk45SnlyQ3ZHeXNlX2RYLUk1aVhuSU9hLTAxMjFoc3pYS3loNWZDLXdIUXFKd2xqcVJOMFVUMFhlOXA1TDd5UVgySHU1d3hwZ3BhTlFxOVc5OEl0UGVfRnUtVEJvZE5zZW82SXU3RmViQnp6Zl9kdkRYZw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T23:30:28Z"
-    },
-    {
-      "title": "Trump spares turkeys Freedom and Feathers from fowl Thanksgiving fate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnbEt2b1RHYVhnT0FqbG9KLUdubDhaVHpBelJ5eXFROTJSd3BlaTQtLVNvYS1KbHpCOHptMGJCempMZXZ0ZF9GOW1nVV9rN1dPUnBwaC1saUI1ZjVDRkY2alBieG92M1RYa0FkRFRZMmdMOG5Tekg3em1wMklIcFVBYlVuQVh4Szg4VzNac1NnZzlWY2ZlWGlack1EZVdod1ZEaklUNmcwQzhwTVNnTWhmZw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:59:00Z"
-    },
-    {
-      "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVEyZlVjRXh4R2pLS0xqQnMzNGtuNld1VllkX0VPdzVGZkZQZG82TnY2NWpIcURrUEZSQnh4RjdjYWVUd21XN2FXMGFLcGp6WVNTX0c5V3FULVVxSEZMM2UweDZsOTJzdFpuWENrclhxb2Zhemp4MUlXU3hRVVAzalluQnNBUGJRTW1nX09XUExMUUxKUEtHbWR5SDJIdHNEYkpHTW03dU5xQjE1ZEFjTVZGQUM?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-24T22:28:09Z"
-    },
-    {
-      "title": "How much did Trump stand to make from Huang return?",
-      "url": "https://thehill.com/homenews/administration/6241139-trump-nvidia-huang-return-profits/",
+      "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’",
+      "url": "https://thehill.com/homenews/administration/6242906-christie-slams-trump-miller-pick/",
       "source": "THE HILL",
-      "published_at": "2026-11-24T22:26:48Z"
+      "published_at": "2026-11-25T17:55:28Z"
+    },
+    {
+      "title": "Iran tightening control over Strait of Hormuz, spokesperson says",
+      "url": "https://thehill.com/policy/defense/6243090-iran-strait-of-hormuz-ships/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T17:54:19Z"
+    },
+    {
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "source": "NPR",
+      "published_at": "2026-11-25T17:30:47Z"
     }
   ]
 }
