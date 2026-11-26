@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T13:46:54.288639Z",
+  "generated_at": "2026-11-26T22:54:46.190239Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -14,30 +14,15 @@
   "source_warnings": [],
   "priority": [
     {
-      "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
-      "url": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T03:09:54Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/dnc-trump-ads-propaganda-lawsuit-fcc1b61e8e7134c01ca3e6dec7728442?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 5,
-      "note": "Potential major development; verify original reporting before publishing."
-    },
-    {
-      "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+      "title": "Trump demands probe of GDP data released before midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T21:30:00Z",
+      "published_at": "2026-11-26T22:13:21Z",
       "source_count": 2,
       "other_sources": [
         {
           "source": "THE HILL",
-          "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/"
+          "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/"
         }
       ],
       "priority_score": 5,
@@ -46,148 +31,148 @@
   ],
   "headlines": [
     {
-      "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation",
-      "url": "https://thehill.com/homenews/administration/6244532-trump-obama-cnn-army-iowa-lead-azide-detonation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T13:08:10Z"
-    },
-    {
-      "title": "Serbia presidential election set for December 27 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSm1tYjVaQVYwTmZWQk9pQXBBNlZvQjZGcjdpVlpzQ09hQmwxVmNJOXhiZVF1TTJsS05JM3NOOHhaRzJIaU9MT0c4bXdManBOdXk2Z2hReHlKTFJOaUR0aWRSMl9lVzNuelZRMkIycmpJRlV4RTBRd09kWVJTZ0tNdUNqRWNncHAtMzlyQnVmRQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T12:39:43Z"
-    },
-    {
-      "title": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T12:33:45Z"
-    },
-    {
-      "title": "Ukraine says Russia hits two grain ships near Odesa ports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlR6OVYzNjI0N0hVQ2FsMVFSWU13djRFWmZDLUFQSUNoOFdWZ2RSdlZuLVZvbjc3bDlwWGlrN3NLMnktVFQtTndObHZZQVBFTjRGSkY0SmJVSkVteFYyY2RXRDNfRkdlQ1VNVWtkbjBQZmgtbXhpYTFXOElWeDYxNVlHdUlwVnhDV28xZlJoSC1GQ0tjcGRvXzZjNnpvZ2l4SHNqS1pLaFpaUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T12:30:05Z"
-    },
-    {
-      "title": "European stocks rally as tech, bank stocks rebound, tariff fears ease - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T12:19:30Z"
-    },
-    {
-      "title": "Xi and Putin are thankful this year for Trump",
-      "url": "https://thehill.com/opinion/national-security/6240190-trump-colby-nato-security-strategy/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T12:00:00Z"
-    },
-    {
-      "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
-      "source": "NPR",
-      "published_at": "2026-11-26T11:43:47Z"
-    },
-    {
-      "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
-      "source": "NPR",
-      "published_at": "2026-11-26T11:43:10Z"
-    },
-    {
-      "title": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T11:10:56Z"
-    },
-    {
-      "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
+      "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
       "source": "THE GUARDIAN",
-      "published_at": "2026-11-26T11:00:33Z"
+      "published_at": "2026-11-26T22:36:55Z"
     },
     {
-      "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
-      "source": "NPR",
-      "published_at": "2026-11-26T09:44:20Z"
-    },
-    {
-      "title": "China's defence ministry urges Japan to stop 'stirring up' South China Sea disputes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUJVQ2JZcnNsSFBFOTVuU0tTUjZUOHpSNFhpMXFkOVIxR0NFSUJ5d0F4a3BVa1BRcXdIUldMZjFKd1lMV2c3VjYxRHZEWnpvOTY2UE92dXowSUh6U00xRHpVYm52Y3VYQklTaVNQWFJBdFVFNUxxSk9uX2R6X25qNjkzNE1LOUM1a011ZmpUd29sMHI2OTdyNmJrSVFScmNUTkl3WFhfc0h4N3ZHZkctRnlWNFRncUg1Wi13SHVDU0ZldkE?oc=5",
+      "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T09:41:22Z"
-    },
-    {
-      "title": "Meta battles political storm in India as Congress party sues, stages protests - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlREaWpNT18tWDUtQTBMQW1GZkNzNGZ6d3ZUZFdRUkJXSEpVNXV0VFdoSUtkbXVXOFNzQURjbkNla1prbms0UlJ0VUNmVXJfOUtZWThKUzVwVklycWI0b0c1OHU3NDhETW5maUdxbVBFQTNfNTlqTFRac1NCLWFVNUViNzBWaXhqekhFR2FDTmI0akhwVnpCTGdRMHR4VDZrbmdjLU9xVVdXU0hjaVJiOGJlQ2RGWElLc3htT3haTk4?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T09:38:44Z"
-    },
-    {
-      "title": "Bulgaria ready to back EU loan for Ukraine for civilian aid, Radev says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dRYUZkbTc4Q2lNSlNIS2M3c2xRbGpoc20zbGcyZk5yWXQ2SlhtQ2VTMGZ2eElTY3ltaDlXd3RXWlVXR1hhV2JldklxeDlockpsMzU4cEotcFg4TGZpcWJPRHh0VmM5STFyMmlmRnlsak01VzUwSnFSaC0taTBKZ3Fhb2lqRlZDUThIQVNxa2U0bktBRHIyaG5JNnpSU2Y4UDcxcEIxMXNzQzRI?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T09:12:09Z"
-    },
-    {
-      "title": "Israel's Eisenkot resumes meetings with left-wing faction as coalition talks gain steam - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnltOGlBZG16OU1LUGlBS25WVUFhN2VnM0NhWHpzTlVscC1iOE5kdFZnaGhBbmNOdm80b05IQWttZm9MV0liVmZzVE56bXVxSHJXYXBmMktWSVQwZ2hfNmVGdWVJQmp5RkRtS1dXR0wwT0pXX1dFdUM5dDJrUWNTNHVsYjRNWXBWcmx3RTlqQ0ZQNEJWWFVxalA1Z0tkRExSbGJVOWpWX1pMY25aZHB3VnlvTWF0QUNvaElpM0FORVM5a1ZPa05mWDBXQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T09:02:23Z"
-    },
-    {
-      "title": "Trump's new tariffs aim to prise global trade from China's grip - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T07:03:00Z"
-    },
-    {
-      "title": "EU leaders divided over budget spending as they weigh a $49 billion loan to Ukraine",
-      "url": "https://apnews.com/article/europe-ukraine-budget-summit-loan-debt-f073925a2ed77232e0d7db404600985e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-26T06:00:06Z"
-    },
-    {
-      "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-      "source": "NPR",
-      "published_at": "2026-11-26T05:23:18Z"
-    },
-    {
-      "title": "China, Japan, South Korea and ASEAN launch talks on digital payments across borders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFVpME5hQ1VTaDIwVWlteDB0akRPQjJYYldDck5GTUVSNmdjelZXZnBTcU03R01fVW9CZE8zTXZVYVc0dl92M3hxcDhjZlhicUFEQndIS1Iyd1RPRXNjS1ZkUnFjWTNHeFZIcmFMUGRadXdvYnpXZkhhMFJwSjJVYnRWTlJrTkxIaFpucUdNQzJQQ0cxOGd6Z2J5WmJKVGVFSjdTUGJDWU5YSm1KUUNaWktTRzk3a3VPT3JrczlvWXpuaG9PV0huag?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T05:01:00Z"
-    },
-    {
-      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T04:20:00Z"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-26T04:10:58Z"
-    },
-    {
-      "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
-      "url": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T03:09:54Z"
-    },
-    {
-      "title": "Pacific trade bloc, ASEAN meet in Vietnam as Trump fires new tariff salvo - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTBpdWE3OHFzWWtzUUpIUHNYdzZVNUtiTjg5SVZndWxPQjE5VjUtUXA0Qk9KbmtFTVBIM2tqcUp5djQxczctUUVvcWFUaGFOYTZjNkZqVzNKcm9YbW1RaTdfc1ZjZDZCSnAzODhwUjRQeUV0eXlJRjAzV1pKb3ExS0dtMzRRRmdnUVVzS2lvcUdSeVZ5dmJoX2NYWnpfczZJN05LcW5ldlFZNEp0SjVqWU1UQkJ0dExPUjFN?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T03:06:00Z"
+      "published_at": "2026-11-26T22:32:57Z"
     },
     {
       "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
-      "url": "https://apnews.com/article/dnc-trump-ads-propaganda-lawsuit-fcc1b61e8e7134c01ca3e6dec7728442?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-26T02:55:01Z"
+      "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-26T22:20:22Z"
+    },
+    {
+      "title": "Trump demands probe of GDP data released before midterms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T22:13:21Z"
+    },
+    {
+      "title": "Democrats’ plan to end funding for Iran war leaves open what comes next",
+      "url": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T22:00:00Z"
+    },
+    {
+      "title": "Hamas weighs response after Israel kills 10 people in Gaza - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T20:56:54Z"
+    },
+    {
+      "title": "Emmer: GOP should have said it wasn’t ‘realistic’ to fix economy in 2 years",
+      "url": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T20:50:40Z"
+    },
+    {
+      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T20:23:16Z"
+    },
+    {
+      "title": "Analysis: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-26T19:55:58Z"
+    },
+    {
+      "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
+      "url": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T19:42:46Z"
+    },
+    {
+      "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-26T19:16:35Z"
+    },
+    {
+      "title": "Two Italians killed in attack on Kuwait site, Iran denies involvement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeE9DZXQ0VUMxV052eWlmWWlKM3R0LTFiMS1ITm93Ty1NOWpta1ZVNU5MeWVVMHRlcmdXd0NpZmxJeGlGZEhCeklaaEs2VWlSWnR0RVRLUHhCNm9MeFNTMmNUZFEyWWdoUVVBWUZTcVc0LVNFY0gxN050ZHNtS3psSVRHQWtBVEM5N3dPYVl6T1Flb0tBb1BlUGVxQ3ZaNURWVU9vTHYtTGxFRDJSQVhaMU1Tbw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T18:54:12Z"
+    },
+    {
+      "title": "Stop chasing billionaires — fix the broken corporate tax system instead",
+      "url": "https://thehill.com/opinion/campaign/6240367-california-billionaire-tax-failure/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T18:00:00Z"
+    },
+    {
+      "title": "Live updates: Bad weather disrupts Thanksgiving; Trump calls for probe into GDP data",
+      "url": "https://thehill.com/homenews/administration/6244342-live-updates-inclement-weather-thanksgiving-issues-iowa-detonation-fallout/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T17:58:39Z"
+    },
+    {
+      "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
+      "url": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-26T17:52:23Z"
+    },
+    {
+      "title": "Spain's De Cos to take over as ECB president from Lagarde - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T17:48:53Z"
+    },
+    {
+      "title": "European stocks end higher on easing tariff fears, ECB leadership continuity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T17:43:00Z"
+    },
+    {
+      "title": "Nate Silver: Trump could ‘absolutely’ be removed from office after midterm turmoil",
+      "url": "https://thehill.com/homenews/administration/6244759-nate-silver-donald-trump-impeachment-post-midterms/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T17:42:47Z"
+    },
+    {
+      "title": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWczelB1MldEZ2RSX1luOHBST0ZrMGtNMl81TTgwVE5fQTZtNnJxeElKMmlzSmdnLVpVTDRfVjluMVZSa09QaTluWGk5X2VTcEw2aFlPcmx1VmlsVHd5eUFMaWM4Nm5EX29OYlhlMzZyZW9fMmcxLUxkZ2kycGFiLWtQbU1jSVBsbWRwM3p0RDFEUU8yXzVOOGM5T3pRTWx0ZDZkTmptem0teU1WVjZCdk5lcDFpZ2F2UU1mbTVHOHJqRWVnRUFYdmR3?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T17:41:43Z"
+    },
+    {
+      "title": "Iraq closes two border crossings in Kurdistan region with Syria and Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXo4cXNsVjIzOVYyWnIxR1JOUjY5UUkzU0xCSXc2ampKcnhKajJ2VjdjWWdzSkY3QlV5Z0xNQkd1aUtKUWh6d19mMXlsTEc5RTk3T0NvbkJyM2Y4VWZ5bW9sRFhUX2Q4aGx5dGhLLXVLb0VDWDFaSGQ0eGZaZVRacTVlWkx1eVYwZEwwUWNSZEFpVGlQbVA5dkRGWXVmeHlpYzE5VFB3NVo5TzBmWHk1YXZjZmN2XzZjdS0w?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T17:32:41Z"
+    },
+    {
+      "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T17:09:43Z"
+    },
+    {
+      "title": "Trump, NATO chief urge Russia not to expand war in Ukraine",
+      "url": "https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T16:44:26Z"
+    },
+    {
+      "title": "Former IOC vice-president and trailblazer Anita DeFrantz dies at 74 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXNpc1ZpLWRhY2V3N3FCVFM5MXg4Q2FfX2MtYWNDUUxMLTYta25PZTFIMF9OdjR0dC0tNk82Tjh6RGNTNVk1aW9UWWFTdFotVHJodlhaeDVyMU9lNjlFelhlWXZfTE5iaDZtbDZXQ0tjUFhTLXVtYzJjX2RZcXVBUjRCamNBeVYxQ3hIZnMxcDlENnVxdlBScEp3TU0zLTZJR1EtWEpn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T16:40:52Z"
+    },
+    {
+      "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-26T16:36:06Z"
     }
   ]
 }
