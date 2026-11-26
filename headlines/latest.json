@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T21:57:15.453033Z",
+  "generated_at": "2026-11-26T04:04:17.153090Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -27,20 +27,146 @@
       ],
       "priority_score": 7,
       "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+      "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T22:30:20Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/spain-deportation-abrego-garcia-arrives-madrid-f6453face7e5c20c8750413956118e04?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
+    },
+    {
+      "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T21:35:04Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "THE HILL",
+          "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/"
+        }
+      ],
+      "priority_score": 5,
+      "note": "Potential major development; verify original reporting before publishing."
     }
   ],
   "headlines": [
     {
-      "title": "Trump: Iowa Gov-elect. Sand was ‘absolutely no help’ in controlled lead blast",
+      "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
+      "url": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T03:09:54Z"
+    },
+    {
+      "title": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T03:08:00Z"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC NEWS",
+      "published_at": "2026-11-26T03:01:40Z"
+    },
+    {
+      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-26T02:20:52Z"
+    },
+    {
+      "title": "EU ‘strongly rejects’ rationale behind Trump’s tariffs",
+      "url": "https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T00:24:34Z"
+    },
+    {
+      "title": "Judge blocks order for Fulton County to hand over 2020 ballot copies to state board",
+      "url": "https://thehill.com/regulation/court-battles/6244110-judge-blocks-ballot-return/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T23:52:55Z"
+    },
+    {
+      "title": "New Trump tariffs would likely increase sugar prices in the US - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJSZDlKMEI2OHVpZjlzVFhrbXlSVFpZRHFCMWFSSVVHRmZhcG9WVHlObTdFVGhUdjROUmRCYWYyRmFMQjNaMTlsOEktdVcyYlR6YjlMQUtiTXhPRm8wSTVRWGNLbllNVTVxR3VocFcxa1ZEQlZyeEpOTXk2ZUdENjczRl9zYnA4ODJQaEM4eHo4ZnNZdWZGOGdneVZ0ZjFDMGc?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T23:41:00Z"
+    },
+    {
+      "title": "Ben Shapiro and Amna Nawaz discuss GOP's future on 'Settle In'",
+      "url": "https://www.pbs.org/newshour/show/ben-shapiro-and-amna-nawaz-discuss-gops-future-on-settle-in",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T23:35:11Z"
+    },
+    {
+      "title": "For Trump, doubling down on tariffs is about power, not popularity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGF3UXNuQWFId2NPaERJLTVlLUhkQlp0WGpPNWRaamVTN3BmVFc5YkY3NVkzNHhJLUx6aTN4c2hZVnRucS13S1hMVlJWMEhzNllrYjJDSzczMndmRm5EeUhreW1qb0dpUG1HdTBrdnUtdGRLdFRVaDBWcFFEOXBsZ3gxMXlMNjJFbWk4ZzVtYXF3bWF2Z2NzZ3dTMmE5THV4VGdnRw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T23:31:00Z"
+    },
+    {
+      "title": "Rogan to GOP: Americans aren’t going to ‘tolerate this stupid s— anymore’",
+      "url": "https://thehill.com/homenews/campaign/6244013-rogan-blasts-gop-midterm-losses/",
+      "source": "THE HILL",
+      "published_at": "2026-11-25T23:11:06Z"
+    },
+    {
+      "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+      "url": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T22:53:33Z"
+    },
+    {
+      "title": "Georgia's Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+      "url": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T22:48:11Z"
+    },
+    {
+      "title": "Ábrego García, a Salvadoran mistakenly deported by U.S., goes to Spain but hopes to return after Trump",
+      "url": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-25T22:30:20Z"
+    },
+    {
+      "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T21:55:12Z"
+    },
+    {
+      "title": "Trump: Iowa Gov.-elect Sand was ‘absolutely no help’ in controlled lead blast",
       "url": "https://thehill.com/homenews/administration/6243848-trump-criticizes-sand-iowa-lead-blast/",
       "source": "THE HILL",
       "published_at": "2026-11-25T21:46:01Z"
+    },
+    {
+      "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T21:35:04Z"
     },
     {
       "title": "Navarro: Democratic probes a recipe for 2028 GOP president or ‘civil war’",
       "url": "https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war/",
       "source": "THE HILL",
       "published_at": "2026-11-25T21:31:39Z"
+    },
+    {
+      "title": "Senegal parliament adopts resolution opposing president's decision to implement budget - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXB4M0Z3YmVRY00wSW9jUGpyU0hzT2h0a0tFel9wcXFIZFVpYWphTTI5Qm1nSDYxOW5ueVU2OHdLUGx2OFlDOWV2YTg5Wjl4Z0I5VmtWWFZkS0lDdU9IUWZnTjlicHMwMkpURXZaVC1RYzJrRFg5TjJrM3VTdFJ6S29FcFhwSTNpOEluWWJTZlZsdi01amwyZWNja0ptZkJnMGRiWnFJNkE3T3FwOHZyWEhfRVpKTTkyd0pmdU4wM0hFZw?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-25T21:23:43Z"
     },
     {
       "title": "Abrego Garcia sees victory in Spain arrival after Trump deportation push",
@@ -62,15 +188,9 @@
     },
     {
       "title": "GOP senator calls for vote on pro-labor bill",
-      "url": "https://thehill.com/homenews/senate/6243655-hawley-urges-cassidy-labor-vote/",
+      "url": "https://thehill.com/homenews/6243655-hawley-urges-cassidy-labor-vote/",
       "source": "THE HILL",
       "published_at": "2026-11-25T20:56:07Z"
-    },
-    {
-      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T20:55:05Z"
     },
     {
       "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain - Reuters",
@@ -83,96 +203,6 @@
       "url": "https://thehill.com/homenews/administration/6243542-miller-praises-iowa-munitions-detonation-trump/",
       "source": "THE HILL",
       "published_at": "2026-11-25T20:35:00Z"
-    },
-    {
-      "title": "Second judge invalidates Trump’s new attempt to restrict birthright citizenship",
-      "url": "https://thehill.com/regulation/court-battles/6243427-second-judge-blocks-trump-birthright-citizenship/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T20:01:28Z"
-    },
-    {
-      "title": "How the Trump administration determined Jensen Huang is not a national security threat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T19:56:16Z"
-    },
-    {
-      "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T19:36:24Z"
-    },
-    {
-      "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-25T19:36:22Z"
-    },
-    {
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC NEWS",
-      "published_at": "2026-11-25T19:22:18Z"
-    },
-    {
-      "title": "Christie says Huang return sends message Trump allies can ‘get away with anything’",
-      "url": "https://thehill.com/policy/national-security/6243210-christie-criticizes-trump-nvidia-huang/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T19:01:42Z"
-    },
-    {
-      "title": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T18:55:31Z"
-    },
-    {
-      "title": "Jackson, progressive Maine senator-elect, backs Van Hollen for leader",
-      "url": "https://thehill.com/homenews/senate/6243237-troy-jackson-chris-van-hollen-support-senate-leadership-race/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T18:38:58Z"
-    },
-    {
-      "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T18:32:52Z"
-    },
-    {
-      "title": "US to cap India tariff at 17% if trade deal is reached, USTR says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-25T18:26:10Z"
-    },
-    {
-      "title": "Trump Accounts surpass $1B in donations from friends, family",
-      "url": "https://thehill.com/homenews/administration/6243156-trump-accounts-contributions-treasury/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T18:13:52Z"
-    },
-    {
-      "title": "State Department reports downplay violence and corruption in countries that asylum seekers are fleeing",
-      "url": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-25T18:07:48Z"
-    },
-    {
-      "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’",
-      "url": "https://thehill.com/homenews/administration/6242906-christie-slams-trump-miller-pick/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T17:55:28Z"
-    },
-    {
-      "title": "Iran tightening control over Strait of Hormuz, spokesperson says",
-      "url": "https://thehill.com/policy/defense/6243090-iran-strait-of-hormuz-ships/",
-      "source": "THE HILL",
-      "published_at": "2026-11-25T17:54:19Z"
-    },
-    {
-      "title": "Group of Senate Democrats push to add freshman to leadership",
-      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-      "source": "NPR",
-      "published_at": "2026-11-25T17:30:47Z"
     }
   ]
 }
