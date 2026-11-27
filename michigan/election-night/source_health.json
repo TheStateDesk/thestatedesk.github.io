@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T10:07:45.573516+00:00",
+  "checkedAt": "2026-11-27T22:19:38.162562+00:00",
   "purpose": "Public connectivity only; no automatic county return ingestion",
   "localCounties": {
     "status": "ready",
