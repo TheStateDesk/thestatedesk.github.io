@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T22:54:46.190239Z",
+  "generated_at": "2026-11-27T04:54:45.442028Z",
   "sources_checked": 8,
   "sources_reporting": [
     "NPR",
@@ -8,21 +8,22 @@
     "THE GUARDIAN",
     "PBS NEWSHOUR",
     "BBC NEWS",
-    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
-  "source_warnings": [],
+  "source_warnings": [
+    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+  ],
   "priority": [
     {
-      "title": "Trump demands probe of GDP data released before midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T22:13:21Z",
+      "title": "Trump demands probe into preelection GDP data, alleges ‘purposeful’ error",
+      "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/",
+      "source": "THE HILL",
+      "published_at": "2026-11-26T15:35:49Z",
       "source_count": 2,
       "other_sources": [
         {
-          "source": "THE HILL",
-          "url": "https://thehill.com/homenews/administration/6244608-trump-revised-gdp-data-probe/"
+          "source": "REUTERS VIA GOOGLE NEWS",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5"
         }
       ],
       "priority_score": 5,
@@ -31,16 +32,70 @@
   ],
   "headlines": [
     {
+      "title": "Zelensky on Trump calling Putin ‘friend’: ‘Same as somebody saying about Hitler’ in WWII",
+      "url": "https://thehill.com/policy/international/6245089-zelensky-calls-for-us-peace-progress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-27T03:51:11Z"
+    },
+    {
+      "title": "Trump: Iran war will be over ‘sort of whenever I want it to be’",
+      "url": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
+      "source": "THE HILL",
+      "published_at": "2026-11-27T01:41:40Z"
+    },
+    {
+      "title": "Trump says Putin can come to G20 if he wants - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-27T00:35:00Z"
+    },
+    {
+      "title": "Trump signals further openness to working with Democrats on healthcare",
+      "url": "https://thehill.com/homenews/administration/6245011-trump-democrats-healthcare-bipartisanship/",
+      "source": "THE HILL",
+      "published_at": "2026-11-27T00:33:50Z"
+    },
+    {
+      "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-27T00:25:00Z"
+    },
+    {
+      "title": "France's Macron says Le Pen should be less arrogant after she criticises EU budget talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlISjVuc0VWRk9XLWpHbFBVNUxKNWk4NzVSX3ZFVDZLbG12em9VX2RVLThzaHI0SXJ5M0dKOG9pR2VnZWhFelVYZXNnbjBvOUVDQW1xaHNYUl9wSmRRNl80a19GcDRwdnRva0NsMlI4Y3hPamhGUnlSbkpqWmRSRkJxVUNsdGNUUzJCcERsN3kzVFJmY1psTTh5ekhyX2x2N2JWNXl5Z3BIZ2hvYi0wNDBIRGJtTzQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T23:41:41Z"
+    },
+    {
+      "title": "How Democrats' election successes could lead to new climate change policies",
+      "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-26T23:40:45Z"
+    },
+    {
+      "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
+      "source": "NPR",
+      "published_at": "2026-11-26T23:06:14Z"
+    },
+    {
+      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T22:57:41Z"
+    },
+    {
       "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
       "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
       "source": "THE GUARDIAN",
       "published_at": "2026-11-26T22:36:55Z"
     },
     {
-      "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
+      "title": "Final New Zealand election vote count to confirm parliament make up - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T22:32:57Z"
+      "published_at": "2026-11-26T22:34:34Z"
     },
     {
       "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
@@ -49,16 +104,16 @@
       "published_at": "2026-11-26T22:20:22Z"
     },
     {
-      "title": "Trump demands probe of GDP data released before midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjAtVm85ZE55RGw0MXhaM3NVV1NlaHdlazNjODRQQjRPOGh2eDQ5aWYzcmxNSHpVWHNacEhhMDFaRDZ3YWIxalJzY3JCTXdjLVE4RXpmbktlZXNZTUc3RlE0LVhtTlo5Rl8xMm9nOXVPZmZ1eEd2XzJjcXQxX2otajdiUHN6djBScGpldmJvUXBIaG9UeUJxeW5kSWtnTTQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T22:13:21Z"
-    },
-    {
       "title": "Democrats’ plan to end funding for Iran war leaves open what comes next",
       "url": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
       "source": "THE HILL",
       "published_at": "2026-11-26T22:00:00Z"
+    },
+    {
+      "title": "Argentina Senate approves suspension of primaries, boosting Milei's reelection bid - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOME12Z2hWeXJDdjhYQll0TW9vYWFaMzgwdWdBQ05BR3k4ckdrdFo3SkdfOXZrOGVXU1VUOTNtYXRXWEJBYlExUllERjdYRGxqR3lCelZyQTJxd0o2Q1VacWw0Sk5QajJWbGlDaDV1Y2hjWDE4dEVjNFpSQXdhQWg4MmFydGdDMEhmQjI2TjNiMUliZ1hBX1lXaDBoRlN0RHoxeUpxV3JuMkU2TmFncHhfWXdyOFNaUlVrUC1NZnlSS0NoRFE?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-26T21:54:00Z"
     },
     {
       "title": "Hamas weighs response after Israel kills 10 people in Gaza - Reuters",
@@ -71,12 +126,6 @@
       "url": "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/",
       "source": "THE HILL",
       "published_at": "2026-11-26T20:50:40Z"
-    },
-    {
-      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T20:23:16Z"
     },
     {
       "title": "Analysis: Why Trump's new tariffs are less of a threat",
@@ -121,58 +170,10 @@
       "published_at": "2026-11-26T17:52:23Z"
     },
     {
-      "title": "Spain's De Cos to take over as ECB president from Lagarde - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV8wZkxRVTY5U0ZQeVZwSGtCMVZJTjV2d2t5TlhsSVoxQmpLRXI4OTV1R0QwQkV1QmZma3BDN0lrOEJTNGFVeloyeE5HbnhmWDZfR1VrbzN5TzZrck5WTTlKNTBaeFhVbDd4RldhY0hZMnFsczlsTURLY0FpWWgzeE5YVVc2NUZqMy1KbldQVDJfcUtsVEhINHF2emJ5SEFrMXozWUdTM3BFQQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T17:48:53Z"
-    },
-    {
       "title": "European stocks end higher on easing tariff fears, ECB leadership continuity - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-26T17:43:00Z"
-    },
-    {
-      "title": "Nate Silver: Trump could ‘absolutely’ be removed from office after midterm turmoil",
-      "url": "https://thehill.com/homenews/administration/6244759-nate-silver-donald-trump-impeachment-post-midterms/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T17:42:47Z"
-    },
-    {
-      "title": "Turkish elections to be held in 2028, ruling alliance agrees on Erdogan candidacy, vice president says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWczelB1MldEZ2RSX1luOHBST0ZrMGtNMl81TTgwVE5fQTZtNnJxeElKMmlzSmdnLVpVTDRfVjluMVZSa09QaTluWGk5X2VTcEw2aFlPcmx1VmlsVHd5eUFMaWM4Nm5EX29OYlhlMzZyZW9fMmcxLUxkZ2kycGFiLWtQbU1jSVBsbWRwM3p0RDFEUU8yXzVOOGM5T3pRTWx0ZDZkTmptem0teU1WVjZCdk5lcDFpZ2F2UU1mbTVHOHJqRWVnRUFYdmR3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T17:41:43Z"
-    },
-    {
-      "title": "Iraq closes two border crossings in Kurdistan region with Syria and Iran - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXo4cXNsVjIzOVYyWnIxR1JOUjY5UUkzU0xCSXc2ampKcnhKajJ2VjdjWWdzSkY3QlV5Z0xNQkd1aUtKUWh6d19mMXlsTEc5RTk3T0NvbkJyM2Y4VWZ5bW9sRFhUX2Q4aGx5dGhLLXVLb0VDWDFaSGQ0eGZaZVRacTVlWkx1eVYwZEwwUWNSZEFpVGlQbVA5dkRGWXVmeHlpYzE5VFB3NVo5TzBmWHk1YXZjZmN2XzZjdS0w?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T17:32:41Z"
-    },
-    {
-      "title": "Mexico urges Asian trade partners to crack down on tariff dodging - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T17:09:43Z"
-    },
-    {
-      "title": "Trump, NATO chief urge Russia not to expand war in Ukraine",
-      "url": "https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war/",
-      "source": "THE HILL",
-      "published_at": "2026-11-26T16:44:26Z"
-    },
-    {
-      "title": "Former IOC vice-president and trailblazer Anita DeFrantz dies at 74 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXNpc1ZpLWRhY2V3N3FCVFM5MXg4Q2FfX2MtYWNDUUxMLTYta25PZTFIMF9OdjR0dC0tNk82Tjh6RGNTNVk1aW9UWWFTdFotVHJodlhaeDVyMU9lNjlFelhlWXZfTE5iaDZtbDZXQ0tjUFhTLXVtYzJjX2RZcXVBUjRCamNBeVYxQ3hIZnMxcDlENnVxdlBScEp3TU0zLTZJR1EtWEpn?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-26T16:40:52Z"
-    },
-    {
-      "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
-      "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-26T16:36:06Z"
     }
   ]
 }
