@@ -1,20 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T23:21:55.738966Z",
+  "generated_at": "2026-11-28T04:54:43.437876Z",
   "sources_checked": 8,
   "sources_reporting": [
-    "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
+    "AP VIA FLIPBOARD (UNOFFICIAL)",
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "BBC NEWS: no recent politics items",
-    "AP VIA FLIPBOARD (UNOFFICIAL): no recent politics items"
+    "NPR: no recent politics items",
+    "BBC NEWS: no recent politics items"
   ],
-  "priority": [],
+  "priority": [
+    {
+      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+      "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-27T16:51:50Z",
+      "source_count": 2,
+      "other_sources": [
+        {
+          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+          "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
+        }
+      ],
+      "priority_score": 7,
+      "note": "Potential major development; verify original reporting before publishing."
+    }
+  ],
   "headlines": [
+    {
+      "title": "China's premium puffer jacket push meets consumer resistance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlExbWltNnJEdUNzdzVrMGN1M29qbkc5d3l4MnVFd01fOXBiZFAwS2dVRHB1NmdHb3FLLWVwOV9BUEpwWndDc2lwdGt5T05HdDYwVC1pRllMMk93cGRyM3ZMSUxHM2owcUFRRjZmVzhVdWp3NEJmbFNoQndxNWhJQmdVYk03SkwtN29vT2dMekY5SjBVNlZibWFtVkkyUHBqdXBNd09WQnJiQnRBQTVLQWNRR1FNUUNvdUd4UQ?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T01:05:00Z"
+    },
+    {
+      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T00:01:00Z"
+    },
+    {
+      "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-27T23:40:22Z"
+    },
+    {
+      "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+      "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+      "source": "PBS NEWSHOUR",
+      "published_at": "2026-11-27T23:30:40Z"
+    },
+    {
+      "title": "US government bars bandwidth provider RETN from American networks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTJDdGNxNk9lQ25td3hEVlhGVDJLZktoSmRQMWxkZ1FCbG5oLVZBd2RhTUcwSGVQRnczNXplSnNjUFNfekRwdDJtWEV0bEVNQWdYZUdHUXBreXhhUmlFeXREYkpNTF9PaW80Z0ZNdEJGLWpDS1JVYnloeXBwZmhDRy12T3VrTk84TUxIRVBTUlNpajN1Wk13b3hZeXktRU9XczYtSG1NWWxvc3pYV0VZSlE5S3NqNzZnc0Zn?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-27T23:11:16Z"
+    },
+    {
+      "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-27T22:55:47Z"
+    },
     {
       "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXNCT24ycjVGZVlCV1Q4bnFlalVUNXhHc0xLVzlFdkJtNGhZM2NXSmpyWnZXU2Q2ZWRPcXRza2tZM1ZPMGVMWjM2V2U5NHBBYWdSSFZLb29odWtqZW1SVXZNZDAxUVdLUVl6X2FiYTMzZzFqTHhaLW51X0s0TnJPVk45Rmd0Um5UdnVfdXRkWGR1UGNtY3h6a2JsNFhfZTd5N25VVWRGdE5iVUpkXzhQWkZPRkc5UDFjSzhvRmxNc1M?oc=5",
@@ -26,6 +78,18 @@
       "url": "https://thehill.com/homenews/6243704-snl-skit-boosts-caregiver-legislation/",
       "source": "THE HILL",
       "published_at": "2026-11-27T22:00:00Z"
+    },
+    {
+      "title": "US military says it has disabled another ship trying to breach its blockade, and other Mideast news",
+      "url": "https://apnews.com/article/saudi-iran-yemen-israel-november-27-2026-dbb2c950f5cd991a52f3a065b6325535?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-27T21:26:28Z"
+    },
+    {
+      "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+      "url": "https://apnews.com/article/iran-naval-blockade-us-military-disabled-ship-800620518a351282f098faa9381b3375?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-27T20:43:05Z"
     },
     {
       "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade - Reuters",
@@ -40,10 +104,10 @@
       "published_at": "2026-11-27T19:47:21Z"
     },
     {
-      "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T19:17:56Z"
+      "title": "Zelenskyy urges US to pressure Putin and questions Trump's reference to Putin as a 'friend'",
+      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-d891149b4cbd6521b83096a32bd5e53d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-27T19:33:04Z"
     },
     {
       "title": "Spain's Sanchez insists he will defy polls as election campaign wraps up - Reuters",
@@ -94,70 +158,22 @@
       "published_at": "2026-11-27T15:41:43Z"
     },
     {
+      "title": "Deadlocked final result in New Zealand's election leaves a centrist newcomer as the decider",
+      "url": "https://apnews.com/article/new-zealand-election-results-a19a838d8256a0762703ff0572aca3e6?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-27T15:22:55Z"
+    },
+    {
       "title": "Dutch PM to discuss MATCH Act chipmaking export controls with Trump at G20 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWxBYUpTVDhrVzJiSHloOE1CUnA4SURkemtJVFRkM2g5ZWxUUFBIeVd0M3EtWThILU10MV9jcVJuNjNzdlVibndDU2JTMDdTc0pMZnJuZ1d4STNvbmtYMmY2VU5UcHlxaHpIeHM1YmR3MDQ5MEY3c0lsTFhJbEtGUlRmMWczRFVKLU0zUHkzUVhnZjFDMWVfbEZ6V3lKbGZFVDNyV2lVWGFNM2ZnWWRmcmc0R2dMdw?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-27T14:07:44Z"
     },
     {
-      "title": "Trump backs Iraqi leader's efforts to assert more state authority - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE9aRmVNN0dTb3V4aExjamVrY0F0X3hVb3g5ZWZZY1B1bVNzb2wwQkFXdi1ka3d2RFk1M1FDVGdUSXkwLTlRU3p0Q0RsRHM4cUsxcm5JOVFUN1U5bF9hYWtBVzZRYmhSVHEyaW8tZExhLVhfZmhZWHRXZzRTTXlONm9wTjRwNkxfY2MxVjZUUExpTGdqMU1jSDVxNXRNclIxa1hsRXcxTzhycGcxbW9vRDV0czJ4dw?oc=5",
+      "title": "Czech lower house approves windfall tax on refineries, will hit Orlen - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZlQzhOdlJaT2pkWWdHWm9wbFE3UVFYOURGS3Q5R2NpTEZyMmRLY3cxZHRSa3pwNHVSWXlTTkYweDZ5V1NMcDNqNHhjZkZ6MjNVbHJIREpBdkhna2hOUTZVNFZ6SDJOdmNxR1RscDhaNURwZFpvc0dqeF94eUxFeWV3TWF3R05OM1RjeFpIbXFZWmhYdF8wVTNtbC1oVEV2cjY5UA?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T13:11:44Z"
-    },
-    {
-      "title": "Spain's far-right Vox leader Abascal nears power as election kingmaker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1AxaFV1YTZ1VFB6MmVETG5iUmpxLWNEbjVDejhPZjJIVml6ZExzVGdxdGlmQUtfbkJ6ZUVWMzd6TDVVb1BsT1UtVXdXa3llbjFKbkFyQUJRdjJiUFdhVmxKdXpIemxhcDlLN1JpTDdHX3dhUzBQUmZRMGR6ZzZEOXNwWUFmVjU2ckRNcUI4TVVxT2ZHQWQ0RFdyZDBxajRrM3N2N0RhYw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T13:04:23Z"
-    },
-    {
-      "title": "It’s up to Congress to clean up the country’s prediction-market mess",
-      "url": "https://thehill.com/opinion/finance/6240695-utah-kalshi-sports-betting-lawsuit/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T13:00:00Z"
-    },
-    {
-      "title": "PODCAST: China boost lifts tech - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUxDcmFlaWNUU0dyU1hBUHdKX1BNV1QwUGxaSVlOTmNaNTQ3Rmd4WHpCMHRCbFBteFVTS1pyN2VMWjZsOXE1REg5cGcza213R21MbDJtWGxjTzE5VHBEYUU5eHpyVkZkZThSS203R3lteFVZOUJEc01XdUhocUxBOEN0aFVRdlZtQ0JjYXpZdlM?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T12:41:50Z"
-    },
-    {
-      "title": "Russian domestic natural gas price may complicate talks with China, analyst says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHJSUDNXTTVWWEpBdmZJMEhFc2V2THkwZm5aYm1WLXhKRG9kYkl0V1g4V0oxeHNTZkVIQnZiX0sxOWM5ME85Q2RMUDlHSDZMQVM3dTB4MFZQa1VPbkEyOUI5b2VnV0EyXzRlUldCYl9MV2JiUzJPcHc1cnF4OXBPZHBIVjVxdU5TUnByaGdidjZwUGFPdFZJNUJjUkZUcTNHT0otNlVDZklOTmRxc3NHM2w2aHIyTnJPeTgxaGRJamI4X0tkcV93c0ZFUQ?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T12:21:45Z"
-    },
-    {
-      "title": "Milei's South Atlantic ambitions test Argentina's military limits - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmRMbS1aMjBWRHN4Z1JiSE5aRVJkRm55Y0ZyTUJWTXBObnlfNVVRVk1Qd2dncXAzVEdqcTFlcVhHXzBmQjRuZzl2c01Oc01JOGkzX2hQOUJMUm9KNUpRckt6eVVXNHJycGd0UkJ2U1JEal9aVFRzNVdIVnZKbVhpUy1wb1p3aDItck10QW5xZFZEVlNjUEpYeGF2ZHdzZEo4V2VhRXVpdW1tSjdjR1JROGI2VHJGdWZFYzJvUkpkM0ptWTlv?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T12:06:56Z"
-    },
-    {
-      "title": "What history can teach Trump about his lame-duck era | Politics Weekly America",
-      "url": "https://www.theguardian.com/politics/video/2026/nov/26/what-history-can-teach-trump-about-his-lame-duck-era-politics-weekly-america",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-27T12:00:12Z"
-    },
-    {
-      "title": "The 2028 presidential election cycle is all about Trump",
-      "url": "https://thehill.com/opinion/white-house/6243594-vance-rubio-presidential-race/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T12:00:00Z"
-    },
-    {
-      "title": "Alaska seized his seaplane over some beers. He is asking the US Supreme Court for help - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU01mTE9WSTJiZ1BHeUF0d0dad3VRUlBrb3djS01tLWk2U0R3VjhMUm9kM1AzSnN0bjR4NmwxaXY2cXJjUnA4X0dCV2c0eUs4bWw4aFI4VDEyQ0RhOHdHY3VQSGhJRkczR3hjRUV6R3FCRm9xMUx6aTdiQmRSM0Z1WXRfVTNWOTBrLWhEX2s3S04yMU5WaHdyNFozbkV0c0hVZUZVWVlRQnZDaE5GS016Q3BmbjRXd2hzRXFpUkVzdjh6N0gtZ3N2alNR?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T11:14:30Z"
-    },
-    {
-      "title": "Lutnick in the hot seat as senators vow to crack down on AI chip leaks to China",
-      "url": "https://thehill.com/homenews/senate/6243590-lutnick-nvidia-chip-export-controversy/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T11:00:00Z"
+      "published_at": "2026-11-27T13:37:42Z"
     }
   ]
 }
