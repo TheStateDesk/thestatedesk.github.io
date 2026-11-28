@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-28T04:54:43.437876Z",
+  "generated_at": "2026-11-28T14:02:59.900015Z",
   "sources_checked": 8,
   "sources_reporting": [
+    "NPR",
     "THE HILL",
     "THE GUARDIAN",
     "PBS NEWSHOUR",
@@ -10,27 +11,64 @@
     "REUTERS VIA GOOGLE NEWS"
   ],
   "source_warnings": [
-    "NPR: no recent politics items",
     "BBC NEWS: no recent politics items"
   ],
-  "priority": [
-    {
-      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
-      "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-27T16:51:50Z",
-      "source_count": 2,
-      "other_sources": [
-        {
-          "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-          "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories"
-        }
-      ],
-      "priority_score": 7,
-      "note": "Potential major development; verify original reporting before publishing."
-    }
-  ],
+  "priority": [],
   "headlines": [
+    {
+      "title": "ACLU sues Trump administration over investigations into online ICE critics",
+      "url": "https://thehill.com/regulation/court-battles/6245957-aclu-lawsuit-trump-anonymous-users/",
+      "source": "THE HILL",
+      "published_at": "2026-11-28T13:38:00Z"
+    },
+    {
+      "title": "Live updates: Macy’s parade kicks off after historic postponement; Democrats prepare for Congress takeover",
+      "url": "https://thehill.com/homenews/state-watch/6245941-live-updates-macys-parade-democrats-congress/",
+      "source": "THE HILL",
+      "published_at": "2026-11-28T13:23:18Z"
+    },
+    {
+      "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6052169/week-in-politics-trumps-thanksgiving-messaging-congress-pre-holiday-to-do-list",
+      "source": "NPR",
+      "published_at": "2026-11-28T12:39:24Z"
+    },
+    {
+      "title": "US oligarchs enriched by ‘transactional’ Trump face fierce scrutiny in new Congress",
+      "url": "https://www.theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
+      "source": "THE GUARDIAN",
+      "published_at": "2026-11-28T12:00:39Z"
+    },
+    {
+      "title": "Years after Sandy Hook massacre, US Supreme Court case targets assault weapons ban - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYjNwZEJJU0hWWVZXTE45RjRVSEtvdmJ4MEVfaDRxZUhhcGNaQjBvVUlqZkxwRUNZRU1DckwtaENfWDJscm5IQndmUlpINmdacGFRazc5a3pKMUFWaUE2cG5jbjFJRFJpcGFHVnZCR1FpYWxJcE5udXBDekRCX0k0eW9vcnRic2RuRnVGb0lzc1RWNWVqOWFhaUt5MGdPbWRpWGhTZnNzcEM1UFpMWk9JUGtsOENMOWxSR3NwdmU5Y1gyeGtDUjc4ZHRR?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T11:07:44Z"
+    },
+    {
+      "title": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T09:38:10Z"
+    },
+    {
+      "title": "Iran's flogging of singer was warning from anxious hardliners, insiders say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHEwNVJXaUs1bXFUR0FoQUQ2TTJWNThDakwyUkMxZk41VlYwYUthWVdNck1vT3pIY1BZdjQ4S3RIOFZuUlRjRUZoRUxxTmRaOVI1ZjU2RURfVzJMSGo0RVpnZ29XTmlXeV9zbExvOWMwdEZ6a0ozQzBZNkhsQWpsamFrTnlLMUgwTnpHd2htUTdrRUw3a0F5V1lTUDI2dDRTbjQ1UjBObzdKUm50N2hfTHNzVE1hSDNGMng0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T07:14:00Z"
+    },
+    {
+      "title": "US military repelled drones at UK airbase this month, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVBLa19DdUlDcGg5RVY2bjFfYS1QYXJRQmE0Z1ZfNm02WmI5RnBhcEhKSGdRR01XdUJhandJSzQ0SEF5bWRlZlBUbUJPbVJLbjROSUozYnJseGhLekl6bEhTTU5tbEVQMWtCU3Z1YzJiTTZNcnBrdVNYQ3ZudHpLVFREbWhkcUNWSVQ0bHdCVUF5RU0?oc=5",
+      "source": "REUTERS VIA GOOGLE NEWS",
+      "published_at": "2026-11-28T05:18:00Z"
+    },
+    {
+      "title": "Taiwan awaits local election results as China watches",
+      "url": "https://apnews.com/article/taiwan-local-elections-a7e3622548f69a41da3e1ec6ce9c9f19?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
+      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
+      "published_at": "2026-11-28T03:14:47Z"
+    },
     {
       "title": "China's premium puffer jacket push meets consumer resistance - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlExbWltNnJEdUNzdzVrMGN1M29qbkc5d3l4MnVFd01fOXBiZFAwS2dVRHB1NmdHb3FLLWVwOV9BUEpwWndDc2lwdGt5T05HdDYwVC1pRllMMk93cGRyM3ZMSUxHM2owcUFRRjZmVzhVdWp3NEJmbFNoQndxNWhJQmdVYk03SkwtN29vT2dMekY5SjBVNlZibWFtVkkyUHBqdXBNd09WQnJiQnRBQTVLQWNRR1FNUUNvdUd4UQ?oc=5",
@@ -38,7 +76,7 @@
       "published_at": "2026-11-28T01:05:00Z"
     },
     {
-      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate - Reuters",
+      "title": "Ruling party makes gains in Taiwan local elections watched by China - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0hYazFSNFdJenpCQmdWUUh0cUZOTHhJWm5hYnB4ampiMXJRamNxVGtST2NuTV9rS2hjUHFUWElIUjhtX3VlZFlWTkpBOWh5SmJkNGdJd1VFVFFWSmR4LURfQUx0ZDVmWnk3MEpuc3hMN0QwaXFwYnZMc3kteEJpWUduWWNITVkwNTJGaGVRSWdHNVNyNjhn?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-28T00:01:00Z"
@@ -62,10 +100,10 @@
       "published_at": "2026-11-27T23:11:16Z"
     },
     {
-      "title": "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5",
+      "title": "S&P cuts France outlook to negative on budget, politics - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHlHVU5tTTJaQ21PUzY4S1VubHVSYk5rMy1rRFJYbWpKTUNLR0ljaGNMTklRLTVGSC1YN3FLeV9BNFRVbmMzM25jckV0MHJ0ME5GMGxheEwtS2lNWWVTc1lGdkloLURKc2FxWEkwZ3plS0ZFV2hqR09DNEpmeGp0QV85alE0c0xINHV1bTZSUko1UklHZk5DYUtsWmptekpxN3JjakVWeFItNjhMYllSMF96QWVzOU1LeW5JcnNNNkhiYXhpSUE?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T22:55:47Z"
+      "published_at": "2026-11-27T22:46:09Z"
     },
     {
       "title": "Explainer: Why EU leaders are struggling to Le Pen-proof the bloc’s €1.6 trillion budget - Reuters",
@@ -86,7 +124,7 @@
       "published_at": "2026-11-27T21:26:28Z"
     },
     {
-      "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+      "title": "US strikes a merchant ship trying to breach its blockade of Iranian ports, military says",
       "url": "https://apnews.com/article/iran-naval-blockade-us-military-disabled-ship-800620518a351282f098faa9381b3375?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
       "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
       "published_at": "2026-11-27T20:43:05Z"
@@ -96,84 +134,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzhtZElCdnJJN0hCYkdsQ1lTWHc5UDRtNGE4cF9sWE14dlpacmk2blU5cXJMTHp0MGNaMElaQzdSem91dXNpNVRtd1k4ekZza09jVEpubTh3cjlpbE9CNWdMSU1seV9vNDFEeGQ1aDZBY1J1R0JoNVdlcjJaQnlWcU5Ib3ZISHVmNHA4eklQclI2WDIzR0VtNVp0NEJjaDZfcTlKNHRNbW54bGF2TExrR1NaSFJvLUxRcnc?oc=5",
       "source": "REUTERS VIA GOOGLE NEWS",
       "published_at": "2026-11-27T20:06:57Z"
-    },
-    {
-      "title": "New York State Senate Majority Leader Andrea Stewart-Cousins dies at 76",
-      "url": "https://thehill.com/homenews/state-watch/6245597-new-york-state-senate-majority-leader-andrea-stewart-cousins-dies-at-76/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T19:47:21Z"
-    },
-    {
-      "title": "Zelenskyy urges US to pressure Putin and questions Trump's reference to Putin as a 'friend'",
-      "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-d891149b4cbd6521b83096a32bd5e53d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-27T19:33:04Z"
-    },
-    {
-      "title": "Spain's Sanchez insists he will defy polls as election campaign wraps up - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWJleDNqeFIxY19DeHdSdjNfMWJKYkxMMmtnTWJkZzZDYzFidEVrOXZ0Und0eTJldEx1c1llcnp6VmhSRnJWczVGOXNwbUM5RVZPbDNOUmFPaTRzbWp6YnRtTFM1Y3FxREs5WkFKaUZzeUh3d0hhci1rWlB0QlEwbFNxY1h6bEI0Mkp3NG55aXRBc2JzVmstZk5xeE0wMWg5TS1jVnE5T2U4UlBGR3Y3V0hHZzlfM3B3?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T19:12:26Z"
-    },
-    {
-      "title": "Trump to visit groundbreaking for semiconductor manufacturer that supplies Nvidia",
-      "url": "https://thehill.com/homenews/administration/6245480-trump-phoenix-tsmc-nvidia/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T18:49:53Z"
-    },
-    {
-      "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
-      "source": "THE GUARDIAN",
-      "published_at": "2026-11-27T18:10:18Z"
-    },
-    {
-      "title": "14 years of DACA isn’t a milestone — it’s a failure of Congress",
-      "url": "https://thehill.com/opinion/immigration/6240998-daca-delays-congressional-inaction/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T18:00:00Z"
-    },
-    {
-      "title": "Military says it disabled vessel that ‘attempted to run the U.S. naval blockade’ against Iran",
-      "url": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T17:39:02Z"
-    },
-    {
-      "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
-      "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
-      "source": "PBS NEWSHOUR",
-      "published_at": "2026-11-27T16:51:50Z"
-    },
-    {
-      "title": "Trump demands GDP data probe as chances of rate hike rise: What to know",
-      "url": "https://thehill.com/business/6245247-trump-demands-gdp-investigation-inflation/",
-      "source": "THE HILL",
-      "published_at": "2026-11-27T15:46:09Z"
-    },
-    {
-      "title": "Centre Party could give Sweden a government, but far-right backing stores up trouble - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlk2M0piUTA1cGp2TGRhbzZRTVd3TU80Q0ZLbXBPWmhObGhzR2lSRTk2YjNDNjZpTVAzdUNhYXNlSGE2ejF3VDAwZk1PN2tPUFUtekdxU0k2SXFuU0EydlJHelpJeGU5ZHVLYkUtVG0xcDY2dDBMSW5XbkNld0ZaLW9MUm9DMDdtdDZJa2UzREUtSElEbjQzLVpKVXVqRVItVmpxZm5QWGpNdzhQN1d0QmtTNmJuaUhaYlNj?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T15:41:43Z"
-    },
-    {
-      "title": "Deadlocked final result in New Zealand's election leaves a centrist newcomer as the decider",
-      "url": "https://apnews.com/article/new-zealand-election-results-a19a838d8256a0762703ff0572aca3e6?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FTop+Stories",
-      "source": "AP VIA FLIPBOARD (UNOFFICIAL)",
-      "published_at": "2026-11-27T15:22:55Z"
-    },
-    {
-      "title": "Dutch PM to discuss MATCH Act chipmaking export controls with Trump at G20 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWxBYUpTVDhrVzJiSHloOE1CUnA4SURkemtJVFRkM2g5ZWxUUFBIeVd0M3EtWThILU10MV9jcVJuNjNzdlVibndDU2JTMDdTc0pMZnJuZ1d4STNvbmtYMmY2VU5UcHlxaHpIeHM1YmR3MDQ5MEY3c0lsTFhJbEtGUlRmMWczRFVKLU0zUHkzUVhnZjFDMWVfbEZ6V3lKbGZFVDNyV2lVWGFNM2ZnWWRmcmc0R2dMdw?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T14:07:44Z"
-    },
-    {
-      "title": "Czech lower house approves windfall tax on refineries, will hit Orlen - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZlQzhOdlJaT2pkWWdHWm9wbFE3UVFYOURGS3Q5R2NpTEZyMmRLY3cxZHRSa3pwNHVSWXlTTkYweDZ5V1NMcDNqNHhjZkZ6MjNVbHJIREpBdkhna2hOUTZVNFZ6SDJOdmNxR1RscDhaNURwZFpvc0dqeF94eUxFeWV3TWF3R05OM1RjeFpIbXFZWmhYdF8wVTNtbC1oVEV2cjY5UA?oc=5",
-      "source": "REUTERS VIA GOOGLE NEWS",
-      "published_at": "2026-11-27T13:37:42Z"
     }
   ]
 }
