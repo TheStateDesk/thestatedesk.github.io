@@ -107,153 +107,153 @@
       "verified": true
     },
     "AL-01": {
-      "asOf": "2026-11-04T05:32:44.133000Z",
+      "asOf": "2026-11-28T07:02:17.408000Z",
       "candidates": [
         {
           "name": "Jerry Carl",
           "party": "R",
-          "votes": 137025
+          "votes": 137578
         },
         {
           "name": "Clyde Jones",
           "party": "D",
-          "votes": 94940
+          "votes": 95812
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.4,
+      "precinctsReporting": 99.9,
       "raceId": "86900",
-      "retrievedAt": "2026-11-04T05:31:25.430470Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86900",
       "timestampBasis": "provider_last_updated",
-      "total": 231965,
+      "total": 233390,
       "verified": true
     },
     "AL-02": {
-      "asOf": "2026-11-04T07:57:15.635000Z",
+      "asOf": "2026-11-28T07:02:17.579000Z",
       "candidates": [
         {
           "name": "Shomari Figures",
           "party": "D",
-          "votes": 124422
+          "votes": 124822
         },
         {
           "name": "Rhett Marques",
           "party": "R",
-          "votes": 107049
+          "votes": 107209
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 93.5,
+      "precinctsReporting": 99.9,
       "raceId": "86901",
-      "retrievedAt": "2026-11-04T07:57:47.169542Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86901",
       "timestampBasis": "provider_last_updated",
-      "total": 231471,
+      "total": 232031,
       "verified": true
     },
     "AL-03": {
-      "asOf": "2026-11-04T20:54:28.409000Z",
+      "asOf": "2026-11-28T07:02:17.688000Z",
       "candidates": [
         {
           "name": "Mike Rogers",
           "party": "R",
-          "votes": 141800
+          "votes": 141964
         },
         {
           "name": "Lee McInnis",
           "party": "D",
-          "votes": 79926
+          "votes": 80124
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 90.6,
+      "precinctsReporting": 99.9,
       "raceId": "86902",
-      "retrievedAt": "2026-11-04T20:54:29.228681Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86902",
       "timestampBasis": "provider_last_updated",
-      "total": 221726,
+      "total": 222088,
       "verified": true
     },
     "AL-04": {
-      "asOf": "2026-11-04T05:44:45.803000Z",
+      "asOf": "2026-11-28T07:02:17.811000Z",
       "candidates": [
         {
           "name": "Robert Aderholt",
           "party": "R",
-          "votes": 160008
+          "votes": 160203
         },
         {
           "name": "Amanda Pusczek",
           "party": "D",
-          "votes": 53633
+          "votes": 53740
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 88.1,
+      "precinctsReporting": 99.9,
       "raceId": "86903",
-      "retrievedAt": "2026-11-04T05:44:19.416036Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86903",
       "timestampBasis": "provider_last_updated",
-      "total": 213641,
+      "total": 213943,
       "verified": true
     },
     "AL-05": {
-      "asOf": "2026-11-04T05:31:44.150000Z",
+      "asOf": "2026-11-28T07:02:17.923000Z",
       "candidates": [
         {
           "name": "Dale Strong",
           "party": "R",
-          "votes": 142080
+          "votes": 142386
         },
         {
           "name": "Andrew Sneed",
           "party": "D",
-          "votes": 124763
+          "votes": 125311
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 99.0,
+      "precinctsReporting": 99.9,
       "raceId": "86904",
-      "retrievedAt": "2026-11-04T05:31:25.430470Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86904",
       "timestampBasis": "provider_last_updated",
-      "total": 266843,
+      "total": 267697,
       "verified": true
     },
     "AL-06": {
-      "asOf": "2026-11-04T06:01:53.109000Z",
+      "asOf": "2026-11-28T07:02:18.031000Z",
       "candidates": [
         {
           "name": "Gary Palmer",
           "party": "R",
-          "votes": 149921
+          "votes": 150107
         },
         {
           "name": "Maurice Mercer",
           "party": "D",
-          "votes": 110957
+          "votes": 111203
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 99.0,
+      "precinctsReporting": 99.9,
       "raceId": "86905",
-      "retrievedAt": "2026-11-04T06:01:11.919445Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86905",
       "timestampBasis": "provider_last_updated",
-      "total": 260878,
+      "total": 261310,
       "verified": true
     },
     "AL-07": {
@@ -282,53 +282,53 @@
       "verified": true
     },
     "AL-GOVERNOR": {
-      "asOf": "2026-11-06T06:49:28.900000Z",
+      "asOf": "2026-11-28T07:02:18.445000Z",
       "candidates": [
         {
           "name": "Tommy Tuberville",
           "party": "R",
-          "votes": 873339
+          "votes": 872910
         },
         {
           "name": "Doug Jones",
           "party": "D",
-          "votes": 806270
+          "votes": 806868
         }
       ],
       "election": "2026-11-03",
       "office": "governor",
-      "precinctsReporting": 97.9,
+      "precinctsReporting": 99.9,
       "raceId": "86908",
-      "retrievedAt": "2026-11-06T06:54:44.901475Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86908",
       "timestampBasis": "provider_last_updated",
-      "total": 1679609,
+      "total": 1679778,
       "verified": true
     },
     "AL-SENATE": {
-      "asOf": "2026-11-04T20:52:59.380000Z",
+      "asOf": "2026-11-28T07:02:18.242000Z",
       "candidates": [
         {
           "name": "Barry Moore",
           "party": "R",
-          "votes": 917347
+          "votes": 918207
         },
         {
           "name": "Everett Wess",
           "party": "D",
-          "votes": 759336
+          "votes": 759018
         }
       ],
       "election": "2026-11-03",
       "office": "senate",
-      "precinctsReporting": 97.7,
+      "precinctsReporting": 99.9,
       "raceId": "86907",
-      "retrievedAt": "2026-11-04T20:54:29.228681Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86907",
       "timestampBasis": "provider_last_updated",
-      "total": 1676683,
+      "total": 1677225,
       "verified": true
     },
     "AR-01": {
@@ -887,253 +887,253 @@
       "verified": true
     },
     "CA-01": {
-      "asOf": "2026-11-24T17:42:41.571000Z",
+      "asOf": "2026-11-28T07:02:41.632000Z",
       "candidates": [
         {
           "name": "Mike McGuire",
           "party": "D",
-          "votes": 170965
+          "votes": 171234
         },
         {
           "name": "James Gallagher",
           "party": "R",
-          "votes": 118893
+          "votes": 119093
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86968",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86968",
       "timestampBasis": "provider_last_updated",
-      "total": 289858,
+      "total": 290327,
       "verified": true
     },
     "CA-02": {
-      "asOf": "2026-11-24T17:42:43.689000Z",
+      "asOf": "2026-11-28T07:02:42.891000Z",
       "candidates": [
         {
           "name": "Jared Huffman",
           "party": "D",
-          "votes": 214208
+          "votes": 214892
         },
         {
           "name": "Robin Littau",
           "party": "R",
-          "votes": 106870
+          "votes": 106990
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86979",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86979",
       "timestampBasis": "provider_last_updated",
-      "total": 321078,
+      "total": 321882,
       "verified": true
     },
     "CA-03": {
-      "asOf": "2026-11-24T17:42:46.071000Z",
+      "asOf": "2026-11-28T07:02:44.093000Z",
       "candidates": [
         {
           "name": "Ami Bera",
           "party": "D",
-          "votes": 178936
+          "votes": 181779
         },
         {
           "name": "Robb Tucker",
           "party": "R",
-          "votes": 125942
+          "votes": 127308
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86990",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86990",
       "timestampBasis": "provider_last_updated",
-      "total": 304878,
+      "total": 309087,
       "verified": true
     },
     "CA-04": {
-      "asOf": "2026-11-24T17:42:47.876000Z",
+      "asOf": "2026-11-28T07:02:45.237000Z",
       "candidates": [
         {
           "name": "Eric Jones",
           "party": "D",
-          "votes": 135601
+          "votes": 136385
         },
         {
           "name": "Mike Thompson",
           "party": "D",
-          "votes": 122570
+          "votes": 123334
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87001",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87001",
       "timestampBasis": "provider_last_updated",
-      "total": 258171,
+      "total": 259719,
       "verified": true
     },
     "CA-05": {
-      "asOf": "2026-11-21T09:40:54.187000Z",
+      "asOf": "2026-11-28T07:02:45.559000Z",
       "candidates": [
         {
           "name": "Tom McClintock",
           "party": "R",
-          "votes": 164759
+          "votes": 164788
         },
         {
           "name": "Michael Masuda",
           "party": "D",
-          "votes": 131682
+          "votes": 131717
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 96.8,
+      "precinctsReporting": 99.9,
       "raceId": "87005",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87005",
       "timestampBasis": "provider_last_updated",
-      "total": 296441,
+      "total": 296505,
       "verified": true
     },
     "CA-06": {
-      "asOf": "2026-11-21T09:40:54.255000Z",
+      "asOf": "2026-11-28T07:02:45.679000Z",
       "candidates": [
         {
           "name": "Richard Pan",
           "party": "D",
-          "votes": 161427
+          "votes": 164074
         },
         {
           "name": "Kevin Kiley",
           "party": "O",
-          "votes": 112919
+          "votes": 114569
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 91.8,
+      "precinctsReporting": 99.9,
       "raceId": "87006",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87006",
       "timestampBasis": "provider_last_updated",
-      "total": 274346,
+      "total": 278643,
       "verified": true
     },
     "CA-07": {
-      "asOf": "2026-11-24T17:42:48.866000Z",
+      "asOf": "2026-11-28T07:02:45.790000Z",
       "candidates": [
         {
           "name": "Doris Matsui",
           "party": "D",
-          "votes": 132913
+          "votes": 133564
         },
         {
           "name": "Mai Vang",
           "party": "D",
-          "votes": 120919
+          "votes": 122589
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87007",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87007",
       "timestampBasis": "provider_last_updated",
-      "total": 253832,
+      "total": 256153,
       "verified": true
     },
     "CA-08": {
-      "asOf": "2026-11-24T17:42:49.560000Z",
+      "asOf": "2026-11-28T07:02:45.910000Z",
       "candidates": [
         {
           "name": "John Garamendi",
           "party": "D",
-          "votes": 192589
+          "votes": 192718
         },
         {
           "name": "Rudy Recile",
           "party": "R",
-          "votes": 68934
+          "votes": 68952
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87008",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87008",
       "timestampBasis": "provider_last_updated",
-      "total": 261523,
+      "total": 261670,
       "verified": true
     },
     "CA-09": {
-      "asOf": "2026-11-24T17:42:50.112000Z",
+      "asOf": "2026-11-28T07:02:46.016000Z",
       "candidates": [
         {
           "name": "Josh Harder",
           "party": "D",
-          "votes": 145308
+          "votes": 145395
         },
         {
           "name": "John McBride",
           "party": "R",
-          "votes": 70655
+          "votes": 70686
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87009",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87009",
       "timestampBasis": "provider_last_updated",
-      "total": 215963,
+      "total": 216081,
       "verified": true
     },
     "CA-10": {
-      "asOf": "2026-11-21T09:40:48.690000Z",
+      "asOf": "2026-11-28T07:02:40.289000Z",
       "candidates": [
         {
           "name": "Mark DeSaulnier",
           "party": "D",
-          "votes": 219761
+          "votes": 219927
         },
         {
           "name": "Jeff Frese",
           "party": "R",
-          "votes": 94981
+          "votes": 95070
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 95.5,
+      "precinctsReporting": 99.9,
       "raceId": "86958",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86958",
       "timestampBasis": "provider_last_updated",
-      "total": 314742,
+      "total": 314997,
       "verified": true
     },
     "CA-11": {
@@ -1162,78 +1162,78 @@
       "verified": true
     },
     "CA-12": {
-      "asOf": "2026-11-17T10:47:30.411000Z",
+      "asOf": "2026-11-28T07:02:40.464000Z",
       "candidates": [
         {
           "name": "Lateefah Simon",
           "party": "D",
-          "votes": 207160
+          "votes": 207333
         },
         {
           "name": "Jamie Joyce",
           "party": "D",
-          "votes": 50459
+          "votes": 50519
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 87.9,
+      "precinctsReporting": 99.9,
       "raceId": "86960",
-      "retrievedAt": "2026-11-17T11:03:45.862163Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86960",
       "timestampBasis": "provider_last_updated",
-      "total": 257619,
+      "total": 257852,
       "verified": true
     },
     "CA-13": {
-      "asOf": "2026-11-24T17:42:40.895000Z",
+      "asOf": "2026-11-28T07:02:40.559000Z",
       "candidates": [
         {
           "name": "Adam Gray",
           "party": "D",
-          "votes": 110098
+          "votes": 110114
         },
         {
           "name": "Kevin Lincoln",
           "party": "R",
-          "votes": 65103
+          "votes": 65105
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86961",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86961",
       "timestampBasis": "provider_last_updated",
-      "total": 175201,
+      "total": 175219,
       "verified": true
     },
     "CA-14": {
-      "asOf": "2026-11-17T10:47:30.851000Z",
+      "asOf": "2026-11-28T07:02:40.669000Z",
       "candidates": [
         {
           "name": "Aisha Wahab",
           "party": "D",
-          "votes": 122290
+          "votes": 122451
         },
         {
           "name": "Melissa Hernandez",
           "party": "D",
-          "votes": 90133
+          "votes": 90268
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 87.9,
+      "precinctsReporting": 99.9,
       "raceId": "86962",
-      "retrievedAt": "2026-11-17T11:03:45.862163Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86962",
       "timestampBasis": "provider_last_updated",
-      "total": 212423,
+      "total": 212719,
       "verified": true
     },
     "CA-15": {
@@ -1262,853 +1262,853 @@
       "verified": true
     },
     "CA-16": {
-      "asOf": "2026-11-24T17:42:41.191000Z",
+      "asOf": "2026-11-28T07:02:40.910000Z",
       "candidates": [
         {
           "name": "Sam Liccardo",
           "party": "D",
-          "votes": 219832
+          "votes": 219856
         },
         {
           "name": "Peter Sundin Soulé",
           "party": "R",
-          "votes": 62044
+          "votes": 62051
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86964",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86964",
       "timestampBasis": "provider_last_updated",
-      "total": 281876,
+      "total": 281907,
       "verified": true
     },
     "CA-17": {
-      "asOf": "2026-11-24T17:42:41.290000Z",
+      "asOf": "2026-11-28T07:02:41.010000Z",
       "candidates": [
         {
           "name": "Ro Khanna",
           "party": "D",
-          "votes": 154633
+          "votes": 154671
         },
         {
           "name": "Ritesh Tandon",
           "party": "R",
-          "votes": 57869
+          "votes": 57881
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86965",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86965",
       "timestampBasis": "provider_last_updated",
-      "total": 212502,
+      "total": 212552,
       "verified": true
     },
     "CA-18": {
-      "asOf": "2026-11-24T17:42:41.390000Z",
+      "asOf": "2026-11-28T07:02:41.414000Z",
       "candidates": [
         {
           "name": "Zoe Lofgren",
           "party": "D",
-          "votes": 146183
+          "votes": 146338
         },
         {
           "name": "Shane Lewis",
           "party": "R",
-          "votes": 53794
+          "votes": 53841
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86966",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86966",
       "timestampBasis": "provider_last_updated",
-      "total": 199977,
+      "total": 200179,
       "verified": true
     },
     "CA-19": {
-      "asOf": "2026-11-24T17:42:41.477000Z",
+      "asOf": "2026-11-28T07:02:41.519000Z",
       "candidates": [
         {
           "name": "Jimmy Panetta",
           "party": "D",
-          "votes": 224653
+          "votes": 225281
         },
         {
           "name": "Peter Verbica",
           "party": "R",
-          "votes": 87244
+          "votes": 87311
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86967",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86967",
       "timestampBasis": "provider_last_updated",
-      "total": 311897,
+      "total": 312592,
       "verified": true
     },
     "CA-20": {
-      "asOf": "2026-11-24T17:42:41.679000Z",
+      "asOf": "2026-11-28T07:02:41.737000Z",
       "candidates": [
         {
           "name": "Vince Fong",
           "party": "R",
-          "votes": 154298
+          "votes": 154387
         },
         {
           "name": "Sandra Van Scotter",
           "party": "D",
-          "votes": 98467
+          "votes": 98618
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86969",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86969",
       "timestampBasis": "provider_last_updated",
-      "total": 252765,
+      "total": 253005,
       "verified": true
     },
     "CA-21": {
-      "asOf": "2026-11-21T09:40:50.232000Z",
+      "asOf": "2026-11-28T07:02:41.846000Z",
       "candidates": [
         {
           "name": "Jim Costa",
           "party": "D",
-          "votes": 109833
+          "votes": 109894
         },
         {
           "name": "Kyle Kirkland",
           "party": "R",
-          "votes": 59081
+          "votes": 59097
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 97.7,
+      "precinctsReporting": 99.9,
       "raceId": "86970",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86970",
       "timestampBasis": "provider_last_updated",
-      "total": 168914,
+      "total": 168991,
       "verified": true
     },
     "CA-22": {
-      "asOf": "2026-11-24T17:42:41.875000Z",
+      "asOf": "2026-11-28T07:02:42.006000Z",
       "candidates": [
         {
           "name": "Randy Villegas",
           "party": "D",
-          "votes": 103534
+          "votes": 103689
         },
         {
           "name": "David Valadao",
           "party": "R",
-          "votes": 48343
+          "votes": 48371
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86971",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86971",
       "timestampBasis": "provider_last_updated",
-      "total": 151877,
+      "total": 152060,
       "verified": true
     },
     "CA-23": {
-      "asOf": "2026-11-24T17:42:41.970000Z",
+      "asOf": "2026-11-28T07:02:42.113000Z",
       "candidates": [
         {
           "name": "Jay Obernolte",
           "party": "R",
-          "votes": 110135
+          "votes": 110239
         },
         {
           "name": "Tessa Lynn Hodge",
           "party": "D",
-          "votes": 107170
+          "votes": 107332
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86972",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86972",
       "timestampBasis": "provider_last_updated",
-      "total": 217305,
+      "total": 217571,
       "verified": true
     },
     "CA-24": {
-      "asOf": "2026-11-24T17:42:42.411000Z",
+      "asOf": "2026-11-28T07:02:42.233000Z",
       "candidates": [
         {
           "name": "Salud Carbajal",
           "party": "D",
-          "votes": 196677
+          "votes": 197176
         },
         {
           "name": "Bob Smith",
           "party": "R",
-          "votes": 99512
+          "votes": 99639
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86973",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86973",
       "timestampBasis": "provider_last_updated",
-      "total": 296189,
+      "total": 296815,
       "verified": true
     },
     "CA-25": {
-      "asOf": "2026-11-24T17:42:42.520000Z",
+      "asOf": "2026-11-28T07:02:42.342000Z",
       "candidates": [
         {
           "name": "Raul Ruiz",
           "party": "D",
-          "votes": 146451
+          "votes": 147805
         },
         {
           "name": "Joe Males",
           "party": "R",
-          "votes": 75174
+          "votes": 75643
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86974",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86974",
       "timestampBasis": "provider_last_updated",
-      "total": 221625,
+      "total": 223448,
       "verified": true
     },
     "CA-26": {
-      "asOf": "2026-11-24T17:42:42.620000Z",
+      "asOf": "2026-11-28T07:02:42.458000Z",
       "candidates": [
         {
           "name": "Jacqui Irwin",
           "party": "D",
-          "votes": 178650
+          "votes": 178908
         },
         {
           "name": "Sam Gallucci",
           "party": "R",
-          "votes": 102766
+          "votes": 102880
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86975",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86975",
       "timestampBasis": "provider_last_updated",
-      "total": 281416,
+      "total": 281788,
       "verified": true
     },
     "CA-27": {
-      "asOf": "2026-11-20T10:08:59.690000Z",
+      "asOf": "2026-11-28T07:02:42.571000Z",
       "candidates": [
         {
           "name": "George Whitesides",
           "party": "D",
-          "votes": 149213
+          "votes": 149275
         },
         {
           "name": "Jason Gibbs",
           "party": "R",
-          "votes": 83140
+          "votes": 83173
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.2,
+      "precinctsReporting": 99.9,
       "raceId": "86976",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86976",
       "timestampBasis": "provider_last_updated",
-      "total": 232353,
+      "total": 232448,
       "verified": true
     },
     "CA-28": {
-      "asOf": "2026-11-21T09:40:50.767000Z",
+      "asOf": "2026-11-28T07:02:42.671000Z",
       "candidates": [
         {
           "name": "Judy Chu",
           "party": "D",
-          "votes": 181751
+          "votes": 181814
         },
         {
           "name": "April Verlato",
           "party": "R",
-          "votes": 79398
+          "votes": 79434
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 95.3,
+      "precinctsReporting": 99.9,
       "raceId": "86977",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86977",
       "timestampBasis": "provider_last_updated",
-      "total": 261149,
+      "total": 261248,
       "verified": true
     },
     "CA-29": {
-      "asOf": "2026-11-20T10:08:59.851000Z",
+      "asOf": "2026-11-28T07:02:42.777000Z",
       "candidates": [
         {
           "name": "Luz Rivas",
           "party": "D",
-          "votes": 100242
+          "votes": 100276
         },
         {
           "name": "Angélica María Dueñas",
           "party": "D",
-          "votes": 74798
+          "votes": 74848
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.2,
+      "precinctsReporting": 99.9,
       "raceId": "86978",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86978",
       "timestampBasis": "provider_last_updated",
-      "total": 175040,
+      "total": 175124,
       "verified": true
     },
     "CA-30": {
-      "asOf": "2026-11-20T10:09:00.010000Z",
+      "asOf": "2026-11-28T07:02:43.002000Z",
       "candidates": [
         {
           "name": "Laura Friedman",
           "party": "D",
-          "votes": 201883
+          "votes": 201946
         },
         {
           "name": "Scott Meyers",
           "party": "R",
-          "votes": 58161
+          "votes": 58184
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.2,
+      "precinctsReporting": 99.9,
       "raceId": "86980",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86980",
       "timestampBasis": "provider_last_updated",
-      "total": 260044,
+      "total": 260130,
       "verified": true
     },
     "CA-31": {
-      "asOf": "2026-11-21T09:40:51.048000Z",
+      "asOf": "2026-11-28T07:02:43.102000Z",
       "candidates": [
         {
           "name": "Gil Cisneros",
           "party": "D",
-          "votes": 158613
+          "votes": 158697
         },
         {
           "name": "Eric Ching",
           "party": "R",
-          "votes": 80204
+          "votes": 80246
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 95.0,
+      "precinctsReporting": 99.9,
       "raceId": "86981",
-      "retrievedAt": "2026-11-21T10:08:14.083550Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86981",
       "timestampBasis": "provider_last_updated",
-      "total": 238817,
+      "total": 238943,
       "verified": true
     },
     "CA-32": {
-      "asOf": "2026-11-24T17:42:44.673000Z",
+      "asOf": "2026-11-28T07:02:43.219000Z",
       "candidates": [
         {
           "name": "Brad Sherman",
           "party": "D",
-          "votes": 185408
+          "votes": 185497
         },
         {
           "name": "Larry Thompson",
           "party": "R",
-          "votes": 90793
+          "votes": 90851
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86982",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86982",
       "timestampBasis": "provider_last_updated",
-      "total": 276201,
+      "total": 276348,
       "verified": true
     },
     "CA-33": {
-      "asOf": "2026-11-24T17:42:45.043000Z",
+      "asOf": "2026-11-28T07:02:43.329000Z",
       "candidates": [
         {
           "name": "Pete Aguilar",
           "party": "D",
-          "votes": 141496
+          "votes": 141703
         },
         {
           "name": "Stephanie Vargas",
           "party": "R",
-          "votes": 63422
+          "votes": 63464
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86983",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86983",
       "timestampBasis": "provider_last_updated",
-      "total": 204918,
+      "total": 205167,
       "verified": true
     },
     "CA-34": {
-      "asOf": "2026-11-20T10:09:00.327000Z",
+      "asOf": "2026-11-28T07:02:43.441000Z",
       "candidates": [
         {
           "name": "Angela Gonzales-Torres",
           "party": "D",
-          "votes": 108765
+          "votes": 108818
         },
         {
           "name": "Jimmy Gomez",
           "party": "D",
-          "votes": 66091
+          "votes": 66121
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.3,
+      "precinctsReporting": 99.9,
       "raceId": "86984",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86984",
       "timestampBasis": "provider_last_updated",
-      "total": 174856,
+      "total": 174939,
       "verified": true
     },
     "CA-35": {
-      "asOf": "2026-11-24T17:42:45.462000Z",
+      "asOf": "2026-11-28T07:02:43.547000Z",
       "candidates": [
         {
           "name": "Norma Torres",
           "party": "D",
-          "votes": 141804
+          "votes": 142174
         },
         {
           "name": "Mike Cargile",
           "party": "R",
-          "votes": 70162
+          "votes": 70313
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86985",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86985",
       "timestampBasis": "provider_last_updated",
-      "total": 211966,
+      "total": 212487,
       "verified": true
     },
     "CA-36": {
-      "asOf": "2026-11-20T10:09:00.485000Z",
+      "asOf": "2026-11-28T07:02:43.654000Z",
       "candidates": [
         {
           "name": "Ted Lieu",
           "party": "D",
-          "votes": 224204
+          "votes": 224286
         },
         {
           "name": "Houston Brignano",
           "party": "R",
-          "votes": 82778
+          "votes": 82807
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.3,
+      "precinctsReporting": 99.9,
       "raceId": "86986",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86986",
       "timestampBasis": "provider_last_updated",
-      "total": 306982,
+      "total": 307093,
       "verified": true
     },
     "CA-37": {
-      "asOf": "2026-11-20T10:09:00.558000Z",
+      "asOf": "2026-11-28T07:02:43.760000Z",
       "candidates": [
         {
           "name": "Sydney Kamlager-Dove",
           "party": "D",
-          "votes": 111654
+          "votes": 111732
         },
         {
           "name": "Samantha Mota",
           "party": "D",
-          "votes": 72027
+          "votes": 72112
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.3,
+      "precinctsReporting": 99.9,
       "raceId": "86987",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86987",
       "timestampBasis": "provider_last_updated",
-      "total": 183681,
+      "total": 183844,
       "verified": true
     },
     "CA-38": {
-      "asOf": "2026-11-24T17:42:45.795000Z",
+      "asOf": "2026-11-28T07:02:43.870000Z",
       "candidates": [
         {
           "name": "Hilda Solis",
           "party": "D",
-          "votes": 145519
+          "votes": 145577
         },
         {
           "name": "Pedro Antonio Casas",
           "party": "R",
-          "votes": 70203
+          "votes": 70233
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86988",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86988",
       "timestampBasis": "provider_last_updated",
-      "total": 215722,
+      "total": 215810,
       "verified": true
     },
     "CA-39": {
-      "asOf": "2026-11-24T17:42:45.898000Z",
+      "asOf": "2026-11-28T07:02:43.977000Z",
       "candidates": [
         {
           "name": "Mark Takano",
           "party": "D",
-          "votes": 136570
+          "votes": 138270
         },
         {
           "name": "Steve Manos",
           "party": "R",
-          "votes": 60348
+          "votes": 60688
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86989",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86989",
       "timestampBasis": "provider_last_updated",
-      "total": 196918,
+      "total": 198958,
       "verified": true
     },
     "CA-40": {
-      "asOf": "2026-11-24T17:42:46.234000Z",
+      "asOf": "2026-11-28T07:02:44.208000Z",
       "candidates": [
         {
           "name": "Ken Calvert",
           "party": "R",
-          "votes": 131987
+          "votes": 132518
         },
         {
           "name": "Young Kim",
           "party": "R",
-          "votes": 119484
+          "votes": 120098
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86991",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86991",
       "timestampBasis": "provider_last_updated",
-      "total": 251471,
+      "total": 252616,
       "verified": true
     },
     "CA-41": {
-      "asOf": "2026-11-24T17:42:46.360000Z",
+      "asOf": "2026-11-28T07:02:44.305000Z",
       "candidates": [
         {
           "name": "Linda Sánchez",
           "party": "D",
-          "votes": 171320
+          "votes": 171380
         },
         {
           "name": "Mitch Clemmons",
           "party": "R",
-          "votes": 82142
+          "votes": 82171
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86992",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86992",
       "timestampBasis": "provider_last_updated",
-      "total": 253462,
+      "total": 253551,
       "verified": true
     },
     "CA-42": {
-      "asOf": "2026-11-24T17:42:46.520000Z",
+      "asOf": "2026-11-28T07:02:44.408000Z",
       "candidates": [
         {
           "name": "Robert Garcia",
           "party": "D",
-          "votes": 175552
+          "votes": 175594
         },
         {
           "name": "Brian Burley",
           "party": "R",
-          "votes": 107761
+          "votes": 107784
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86993",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86993",
       "timestampBasis": "provider_last_updated",
-      "total": 283313,
+      "total": 283378,
       "verified": true
     },
     "CA-43": {
-      "asOf": "2026-11-20T10:09:01.420000Z",
+      "asOf": "2026-11-28T07:02:44.510000Z",
       "candidates": [
         {
           "name": "Maxine Waters",
           "party": "D",
-          "votes": 156251
+          "votes": 156332
         },
         {
           "name": "Cristian Morales",
           "party": "R",
-          "votes": 32067
+          "votes": 32080
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.3,
+      "precinctsReporting": 99.9,
       "raceId": "86994",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86994",
       "timestampBasis": "provider_last_updated",
-      "total": 188318,
+      "total": 188412,
       "verified": true
     },
     "CA-44": {
-      "asOf": "2026-11-20T10:09:01.508000Z",
+      "asOf": "2026-11-28T07:02:44.607000Z",
       "candidates": [
         {
           "name": "Nanette Barragán",
           "party": "D",
-          "votes": 148955
+          "votes": 149033
         },
         {
           "name": "Genevieve Angel",
           "party": "R",
-          "votes": 33202
+          "votes": 33216
         }
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 94.2,
+      "precinctsReporting": 99.9,
       "raceId": "86995",
-      "retrievedAt": "2026-11-20T10:24:58.592175Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86995",
       "timestampBasis": "provider_last_updated",
-      "total": 182157,
+      "total": 182249,
       "verified": true
     },
     "CA-45": {
-      "asOf": "2026-11-24T17:42:46.933000Z",
+      "asOf": "2026-11-28T07:02:44.723000Z",
       "candidates": [
         {
           "name": "Derek Tran",
           "party": "D",
-          "votes": 151971
+          "votes": 152017
         },
         {
           "name": "Chuong Vo",
           "party": "R",
-          "votes": 97070
+          "votes": 97111
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86996",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86996",
       "timestampBasis": "provider_last_updated",
-      "total": 249041,
+      "total": 249128,
       "verified": true
     },
     "CA-46": {
-      "asOf": "2026-11-24T17:42:47.133000Z",
+      "asOf": "2026-11-28T07:02:44.827000Z",
       "candidates": [
         {
           "name": "Lou Correa",
           "party": "D",
-          "votes": 139787
+          "votes": 139833
         },
         {
           "name": "David Pan",
           "party": "R",
-          "votes": 55575
+          "votes": 55585
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86997",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86997",
       "timestampBasis": "provider_last_updated",
-      "total": 195362,
+      "total": 195418,
       "verified": true
     },
     "CA-47": {
-      "asOf": "2026-11-24T17:42:47.241000Z",
+      "asOf": "2026-11-28T07:02:44.930000Z",
       "candidates": [
         {
           "name": "Dave Min",
           "party": "D",
-          "votes": 167194
+          "votes": 167221
         },
         {
           "name": "Jenny Le Roux",
           "party": "R",
-          "votes": 118172
+          "votes": 118186
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86998",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86998",
       "timestampBasis": "provider_last_updated",
-      "total": 285366,
+      "total": 285407,
       "verified": true
     },
     "CA-48": {
-      "asOf": "2026-11-24T17:42:47.634000Z",
+      "asOf": "2026-11-28T07:02:45.031000Z",
       "candidates": [
         {
           "name": "Marni von Wilpert",
           "party": "D",
-          "votes": 167953
+          "votes": 168799
         },
         {
           "name": "Jim Desmond",
           "party": "R",
-          "votes": 112669
+          "votes": 113028
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "86999",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86999",
       "timestampBasis": "provider_last_updated",
-      "total": 280622,
+      "total": 281827,
       "verified": true
     },
     "CA-49": {
-      "asOf": "2026-11-24T17:42:47.757000Z",
+      "asOf": "2026-11-28T07:02:45.138000Z",
       "candidates": [
         {
           "name": "Mike Levin",
           "party": "D",
-          "votes": 193262
+          "votes": 193264
         },
         {
           "name": "Armen Kurdian",
           "party": "R",
-          "votes": 131058
+          "votes": 131059
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87000",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87000",
       "timestampBasis": "provider_last_updated",
-      "total": 324320,
+      "total": 324323,
       "verified": true
     },
     "CA-50": {
@@ -2187,28 +2187,28 @@
       "verified": true
     },
     "CA-GOVERNOR": {
-      "asOf": "2026-11-24T17:42:39.686000Z",
+      "asOf": "2026-11-28T07:02:39.382000Z",
       "candidates": [
         {
           "name": "Xavier Becerra",
           "party": "D",
-          "votes": 8721173
+          "votes": 8740876
         },
         {
           "name": "Steve Hilton",
           "party": "R",
-          "votes": 4563158
+          "votes": 4571091
         }
       ],
       "election": "2026-11-03",
       "office": "governor",
       "precinctsReporting": 99.9,
       "raceId": "86952",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/86952",
       "timestampBasis": "provider_last_updated",
-      "total": 13284331,
+      "total": 13311967,
       "verified": true
     },
     "CO-01": {
@@ -2297,38 +2297,38 @@
       "verified": true
     },
     "CO-03": {
-      "asOf": "2026-11-24T17:42:28.101000Z",
+      "asOf": "2026-11-28T07:02:21.213000Z",
       "candidates": [
         {
           "name": "Jeff Hurd",
           "party": "R",
-          "votes": 165499
+          "votes": 165502
         },
         {
           "name": "Dwayne L. Romero",
           "party": "D",
-          "votes": 159513
+          "votes": 159516
         },
         {
           "name": "Cory Robertson",
           "party": "O",
-          "votes": 5645
+          "votes": 5648
         },
         {
           "name": "Clifton Brown",
           "party": "O",
-          "votes": 5400
+          "votes": 5401
         }
       ],
       "election": "2026-11-03",
       "office": "house",
       "precinctsReporting": 99.9,
       "raceId": "87012",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87012",
       "timestampBasis": "provider_last_updated",
-      "total": 336057,
+      "total": 336067,
       "verified": true
     },
     "CO-04": {
@@ -2522,17 +2522,17 @@
       "verified": true
     },
     "CO-GOVERNOR": {
-      "asOf": "2026-11-24T17:42:29.361000Z",
+      "asOf": "2026-11-28T07:02:21.877000Z",
       "candidates": [
         {
           "name": "Phil Weiser",
           "party": "D",
-          "votes": 1639205
+          "votes": 1639208
         },
         {
           "name": "Victor Marx",
           "party": "R",
-          "votes": 890533
+          "votes": 890538
         },
         {
           "name": "Greg Lopez",
@@ -2542,7 +2542,7 @@
         {
           "name": "Eric Mulder",
           "party": "O",
-          "votes": 44648
+          "votes": 44651
         },
         {
           "name": "Stephen T. Hamilton",
@@ -2564,25 +2564,25 @@
       "office": "governor",
       "precinctsReporting": 99.9,
       "raceId": "87018",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87018",
       "timestampBasis": "provider_last_updated",
-      "total": 2681416,
+      "total": 2681427,
       "verified": true
     },
     "CO-SENATE": {
-      "asOf": "2026-11-24T17:42:30.280000Z",
+      "asOf": "2026-11-28T07:02:23.082000Z",
       "candidates": [
         {
           "name": "John Hickenlooper",
           "party": "D",
-          "votes": 1629601
+          "votes": 1629604
         },
         {
           "name": "Mark Baisley",
           "party": "R",
-          "votes": 942154
+          "votes": 942159
         },
         {
           "name": "Bob Chew",
@@ -2592,7 +2592,7 @@
         {
           "name": "Blake Huber",
           "party": "O",
-          "votes": 33141
+          "votes": 33143
         },
         {
           "name": "Adam Withrow",
@@ -2602,7 +2602,7 @@
         {
           "name": "Christopher Baum",
           "party": "O",
-          "votes": 4268
+          "votes": 4269
         },
         {
           "name": "Donald Willoughby",
@@ -2624,11 +2624,11 @@
       "office": "senate",
       "precinctsReporting": 99.9,
       "raceId": "87022",
-      "retrievedAt": "2026-11-24T23:36:49.596950Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87022",
       "timestampBasis": "provider_last_updated",
-      "total": 2693683,
+      "total": 2693694,
       "verified": true
     },
     "CT-01": {
@@ -2762,12 +2762,12 @@
       "verified": true
     },
     "CT-05": {
-      "asOf": "2026-11-18T10:35:30.328000Z",
+      "asOf": "2026-11-28T07:02:21.742000Z",
       "candidates": [
         {
           "name": "Jahana Hayes",
           "party": "D",
-          "votes": 146365
+          "votes": 146368
         },
         {
           "name": "Chris Shea",
@@ -2782,13 +2782,13 @@
       ],
       "election": "2026-11-03",
       "office": "house",
-      "precinctsReporting": 92.8,
+      "precinctsReporting": 99.9,
       "raceId": "87025",
-      "retrievedAt": "2026-11-18T10:38:53.287004Z",
+      "retrievedAt": "2026-11-28T10:48:40.788324Z",
       "source": "civicAPI",
       "sourceUrl": "https://civicapi.org/api/v2/race/87025",
       "timestampBasis": "provider_last_updated",
-      "total": 253097,
+      "total": 253100,
       "verified": true
     },
     "CT-GOVERNOR": {
